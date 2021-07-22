@@ -1,0 +1,22 @@
+Package: MADDOG
+Title: Lineage Designation and Assignment
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "Kathryn",
+           family = "Campbell",
+           role = c("aut", "cre"),
+           email = "k.campbell.1@research.gla.ac.uk")
+Description: This package assigns viral sequences to pre-existing lineages given
+             a reference set, and also allows lineages to be designated given a set of sequences
+             (an initial step for classification).
+License: `use_mit_license()`, `use_gpl3_license()` or friends to pick a
+    license
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.1
+Imports: seqinr,
+         phangorn,
+         stringr,
+         caper,
+         ips
