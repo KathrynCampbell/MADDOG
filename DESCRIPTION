@@ -19,4 +19,6 @@ Imports: seqinr,
          phangorn,
          stringr,
          caper,
-         ips
+         ips,
+         adegenet,
+         ape
