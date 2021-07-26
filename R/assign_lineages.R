@@ -3,7 +3,7 @@
 #' This function tests query sequences against a reference set of sequences and provides a lineage
 #' assignment for the query sequences. It also returns information about each of the lineages assigned.
 #'
-#' @param sequences The query sequences to provide a lineage assignment for in DNAbin format
+#' @param sequences The query sequences to provide a lineage assignment for in fasta format
 #' @param reference The reference set to compare the query sequences to (Cosmo_WGS, Cosmo_N)
 #' @return A lineage assignment for each query sequence, and information about that lineage
 #' @export

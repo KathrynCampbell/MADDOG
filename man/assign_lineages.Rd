@@ -7,7 +7,7 @@
 assign_lineages(sequences, reference)
 }
 \arguments{
-\item{sequences}{The query sequences to provide a lineage assignment for in DNAbin format}
+\item{sequences}{The query sequences to provide a lineage assignment for in fasta format}
 
 \item{reference}{The reference set to compare the query sequences to (Cosmo_WGS, Cosmo_N)}
 }
