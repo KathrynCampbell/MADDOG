@@ -5,7 +5,11 @@ Authors@R:
     person(given = "Kathryn",
            family = "Campbell",
            role = c("aut", "cre"),
-           email = "k.campbell.1@research.gla.ac.uk")
+           email = "k.campbell.1@research.gla.ac.uk",
+           comment = c(ORCID = 0000-0002-5123-0469)
+           )
+URL: https://github.com/KathrynCampbell/MADDOG_package
+BugReports: https://github.com/KathrynCampbell/MADDOG_package/issues
 Description: This package assigns viral sequences to pre-existing lineages given
              a reference set, and also allows lineages to be designated given a set of sequences
              (an initial step for classification).
@@ -22,3 +26,5 @@ Imports: seqinr,
          ips,
          adegenet,
          ape
+Suggests: knitr, rmarkdown
+VignetteBuilder: knitr
