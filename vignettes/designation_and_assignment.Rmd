@@ -15,13 +15,20 @@ knitr::opts_chunk$set(echo = TRUE)
 
 Lineage designation is an initial step to identify all the lineages contained within a set of sequences, defined by an existing set of rules as recommended in Rambaut et al. (2020), and name them accordingly. 
 
-The designation requires some initial steps to be undertaken on the sequences first. They need to be aligned (it's reccommended to use MAFFT and use the FFT-NS-2 algorithm), and then a tree created including bootstrapping (reccomended dusing IQTREE2 with model selection and 100 bootstrap replicates). The ancestral sequences then need to be reconstructed (reccommend using Treetime ancestral).
+The designation requires some initial steps to be undertaken on the sequences first. They need to be aligned (it's recommended to use MAFFT and use the FFT-NS-2 algorithm), and then a tree created including bootstrapping (recommended using IQTREE2 with model selection and 100 bootstrap replicates or 1000 ultrafast bootstrap replicates). The ancestral sequences then need to be reconstructed (recommend using Treetime ancestral).
 
 The lineage designation function requires the the tree, alignment, ancestral reconstructions and metadata of the sequences. The sequence IDs must match between all of these. The metadata file must have a column called 'ID' which contains the ID's for all the sequences. It also must have a column called 'year' that contains the collection year of each sequence. Additionally, it must have a column called 'country'. This should contain the country of origin of each sequence. If you don't have this information, you can leave the column blank but it needs to exist. If you have more detailed information about the origin of the sequence (e.g. a state) you can put this in the country column instead of the country. It also needs to have an 'assignment' column which contains any known clade assignments. If you don't have this information, you can leave this column blank but it needs to exist.
 
 The fuction undertakes the following steps: Lineage defining nodes are identified according to thresholds on bootstrap support (>70, or >90 for ultrafast bootstrapping) and cluster size (>10 descendents of >95% coverage, excluding gaps and ambiguous bases). For each node still in consideration, the ancestral sequence is extracted. To define a new lineage, there must be at least one SNP between the ancestral sequence and its descendents that is shared between all sequences in the cluster. The lineages are then named according to Rambaut et al. (2020), but integrating any existing assignments if they are present.
 
+There are two functions as part of lineage designation that work in the same way, but return different results:
+
+seq_designation() returns a lineage designation and information about each sequence.
+
+node_info() returns each of the defining nodes of the designations, with information about them.
+
 ```{r data_import, include=FALSE}
+library(MADDOG)
  tree<-ape::read.tree(system.file("extdata", "Examples/Lineage_designation/Example_designation_aligned.fasta.contree", package = "MADDOG"))
  alignment<-seqinr::read.fasta(system.file("extdata", "Examples/Lineage_designation/Example_designation_aligned.fasta", package = "MADDOG"))
  alignment<-ape::as.alignment(alignment)
@@ -31,14 +38,20 @@ The fuction undertakes the following steps: Lineage defining nodes are identifie
 ```
 
 ```{r designation, results='hide'}
-sequence_designation<-MADDOG::seq_designation(tree, 90, alignment, metadata, ancestral)
-defining_node_information<-MADDOG::node_info(tree, 90, alignment, metadata, ancestral)
+sequence_designation<-seq_designation(tree, 90, alignment, metadata, ancestral)
+defining_node_information<-node_info(tree, 90, alignment, metadata, ancestral)
 
 ```
 
 ```{r designation_outputs}
 head(sequence_designation, 20)
 defining_node_information
+```
+
+An additional function can be run to find out information about each of the newly designated lineages. It requires the seq_designation output, plus the metadata. 
+
+```{r lineage_info}
+lineage_info(sequence_designation, metadata)
 ```
 
 ## Lineage Assignment
@@ -52,5 +65,5 @@ sequences<-seqinr::read.fasta(system.file("extdata", "Examples/Lineage_assignmen
 ```
 
 ``` {r assignment}
-assignments<-MADDOG::assign_lineages(sequences, "Cosmo_WGS"); assignments
+assignments<-assign_lineages(sequences, "Cosmo_WGS"); assignments
 ```
