@@ -1,4 +1,4 @@
-Package: MADDOG
+Package: MADDOG_package
 Title: Lineage Designation and Assignment
 Version: 0.0.0.9000
 Authors@R: 
@@ -13,8 +13,7 @@ BugReports: https://github.com/KathrynCampbell/MADDOG_package/issues
 Description: This package assigns viral sequences to pre-existing lineages given
              a reference set, and also allows lineages to be designated given a set of sequences
              (an initial step for classification).
-License: `use_mit_license()`, `use_gpl3_license()` or friends to pick a
-    license
+License: use_gpl3_license()
 Encoding: UTF-8
 LazyData: true
 Roxygen: list(markdown = TRUE)
