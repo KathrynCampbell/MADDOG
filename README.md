@@ -18,6 +18,7 @@
 1. R Package
 
 ## Overview
+The ‘Zero by 30’ global strategy, led by the WHO and partners, aims to eliminate human deaths from dog-mediated rabies by 2030. This goal requires improved and coordinated surveillance to understand the current epidemiological situation and monitor the impact of control measures. The existing system for classifying rabies virus diversity defines six global clades that circulate in domestic dog populations, broadly according to their geographic distribution. While useful for coarse taxonomic classification, this system lacks the definition needed for monitoring rabies viruses circulating on a more local scale. Here, we present an updated lineage designation and assignment tool for rabies virus based on the dynamic nomenclature used for SARS-CoV-2 by Rambaut et al. (2020). Application of this tool can be used to generate detailed information to inform control efforts and monitor progress towards the elimination of rabies virus.
 
 ## Command Line Tool
 
@@ -96,20 +97,22 @@ These are all installed as part of the environment and don't need to be installe
 * Treetime (https://github.com/neherlab/treetime)
 * R (https://www.r-project.org)
     * seqinr
-    * ape
-    * dplyr
-    * phangorn
-    * caper
-    * stringr
-    * ggrepel
-    * phytools
-    * treeio
-    * ggtree
-    * ips
-    * phylotate
+    * phangorn,
+    * stringr,
+    * caper,
+    * ips,
+    * adegenet,
+    * ape,
+    * dplyr,
     * adephylo
     
 ## R Package 
-    
+This tool is also available as an R package which is capable of Lineage Designation and Assignment.
+The lineage designation in the package requires the alignment, tree, ancestral reconstruction and metadata as input. 
+Full details of how to use the package are available in the vignette.
+
+To install the package, run `devtools::install_github("kathryncampbell/MADDOG", build_vignettes = TRUE, force = TRUE)` within R. 
+
+To view the vignette use `browseVignettes("MADDOG")`
 
  
