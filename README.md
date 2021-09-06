@@ -1,4 +1,4 @@
-# Lineage Assignment
+# MAD DOG: Method for Assignment, Definition and Designation Of Global Lineages
 
 1. Overview
 1. Command Line Tool
