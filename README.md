@@ -2,19 +2,19 @@
 
 1. Overview
 1. Command Line Tool
-  1. How to use
-      1. Setting up the environment
-      1. Input data requirements
-          1. Lineage designation
-          1. Lineage assignment
-      1. Running the code
-          1. Lineage designation
-          1. Lineage assignment
-      1. Example
-  1. Outputs
-      1. Lineage designation
-      1. Lineage assignment
-  1. Software used
+    1. How to use
+        1. Setting up the environment
+        1. Input data requirements
+            1. Lineage designation
+            1. Lineage assignment
+        1. Running the code
+            1. Lineage designation
+            1. Lineage assignment
+        1. Example
+    1. Outputs
+        1. Lineage designation
+        1. Lineage assignment
+    1. Software used
 1. R Package
 
 ## Overview
