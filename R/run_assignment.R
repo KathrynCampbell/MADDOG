@@ -2,7 +2,6 @@
 
 rm(list=ls())
 
-args = c("Example_assignment", "Cosmo_WGS")
 args = commandArgs(trailingOnly = T)
 
 #'---------------------------------------------------------
@@ -12,6 +11,7 @@ args = commandArgs(trailingOnly = T)
 #'---------------------------------------------------------
 
 devtools::install_github("KathrynCampbell/MADDOG", dependencies = F)
+library(MADDOG)
 
 sequences <- seqinr::read.fasta(file = (paste(args[1], "/", args[1], ".fasta", sep = "")))
 
