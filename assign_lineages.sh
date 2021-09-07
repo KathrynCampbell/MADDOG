@@ -11,4 +11,4 @@ read reference
 mv $runname/*.fasta $runname/$runname".fasta"
 
 #Lineage assignment
-Rscript R/run_assignment.R $runname $reference
+Rscript Run/run_assignment.R $runname $reference

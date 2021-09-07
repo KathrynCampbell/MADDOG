@@ -26,4 +26,4 @@ treetime ancestral --aln $runname/Alignment/$runname"_aligned.fasta" --tree $run
 
 #Lineage assignment
 mkdir $runname/Outputs
-Rscript R/run_designation.R $runname
+Rscript Run/run_designation.R $runname
