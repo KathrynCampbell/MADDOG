@@ -10,7 +10,10 @@
 mafft_reorder<-function(sequences, ref_align){
   os <- .Platform$OS
 
-  exec <- "/usr/local/bin/mafft"
+  if (os == "unix")
+    exec <- "/usr/local/bin/mafft"
+  if (os == "windows")
+    exec <- "C:\Windows\System32\wsl.exe"
 
   sequences <- as.list(sequences)
   fns <- vector(length = 4)
