@@ -26,6 +26,8 @@ Imports: seqinr,
          adegenet,
          ape,
          dplyr,
-         adephylo
+         adephylo,
+         rmarkdown,
+         knitr
 Suggests: knitr, rmarkdown
 VignetteBuilder: knitr
