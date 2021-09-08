@@ -36,13 +36,11 @@ mafft_reorder<-function(sequences, ref_align, OS){
     if (res != 0) {
       res <- ape::read.dna(fns[3], format = "fasta")
     }
-  }
-  else {
+  }else{
     res <- system(call.mafft, intern = TRUE, ignore.stderr = FALSE)
     if (length(grep("error|ERROR", res))) {
       res <- 0
-    }
-    else {
+    } else {
       res <- ape::read.dna(fns[3], format = "fasta")
     }
   }

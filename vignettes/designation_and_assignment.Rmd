@@ -65,5 +65,5 @@ sequences<-seqinr::read.fasta(system.file("extdata", "Examples/Lineage_assignmen
 ```
 
 ``` {r assignment}
-assignments<-assign_lineages(sequences, "Cosmo_WGS"); assignments
+assignments<-assign_lineages(sequences, "Cosmo_WGS", "unix"); assignments
 ```
