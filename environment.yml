@@ -17,4 +17,6 @@ dependencies:
   - r-ape
   - r-dplyr
   - r-adephylo
+  - r-rmarkdown
+  - r-knitr
 prefix: /Users/kathryncampbell/miniconda3/envs/MADDOG
