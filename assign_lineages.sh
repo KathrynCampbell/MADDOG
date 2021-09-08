@@ -7,8 +7,8 @@ echo "What is the name of the folder containing your sequences?"
 read runname
 echo "What reference would you like to use? Please type Cosmo_N or Cosmo_WGS"
 read reference
-
-OS = $(which mafft)
+echo "Which operating system are you using? Write unix or windows (no capitals)"
+read OS
 
 mv -vn $runname/*.fasta $runname/$runname".fasta"
 
