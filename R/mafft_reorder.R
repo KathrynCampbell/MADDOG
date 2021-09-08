@@ -5,6 +5,7 @@
 #'
 #' @param sequences The query sequences to be added to the reference alignment in fasta format
 #' @param ref_align The reference alignment to add the query sequences to in fasta format
+#' @param OS The operating system being used (unix or windows)
 #' @return An alignment containing the query sequences and reference sequences
 #' @export
 mafft_reorder<-function(sequences, ref_align, OS){
