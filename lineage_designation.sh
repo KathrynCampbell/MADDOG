@@ -6,7 +6,7 @@ echo "What is the name of the folder containing your sequences and metadata?"
 read runname
 
 #make sure the metadata is named to work in future script
-mv $runname/*.csv $runname/$runname"_metadata.csv"
+mv -vn $runname/*.csv $runname/$runname"_metadata.csv"
 
 #alignment
 mkdir $runname/Alignment
