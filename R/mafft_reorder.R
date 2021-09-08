@@ -7,12 +7,11 @@
 #' @param ref_align The reference alignment to add the query sequences to in fasta format
 #' @return An alignment containing the query sequences and reference sequences
 #' @export
-mafft_reorder<-function(sequences, ref_align){
-  os <- .Platform$OS
+mafft_reorder<-function(sequences, ref_align, OS){
 
-  if (os == "unix")
+  if (OS == "unix")
     exec <- "/usr/local/bin/mafft"
-  if (os == "windows")
+  if (OS == "windows")
     exec <- "C:\\Windows\\System32\\wsl.exe mafft"
 
   sequences <- as.list(sequences)
@@ -30,7 +29,7 @@ mafft_reorder<-function(sequences, ref_align){
   call.mafft <- paste(exec, " --add ", fns[1], " --reorder ", fns[2], " > ",
                       fns[3], sep = "")
 
-  if (os == "unix") {
+  if (OS == "unix") {
     system(call.mafft, intern = FALSE, ignore.stdout = FALSE)
     res <- (file.info(fns[3])$size > 1)
     if (res != 0) {

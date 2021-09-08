@@ -15,6 +15,6 @@ library(MADDOG)
 
 sequences <- seqinr::read.fasta(file = (paste(args[1], "/", args[1], ".fasta", sep = "")))
 
-assignments<-MADDOG::assign_lineages(sequences, args[2])
+assignments<-MADDOG::assign_lineages(sequences, args[2], args[3])
 
 write.csv(assignments, file = (paste(args[1], "/", args[1], "_assignment.csv", sep = "")))
