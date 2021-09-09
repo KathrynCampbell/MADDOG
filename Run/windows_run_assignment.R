@@ -62,5 +62,5 @@ for (i in 1:length(test_seq_assignment$ID)) {
 }
 
 
-write.csv(test_seq_assignment, file = (paste(args[1], "/", args[1], "_assignment.csv", sep = "")))
+write.csv(test_seq_assignment, file = (paste(args[1], "/", args[1], "_assignment.csv", sep = "")), row.names = F)
 
