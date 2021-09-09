@@ -19,4 +19,5 @@ dependencies:
   - r-adephylo
   - r-rmarkdown
   - r-knitr
+  - r-devtools
 prefix: /Users/kathryncampbell/miniconda3/envs/MADDOG
