@@ -28,7 +28,7 @@ Make sure you have this GitHub Repository cloned and saved somewhere easy to nav
 
 You'll also need to have miniconda installed. You can download this here: https://docs.conda.io/en/latest/miniconda.html 
 
-#### Setting up the environment
+#### Setting up the environment - Unix/MAC
 Open your terminal/ command line and navigate to where this repository is saved on your computer. 
 
 If you're not familiar with Linux commands, you can navigate to the MADDOG repository in your file/finder window. Type `cd` then a space into the terminal, then drag the folder into your terminal window which will show its filepath after the cd command. If you press enter, you should enter the MADDOG folder, which you can see by the `MADDOG` name appearing in place of the `~` in your command line.
@@ -37,7 +37,7 @@ Once you're in the repository in your terminal window, type `conda env create -f
 
 Once the environment is created, to activate it type `conda activate MADDOG` into the command line and press enter any time you want to use it. `MADDOG` should then appear at the start of your command line.
 
-#### Setting up the environment
+#### Setting up the environment - Windows
 Turn on Windows Subsystem for Linux (https://mafft.cbrc.jp/alignment/software/windowsfeatures.html)
 
 Download Ubuntu (https://www.microsoft.com/en-gb/p/ubuntu/9nblggh4msv6?rtc=1&activetab=pivot:overviewtab)
