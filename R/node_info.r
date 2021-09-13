@@ -25,6 +25,8 @@ node_info <- function(tree, min.support, alignment, metadata, ancestral) {
   max.support<-100
   # Need it as a matrix for later analyses
 
+  `%notin%` <- Negate(`%in%`)
+
   #############################################
   #            BOOTSTRAP SUPPORT              #
   #############################################
@@ -243,6 +245,20 @@ node_info <- function(tree, min.support, alignment, metadata, ancestral) {
                                         "O1", "P1", "Q1", "R1", "S1", "T1", "U1", "V1", "W1", "X1", "Y1", "Z1"))
   possible_names<-possible_names[order(possible_names$names),]
   possible_names<-paste(possible_names, problem_names$letters, sep = "_")
+
+  issues<-which(node_data$Node %notin% ips::descendants(tree, node_data$Node[1], type = "all", ignore.tip = T))
+  x<-2
+  y<-1
+  while (length(issues)>y) {
+    issues<-issues[-c(1)]
+    node_data$cluster[issues[1]]<-paste(node_data$previous[issues[1]], "_", problem_names$letters[x], sep = "")
+    issues<-which(node_data$Node %notin% c(
+      ips::descendants(tree, node_data$Node[issues[1]], type = "all", ignore.tip = T),
+      ips::descendants(tree, node_data$Node[1], type = "all", ignore.tip = T))
+    )
+    x<-x+1
+    y<-y+1
+  }
 
   for (i in 1:length(node_data$Node)) {
     test<-which(node_data$Node %in% ips::descendants(tree, node_data$Node[i], type = "all", ignore.tip = T))
