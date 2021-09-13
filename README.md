@@ -1,5 +1,7 @@
 # MAD DOG: Method for Assignment, Definition and Designation Of Global Lineages
 
+[![DOI](https://zenodo.org/badge/388405372.svg)](https://zenodo.org/badge/latestdoi/388405372)
+
 1. Overview
 1. Command Line Tool
     1. How to use
