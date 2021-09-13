@@ -4,14 +4,12 @@
 \alias{assign_lineages}
 \title{Lineage Assignment}
 \usage{
-assign_lineages(sequences, reference, OS)
+assign_lineages(sequences, reference)
 }
 \arguments{
 \item{sequences}{The query sequences to provide a lineage assignment for in fasta format}
 
 \item{reference}{The reference set to compare the query sequences to (Cosmo_WGS, Cosmo_N)}
-
-\item{OS}{The operating system being used (unix or windows)}
 }
 \value{
 A lineage assignment for each query sequence, and information about that lineage

@@ -5,15 +5,14 @@
 #'
 #' @param sequences The query sequences to provide a lineage assignment for in fasta format
 #' @param reference The reference set to compare the query sequences to (Cosmo_WGS, Cosmo_N)
-#' @param OS The operating system being used (unix or windows)
 #' @return A lineage assignment for each query sequence, and information about that lineage
 #' @export
-assign_lineages<-function(sequences, reference, OS) {
+assign_lineages<-function(sequences, reference) {
   ref_align<-seqinr::read.fasta(system.file("extdata", paste("References/", reference, "/reference_aligned.fasta", sep = ""), package = "MADDOG"))
   data <- read.csv(system.file("extdata", paste("References/", reference, "/reference_clusters.csv", sep = ""), package = "MADDOG"))
   clusters <- read.csv(system.file("extdata", paste("References/", reference, "/lineage_info.csv", sep = ""), package = "MADDOG"))
 
-  alignment<-mafft_reorder(sequences, ref_align, OS)
+  alignment<-mafft_reorder(sequences, ref_align)
 
   `%notin%` <- Negate(`%in%`)
 

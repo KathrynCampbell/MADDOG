@@ -19,9 +19,3 @@ defining_node_information<-node_info(tree, 90, alignment, metadata, ancestral)
 head(sequence_designation, 20)
 defining_node_information
 
-## ----lineage_info-------------------------------------------------------------
-lineage_info(sequence_designation, metadata)
-
-## ----data_import2, include = FALSE--------------------------------------------
-sequences<-seqinr::read.fasta(system.file("extdata", "Examples/Lineage_assignment/example.fasta", package = "MADDOG"))
-

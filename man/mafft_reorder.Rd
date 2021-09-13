@@ -4,14 +4,12 @@
 \alias{mafft_reorder}
 \title{MAFFT Alignment with Reorder}
 \usage{
-mafft_reorder(sequences, ref_align, OS)
+mafft_reorder(sequences, ref_align)
 }
 \arguments{
 \item{sequences}{The query sequences to be added to the reference alignment in fasta format}
 
 \item{ref_align}{The reference alignment to add the query sequences to in fasta format}
-
-\item{OS}{The operating system being used (unix or windows)}
 }
 \value{
 An alignment containing the query sequences and reference sequences

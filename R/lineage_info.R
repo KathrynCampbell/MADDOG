@@ -28,16 +28,13 @@ lineage_info<-function(sequence_data, metadata) {
   # For each cluster, find and list the earliest collection year, the latest collection year and all the places
   # that cluster has been found
   for (i in 1:length(clusters$lineage)) {
-    clusters$year_first[i] <- sequence_data %>%
+    test <- sequence_data %>%
       dplyr::filter(sequence_data$lineage == clusters$lineage[i])%>%
       dplyr::group_by(year)%>%
-      dplyr::summarise()%>%
-      min()
-    clusters$year_last[i] <- sequence_data %>%
-      dplyr::filter(sequence_data$lineage == clusters$lineage[i])%>%
-      dplyr::group_by(year)%>%
-      dplyr::summarise()%>%
-      max()
+      dplyr::filter(year != "-")%>%
+      dplyr::summarise()
+    clusters$year_first[i]<-min(test$year)
+    clusters$year_last[i] <- max(test$year)
     clusters$country[i]<-paste((sequence_data %>%
                                   dplyr::filter(sequence_data$lineage == clusters$lineage[i] & country !="-") %>%
                                   dplyr::group_by(country) %>%
