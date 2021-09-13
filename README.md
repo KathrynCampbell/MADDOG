@@ -3,7 +3,8 @@
 1. Overview
 1. Command Line Tool
     1. How to use
-        1. Setting up the environment
+        1. Setting up the environment - Unix/MAC
+        1. Setting up the envoronment - Windows
         1. Input data requirements
             1. Lineage designation
             1. Lineage assignment
@@ -35,6 +36,44 @@ If you're not familiar with Linux commands, you can navigate to the MADDOG repos
 Once you're in the repository in your terminal window, type `conda env create -f environment.yml` and press enter to create the environment. This may take a few minutes. 
 
 Once the environment is created, to activate it type `conda activate MADDOG` into the command line and press enter any time you want to use it. `MADDOG` should then appear at the start of your command line.
+
+#### Setting up the environment
+Turn on Windows Subsystem for Linux (https://mafft.cbrc.jp/alignment/software/windowsfeatures.html)
+
+Download Ubuntu (https://www.microsoft.com/en-gb/p/ubuntu/9nblggh4msv6?rtc=1&activetab=pivot:overviewtab)
+
+Within Ubuntu run:
+`curl -sL \
+  "https://repo.anaconda.com/miniconda/Miniconda3-latest-Linux-x86_64.sh" > \
+  "Miniconda3.sh"`
+
+Then:
+
+`bash Miniconda3.sh`
+
+You can then remove the installer by:
+
+`rm Miniconda3.sh`
+
+Finally, update conda using:
+
+`conda update conda`
+
+If this doesn't work, and gives a http error, you may need to install Win64 OpenSSL v1.1.1L (https://slproweb.com/products/Win32OpenSSL.html)
+
+Then navigate to where the repository is stored on your computer. This is more difficult using this system, and may take some trial and error! To start, use `cd ~/../../mnt/c`
+
+You can then use `ls` to view the contents of the directory, and `cd` followed by the next directory name to change directory. 
+
+Once you've navigated to the MADDOG repo, type `conda env create -f environment.yml` and press enter to create the environment. This may take a few minutes. 
+
+Once the environment is created, to activate it type `conda activate MADDOG` into the command line and press enter any time you want to use it. `MADDOG` should then appear at the start of your command line.
+
+You'll also need to convert some file types so windows can use them.
+
+Write `conda install -c conda-forge dos2unix` 
+
+Then `dos2unix windows_assign_lineages.sh` and next `dos2unix lineage_designation.sh`
 
 #### Input data requirements
 The scripts require only a few things to run, but they need to be formatted in a certain way.
@@ -114,5 +153,7 @@ Full details of how to use the package are available in the vignette.
 To install the package, run `devtools::install_github("kathryncampbell/MADDOG", build_vignettes = TRUE, force = TRUE)` within R. 
 
 To view the vignette use `browseVignettes("MADDOG")`
+
+**Be aware; the assign_lineages function currently is unavailable for Windows, but the command line tool can be used instead.**
 
  
