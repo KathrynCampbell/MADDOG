@@ -4,8 +4,6 @@ rm(list=ls())
 
 args = commandArgs(trailingOnly = T)
 
-args = c("Example_assignment", "Cosmo_N")
-
 #'---------------------------------------------------------
 #'title: Lineage Assignment Windows
 #'author: Kathryn Campbell
