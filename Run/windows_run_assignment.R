@@ -29,23 +29,34 @@ calculate_mode <- function(x) {
 for (i in 1:length(test_seqs)){
   x<-1
   y<-1
-  down<-data$cluster[which(data$ID == alignment$nam[(test_seqs[i]-1)])]
+  test<-1
+  down<-data$cluster[which(data$ID == row.names(alignment)[(test_seqs[i]-1)])]
   repeat {
-    down<-data$cluster[which(data$ID == alignment$nam[(test_seqs[i]-(1+x))])]
+    down<-data$cluster[which(data$ID == row.names(alignment)[(test_seqs[i]-(1+x))])]
     x<-x+1
     if (length(down) != 0){
       break
     }
+    if (x > length(ref_align)){
+      test<-NA
+      break
+    }
   }
-  up<-data$cluster[which(data$ID == alignment$nam[(test_seqs[i]+1)])]
+  up<-data$cluster[which(data$ID == row.names(alignment)[(test_seqs[i]+1)])]
   repeat {
-    up<-data$cluster[which(data$ID == alignment$nam[(test_seqs[i]+(1+y))])]
+    up<-data$cluster[which(data$ID == row.names(alignment)[(test_seqs[i]+(1+y))])]
     y<-y+1
     if (length(up) != 0){
       break
     }
+    if (y > length(ref_align)){
+      test<-NA
+      break
+    }
   }
-  test<-c(down, up)
+  if (!is.na(test)){
+    test<-c(down, up)
+  }
   test_seq_assignment$lineage[i]<-calculate_mode(test)
 }
 
@@ -53,7 +64,9 @@ test_seq_assignment$lineage_countries_seen<-NA
 test_seq_assignment$lineage_first_seen<-NA
 test_seq_assignment$lineage_last_seen<-NA
 
-for (i in 1:length(test_seq_assignment$ID)) {
+numbers<-1:length(test_seq_assignment$ID)
+numbers<-numbers[-c(  which(is.na(test_seq_assignment$lineage)))]
+for (i in numbers) {
   test_seq_assignment$lineage_countries_seen[i]<-clusters$country[which(clusters$cluster == test_seq_assignment$lineage[i])]
   test_seq_assignment$lineage_first_seen[i]<-clusters$year_first[which(clusters$cluster == test_seq_assignment$lineage[i])]
   test_seq_assignment$lineage_last_seen[i]<-clusters$year_last[which(clusters$cluster == test_seq_assignment$lineage[i])]
