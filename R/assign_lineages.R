@@ -29,6 +29,7 @@ assign_lineages<-function(sequences, reference) {
   for (i in 1:length(test_seqs)){
     x<-1
     y<-1
+    test<-1
     down<-data$cluster[which(data$ID == row.names(alignment)[(test_seqs[i]-1)])]
     repeat {
       down<-data$cluster[which(data$ID == row.names(alignment)[(test_seqs[i]-(1+x))])]
@@ -53,7 +54,7 @@ assign_lineages<-function(sequences, reference) {
         break
       }
     }
-    if (is.na(test)){
+    if (!is.na(test)){
       test<-c(down, up)
     }
     test_seq_assignment$lineage[i]<-calculate_mode(test)
