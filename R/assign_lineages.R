@@ -65,7 +65,9 @@ assign_lineages<-function(sequences, reference) {
   test_seq_assignment$lineage_last_seen<-NA
 
   numbers<-1:length(test_seq_assignment$ID)
-  numbers<-numbers[-c(  which(is.na(test_seq_assignment$lineage)))]
+  if (length(which(is.na(test_seq_assignment$lineage))) != 0) {
+    numbers<-numbers[-c(  which(is.na(test_seq_assignment$lineage)))]
+  }
   for (i in numbers) {
     test_seq_assignment$lineage_countries_seen[i]<-clusters$country[which(clusters$cluster == test_seq_assignment$lineage[i])]
     test_seq_assignment$lineage_first_seen[i]<-clusters$year_first[which(clusters$cluster == test_seq_assignment$lineage[i])]
