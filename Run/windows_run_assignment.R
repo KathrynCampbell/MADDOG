@@ -37,7 +37,7 @@ for (i in 1:length(test_seqs)){
     if (length(down) != 0){
       break
     }
-    if (x > length(ref_align)){
+    if (x > length(alignment)){
       test<-NA
       break
     }
@@ -49,7 +49,7 @@ for (i in 1:length(test_seqs)){
     if (length(up) != 0){
       break
     }
-    if (y > length(ref_align)){
+    if (y > length(alignment)){
       test<-NA
       break
     }
