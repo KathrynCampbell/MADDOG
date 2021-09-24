@@ -11,8 +11,8 @@ read reference
 mv -vn $runname/*.fasta $runname/$runname".fasta"
 
 mafft --add $runname/$runname".fasta" --reorder inst/extdata/References/$reference/reference_aligned.fasta > $runname/$runname"_withref.fasta"
-# 
-# #Lineage assignment
-# Rscript Run/windows_run_assignment.R $runname $reference
-#
-# rm $runname/$runname"_withref.fasta"
+
+#Lineage assignment
+Rscript Run/windows_run_assignment.R $runname $reference
+
+rm $runname/$runname"_withref.fasta"
