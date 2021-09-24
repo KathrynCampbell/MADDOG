@@ -30,9 +30,9 @@ for (i in 1:length(test_seqs)){
   x<-1
   y<-1
   test<-1
-  down<-data$cluster[which(data$ID == row.names(alignment)[(test_seqs[i]-1)])]
+  down<-data$cluster[which(data$ID == alignment$nam[(test_seqs[i]-1)])]
   repeat {
-    down<-data$cluster[which(data$ID == row.names(alignment)[(test_seqs[i]-(1+x))])]
+    down<-data$cluster[which(data$ID == alignment$nam[(test_seqs[i]-(1+x))])]
     x<-x+1
     if (length(down) != 0){
       break
@@ -42,9 +42,9 @@ for (i in 1:length(test_seqs)){
       break
     }
   }
-  up<-data$cluster[which(data$ID == row.names(alignment)[(test_seqs[i]+1)])]
+  up<-data$cluster[which(data$ID == alignment$nam[(test_seqs[i]+1)])]
   repeat {
-    up<-data$cluster[which(data$ID == row.names(alignment)[(test_seqs[i]+(1+y))])]
+    up<-data$cluster[which(data$ID == alignment$nam[(test_seqs[i]+(1+y))])]
     y<-y+1
     if (length(up) != 0){
       break
@@ -65,7 +65,9 @@ test_seq_assignment$lineage_first_seen<-NA
 test_seq_assignment$lineage_last_seen<-NA
 
 numbers<-1:length(test_seq_assignment$ID)
-numbers<-numbers[-c(  which(is.na(test_seq_assignment$lineage)))]
+if (length(which(is.na(test_seq_assignment$lineage))) != 0) {
+  numbers<-numbers[-c(  which(is.na(test_seq_assignment$lineage)))]
+}
 for (i in numbers) {
   test_seq_assignment$lineage_countries_seen[i]<-clusters$country[which(clusters$cluster == test_seq_assignment$lineage[i])]
   test_seq_assignment$lineage_first_seen[i]<-clusters$year_first[which(clusters$cluster == test_seq_assignment$lineage[i])]
