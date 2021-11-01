@@ -205,6 +205,7 @@ seq_designation <- function(tree, min.support, alignment, metadata, ancestral) {
 
   sequence_data<-seq_data
   node_data<-nodes_diff
+  node_data<-node_data[order(node_data$Node),]
   sequence_data$previous <- NA
   for (i in 1:length(sequence_data$ID)) {
     sequence_data$previous[i]<-
