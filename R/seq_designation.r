@@ -270,6 +270,18 @@ seq_designation <- function(tree, min.support, alignment, metadata, ancestral) {
     node_data$test<-stringr::str_replace(node_data$test, "E1\\..\\..\\..", "F1")
     node_data$test<-stringr::str_replace(node_data$test, "F1\\..\\..\\..", "G1")
     node_data$test<-stringr::str_replace(node_data$test, "G1\\..\\..\\..", "H1")
+    node_data$test<-stringr::str_replace(node_data$test, "H1\\..\\..\\..", "I1")
+    node_data$test<-stringr::str_replace(node_data$test, "I1\\..\\..\\..", "J1")
+    node_data$test<-stringr::str_replace(node_data$test, "J1\\..\\..\\..", "K1")
+    node_data$test<-stringr::str_replace(node_data$test, "K1\\..\\..\\..", "L1")
+    node_data$test<-stringr::str_replace(node_data$test, "L1\\..\\..\\..", "M1")
+    node_data$test<-stringr::str_replace(node_data$test, "M1\\..\\..\\..", "N1")
+    node_data$test<-stringr::str_replace(node_data$test, "N1\\..\\..\\..", "O1")
+    node_data$test<-stringr::str_replace(node_data$test, "O1\\..\\..\\..", "P1")
+    node_data$test<-stringr::str_replace(node_data$test, "P1\\..\\..\\..", "Q1")
+    node_data$test<-stringr::str_replace(node_data$test, "Q1\\..\\..\\..", "R1")
+    node_data$test<-stringr::str_replace(node_data$test, "R1\\..\\..\\..", "S1")
+    node_data$test<-stringr::str_replace(node_data$test, "S1\\..\\..\\..", "T1")
 
     majors<-which(grepl("_", node_data$test))
     node_data$cluster[c(majors)] <- node_data$test[c(majors)]
@@ -315,6 +327,18 @@ seq_designation <- function(tree, min.support, alignment, metadata, ancestral) {
     node_data$test<-stringr::str_replace(node_data$test, "E1\\..\\..\\..", "F1")
     node_data$test<-stringr::str_replace(node_data$test, "F1\\..\\..\\..", "G1")
     node_data$test<-stringr::str_replace(node_data$test, "G1\\..\\..\\..", "H1")
+    node_data$test<-stringr::str_replace(node_data$test, "H1\\..\\..\\..", "I1")
+    node_data$test<-stringr::str_replace(node_data$test, "I1\\..\\..\\..", "J1")
+    node_data$test<-stringr::str_replace(node_data$test, "J1\\..\\..\\..", "K1")
+    node_data$test<-stringr::str_replace(node_data$test, "K1\\..\\..\\..", "L1")
+    node_data$test<-stringr::str_replace(node_data$test, "L1\\..\\..\\..", "M1")
+    node_data$test<-stringr::str_replace(node_data$test, "M1\\..\\..\\..", "N1")
+    node_data$test<-stringr::str_replace(node_data$test, "N1\\..\\..\\..", "O1")
+    node_data$test<-stringr::str_replace(node_data$test, "O1\\..\\..\\..", "P1")
+    node_data$test<-stringr::str_replace(node_data$test, "P1\\..\\..\\..", "Q1")
+    node_data$test<-stringr::str_replace(node_data$test, "Q1\\..\\..\\..", "R1")
+    node_data$test<-stringr::str_replace(node_data$test, "R1\\..\\..\\..", "S1")
+    node_data$test<-stringr::str_replace(node_data$test, "S1\\..\\..\\..", "T1")
 
     node_data$cluster[unclassified]<-node_data$test[unclassified]
 
