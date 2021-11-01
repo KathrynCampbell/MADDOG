@@ -241,6 +241,8 @@ node_info <- function(tree, min.support, alignment, metadata, ancestral) {
   if ((length(which(previous_assignments$node == 1))) == 0) {
     node_data$cluster[1]<-"A1"
   }
+
+  node_data<-node_data[order(node_data$overlaps, decreasing = T), ]
   node_data$test <- NA
   problem_names<-data.frame(letters = c("A1", "B1", "C1", "D1", "E1", "F1", "G1", "H1", "I1", "J1", "K1", "L1", "M1", "N1",
                                         "O1", "P1", "Q1", "R1", "S1", "T1", "U1", "V1", "W1", "X1", "Y1", "Z1"))
@@ -250,15 +252,23 @@ node_info <- function(tree, min.support, alignment, metadata, ancestral) {
   issues<-which(node_data$Node %notin% ips::descendants(tree, node_data$Node[1], type = "all", ignore.tip = T))
   x<-2
   y<-1
+  numbers<-1
   while (length(issues)>y) {
     issues<-issues[-c(1)]
     node_data$cluster[issues[1]]<-paste(node_data$previous[issues[1]], "_", problem_names$letters[x], sep = "")
-    issues<-which(node_data$Node %notin% c(
-      ips::descendants(tree, node_data$Node[issues[1]], type = "all", ignore.tip = T),
-      ips::descendants(tree, node_data$Node[1], type = "all", ignore.tip = T))
-    )
-    x<-x+1
+    numbers<-c(numbers, issues[1])
+    nodes<-ips::descendants(tree, node_data$Node[1], type = "all", ignore.tip = T)
+    for (i in 2:length(numbers)){
+      nodes<-c(nodes, ips::descendants(tree, node_data$Node[i], type = "all", ignore.tip = T))
+    }
+    issues<-which(node_data$Node %notin% nodes)
     y<-y+1
+
+    if (length(grep(problem_names$letters[2], node_data$cluster)) == 0) {
+      x<-2
+    } else {
+      x<-x+1
+    }
   }
 
   for (i in 1:length(node_data$Node)) {
@@ -283,6 +293,7 @@ node_info <- function(tree, min.support, alignment, metadata, ancestral) {
     node_data$test<-stringr::str_replace(node_data$test, "Q1\\..\\..\\..", "R1")
     node_data$test<-stringr::str_replace(node_data$test, "R1\\..\\..\\..", "S1")
     node_data$test<-stringr::str_replace(node_data$test, "S1\\..\\..\\..", "T1")
+
 
     majors<-which(grepl("_", node_data$test))
     node_data$cluster[c(majors)] <- node_data$test[c(majors)]
@@ -371,7 +382,6 @@ node_info <- function(tree, min.support, alignment, metadata, ancestral) {
       }
     }
   }
-
   node_data<-node_data[, -c((grep("test", names(node_data))), grep("previous", names(node_data)))]
   node_data<-node_data[,-c(4)]
   names(node_data)<-c("node", "n_tips", "n_diff_ancestor", "lineage")
