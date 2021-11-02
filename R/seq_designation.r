@@ -205,7 +205,7 @@ seq_designation <- function(tree, min.support, alignment, metadata, ancestral) {
 
   sequence_data<-seq_data
   node_data<-nodes_diff
-  node_data<-node_data[order(node_data$Node),]
+  node_data<-node_data[order(node_data$overlaps, decreasing = T),]
   sequence_data$previous <- NA
   for (i in 1:length(sequence_data$ID)) {
     sequence_data$previous[i]<-
@@ -238,6 +238,7 @@ seq_designation <- function(tree, min.support, alignment, metadata, ancestral) {
     node_data$cluster[previous_assignments$node[i]]<-previous_assignments$assignment[i]
   }
 
+
   if ((length(which(previous_assignments$node == 1))) == 0) {
     node_data$cluster[1]<-"A1"
   }
@@ -250,7 +251,7 @@ seq_designation <- function(tree, min.support, alignment, metadata, ancestral) {
   possible_names<-paste(possible_names, problem_names$letters, sep = "_")
 
   issues<-which(node_data$Node %notin% ips::descendants(tree, node_data$Node[1], type = "all", ignore.tip = T))
-  x<-2
+  x<-1
   y<-1
   numbers<-1
   while (length(issues)>y) {
@@ -265,7 +266,7 @@ seq_designation <- function(tree, min.support, alignment, metadata, ancestral) {
     y<-y+1
 
     if (length(grep(problem_names$letters[2], node_data$cluster)) == 0) {
-      x<-2
+      x<-1
     } else {
       x<-x+1
     }
@@ -380,6 +381,12 @@ seq_designation <- function(tree, min.support, alignment, metadata, ancestral) {
         x<-(x+1)
         node_data$cluster[test[j]]<-paste(c(name), collapse='.' )
       }
+    }
+    fix<-which(node_data$cluster %in% 1:1000)
+    while (length(fix) != 0) {
+      letter<-problem_names$letters[(length(which(problem_names$letters %in% node_data$cluster))+1)]
+      node_data$cluster<-gsub(fix, letter, node_data$cluster)
+      fix<-which(node_data$cluster %in% 1:1000)
     }
   }
 
