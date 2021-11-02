@@ -32,7 +32,9 @@ lineage_tree <- function(lineage_info, node_data, tree, metadata, sequence_data)
   letters <- c("A1", "B1", "C1", "D1", "E1", "F1", "G1", "H1", "I1", "J1", "K1", "L1", "M1", "N1",
                "O1", "P1", "Q1", "R1", "S1", "T1", "U1", "V1", "W1", "X1", "Y1", "Z1")
 
-  lineages<-lineages[-c(which(lineages$subclade %in% letters)),]
+  if (length(which(lineages$subclade %in% letters)) != 0) {
+    lineages<-lineages[-c(which(lineages$subclade %in% letters)),]
+  }
 
   clades<-unique(lineages$subclade)
 

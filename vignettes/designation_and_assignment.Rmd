@@ -74,11 +74,7 @@ This group of Lineage Figure functions produce figures to assist in interpretati
 
 They all require the outputs of the lineage designation functions; seq_designation, node_info and lineage_info, as well as the tree and metadata used for lineage designation. The colour schemes across all the figures are comparable. 
 
-The sunburst function produces a sunburst plot to visualise the hierarchical relationship of the lineages.
-
-``` {r sunburst}
-sunburst(lineage_info, defining_node_information, tree, metadata, sequence_designation)
-```
+The sunburst function produces a sunburst plot to visualise the hierarchical relationship of the lineages, but cannot be demonstrated here.
 
 The lineage_tree function produces a lineage tree with a lineage bar to visualise the phylogenetic positions of the lineages.
 
