@@ -272,6 +272,14 @@ node_info <- function(tree, min.support, alignment, metadata, ancestral) {
     }
   }
 
+  fix<-grep(",", node_data$cluster)
+  while (length(fix) != 0) {
+    letter<-problem_names$letters[(length(which(problem_names$letters %in% node_data$cluster))+1)]
+    node_data$cluster<-gsub(node_data$cluster[fix], letter, node_data$cluster)
+    fix<-grep(",", node_data$cluster)
+  }
+
+
   for (i in 1:length(node_data$Node)) {
     test<-which(node_data$Node %in% ips::descendants(tree, node_data$Node[i], type = "all", ignore.tip = T))
     node_data$test[c(test)] <- paste(node_data$cluster[i], ".1", sep = "")
@@ -387,6 +395,30 @@ node_info <- function(tree, min.support, alignment, metadata, ancestral) {
       letter<-problem_names$letters[(length(which(problem_names$letters %in% node_data$cluster))+1)]
       node_data$cluster<-gsub(fix, letter, node_data$cluster)
       fix<-which(node_data$cluster %in% 1:1000)
+    }
+    fix<-grep("NA", node_data$cluster)
+    fix<-c(fix, which(is.na(node_data$cluster)))
+    while (length(fix) != 0) {
+      letter<-problem_names$letters[(length(which(problem_names$letters %in% node_data$cluster))+1)]
+      node_data$cluster<-gsub("NA", letter, node_data$cluster)
+      node_data$cluster[which(is.na(node_data$cluster))]<-letter
+      fix<-grep("NA", node_data$cluster)
+      fix<-c(fix, which(is.na(node_data$cluster)))
+    }
+
+    duplicates<-unique(node_data$cluster[duplicated(node_data$cluster)])
+    x<-2
+    while (length(duplicates != 0)) {
+      for (i in 1:length(duplicates)) {
+        test<-which(node_data$cluster == duplicates[i])
+        test<-test[-c(1)]
+        for (j in 1:length(test)) {
+          name<-unlist(stringr::str_split(node_data$cluster[test[j]], "_"))
+          node_data$cluster[test[j]]<-paste(name[1], problem_names$letters[x], sep = "_")
+          x<-(x+1)
+        }
+      }
+      duplicates<-unique(node_data$cluster[duplicated(node_data$cluster)])
     }
   }
   node_data<-node_data[, -c((grep("test", names(node_data))), grep("previous", names(node_data)))]
