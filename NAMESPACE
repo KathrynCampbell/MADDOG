@@ -2,7 +2,10 @@
 
 export(assign_lineages)
 export(lineage_info)
+export(lineage_tree)
 export(mafft_reorder)
 export(node_info)
 export(seq_designation)
+export(sunburst)
 importFrom(dplyr,"%>%")
+importFrom(ggtree,"%<+%")

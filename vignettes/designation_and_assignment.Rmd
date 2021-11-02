@@ -51,7 +51,7 @@ defining_node_information
 An additional function can be run to find out information about each of the newly designated lineages. It requires the seq_designation output, plus the metadata. 
 
 ```{r lineage_info}
-lineage_info(sequence_designation, metadata)
+lineage_info<-lineage_info(sequence_designation, metadata) ; lineage_info
 ```
 
 ## Lineage Assignment
@@ -66,4 +66,28 @@ sequences<-seqinr::read.fasta(system.file("extdata", "Examples/Lineage_assignmen
 
 ``` {r assignment}
 assignments<-assign_lineages(sequences, "Cosmo_N"); assignments
+```
+
+## Visualising Lineages
+
+This group of Lineage Figure functions produce figures to assist in interpretation of lineage data. 
+
+They all require the outputs of the lineage designation functions; seq_designation, node_info and lineage_info, as well as the tree and metadata used for lineage designation. The colour schemes across all the figures are comparable. 
+
+The sunburst function produces a sunburst plot to visualise the hierarchical relationship of the lineages.
+
+``` {r sunburst}
+sunburst(lineage_info, defining_node_information, tree, metadata, sequence_designation)
+```
+
+The lineage_tree function produces a lineage tree with a lineage bar to visualise the phylogenetic positions of the lineages.
+
+``` {r tree}
+lineage_tree(lineage_info, defining_node_information, tree, metadata, sequence_designation)
+```
+
+The lineage_map function produces a world map showing which lineages have been found in each country.
+
+``` {r map}
+lineage_map(lineage_info, defining_node_information, tree, metadata, sequence_designation)
 ```
