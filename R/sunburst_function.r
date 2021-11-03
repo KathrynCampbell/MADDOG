@@ -17,12 +17,11 @@
 sunburst <- function(lineage_info, node_data, tree, metadata, sequence_data) {
   tree$tip.label <- gsub("\\..*", "", tree$tip.label, perl = T)
   tree$node.comment<- gsub(".*=", "", tree$node.label, perl = T)
-  previous<-data.frame(assignment = unique(metadata$alignment.name), parent = "", n_seqs = NA)
+  previous<-data.frame(assignment = unique(metadata$assignment), parent = "", n_seqs = NA)
   previous$parent[1]<-""
   for (i in 1:length(previous$assignment)) {
     previous$n_seqs[i]<-length(which(metadata$alignment.name == previous$assignment[i]))
   }
-  previous$assignment<-gsub("AL_", "", previous$assignment)
   node_data<-node_data[order(node_data$lineage),]
 
   node_data$parent<-NA
