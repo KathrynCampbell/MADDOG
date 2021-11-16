@@ -199,6 +199,28 @@ seq_designation <- function(tree, min.support, alignment, metadata, ancestral) {
   }
   # Repeat the above steps until there are no clusters with 0 sequences left
 
+  issues<-data.frame(node = nodes_diff$Node, n_tips = nodes_diff$n_tips, descendants = NA)
+
+  for (i in 1:length(issues$node)) {
+    issues$descendants[i]<-length(which(nodes_diff$Node %in% Descendants(tree, nodes_diff$Node[i], type = "all")))
+  }
+
+  sort<-which(issues$descendants == 1)
+
+  issues<-issues[sort,]
+  issues$number<-NA
+
+  for (i in 1:length(sort)) {
+    issues$number[i]<-
+      nodes_diff$n_tips[sort[i]] - nodes_diff$n_tips[
+        which(nodes_diff$Node %in% Descendants(tree, nodes_diff$Node[sort[i]], type = "all"))]
+
+  }
+
+  nodes_diff<-nodes_diff[-c(which(nodes_diff$Node %in% issues$node[which(issues$number < 10)])),]
+
+  nodes_diff$cluster<-1:length(nodes_diff$Node)
+
   for(i in 1:length(seq_data$ID)){
     seq_data$cluster[i]<-lineage_assignments$cluster[which(lineage_assignments$tip == seq_data$ID[i])]
   }
