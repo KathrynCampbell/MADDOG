@@ -58,7 +58,7 @@ ancestral <- seqinr::read.alignment(file = (paste(args, "/Timetree/ancestral_seq
 ancestral$nam <- gsub("\\..*", "", ancestral$nam, perl = T)
 
 #############################################
-#           RUN DESIGNATION                #
+#           RUN DESIGNATION                 #
 #############################################
 sequence_designation<-MADDOG::seq_designation(tree, 90, alignment, metadata, ancestral)
 defining_node_information<-MADDOG::node_info(tree, 90, alignment, metadata, ancestral)
@@ -68,3 +68,20 @@ write.csv(sequence_designation, file = (paste(args, "/Outputs/", args, "_sequenc
 write.csv(defining_node_information, file = (paste(args, "/Outputs/", args, "_node_data.csv", sep = "")), row.names=F)
 
 write.csv(lineage_info, file = (paste(args, "/Outputs/", args, "_lineage_info.csv", sep = "")), row.names=F)
+
+#############################################
+#               FIGURES                     #
+#############################################
+
+sunburst(lineage_info, defining_node_information, tree, metadata, sequence_designation)
+
+orca(new, (paste(args, "/Figures/", args, "_sunburst.png", sep = "")))
+
+plot_tree<-lineage_tree(lineage_info, defining_node_information, tree, metadata, sequence_designation)
+
+ggsave(paste(args, "/Figures/", args, "_lineage_tree.png", sep = ""),
+       plot = plot_tree)
+
+lineage_map(lineage_info, defining_node_information, tree, metadata, sequence_designation)
+ggsave(paste(args, "/Figures/", args, "_lineage_map.png", sep = ""))
+

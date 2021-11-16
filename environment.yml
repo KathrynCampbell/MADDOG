@@ -3,6 +3,7 @@ channels:
   - bioconda
   - conda-forge
   - defaults
+  - plotly
 dependencies:
   - mafft
   - iqtree=2.0.3
@@ -20,4 +21,10 @@ dependencies:
   - r-rmarkdown
   - r-knitr
   - r-devtools
+  - r-rnaturalearth
+  - r-scatterpie
+  - bioconductor-ggtree
+  - bioconductor-treeio
+  - r-plotly
+  - plotly-orca
 prefix: /Users/kathryncampbell/miniconda3/envs/MADDOG
