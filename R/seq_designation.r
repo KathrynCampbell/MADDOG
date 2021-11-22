@@ -202,7 +202,7 @@ seq_designation <- function(tree, min.support, alignment, metadata, ancestral) {
   issues<-data.frame(node = nodes_diff$Node, n_tips = nodes_diff$n_tips, descendants = NA)
 
   for (i in 1:length(issues$node)) {
-    issues$descendants[i]<-length(which(nodes_diff$Node %in% Descendants(tree, nodes_diff$Node[i], type = "all")))
+    issues$descendants[i]<-length(which(nodes_diff$Node %in% phangorn::Descendants(tree, nodes_diff$Node[i], type = "all")))
   }
 
   sort<-which(issues$descendants == 1)
