@@ -115,6 +115,10 @@ lineage_map <- function(lineage_info, node_data, tree, metadata, sequence_data) 
     lineage_table<-lineage_table[-c(which(lineage_table$country == "Grenada")),]
   }
 
+  if (length((which(lineage_table$country == "French Guiana"))) != 0) {
+    lineage_table<-lineage_table[-c(which(lineage_table$country == "French Guiana")),]
+  }
+
   for (i in 1:length(lineage_table$country)) {
     lineage_table$LAT[i]<-world@polygons[which(world$admin == lineage_table$country[i])][[1]]@labpt[2]
     lineage_table$LON[i]<-world@polygons[which(world$admin == lineage_table$country[i])][[1]]@labpt[1]
