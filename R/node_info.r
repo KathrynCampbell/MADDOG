@@ -219,7 +219,18 @@ node_info <- function(tree, min.support, alignment, metadata, ancestral) {
 
   nodes_diff<-nodes_diff[-c(which(nodes_diff$Node %in% issues$node[which(issues$number < 10)])),]
 
-  nodes_diff$cluster<-1:length(nodes_diff$Node)
+  for (i in 1:(length(nodes_diff$Node))) {
+    lineage_assignments[which(lineage_assignments[,1] %in% caper::clade.members(nodes_diff[i,1], tree, include.nodes = F, tip.labels = T)), 2] <- nodes_diff[i,5]
+  }
+
+  nodes_diff$numbers<-1:length(nodes_diff$Node)
+
+  for (i in 1:length(nodes_diff$Node)) {
+    lineage_assignments$cluster[which(lineage_assignments$cluster == nodes_diff$cluster[i])]<-
+      nodes_diff$numbers[i]
+  }
+
+  nodes_diff$cluster<-nodes_diff$numbers
 
   for(i in 1:length(seq_data$ID)){
     seq_data$cluster[i]<-lineage_assignments$cluster[which(lineage_assignments$tip == seq_data$ID[i])]
