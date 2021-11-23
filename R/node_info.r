@@ -224,7 +224,9 @@ node_info <- function(tree, min.support, alignment, metadata, ancestral) {
       issues$n_tips[which(issues$cluster == issues$parent[i])] - issues$n_tips[i]
   }
 
-  nodes_diff<-nodes_diff[-c(which(nodes_diff$Node %in% issues$node[which(issues$number < 5)])),]
+  if(length(which(issues$number <5)) != 0){
+    nodes_diff<-nodes_diff[-c(which(nodes_diff$Node %in% issues$node[which(issues$number < 5)])),]
+  }
 
   for (i in 1:(length(nodes_diff$Node))) {
     lineage_assignments[which(lineage_assignments[,1] %in% caper::clade.members(nodes_diff[i,1], tree, include.nodes = F, tip.labels = T)), 2] <- nodes_diff[i,5]
