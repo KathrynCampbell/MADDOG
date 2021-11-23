@@ -199,8 +199,7 @@ seq_designation <- function(tree, min.support, alignment, metadata, ancestral) {
   }
   # Repeat the above steps until there are no clusters with 0 sequences left
 
-  issues<-data.frame(node = nodes_diff$Node, n_tips = nodes_diff$n_tips,
-                     descendants = NA, cluster = nodes_diff$cluster)
+  issues<-data.frame(node = nodes_diff$Node, n_tips = nodes_diff$n_tips, cluster = nodes_diff$cluster)
 
   issues<-issues[order(issues$cluster),]
 
@@ -216,22 +215,16 @@ seq_designation <- function(tree, min.support, alignment, metadata, ancestral) {
     }
   }
 
-  for (i in 1:length(issues$node)) {
-    issues$descendants[i]<-length(which(issues$parent == issues$cluster[i]))
-  }
+  issues<-issues[rev(order(issues$parent)),]
 
   issues$number<-NA
 
-  sort<-which(issues$descendants == 1)
-
-  for (i in 1:length(sort)) {
-    issues$number[sort[i]]<-
-      issues$n_tips[sort[i]] - issues$n_tips[which(issues$parent == issues$cluster[sort[i]])]
+  for (i in 1:length(which(issues$parent %in% 1:1000))) {
+    issues$number[i]<-
+      issues$n_tips[which(issues$cluster == issues$parent[i])] - issues$n_tips[i]
   }
 
-  issues<-issues[sort,]
-
-  nodes_diff<-nodes_diff[-c(which(nodes_diff$Node %in% issues$node[which(issues$number < 10)])),]
+  nodes_diff<-nodes_diff[-c(which(nodes_diff$Node %in% issues$node[which(issues$number < 5)])),]
 
   for (i in 1:(length(nodes_diff$Node))) {
     lineage_assignments[which(lineage_assignments[,1] %in% caper::clade.members(nodes_diff[i,1], tree, include.nodes = F, tip.labels = T)), 2] <- nodes_diff[i,5]
