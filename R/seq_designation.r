@@ -450,7 +450,7 @@ seq_designation <- function(tree, min.support, alignment, metadata, ancestral) {
 
     duplicates<-unique(node_data$cluster[duplicated(node_data$cluster)])
     x<-2
-    while (length(duplicates != 0)) {
+    while (length(duplicates) != 0 && !is.na(duplicates)) {
       for (i in 1:length(duplicates)) {
         test<-which(node_data$cluster == duplicates[i])
         test<-test[-c(1)]
