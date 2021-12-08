@@ -114,60 +114,80 @@
 "113","Cosmo_E1","Iran",1984,2014,13
 "114","Cosmo_F1","c(""Israel"", ""Turkey"")",1993,2001,10
 "115","Cosmo_G1","Tanzania",2010,2013,24
-"116","RAC-SK_A2","Canada",2000,2003,10
-"117","RAC-SK_A1","c(""Canada"", ""United States"")",1995,2011,6
-"118","RAC-SK_A1.1","United States",2004,2011,6
-"119","RAC-SK_A1.1.1","United States",2004,2011,5
-"120","RAC-SK_A1.2","c(""Canada"", ""United States"")",2004,2015,10
-"121","RAC-SK_B1","United States",1990,2017,31
-"122","RAC-SK_B1.1","c(""Mexico"", ""United States"")",1991,2009,8
-"123","RAC-SK_B1.1.1","United States",1989,2018,7
-"124","RAC-SK_B1.1.2","United States",2003,2018,11
-"125","RAC-SK_B1.2","United States",2003,2014,9
-"126","RAC-SK_B1.2.1","United States",1994,2015,15
-"127","RAC-SK_C1","United States",2004,2011,8
-"128","RAC-SK_C1.1","United States",1990,2011,20
-"129","RAC-SK_C1.1.1","c(""Canada"", ""United States"")",1990,2018,75
-"130","RAC-SK_C1.1.2","United States",2004,2004,6
-"131","RAC-SK_C1.1.3","United States",1991,2009,10
-"132","RAC-SK_D1","United States",1995,2010,4
-"133","RAC-SK_D1.1","c(""Canada"", ""United States"")",1995,2010,13
-"134","RAC-SK_D1.1.1","United States",2006,2007,2
-"135","RAC-SK_D1.1.2","United States",2005,2006,3
-"136","RAC-SK_D1.1.3","United States",2005,2011,29
-"137","RAC-SK_D1.2","United States",2003,2008,10
-"138","RAC-SK_E1","United States",2010,2011,4
-"139","RAC-SK_E1.1","United States",2003,2011,9
-"140","RAC-SK_E1.1.1","United States",2003,2017,20
-"141","RAC-SK_E1.2","United States",2003,2017,13
-"142","RAC-SK_F1","United States",2013,2014,6
-"143","RAC-SK_F1.1","United States",2013,2014,12
-"144","RAC-SK_F1.1.1","United States",2013,2014,8
-"145","RAC-SK_G1","c(""Canada"", ""United States"")",2006,2010,24
-"146","RAC-SK_G1.1","United States",2007,2011,13
-"147","RAC-SK_G1.2","Canada",2007,2009,11
-"148","RAC-SK_G1.3","c(""Canada"", ""United States"")",2007,2009,36
-"149","RAC-SK_H1","United States",2006,2017,17
-"150","RAC-SK_I1","United States",2004,2018,8
-"151","RAC-SK_I1.1","United States",2003,2017,10
-"152","RAC-SK_J1","c(""Canada"", ""United States"")",2014,2017,15
-"153","RAC-SK_J1.1","Canada",2015,2015,10
-"154","RAC-SK_K1","c(""Canada"", ""United States"")",2000,2014,16
-"155","RAC-SK_L1","United States",2003,2017,16
-"156","RAC-SK_M1","United States",2007,2017,10
-"157","RAC-SK_N1","United States",2006,2009,11
-"158","RAC-SK_O1","United States",2003,2017,21
-"159","RAC-SK_P1","United States",2010,2018,10
-"160","RAC-SK_Q1","Canada",2016,2017,13
-"161","RAC-SK_R1","Canada",2016,2017,10
-"162","RAC-SK_Z1","Canada",1999,2002,22
-"163","RAC-SK_Z1.1","Canada",2001,2005,13
-"164","Vac_A1","c(""China"", ""Russia"")",2007,2020,10
-"165","Vac_A1.1","character(0)",2007,2020,12
-"166","Vac_A1.2","c(""China"", ""Mexico"")",1993,2018,13
-"167","Vac_B1","character(0)",2007,2015,45
-"168","Vac_B1.1","character(0)",2015,2015,13
-"169","Cosmopolitan Vac_A1","c(""Austria"", ""Germany"", ""Hungary"")",2001,2019,33
-"170","Cosmopolitan Vac_A1.1","c(""Austria"", ""Germany"")",1993,2020,51
-"171","Cosmopolitan Vac_A1.1.1","character(0)",2007,2015,10
-"172","Cosmopolitan Vac_A1.2","character(0)",2015,2015,18
+"116","AF4_A1","c(""Egypt"", ""Israel"")",1950,2009,13
+"117","AM1_A1","c(""Canada"", ""United States"")",1982,2012,24
+"118","AM3a_A1","Brazil",2006,2009,25
+"119","AM3a_A1.1","Brazil",1986,2007,9
+"120","AM3a_A1.1.1","Brazil",2002,2007,6
+"121","AM3a_A1.2","Brazil",2006,2007,9
+"122","AM3a_A1.2.1","Brazil",2007,2007,3
+"123","AM3a_A1.3","c(""Brazil"", ""Peru"", ""United States"")",1999,2011,10
+"124","AM3a_B1","Brazil",2002,2007,21
+"125","AM3a_B1.1","Brazil",2002,2007,10
+"126","AM3a_C1","Brazil",2006,2012,17
+"127","AM3a_D1","Brazil",2006,2012,10
+"128","AM3b_A1","Brazil",2006,2007,7
+"129","AM3b_A1.1","Brazil",2006,2006,6
+"130","AM3b_A1.1.1","Brazil",2005,2012,11
+"131","AM3b_B1","Brazil",2007,2007,12
+"132","AM4_A1","United States",1994,2016,12
+"133","CA3_A1","Hungary",1991,2009,6
+"134","CA3_A1.1","c(""Romania"", ""Russia"")",2004,2016,25
+"135","CA3_A1.1.1","Russia",2012,2014,10
+"136","RAC-SK_A2","Canada",2000,2003,10
+"137","RAC-SK_A1","c(""Canada"", ""United States"")",1995,2011,6
+"138","RAC-SK_A1.1","United States",2004,2011,6
+"139","RAC-SK_A1.1.1","United States",2004,2011,5
+"140","RAC-SK_A1.2","c(""Canada"", ""United States"")",2004,2015,10
+"141","RAC-SK_B1","United States",1990,2017,31
+"142","RAC-SK_B1.1","c(""Mexico"", ""United States"")",1991,2009,8
+"143","RAC-SK_B1.1.1","United States",1989,2018,7
+"144","RAC-SK_B1.1.2","United States",2003,2018,11
+"145","RAC-SK_B1.2","United States",2003,2014,9
+"146","RAC-SK_B1.2.1","United States",1994,2015,15
+"147","RAC-SK_C1","United States",2004,2011,8
+"148","RAC-SK_C1.1","United States",1990,2011,20
+"149","RAC-SK_C1.1.1","c(""Canada"", ""United States"")",1990,2018,75
+"150","RAC-SK_C1.1.2","United States",2004,2004,6
+"151","RAC-SK_C1.1.3","United States",1991,2009,10
+"152","RAC-SK_D1","United States",1995,2010,4
+"153","RAC-SK_D1.1","c(""Canada"", ""United States"")",1995,2010,13
+"154","RAC-SK_D1.1.1","United States",2006,2007,2
+"155","RAC-SK_D1.1.2","United States",2005,2006,3
+"156","RAC-SK_D1.1.3","United States",2005,2011,29
+"157","RAC-SK_D1.2","United States",2003,2008,10
+"158","RAC-SK_E1","United States",2010,2011,4
+"159","RAC-SK_E1.1","United States",2003,2011,9
+"160","RAC-SK_E1.1.1","United States",2003,2017,20
+"161","RAC-SK_E1.2","United States",2003,2017,13
+"162","RAC-SK_F1","United States",2013,2014,6
+"163","RAC-SK_F1.1","United States",2013,2014,12
+"164","RAC-SK_F1.1.1","United States",2013,2014,8
+"165","RAC-SK_G1","c(""Canada"", ""United States"")",2006,2010,24
+"166","RAC-SK_G1.1","United States",2007,2011,13
+"167","RAC-SK_G1.2","Canada",2007,2009,11
+"168","RAC-SK_G1.3","c(""Canada"", ""United States"")",2007,2009,36
+"169","RAC-SK_H1","United States",2006,2017,17
+"170","RAC-SK_I1","United States",2004,2018,8
+"171","RAC-SK_I1.1","United States",2003,2017,10
+"172","RAC-SK_J1","c(""Canada"", ""United States"")",2014,2017,15
+"173","RAC-SK_J1.1","Canada",2015,2015,10
+"174","RAC-SK_K1","c(""Canada"", ""United States"")",2000,2014,16
+"175","RAC-SK_L1","United States",2003,2017,16
+"176","RAC-SK_M1","United States",2007,2017,10
+"177","RAC-SK_N1","United States",2006,2009,11
+"178","RAC-SK_O1","United States",2003,2017,21
+"179","RAC-SK_P1","United States",2010,2018,10
+"180","RAC-SK_Q1","Canada",2016,2017,13
+"181","RAC-SK_R1","Canada",2016,2017,10
+"182","RAC-SK_Z1","Canada",1999,2002,22
+"183","RAC-SK_Z1.1","Canada",2001,2005,13
+"184","Vac_A1","c(""China"", ""Russia"")",2007,2020,10
+"185","Vac_A1.1","character(0)",2007,2020,12
+"186","Vac_A1.2","c(""China"", ""Mexico"")",1993,2018,13
+"187","Vac_B1","character(0)",2007,2015,45
+"188","Vac_B1.1","character(0)",2015,2015,13
+"189","Cosmopolitan Vac_A1","c(""Austria"", ""Germany"", ""Hungary"")",2001,2019,33
+"190","Cosmopolitan Vac_A1.1","c(""Austria"", ""Germany"")",1993,2020,51
+"191","Cosmopolitan Vac_A1.1.1","character(0)",2007,2015,10
+"192","Cosmopolitan Vac_A1.2","character(0)",2015,2015,18
