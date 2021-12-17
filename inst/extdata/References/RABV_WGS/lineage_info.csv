@@ -1,193 +1,193 @@
-"","lineage","country","year_first","year_last","n_seqs"
-"1","Africa_A1","c(""Benin"", ""Botswana"", ""Guinea"", ""South Africa"")",1986,2014,10
-"2","Africa-2_A1","c(""Burkina Faso"", ""C√¥te d'Ivoire"", ""Mauritania"", ""Niger"")",1986,2001,9
-"3","Africa-2_A1.1","Senegal",1991,2011,5
-"4","Africa-2_A1.1.1","Senegal",2007,2015,15
-"5","Arctic_A1","c(""Afghanistan"", ""Iran"")",2002,2014,5
-"6","Arctic A_A1","c(""Canada"", ""Greenland"", ""Russia"", ""United States"")",1977,2016,17
-"7","Arctic A_A1.1","Canada",1990,1997,6
-"8","Arctic A_A1.1.1","Canada",1990,1996,9
-"9","Arctic A_A1.1.2","c(""Canada"", ""Greenland"")",1990,2002,11
-"10","Arctic A_A1.2","Greenland",2001,2007,12
-"11","Arctic A_A1.2.1","Greenland",2006,2014,12
-"12","Arctic A_A1.3","Greenland",2006,2007,8
-"13","Arctic A_A1.3.1","Greenland",2005,2011,10
-"14","Arctic A_A1.4","Canada",2008,2015,14
-"15","Arctic A_B1","Canada",1990,1997,5
-"16","Arctic A_B1.1","Canada",1991,2009,10
-"17","Arctic A_B1.1.1","Canada",1995,1999,5
-"18","Arctic A_B1.2","Canada",1998,2006,8
-"19","Arctic A_B1.2.1","Canada",1999,2009,13
-"20","Arctic A_B1.3","c(""Canada"", ""United States"")",1990,1995,14
-"21","Arctic A_B1.4","Canada",1996,2006,11
-"22","Arctic A_B1.5","c(""Canada"", ""United States"")",1990,2006,12
-"23","Arctic A_C1","Canada",1996,2004,9
-"24","Arctic A_C1.1","Canada",1997,2000,7
-"25","Arctic A_C1.1.1","Canada",2000,2009,6
-"26","Arctic A_C1.2","c(""Canada"", ""Greenland"", ""United States"")",2005,2014,20
-"27","Arctic A_D1","Canada",1995,1996,5
-"28","Arctic A_D1.1","Canada",1998,2009,8
-"29","Arctic A_D1.1.1","Canada",2000,2012,14
-"30","Arctic A_D1.2","Canada",2001,2011,11
-"31","Arctic A_E1","Canada",2002,2005,7
-"32","Arctic A_E1.1","c(""Canada"", ""Greenland"")",2005,2017,26
-"33","Arctic A_E1.1.1","Canada",2009,2015,27
-"34","Arctic A_E1.1.2","Canada",2012,2014,13
-"35","Arctic A_E1.2","Canada",2002,2004,11
-"36","Arctic A_F1","c(""Canada"", ""United States"")",2013,2018,14
-"37","Arctic A_G1","Canada",2015,2018,14
-"38","Arctic AL1a_A1","c(""Bangladesh"", ""France"", ""Germany"", ""India"", ""Nepal"", ""Pakistan"", ""United Kingdom"")",1984,2016,13
-"39","Arctic AL2_A1","c(""China"", ""Japan"", ""Russia"", ""South Korea"")",1989,2020,6
-"40","Arctic AL2_A1.1","China",2012,2016,10
-"41","Asian_A1","Taiwan",2012,2013,3
-"42","Asian_A1.1","China",1956,2014,5
-"43","Asian_A1.1.1","China",1994,2015,13
-"44","Asian SEA1b_A1","China",2003,2018,7
-"45","Asian SEA1b_A1.1","China",2008,2018,5
-"46","Asian SEA1b_A1.1.1","China",1998,2019,12
-"47","Asian SEA1b_B1","China",2006,2017,17
-"48","Asian SEA3_A1","c(""China"", ""Lao"", ""Myanmar"", ""Thailand"")",1983,2011,11
-"49","Asian SEA3_A1.1","c(""Cambodia"", ""Thailand"", ""Vietnam"")",1983,2012,10
-"50","Asian SEA4_A1","c(""Japan"", ""Philippines"")",1994,2020,9
-"51","Asian SEA4_A1.1","Philippines",2012,2017,5
-"52","Asian SEA4_A1.1.1","Philippines",2012,2016,11
-"53","Asian SEA4_A1.1.2","Philippines",2013,2019,10
-"54","Asian SEA4_A1.2","Philippines",2012,2019,15
-"55","Bat_A1","United States",1981,2011,8
-"56","Bat_B1","c(""Argentina"", ""Brazil"", ""Chile"")",1997,2018,5
-"57","Bat_C1","c(""Brazil"", ""United States"")",2002,2012,14
-"58","Bat_D1","c(""Brazil"", ""United States"")",1984,2010,11
-"59","Bat_B1.1","c(""Brazil"", ""French Guiana"", ""Guyana"", ""Mexico"", ""United States"")",1986,2013,16
-"60","Bats EF-W1_A1","United States",1985,2010,4
-"61","Bats EF-W1_A1.1","United States",1975,2010,10
-"62","Bats EF-W1_A1.1.1","United States",2001,2005,7
-"63","Bats EF-W1_A1.2","United States",1995,2009,14
-"64","Bats EF-W1_B1","United States",1999,2001,10
-"65","Cosmo_A1","c(""China"", ""Gabon"", ""Grenada"", ""Nigeria"", ""Russia"")",1931,2018,9
-"66","Cosmo_A1.1","c(""Montenegro"", ""Serbia"")",1978,1978,2
-"67","Cosmo_A1.1.1","c(""Germany"", ""Serbia"")",1972,1997,3
-"68","Cosmo_A1.1.2","c(""Iran"", ""Israel"", ""Turkey"")",1976,2013,12
-"69","Cosmo_A1.2","c(""Central African Republic"", ""Madagascar"", ""Tanzania"", ""Zimbabwe"")",1986,2011,7
-"70","Cosmo_A1.2.1","c(""South Africa"", ""Tanzania"", ""Zimbabwe"")",1981,2017,7
-"71","Cosmo_A1.2.2","c(""Kenya"", ""Tanzania"")",1996,2018,44
-"72","Cosmo_A1.2.3","c(""Namibia"", ""South Africa"")",1992,2017,17
-"73","Cosmo_A1.3","c(""Egypt"", ""Israel"", ""Mexico"", ""United States"")",1950,2015,17
-"74","Cosmo_A1.3.1","c(""China"", ""Ethiopia"", ""United States"")",1948,2018,16
-"75","Cosmo_A1.3.2","c(""Brazil"", ""United States"")",1986,2018,11
-"76","Cosmo_B1","c(""Hungary"", ""Russia"")",1991,2009,7
-"77","Cosmo_B1.1","c(""Azerbaijan"", ""China"", ""Poland"", ""Russia"", ""Tajikistan"")",2002,2018,14
-"78","Cosmo_C1","c(""Mozambique"", ""South Africa"", ""Zimbabwe"")",1986,2012,5
-"79","Cosmo_C1.1","South Africa",2012,2017,12
-"80","Cosmopolitan AF1a_A1","c(""Algeria"", ""Morocco"", ""Tunisia"")",1989,2018,10
-"81","Cosmopolitan AF1a_A1.1","c(""Ethiopia"", ""Kenya"", ""Somalia"")",1988,2018,11
-"82","Cosmopolitan AF1b_A1","c(""Rwanda"", ""Tanzania"")",1994,2010,7
-"83","Cosmopolitan AF1b_A1.1","c(""Tanzania"", ""Uganda"")",2009,2018,4
-"84","Cosmopolitan AF1b_A1.1.1","Tanzania",2008,2018,10
-"85","Cosmopolitan AF1b_A1.1.2","Tanzania",2003,2011,6
-"86","Cosmopolitan AF1b_B1","Tanzania",2004,2012,3
-"87","Cosmopolitan AF1b_B1.1","Tanzania",2010,2018,10
-"88","Cosmopolitan AF1b_B1.1.1","Tanzania",2010,2013,42
-"89","Cosmopolitan AF1b_B1.2","Tanzania",2011,2017,25
-"90","Cosmopolitan AF1b_B1.3","Tanzania",2010,2013,21
-"91","Cosmopolitan AF1b_C1","Tanzania",2009,2017,10
-"92","Cosmopolitan AM2a_A1","Mexico",1991,2018,10
-"93","Cosmopolitan CA1_A1","c(""Iran"", ""Russia"")",1974,2014,13
-"94","Cosmopolitan CA2_A1","c(""Iran"", ""Iraq"", ""Russia"", ""Turkey"")",1993,2015,15
-"95","Cosmopolitan CE_A1","c(""Czechia"", ""Germany"", ""Poland"")",1991,2018,15
-"96","Cosmopolitan EE_A1","c(""Bosnia and Herzegovina"", ""Hungary"", ""Poland"", ""Serbia"", ""Slovenia"")",1986,2010,15
-"97","Cosmopolitan ME1a_A1","Iran",1996,2018,22
-"98","Cosmopolitan ME1a_A1.1","Iran",2008,2014,7
-"99","Cosmopolitan ME1a_A1.1.1","Iran",2008,2014,11
-"100","Cosmopolitan ME1a_A1.2","Iran",2009,2015,15
-"101","Cosmopolitan ME2_A1","Turkey",1993,2001,7
-"102","Cosmopolitan ME2_A1.1","c(""Iran"", ""Turkey"")",1989,2014,8
-"103","Cosmopolitan ME2_A1.1.1","Turkey",1999,2015,11
-"104","Cosmopolitan ME2_B1","Turkey",2006,2014,12
-"105","Cosmopolitan NEE_A1","c(""Estonia"", ""Poland"")",1991,1997,8
-"106","Cosmopolitan NEE_A1.1","c(""Hungary"", ""Poland"")",2010,2017,6
-"107","Cosmopolitan NEE_A1.1.1","Hungary",2013,2013,2
-"108","Cosmopolitan NEE_A1.2","c(""Estonia"", ""Finland"", ""Poland"", ""Russia"")",1986,2018,10
-"109","Cosmopolitan NEE_B1","Hungary",2013,2014,28
-"110","Cosmopolitan NEE_C1","Hungary",2013,2014,17
-"111","Cosmopolitan WE_A1","c(""Belgium"", ""Bosnia and Herzegovina"", ""France"", ""Germany"", ""Serbia"", ""Slovenia"")",1986,1998,13
-"112","Cosmo_D1","c(""Oman"", ""Qatar"", ""Saudi Arabia"", ""United Arab Emirates"")",1987,2018,13
-"113","Cosmo_E1","Iran",1984,2014,13
-"114","Cosmo_F1","c(""Israel"", ""Turkey"")",1993,2001,10
-"115","Cosmo_G1","Tanzania",2010,2013,24
-"116","AF4_A1","c(""Egypt"", ""Israel"")",1950,2009,13
-"117","AM1_A1","c(""Canada"", ""United States"")",1982,2012,24
-"118","AM3a_A1","Brazil",2006,2009,25
-"119","AM3a_A1.1","Brazil",1986,2007,9
-"120","AM3a_A1.1.1","Brazil",2002,2007,6
-"121","AM3a_A1.2","Brazil",2006,2007,9
-"122","AM3a_A1.2.1","Brazil",2007,2007,3
-"123","AM3a_A1.3","c(""Brazil"", ""Peru"", ""United States"")",1999,2011,10
-"124","AM3a_B1","Brazil",2002,2007,21
-"125","AM3a_B1.1","Brazil",2002,2007,10
-"126","AM3a_C1","Brazil",2006,2012,17
-"127","AM3a_D1","Brazil",2006,2012,10
-"128","AM3b_A1","Brazil",2006,2007,7
-"129","AM3b_A1.1","Brazil",2006,2006,6
-"130","AM3b_A1.1.1","Brazil",2005,2012,11
-"131","AM3b_B1","Brazil",2007,2007,12
-"132","AM4_A1","United States",1994,2016,12
-"133","CA3_A1","Hungary",1991,2009,6
-"134","CA3_A1.1","c(""Romania"", ""Russia"")",2004,2016,25
-"135","CA3_A1.1.1","Russia",2012,2014,10
-"136","RAC-SK_A2","Canada",2000,2003,10
-"137","RAC-SK_A1","c(""Canada"", ""United States"")",1995,2011,6
-"138","RAC-SK_A1.1","United States",2004,2011,6
-"139","RAC-SK_A1.1.1","United States",2004,2011,5
-"140","RAC-SK_A1.2","c(""Canada"", ""United States"")",2004,2015,10
-"141","RAC-SK_B1","United States",1990,2017,31
-"142","RAC-SK_B1.1","c(""Mexico"", ""United States"")",1991,2009,8
-"143","RAC-SK_B1.1.1","United States",1989,2018,7
-"144","RAC-SK_B1.1.2","United States",2003,2018,11
-"145","RAC-SK_B1.2","United States",2003,2014,9
-"146","RAC-SK_B1.2.1","United States",1994,2015,15
-"147","RAC-SK_C1","United States",2004,2011,8
-"148","RAC-SK_C1.1","United States",1990,2011,20
-"149","RAC-SK_C1.1.1","c(""Canada"", ""United States"")",1990,2018,75
-"150","RAC-SK_C1.1.2","United States",2004,2004,6
-"151","RAC-SK_C1.1.3","United States",1991,2009,10
-"152","RAC-SK_D1","United States",1995,2010,4
-"153","RAC-SK_D1.1","c(""Canada"", ""United States"")",1995,2010,13
-"154","RAC-SK_D1.1.1","United States",2006,2007,2
-"155","RAC-SK_D1.1.2","United States",2005,2006,3
-"156","RAC-SK_D1.1.3","United States",2005,2011,29
-"157","RAC-SK_D1.2","United States",2003,2008,10
-"158","RAC-SK_E1","United States",2010,2011,4
-"159","RAC-SK_E1.1","United States",2003,2011,9
-"160","RAC-SK_E1.1.1","United States",2003,2017,20
-"161","RAC-SK_E1.2","United States",2003,2017,13
-"162","RAC-SK_F1","United States",2013,2014,6
-"163","RAC-SK_F1.1","United States",2013,2014,12
-"164","RAC-SK_F1.1.1","United States",2013,2014,8
-"165","RAC-SK_G1","c(""Canada"", ""United States"")",2006,2010,24
-"166","RAC-SK_G1.1","United States",2007,2011,13
-"167","RAC-SK_G1.2","Canada",2007,2009,11
-"168","RAC-SK_G1.3","c(""Canada"", ""United States"")",2007,2009,36
-"169","RAC-SK_H1","United States",2006,2017,17
-"170","RAC-SK_I1","United States",2004,2018,8
-"171","RAC-SK_I1.1","United States",2003,2017,10
-"172","RAC-SK_J1","c(""Canada"", ""United States"")",2014,2017,15
-"173","RAC-SK_J1.1","Canada",2015,2015,10
-"174","RAC-SK_K1","c(""Canada"", ""United States"")",2000,2014,16
-"175","RAC-SK_L1","United States",2003,2017,16
-"176","RAC-SK_M1","United States",2007,2017,10
-"177","RAC-SK_N1","United States",2006,2009,11
-"178","RAC-SK_O1","United States",2003,2017,21
-"179","RAC-SK_P1","United States",2010,2018,10
-"180","RAC-SK_Q1","Canada",2016,2017,13
-"181","RAC-SK_R1","Canada",2016,2017,10
-"182","RAC-SK_Z1","Canada",1999,2002,22
-"183","RAC-SK_Z1.1","Canada",2001,2005,13
-"184","Vac_A1","c(""China"", ""Russia"")",2007,2020,10
-"185","Vac_A1.1","character(0)",2007,2020,12
-"186","Vac_A1.2","c(""China"", ""Mexico"")",1993,2018,13
-"187","Vac_B1","character(0)",2007,2015,45
-"188","Vac_B1.1","character(0)",2015,2015,13
-"189","Cosmopolitan Vac_A1","c(""Austria"", ""Germany"", ""Hungary"")",2001,2019,33
-"190","Cosmopolitan Vac_A1.1","c(""Austria"", ""Germany"")",1993,2020,51
-"191","Cosmopolitan Vac_A1.1.1","character(0)",2007,2015,10
-"192","Cosmopolitan Vac_A1.2","character(0)",2015,2015,18
+"lineage","country","year_first","year_last","n_seqs"
+"Africa_A1","c(""Benin"", ""Botswana"", ""Guinea"", ""South Africa"")",1986,2014,10
+"Africa-2_A1","c(""Burkina Faso"", ""C√¥te d'Ivoire"", ""Mauritania"", ""Niger"")",1986,2001,9
+"Africa-2_A1.1","Senegal",1991,2011,5
+"Africa-2_A1.1.1","Senegal",2007,2015,15
+"Arctic_A1","c(""Afghanistan"", ""Iran"")",2002,2014,5
+"Arctic A_A1","c(""Canada"", ""Greenland"", ""Russia"", ""United States"")",1977,2016,17
+"Arctic A_A1.1","Canada",1990,1997,6
+"Arctic A_A1.1.1","Canada",1990,1996,9
+"Arctic A_A1.1.2","c(""Canada"", ""Greenland"")",1990,2002,11
+"Arctic A_A1.2","Greenland",2001,2007,12
+"Arctic A_A1.2.1","Greenland",2006,2014,12
+"Arctic A_A1.3","Greenland",2006,2007,8
+"Arctic A_A1.3.1","Greenland",2005,2011,10
+"Arctic A_A1.4","Canada",2008,2015,14
+"Arctic A_B1","Canada",1990,1997,5
+"Arctic A_B1.1","Canada",1991,2009,10
+"Arctic A_B1.1.1","Canada",1995,1999,5
+"Arctic A_B1.2","Canada",1998,2006,8
+"Arctic A_B1.2.1","Canada",1999,2009,13
+"Arctic A_B1.3","c(""Canada"", ""United States"")",1990,1995,14
+"Arctic A_B1.4","Canada",1996,2006,11
+"Arctic A_B1.5","c(""Canada"", ""United States"")",1990,2006,12
+"Arctic A_C1","Canada",1996,2004,9
+"Arctic A_C1.1","Canada",1997,2000,7
+"Arctic A_C1.1.1","Canada",2000,2009,6
+"Arctic A_C1.2","c(""Canada"", ""Greenland"", ""United States"")",2005,2014,20
+"Arctic A_D1","Canada",1995,1996,5
+"Arctic A_D1.1","Canada",1998,2009,8
+"Arctic A_D1.1.1","Canada",2000,2012,14
+"Arctic A_D1.2","Canada",2001,2011,11
+"Arctic A_E1","Canada",2002,2005,7
+"Arctic A_E1.1","c(""Canada"", ""Greenland"")",2005,2017,26
+"Arctic A_E1.1.1","Canada",2009,2015,27
+"Arctic A_E1.1.2","Canada",2012,2014,13
+"Arctic A_E1.2","Canada",2002,2004,11
+"Arctic A_F1","c(""Canada"", ""United States"")",2013,2018,14
+"Arctic A_G1","Canada",2015,2018,14
+"Arctic AL1a_A1","c(""Bangladesh"", ""France"", ""Germany"", ""India"", ""Nepal"", ""Pakistan"", ""United Kingdom"")",1984,2016,13
+"Arctic AL2_A1","c(""China"", ""Japan"", ""Russia"", ""South Korea"")",1989,2020,6
+"Arctic AL2_A1.1","China",2012,2016,10
+"Asian_A1","Taiwan",2012,2013,3
+"Asian_A1.1","China",1956,2014,5
+"Asian_A1.1.1","China",1994,2015,13
+"Asian SEA1b_A1","China",2003,2018,7
+"Asian SEA1b_A1.1","China",2008,2018,5
+"Asian SEA1b_A1.1.1","China",1998,2019,12
+"Asian SEA1b_B1","China",2006,2017,17
+"Asian SEA3_A1","c(""China"", ""Lao"", ""Myanmar"", ""Thailand"")",1983,2011,11
+"Asian SEA3_A1.1","c(""Cambodia"", ""Thailand"", ""Vietnam"")",1983,2012,10
+"Asian SEA4_A1","c(""Japan"", ""Philippines"")",1994,2020,9
+"Asian SEA4_A1.1","Philippines",2012,2017,5
+"Asian SEA4_A1.1.1","Philippines",2012,2016,11
+"Asian SEA4_A1.1.2","Philippines",2013,2019,10
+"Asian SEA4_A1.2","Philippines",2012,2019,15
+"Bat_A1","United States",1981,2011,8
+"Bat_B1","c(""Argentina"", ""Brazil"", ""Chile"")",1997,2018,5
+"Bat_C1","c(""Brazil"", ""United States"")",2002,2012,14
+"Bat_D1","c(""Brazil"", ""United States"")",1984,2010,11
+"Bat_B1.1","c(""Brazil"", ""French Guiana"", ""Guyana"", ""Mexico"", ""United States"")",1986,2013,16
+"Bats EF-W1_A1","United States",1985,2010,4
+"Bats EF-W1_A1.1","United States",1975,2010,10
+"Bats EF-W1_A1.1.1","United States",2001,2005,7
+"Bats EF-W1_A1.2","United States",1995,2009,14
+"Bats EF-W1_B1","United States",1999,2001,10
+"Cosmopolitan_A1","c(""China"", ""Gabon"", ""Grenada"", ""Nigeria"", ""Russia"")",1931,2018,9
+"Cosmopolitan_A1.1","c(""Montenegro"", ""Serbia"")",1978,1978,2
+"Cosmopolitan_A1.1.1","c(""Germany"", ""Serbia"")",1972,1997,3
+"Cosmopolitan_A1.1.2","c(""Iran"", ""Israel"", ""Turkey"")",1976,2013,12
+"Cosmopolitan_A1.2","c(""Central African Republic"", ""Madagascar"", ""Tanzania"", ""Zimbabwe"")",1986,2011,7
+"Cosmopolitan_A1.2.1","c(""South Africa"", ""Tanzania"", ""Zimbabwe"")",1981,2017,7
+"Cosmopolitan_A1.2.2","c(""Kenya"", ""Tanzania"")",1996,2018,44
+"Cosmopolitan_A1.2.3","c(""Namibia"", ""South Africa"")",1992,2017,17
+"Cosmopolitan_A1.3","c(""Egypt"", ""Israel"", ""Mexico"", ""United States"")",1950,2015,17
+"Cosmopolitan_A1.3.1","c(""China"", ""Ethiopia"", ""United States"")",1948,2018,16
+"Cosmopolitan_A1.3.2","c(""Brazil"", ""United States"")",1986,2018,11
+"Cosmopolitan_B1","c(""Hungary"", ""Russia"")",1991,2009,7
+"Cosmopolitan_B1.1","c(""Azerbaijan"", ""China"", ""Poland"", ""Russia"", ""Tajikistan"")",2002,2018,14
+"Cosmopolitan_C1","c(""Mozambique"", ""South Africa"", ""Zimbabwe"")",1986,2012,5
+"Cosmopolitan_C1.1","South Africa",2012,2017,12
+"Cosmopolitan AF1a_A1","c(""Algeria"", ""Morocco"", ""Tunisia"")",1989,2018,10
+"Cosmopolitan AF1a_A1.1","c(""Ethiopia"", ""Kenya"", ""Somalia"")",1988,2018,11
+"Cosmopolitan AF1b_A1","c(""Rwanda"", ""Tanzania"")",1994,2010,7
+"Cosmopolitan AF1b_A1.1","c(""Tanzania"", ""Uganda"")",2009,2018,4
+"Cosmopolitan AF1b_A1.1.1","Tanzania",2008,2018,10
+"Cosmopolitan AF1b_A1.1.2","Tanzania",2003,2011,6
+"Cosmopolitan AF1b_B1","Tanzania",2004,2012,3
+"Cosmopolitan AF1b_B1.1","Tanzania",2010,2018,10
+"Cosmopolitan AF1b_B1.1.1","Tanzania",2010,2013,42
+"Cosmopolitan AF1b_B1.2","Tanzania",2011,2017,25
+"Cosmopolitan AF1b_B1.3","Tanzania",2010,2013,21
+"Cosmopolitan AF1b_C1","Tanzania",2009,2017,10
+"Cosmopolitan AM2a_A1","Mexico",1991,2018,10
+"Cosmopolitan CA1_A1","c(""Iran"", ""Russia"")",1974,2014,13
+"Cosmopolitan CA2_A1","c(""Iran"", ""Iraq"", ""Russia"", ""Turkey"")",1993,2015,15
+"Cosmopolitan CE_A1","c(""Czechia"", ""Germany"", ""Poland"")",1991,2018,15
+"Cosmopolitan EE_A1","c(""Bosnia and Herzegovina"", ""Hungary"", ""Poland"", ""Serbia"", ""Slovenia"")",1986,2010,15
+"Cosmopolitan ME1a_A1","Iran",1996,2018,22
+"Cosmopolitan ME1a_A1.1","Iran",2008,2014,7
+"Cosmopolitan ME1a_A1.1.1","Iran",2008,2014,11
+"Cosmopolitan ME1a_A1.2","Iran",2009,2015,15
+"Cosmopolitan ME2_A1","Turkey",1993,2001,7
+"Cosmopolitan ME2_A1.1","c(""Iran"", ""Turkey"")",1989,2014,8
+"Cosmopolitan ME2_A1.1.1","Turkey",1999,2015,11
+"Cosmopolitan ME2_B1","Turkey",2006,2014,12
+"Cosmopolitan NEE_A1","c(""Estonia"", ""Poland"")",1991,1997,8
+"Cosmopolitan NEE_A1.1","c(""Hungary"", ""Poland"")",2010,2017,6
+"Cosmopolitan NEE_A1.1.1","Hungary",2013,2013,2
+"Cosmopolitan NEE_A1.2","c(""Estonia"", ""Finland"", ""Poland"", ""Russia"")",1986,2018,10
+"Cosmopolitan NEE_B1","Hungary",2013,2014,28
+"Cosmopolitan NEE_C1","Hungary",2013,2014,17
+"Cosmopolitan WE_A1","c(""Belgium"", ""Bosnia and Herzegovina"", ""France"", ""Germany"", ""Serbia"", ""Slovenia"")",1986,1998,13
+"Cosmopolitan_D1","c(""Oman"", ""Qatar"", ""Saudi Arabia"", ""United Arab Emirates"")",1987,2018,13
+"Cosmopolitan_E1","Iran",1984,2014,13
+"Cosmopolitan_F1","c(""Israel"", ""Turkey"")",1993,2001,10
+"Cosmopolitan_G1","Tanzania",2010,2013,24
+"RAC-SK_A2","Canada",2000,2003,10
+"RAC-SK_A1","c(""Canada"", ""United States"")",1995,2011,6
+"RAC-SK_A1.1","United States",2004,2011,6
+"RAC-SK_A1.1.1","United States",2004,2011,5
+"RAC-SK_A1.2","c(""Canada"", ""United States"")",2004,2015,10
+"RAC-SK_B1","United States",1990,2017,31
+"RAC-SK_B1.1","c(""Mexico"", ""United States"")",1991,2009,8
+"RAC-SK_B1.1.1","United States",1989,2018,7
+"RAC-SK_B1.1.2","United States",2003,2018,11
+"RAC-SK_B1.2","United States",2003,2014,9
+"RAC-SK_B1.2.1","United States",1994,2015,15
+"RAC-SK_C1","United States",2004,2011,8
+"RAC-SK_C1.1","United States",1990,2011,20
+"RAC-SK_C1.1.1","c(""Canada"", ""United States"")",1990,2018,75
+"RAC-SK_C1.1.2","United States",2004,2004,6
+"RAC-SK_C1.1.3","United States",1991,2009,10
+"RAC-SK_D1","United States",1995,2010,4
+"RAC-SK_D1.1","c(""Canada"", ""United States"")",1995,2010,13
+"RAC-SK_D1.1.1","United States",2006,2007,2
+"RAC-SK_D1.1.2","United States",2005,2006,3
+"RAC-SK_D1.1.3","United States",2005,2011,29
+"RAC-SK_D1.2","United States",2003,2008,10
+"RAC-SK_E1","United States",2010,2011,4
+"RAC-SK_E1.1","United States",2003,2011,9
+"RAC-SK_E1.1.1","United States",2003,2017,20
+"RAC-SK_E1.2","United States",2003,2017,13
+"RAC-SK_F1","United States",2013,2014,6
+"RAC-SK_F1.1","United States",2013,2014,12
+"RAC-SK_F1.1.1","United States",2013,2014,8
+"RAC-SK_G1","c(""Canada"", ""United States"")",2006,2010,24
+"RAC-SK_G1.1","United States",2007,2011,13
+"RAC-SK_G1.2","Canada",2007,2009,11
+"RAC-SK_G1.3","c(""Canada"", ""United States"")",2007,2009,36
+"RAC-SK_H1","United States",2006,2017,17
+"RAC-SK_I1","United States",2004,2018,8
+"RAC-SK_I1.1","United States",2003,2017,10
+"RAC-SK_J1","c(""Canada"", ""United States"")",2014,2017,15
+"RAC-SK_J1.1","Canada",2015,2015,10
+"RAC-SK_K1","c(""Canada"", ""United States"")",2000,2014,16
+"RAC-SK_L1","United States",2003,2017,16
+"RAC-SK_M1","United States",2007,2017,10
+"RAC-SK_N1","United States",2006,2009,11
+"RAC-SK_O1","United States",2003,2017,21
+"RAC-SK_P1","United States",2010,2018,10
+"RAC-SK_Q1","Canada",2016,2017,13
+"RAC-SK_R1","Canada",2016,2017,10
+"RAC-SK_Z1","Canada",1999,2002,22
+"RAC-SK_Z1.1","Canada",2001,2005,13
+"Vac_A1","c(""China"", ""Russia"")",2007,2020,10
+"Vac_A1.1","character(0)",2007,2020,12
+"Vac_A1.2","c(""China"", ""Mexico"")",1993,2018,13
+"Vac_B1","character(0)",2007,2015,45
+"Vac_B1.1","character(0)",2015,2015,13
+"Cosmopolitan Vac_A1","c(""Austria"", ""Germany"", ""Hungary"")",2001,2019,33
+"Cosmopolitan Vac_A1.1","c(""Austria"", ""Germany"")",1993,2020,51
+"Cosmopolitan Vac_A1.1.1","character(0)",2007,2015,10
+"Cosmopolitan Vac_A1.2","character(0)",2015,2015,18
+"Cosmopolitan AF4_A1","c(""Egypt"", ""Israel"")",1950,2009,13
+"Cosmopolitan AM1_A1","c(""Canada"", ""United States"")",1982,2012,24
+"Cosmopolitan AM3a_A1","Brazil",2006,2009,25
+"Cosmopolitan AM3a_A1.1","Brazil",1986,2007,9
+"Cosmopolitan AM3a_A1.1.1","Brazil",2002,2007,6
+"Cosmopolitan AM3a_A1.2","Brazil",2006,2007,9
+"Cosmopolitan AM3a_A1.2.1","Brazil",2007,2007,3
+"Cosmopolitan AM3a_A1.3","c(""Brazil"", ""Peru"", ""United States"")",1999,2011,10
+"Cosmopolitan AM3a_B1","Brazil",2002,2007,21
+"Cosmopolitan AM3a_B1.1","Brazil",2002,2007,10
+"Cosmopolitan AM3a_C1","Brazil",2006,2012,17
+"Cosmopolitan AM3a_D1","Brazil",2006,2012,10
+"Cosmopolitan AM3b_A1","Brazil",2006,2007,7
+"Cosmopolitan AM3b_A1.1","Brazil",2006,2006,6
+"Cosmopolitan AM3b_A1.1.1","Brazil",2005,2012,11
+"Cosmopolitan AM3b_B1","Brazil",2007,2007,12
+"Cosmopolitan AM4_A1","United States",1994,2016,12
+"Cosmopolitan CA3_A1","Hungary",1991,2009,6
+"Cosmopolitan CA3_A1.1","c(""Romania"", ""Russia"")",2004,2016,25
+"Cosmopolitan CA3_A1.1.1","Russia",2012,2014,10
