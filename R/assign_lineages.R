@@ -27,8 +27,8 @@ assign_lineages<-function(sequences, reference) {
 
 
   for (i in 1:length(test_seqs)){
-    x<-1
-    y<-1
+    x<-0
+    y<-0
     test<-1
     down<-data$cluster[which(data$ID == row.names(alignment)[(test_seqs[i]-1)])]
     repeat {
@@ -55,9 +55,22 @@ assign_lineages<-function(sequences, reference) {
       }
     }
     if (!is.na(test)){
-      test<-c(down, up)
+      if (up==down) {
+        test<-up
+      } else {
+        int<-alignment[test_seqs[i],]
+        intup<-alignment[test_seqs[i]+(x-1),]
+        intdown<-alignment[test_seqs[i]-(y-1),]
+        compup<-length(which(int==intup))
+        compdown<-length(which(int==intdown))
+        if (compup >= compdown) {
+          test<-up
+          } else {
+            test<-down
+          }
+      }
     }
-    test_seq_assignment$lineage[i]<-calculate_mode(test)
+    test_seq_assignment$lineage[i]<-test
   }
 
   test_seq_assignment$lineage_countries_seen<-NA

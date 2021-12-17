@@ -64,6 +64,10 @@ sequence_designation<-MADDOG::seq_designation(tree, 90, alignment, metadata, anc
 defining_node_information<-MADDOG::node_info(tree, 90, alignment, metadata, ancestral)
 lineage_info<-MADDOG::lineage_info(sequence_designation, metadata)
 
+lineage_info$lineage<-gsub("B1_A1", "C1", lineage_info$lineage)
+defining_node_information$lineage<-gsub("B1_A1", "C1", defining_node_information$lineage)
+sequence_designation$lineage<-gsub("B1_A1", "C1", sequence_designation$lineage)
+
 write.csv(sequence_designation, file = (paste(args, "/Outputs/", args, "_sequence_data.csv", sep = "")), row.names=F)
 write.csv(defining_node_information, file = (paste(args, "/Outputs/", args, "_node_data.csv", sep = "")), row.names=F)
 
@@ -73,15 +77,15 @@ write.csv(lineage_info, file = (paste(args, "/Outputs/", args, "_lineage_info.cs
 #               FIGURES                     #
 #############################################
 
-sunburst(lineage_info, defining_node_information, tree, metadata, sequence_designation)
+new<-MADDOG::sunburst(lineage_info, defining_node_information, tree, metadata, sequence_designation)
 
-orca(new, (paste(args, "/Figures/", args, "_sunburst.png", sep = "")))
+htmlwidgets::saveWidget(plotly::as_widget(new), paste(args, "/Figures/", args, "_sunburst.html", sep = ""))
 
-plot_tree<-lineage_tree(lineage_info, defining_node_information, tree, metadata, sequence_designation)
+plot_tree<-MADDOG::lineage_tree(lineage_info, defining_node_information, tree, metadata, sequence_designation)
 
-ggsave(paste(args, "/Figures/", args, "_lineage_tree.png", sep = ""),
+ggtree::ggsave(paste(args, "/Figures/", args, "_lineage_tree.png", sep = ""),
        plot = plot_tree)
 
-lineage_map(lineage_info, defining_node_information, tree, metadata, sequence_designation)
-ggsave(paste(args, "/Figures/", args, "_lineage_map.png", sep = ""))
+MADDOG::lineage_map(lineage_info, defining_node_information, tree, metadata, sequence_designation)
+ggtree::ggsave(paste(args, "/Figures/", args, "_lineage_map.png", sep = ""))
 
