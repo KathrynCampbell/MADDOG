@@ -55,23 +55,10 @@ assign_lineages<-function(sequences, reference) {
       }
     }
     if (!is.na(test)){
-      if (up==down) {
-        test<-up
-      } else {
-        int<-alignment[test_seqs[i],]
-        intup<-alignment[test_seqs[i]+(x-1),]
-        intdown<-alignment[test_seqs[i]-(y-1),]
-        compup<-length(which(int==intup))
-        compdown<-length(which(int==intdown))
-        if (compup >= compdown) {
-          test<-up
-          } else {
-            test<-down
-          }
-      }
+      test<-c(down, up)
     }
-    test_seq_assignment$lineage[i]<-test
-  }
+    test_seq_assignment$lineage[i]<-calculate_mode(test)
+    }
 
   test_seq_assignment$lineage_countries_seen<-NA
   test_seq_assignment$lineage_first_seen<-NA
