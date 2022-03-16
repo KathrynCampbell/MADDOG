@@ -11,6 +11,7 @@ args = commandArgs(trailingOnly = T)
 #'---------------------------------------------------------
 
 devtools::install_github("KathrynCampbell/MADDOG", dependencies = F)
+devtools::install_version('rvcheck',repos = "http://cran.us.r-project.org", version='0.1.8')
 
 #############################################
 #            IMPORT THE DATA                #

@@ -6,7 +6,7 @@
 1. Command Line Tool
     1. How to use
         1. Setting up the environment - Unix/MAC
-        1. Setting up the envoronment - Windows
+        1. Setting up the environment - Windows
         1. Input data requirements
             1. Lineage designation
             1. Lineage assignment
@@ -45,9 +45,7 @@ Turn on Windows Subsystem for Linux (https://mafft.cbrc.jp/alignment/software/wi
 Download Ubuntu (https://www.microsoft.com/en-gb/p/ubuntu/9nblggh4msv6?rtc=1&activetab=pivot:overviewtab)
 
 Within Ubuntu run:
-`curl -sL \
-  "https://repo.anaconda.com/miniconda/Miniconda3-latest-Linux-x86_64.sh" > \
-  "Miniconda3.sh"`
+curl -sL \ "https://repo.anaconda.com/miniconda/Miniconda3-latest-Linux-x86_64.sh" > "Miniconda3.sh"
 
 Then:
 
@@ -126,6 +124,14 @@ The lineage designation code will produce a number of outputs in folders called 
 **Treetime:** This contains the reconstructed ancestral sequences for each node of the tree in ancestral_sequences.fasta.
 
 **Outputs:** This contains three files. the lineage_info file contains information about each lineage, including all the countries each lineage is seen in, the first and last years the lineage was sequenced, the genetic distance of each lineage and the number of sequences assigned to it from the given fasta file. It also contains a file giving information about each sequence, and information about each lineage defining node.
+
+**Figures:**This contains three files to help interpret the lineage information. 
+
+First is a html file of a sunburst plot. This shows the hierarchal relationships of the lineages. The html file is interactive, and sections can be collapsed/ zoomed in as required. This also provides the colour scheme for all the figures. 
+
+Second is a lineage tree. This is a phylogenetic tree of the input sequences, with the tips coloured by lineage (colour scheme from sunburst plot) with a lineage bar along side to easily show the positions of the lineages within the tree. 
+
+Last is a map with pie charts on. This shows the countries the input sequences have been found in, with pie size corresponding to sequence numbers. The pies are coloured according to lineage proportions seen in that country (colour scheme from sunburst plot).
 
 #### Lineage assignment
 The lineage assignment code produces a csv file detailing the assignment for each sequence, and details about the lineage assigned including the countries it has been seen it and when that lineage was first and last sequenced.
