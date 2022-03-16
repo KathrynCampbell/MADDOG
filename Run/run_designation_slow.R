@@ -11,6 +11,7 @@ args = commandArgs(trailingOnly = T)
 #'---------------------------------------------------------
 
 devtools::install_github("KathrynCampbell/MADDOG", dependencies = F)
+devtools::install_github("ropensci/plotly")
 
 #############################################
 #            IMPORT THE DATA                #
@@ -60,13 +61,49 @@ ancestral$nam <- gsub("\\..*", "", ancestral$nam, perl = T)
 #############################################
 #           RUN DESIGNATION                #
 #############################################
-sequence_designation<-MADDOG::seq_designation(tree, 90, alignment, metadata, ancestral)
-defining_node_information<-MADDOG::node_info(tree, 90, alignment, metadata, ancestral)
+sequence_designation<-MADDOG::seq_designation(tree, 70, alignment, metadata, ancestral)
+defining_node_information<-MADDOG::node_info(tree, 70, alignment, metadata, ancestral)
 lineage_info<-MADDOG::lineage_info(sequence_designation, metadata)
+
+lineage_info$lineage<-gsub("B1_B1", "C1", lineage_info$lineage)
+defining_node_information$lineage<-gsub("B1_B1", "C1", defining_node_information$lineage)
+sequence_designation$lineage<-gsub("B1_B1", "C1", sequence_designation$lineage)
+
+lineage_info$lineage<-gsub("B1_C1", "D1", lineage_info$lineage)
+defining_node_information$lineage<-gsub("B1_C1", "D1", defining_node_information$lineage)
+sequence_designation$lineage<-gsub("B1_C1", "D1", sequence_designation$lineage)
+
+clade<-strsplit(args, "_")[[1]][1]
+
+if (length(grep(clade, lineage_info$lineage))!= length(lineage_info$lineage)) {
+  names<-data.frame(lineage = lineage_info$lineage[-c(grep(clade, lineage_info$lineage))], name = NA)
+  for (i in 1:length(names$lineage)) {
+    test<-paste(clade, "_", names$lineage[i], sep = "")
+
+    if (length(which(test %in% lineage_info$lineage)) == 1) {
+      names$name[i]<-gsub("1", "2", strsplit(test, "/.")[[1]][1])
+    } else {
+      names$name[i]<-test
+    }
+    defining_node_information$lineage[which(defining_node_information$lineage == names$lineage[i])]<-
+      names$name[i]
+
+    sequence_designation$lineage[which(sequence_designation$lineage == names$lineage[i])]<-
+      names$name[i]
+
+    lineage_info$lineage[which(lineage_info$lineage == names$lineage[i])]<-
+      names$name[i]
+  }
+
+}
+
 
 write.csv(sequence_designation, file = (paste(args, "/Outputs/", args, "_sequence_data.csv", sep = "")), row.names=F)
 write.csv(defining_node_information, file = (paste(args, "/Outputs/", args, "_node_data.csv", sep = "")), row.names=F)
 
+source("R/sunburst_parent.R")
+
+lineage_info<-sunburst_parent(lineage_info, defining_node_information, tree, metadata, sequence_designation)
 write.csv(lineage_info, file = (paste(args, "/Outputs/", args, "_lineage_info.csv", sep = "")), row.names=F)
 
 #############################################
@@ -75,7 +112,7 @@ write.csv(lineage_info, file = (paste(args, "/Outputs/", args, "_lineage_info.cs
 
 new<-MADDOG::sunburst(lineage_info, defining_node_information, tree, metadata, sequence_designation)
 
-htmlwidgets::saveWidget(plotly::as_widget(new), (paste(args, "/Figures/", args, "_sunburst.html", sep = "")))
+htmlwidgets::saveWidget(plotly::as_widget(new), paste(args, "/Figures/", args, "_sunburst.html", sep = ""))
 
 plot_tree<-MADDOG::lineage_tree(lineage_info, defining_node_information, tree, metadata, sequence_designation)
 
@@ -84,5 +121,4 @@ ggplot2::ggsave(paste(args, "/Figures/", args, "_lineage_tree.png", sep = ""),
 
 map<-MADDOG::lineage_map(lineage_info, defining_node_information, tree, metadata, sequence_designation)
 ggplot2::ggsave(paste(args, "/Figures/", args, "_lineage_map.png", sep = ""),
-                width = 5, height = 3,
-       plot=map)
+                plot = map)

@@ -69,11 +69,15 @@ lineage_map <- function(lineage_info, node_data, tree, metadata, sequence_data) 
     lineage_info$colour[(grep(clades[i], lineage_info$lineage))]<-pal
   }
 
-  world<-rnaturalearth::ne_countries()
+  world<-rgdal::readOGR("inst/extdata/Shapefile/world-administrative-boundaries.shp")
 
   #' **Cleaning the data**
   #' Find which country names do not match between data and map file
-  map_countries <- as.character(world$admin)
+  map_countries <- as.character(world@data$name)
+
+  areas <- unique(metadata$country)
+  no_match <- setdiff(areas, map_countries); message(length(no_match), " countries are mis-matched: \n", paste0(no_match, collapse="\n"))
+
 
   metadata$country[grepl("USA|United States", metadata$country)] <- "United States of America"
   metadata$country[grepl("Tanzania", metadata$country)] <- "United Republic of Tanzania"
@@ -82,6 +86,11 @@ lineage_map <- function(lineage_info, node_data, tree, metadata, sequence_data) 
   metadata$country[grepl("Grenada", metadata$country)] <- "Grenada"
   metadata$country[grepl("Ivoire", metadata$country)] <- "Ivory Coast" # The weird characters mean we have to do a string search!
   metadata$country[grepl("Lao", metadata$country)] <- "Laos"
+
+  areas <- unique(metadata$country)
+  no_match <- setdiff(areas, map_countries); message(length(no_match), " countries are mis-matched: \n", paste0(no_match, collapse="\n"))
+
+  no_match <- setdiff(no_match, map_countries); message(length(no_match), " countries are mis-matched: \n", paste0(no_match, collapse="\n"))
 
   countries <- unique(metadata$country)
 
@@ -122,14 +131,13 @@ lineage_map <- function(lineage_info, node_data, tree, metadata, sequence_data) 
   }
 
   for (i in 1:length(lineage_table$country)) {
-    lineage_table$LAT[i]<-world@polygons[which(world$admin == lineage_table$country[i])][[1]]@labpt[2]
-    lineage_table$LON[i]<-world@polygons[which(world$admin == lineage_table$country[i])][[1]]@labpt[1]
+    lineage_table$LAT[i]<-world@polygons[which(world@data$name == lineage_table$country[i])][[1]]@labpt[2]
+    lineage_table$LON[i]<-world@polygons[which(world@data$name== lineage_table$country[i])][[1]]@labpt[1]
   }
 
-  world <- rnaturalearth::ne_countries(scale = "medium", returnclass = "sf")
-  plot<-
-    ggplot2::ggplot(data = world) +
-    ggplot2::geom_sf()
+  plot<-ggplot2::ggplot()+
+    ggplot2::geom_polygon(data = world, ggplot2::aes( x = long, y = lat, group = group), fill="grey80", color="white") +
+    ggplot2::theme_bw() + ggplot2::theme(panel.grid.major = ggplot2::element_blank(), panel.grid.minor = ggplot2::element_blank())
 
   lineage_table <- with(lineage_table, lineage_table[abs(LON) < 150 & abs(LAT) < 70,])
   n <- nrow(lineage_table)
@@ -157,7 +165,6 @@ lineage_map <- function(lineage_info, node_data, tree, metadata, sequence_data) 
   plot_world<-plot + scatterpie::geom_scatterpie(ggplot2::aes(x=LON, y=LAT, group=region, r=radius),
                                      data=lineage_table, cols=c(colnames(lineage_table)[2:(ncol(lineage_table)-4)]), color=NA, alpha=.8)+
     ggplot2::theme(legend.position = "none") + ggplot2::scale_fill_manual(values = c(colour_table$colour))+
-    ggplot2::coord_sf(xlim = c(-155, 155), ylim = c(-50, 70))+
     ggplot2::theme(panel.grid.major = ggplot2::element_blank())+
     ggplot2::theme(axis.text.x = ggplot2::element_blank(),
           axis.text.y = ggplot2::element_blank(),
