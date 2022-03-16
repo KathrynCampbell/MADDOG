@@ -16,15 +16,14 @@ dependencies:
   - r-ips
   - r-adegenet
   - r-ape
+  - r-rgdal
   - r-dplyr
   - r-adephylo
   - r-rmarkdown
   - r-knitr
   - r-devtools
-  - r-rnaturalearth
   - r-scatterpie
   - bioconductor-ggtree
   - bioconductor-treeio
   - r-plotly
-  - plotly-orca
 prefix: /Users/kathryncampbell/miniconda3/envs/MADDOG
