@@ -83,9 +83,10 @@ lineage_map <- function(lineage_info, node_data, tree, metadata, sequence_data) 
   metadata$country[grepl("Tanzania", metadata$country)] <- "United Republic of Tanzania"
   metadata$country[grepl("Serbia", metadata$country)] <- "Republic of Serbia"
   metadata$country[grepl("Czechia", metadata$country)] <- "Czech Republic"
-  metadata$country[grepl("Grenada", metadata$country)] <- "Grenada"
-  metadata$country[grepl("Ivoire", metadata$country)] <- "Ivory Coast" # The weird characters mean we have to do a string search!
-  metadata$country[grepl("Lao", metadata$country)] <- "Laos"
+  metadata$country[grepl("Ivory", metadata$country)] <- "Côte d'Ivoire" # The weird characters mean we have to do a string search!
+  metadata$country[grepl("Ivoire", metadata$country)] <- "Côte d'Ivoire" # The weird characters mean we have to do a string search!
+  metadata$country[grepl("Lao", metadata$country)] <- "Lao People's Democratic Republic"
+  metadata$country[grepl("Laos", metadata$country)] <- "Lao People's Democratic Republic"
 
   areas <- unique(metadata$country)
   no_match <- setdiff(areas, map_countries); message(length(no_match), " countries are mis-matched: \n", paste0(no_match, collapse="\n"))

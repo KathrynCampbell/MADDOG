@@ -467,5 +467,20 @@ node_info <- function(tree, min.support, alignment, metadata, ancestral) {
   node_data<-node_data[,-c(4)]
   names(node_data)<-c("node", "n_tips", "n_diff_ancestor", "lineage")
 
+  if(length(grep("-", node_data$lineage)) != 0){
+    clade<-strsplit(node_data$lineage[grep("-", node_data$lineage)][1], "-")[[1]][1]
+    node_data$lineage[-c(grep("-", node_data$lineage))]<-
+      paste(clade, node_data$lineage[-c(grep("-", node_data$lineage))])
+  }else{
+    if(length(grep("_", node_data$lineage)) != 0){
+      clade<-strsplit(node_data$lineage[grep("_", node_data$lineage)][1], " ")[[1]][1]
+      node_data$lineage[-c(grep("_", node_data$lineage))]<-
+        paste(clade, node_data$lineage[-c(grep("_", node_data$lineage))])
+    }}
+
+  if(length(grep("NA", node_data$lineage) != 0)){
+    node_data<-node_data[-c(grep("NA", node_data$lineage)),]
+  }
+
   return(node_data)
 }
