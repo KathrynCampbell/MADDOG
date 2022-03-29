@@ -9,7 +9,7 @@ args = commandArgs(trailingOnly = T)
 #'author: Kathryn Campbell
 #'date: 09/09/2021
 #'---------------------------------------------------------
-data <- read.csv(system.file("extdata", paste("References/", args[2], "/reference_clusters.csv", sep = ""), package = "MADDOG"))
+data <- read.csv(system.file("extdata", paste("References/RABV/reference_clusters.csv"), package = "MADDOG"))
 clusters <- read.csv(system.file("extdata", paste("References/", args[2], "/lineage_info.csv", sep = ""), package = "MADDOG"))
 
 alignment<-seqinr::read.alignment(file = (paste(args[1], "/", args[1], "_withref.fasta", sep = "")), format = "fasta")
@@ -69,9 +69,9 @@ if (length(which(is.na(test_seq_assignment$lineage))) != 0) {
   numbers<-numbers[-c(  which(is.na(test_seq_assignment$lineage)))]
 }
 for (i in numbers) {
-  test_seq_assignment$lineage_countries_seen[i]<-clusters$country[which(clusters$cluster == test_seq_assignment$lineage[i])]
-  test_seq_assignment$lineage_first_seen[i]<-clusters$year_first[which(clusters$cluster == test_seq_assignment$lineage[i])]
-  test_seq_assignment$lineage_last_seen[i]<-clusters$year_last[which(clusters$cluster == test_seq_assignment$lineage[i])]
+  test_seq_assignment$lineage_countries_seen[i]<-clusters$country[which(clusters$lineage == test_seq_assignment$lineage[i])]
+  test_seq_assignment$lineage_first_seen[i]<-clusters$year_first[which(clusters$lineage == test_seq_assignment$lineage[i])]
+  test_seq_assignment$lineage_last_seen[i]<-clusters$year_last[which(clusters$lineage == test_seq_assignment$lineage[i])]
 }
 
 
