@@ -69,7 +69,7 @@ lineage_map <- function(lineage_info, node_data, tree, metadata, sequence_data) 
     lineage_info$colour[(grep(clades[i], lineage_info$lineage))]<-pal
   }
 
-  world<-rgdal::readOGR("inst/extdata/Shapefile/world-administrative-boundaries.shp")
+  world<-rgdal::readOGR("inst/extdata/Shapefile", "world-administrative-boundaries")
 
   #' **Cleaning the data**
   #' Find which country names do not match between data and map file
