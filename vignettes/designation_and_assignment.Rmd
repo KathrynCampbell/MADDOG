@@ -90,5 +90,6 @@ lineage_tree(lineage_info, defining_node_information, tree, metadata, sequence_d
 The lineage_map function produces a world map showing which lineages have been found in each country.
 
 ``` {r map}
-lineage_map(lineage_info, defining_node_information, tree, metadata, sequence_designation)
+map<-rgdal::readOGR("../inst/extdata/Shapefile", "world-administrative-boundaries")
+lineage_map(lineage_info, defining_node_information, tree, metadata, sequence_designation, map)
 ```

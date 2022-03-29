@@ -15,7 +15,13 @@
 #' @param map The base layer of the map
 #' @return A world map showing which lineages have been found in each country
 #' @export
-lineage_map <- function(lineage_info, node_data, tree, metadata, sequence_data, map) {
+lineage_map <- function(lineage_info, node_data, tree, metadata, sequence_data) {
+
+  if (missing(map) == T){
+    world<-rgdal::readOGR("../inst/extdata/Shapefile", "world-administrative-boundaries")
+  } else {
+    world<-map
+  }
   tree$tip.label <- gsub("\\..*", "", tree$tip.label, perl = T)
   tree$node.comment<- gsub(".*=", "", tree$node.label, perl = T)
 
@@ -70,11 +76,6 @@ lineage_map <- function(lineage_info, node_data, tree, metadata, sequence_data, 
     lineage_info$colour[(grep(clades[i], lineage_info$lineage))]<-pal
   }
 
-  if (map == "default"){
-    world<-rgdal::readOGR("../inst/extdata/Shapefile", "world-administrative-boundaries")
-  } else {
-    world<-map
-  }
 
   #' **Cleaning the data**
   #' Find which country names do not match between data and map file
