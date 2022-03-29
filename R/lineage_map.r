@@ -15,7 +15,7 @@
 #' @param map The base layer of the map
 #' @return A world map showing which lineages have been found in each country
 #' @export
-lineage_map <- function(lineage_info, node_data, tree, metadata, sequence_data) {
+lineage_map <- function(lineage_info, node_data, tree, metadata, sequence_data, map) {
 
   if (missing(map) == T){
     world<-rgdal::readOGR("../inst/extdata/Shapefile", "world-administrative-boundaries")
