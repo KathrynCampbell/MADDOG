@@ -9,6 +9,7 @@ vignette: >
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
+
 ```
 
 ## Lineage Designation
@@ -65,7 +66,7 @@ sequences<-seqinr::read.fasta(system.file("extdata", "Examples/Lineage_assignmen
 ```
 
 ``` {r assignment}
-assignments<-assign_lineages(sequences, "Cosmo_N"); assignments
+assignments<-assign_lineages(sequences, "RABV"); assignments
 ```
 
 ## Visualising Lineages
