@@ -3,7 +3,7 @@ rm(list=ls())
 args = commandArgs(trailingOnly = T)
 
 sequences<-seqinr::read.fasta(paste(args, "/", args, ".fasta", sep = ""))
-assignments<-MADDOG::assign_lineages(sequences, "RABV")
+assignments<-read.csv(paste(args, "/Assignment/assignment.csv", sep = ""))
 write.csv(assignments, paste(args, "/", args, "_assignments.csv", sep = ""), row.names = F)
 
 clades<-data.frame(clade=c("Africa", "Asian", "Arctic", "Bat", "Cosmopolitan", "Indian", "RAC"), present=NA)
