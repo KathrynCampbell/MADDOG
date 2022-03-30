@@ -1,0 +1,91 @@
+﻿ID,alignment.name,assignment,sequence.m49_country.id,country,sequence.gb_place_sampled,sequence.collection_year,sequence.earliest_collection_year,year,sequence.gb_length,sequence.gb_create_date,sequence.gb_update_date,sequence.host,sequence.gb_pubmed_id,sequence.isolate
+AB041964,AL_Indian-Sub,Indian-Sub,LKA,Sri Lanka,-,-,-,2003,1353,28-Aug-03,24-Sep-03,Canis aureus,12083333,SRL1032
+AB041965,AL_Indian-Sub,Indian-Sub,LKA,Sri Lanka,-,-,-,2003,1353,28-Aug-03,24-Sep-03,Homo sapiens,12083333,SRL1036
+AB041966,AL_Indian-Sub,Indian-Sub,LKA,Sri Lanka,-,-,-,2003,1353,28-Aug-03,24-Sep-03,-,12083333,SRL1060
+AB041967,AL_Indian-Sub,Indian-Sub,LKA,Sri Lanka,-,-,-,2003,1353,28-Aug-03,24-Sep-03,Herpestidae,12083333,SRL1077
+AB041968,AL_Indian-Sub,Indian-Sub,LKA,Sri Lanka,-,-,-,2003,1353,28-Aug-03,24-Sep-03,Felis catus,12083333,SRL1143
+AB041969,AL_Indian-Sub,Indian-Sub,LKA,Sri Lanka,-,-,-,2003,1353,28-Aug-03,24-Sep-03,Bubalus bubalis,12083333,SRL1145
+AB569299,AL_Indian-Sub,Indian-Sub,LKA,Sri Lanka,Gampaha,2008,2008,2008,11926,25-Dec-10,31-Mar-11,Homo sapiens,21298456,H-08-1320
+AB635373,AL_Indian-Sub,Indian-Sub,LKA,Sri Lanka,Moneragala,2009,2009,2009,11926,17-Nov-11,14-Jun-13,Paradoxurus zeylonensis,22172202,H-1413-09
+AB638767,AL_Indian-Sub,Indian-Sub,LKA,Sri Lanka,Galle,2008,2008,2008,1353,14-Oct-11,14-Jun-13,Homo sampiens 71 years old male,22172202,H-219-08
+AB638768,AL_Indian-Sub,Indian-Sub,LKA,Sri Lanka,Matara,2008,2008,2008,1353,14-Oct-11,14-Jun-13,Homo sapiens,22172202,H-1218-08
+AB638769,AL_Indian-Sub,Indian-Sub,LKA,Sri Lanka,Moneragala,2008,2008,2008,1353,14-Oct-11,14-Jun-13,Homo sapiens,22172202,H-1281-08
+AB638770,AL_Indian-Sub,Indian-Sub,LKA,Sri Lanka,Matale,2009,2009,2009,1353,14-Oct-11,14-Jun-13,Homo sapiens,22172202,H-15-09
+AB638771,AL_Indian-Sub,Indian-Sub,LKA,Sri Lanka,Kegalle,2009,2009,2009,1353,14-Oct-11,14-Jun-13,Homo sapiens,22172202,H-156-09
+AB638772,AL_Indian-Sub,Indian-Sub,LKA,Sri Lanka,Kalutara,2009,2009,2009,1353,14-Oct-11,14-Jun-13,Felis catus,22172202,H-1366-09
+AB817080,AL_Indian-Sub,Indian-Sub,LKA,Sri Lanka,Kurunegala,2008,2008,2008,1353,13-Jun-13,13-Jun-13,Homo sapiens,23722023,H-1123-08
+AB817081,AL_Indian-Sub,Indian-Sub,LKA,Sri Lanka,Trincomalee,2009,2009,2009,1353,13-Jun-13,13-Jun-13,Homo sapiens,23722023,H-464-09
+AB817082,AL_Indian-Sub,Indian-Sub,LKA,Sri Lanka,Batticaloa,2008,2008,2008,1353,13-Jun-13,13-Jun-13,Homo sapiens,23722023,H-1125-08
+AB817083,AL_Indian-Sub,Indian-Sub,LKA,Sri Lanka,Kurunegala,2008,2008,2008,1353,13-Jun-13,13-Jun-13,Homo sapiens,23722023,H-1141-08
+AB817084,AL_Indian-Sub,Indian-Sub,LKA,Sri Lanka,Colombo,2009,2009,2009,1353,13-Jun-13,13-Jun-13,Homo sapiens,23722023,H-1202-09
+AB817085,AL_Indian-Sub,Indian-Sub,LKA,Sri Lanka,Anuradhapura,2009,2009,2009,1353,13-Jun-13,13-Jun-13,Homo sapiens,23722023,H-1227-09
+AB817086,AL_Indian-Sub,Indian-Sub,LKA,Sri Lanka,Moneragala,2009,2009,2009,1353,13-Jun-13,13-Jun-13,Homo sapiens,23722023,H-1272-09
+AB817087,AL_Indian-Sub,Indian-Sub,LKA,Sri Lanka,Ratnapura,2009,2009,2009,1353,13-Jun-13,13-Jun-13,Homo sapiens,23722023,H-1282-09
+AB817088,AL_Indian-Sub,Indian-Sub,LKA,Sri Lanka,Kurunegala,2008,2008,2008,1353,13-Jun-13,13-Jun-13,Homo sapiens,23722023,H-1553-08
+AB817089,AL_Indian-Sub,Indian-Sub,LKA,Sri Lanka,Colombo,2009,2009,2009,1353,13-Jun-13,13-Jun-13,Homo sapiens,23722023,H-224-09
+AB817090,AL_Indian-Sub,Indian-Sub,LKA,Sri Lanka,Puttalam,2009,2009,2009,1353,13-Jun-13,13-Jun-13,Homo sapiens,23722023,H-36-09
+AB817091,AL_Indian-Sub,Indian-Sub,LKA,Sri Lanka,Matara,2009,2009,2009,1353,13-Jun-13,13-Jun-13,Homo sapiens,23722023,H-425-09
+AB817092,AL_Indian-Sub,Indian-Sub,LKA,Sri Lanka,Batticaloa,2010,2010,2010,1353,13-Jun-13,13-Jun-13,Homo sapiens,23722023,H-557-10
+AB817093,AL_Indian-Sub,Indian-Sub,LKA,Sri Lanka,Vavuniya,2010,2010,2010,1353,13-Jun-13,13-Jun-13,Homo sapiens,23722023,H-620-10
+AB817094,AL_Indian-Sub,Indian-Sub,LKA,Sri Lanka,Jaffna,2010,2010,2010,1353,13-Jun-13,13-Jun-13,Homo sapiens,23722023,H-635-10
+AB817095,AL_Indian-Sub,Indian-Sub,LKA,Sri Lanka,Batticaloa,2009,2009,2009,1353,13-Jun-13,13-Jun-13,Homo sapiens,23722023,H-889-09
+AB817096,AL_Indian-Sub,Indian-Sub,LKA,Sri Lanka,Colombo,2009,2009,2009,1353,13-Jun-13,13-Jun-13,Homo sapiens,23722023,H-920-09
+AB817097,AL_Indian-Sub,Indian-Sub,LKA,Sri Lanka,Batticaloa,2009,2009,2009,1353,13-Jun-13,13-Jun-13,Homo sapiens,23722023,H-925-09
+AB817098,AL_Indian-Sub,Indian-Sub,LKA,Sri Lanka,Anuradhapura,2009,2009,2009,1353,13-Jun-13,13-Jun-13,Homo sapiens,23722023,H-951-09
+AY138549,AL_Indian-Sub,Indian-Sub,LKA,Sri Lanka,-,-,-,2003,1414,02-Jan-03,23-Jul-16,Canis familiaris,12643834,1294
+AY138550,AL_Indian-Sub,Indian-Sub,LKA,Sri Lanka,-,2001,2001,2001,1414,02-Jan-03,23-Jul-16,Bos taurus,12643834,5657
+EU086191,AL_Indian-Sub,Indian-Sub,IND,India,-,1997,1997,1997,1353,30-Aug-08,20-Oct-08,Homo sapiens,18931062,9702INDI
+JX944569,AL_Indian-Sub,Indian-Sub,NPL,Nepal,-,2009,2009,2009,1353,31-Oct-13,04-Dec-13,Felis catus,24278494,3878-73(11003NEP)
+JX944595,AL_Indian-Sub,Indian-Sub,NPL,Nepal,-,2008,2008,2008,1353,31-Oct-13,04-Dec-13,Canis familiaris,24278494,4403-14
+JX944597,AL_Indian-Sub,Indian-Sub,NPL,Nepal,-,2009,2009,2009,1353,31-Oct-13,04-Dec-13,Canis familiaris,24278494,4403-17
+JX987737,AL_Indian-Sub,Indian-Sub,NPL,Nepal,Pokhara region,2003,2003,2003,1353,31-Oct-13,04-Dec-13,buffalo,24278494,09029NEP
+JX987740,AL_Indian-Sub,Indian-Sub,NPL,Nepal,Lalitpur region,2009,2009,2009,1353,31-Oct-13,04-Dec-13,Felis catus,24278494,11001NEP
+KF154999,AL_Indian-Sub,Indian-Sub,GBR,United Kingdom,-,2008,2008,2008,11924,13-Jul-13,13-Jul-13,Canis familiaris,23822119,RV2417
+KU963500,AL_Indian-Sub,Indian-Sub,-,-,-,2001,2001,2001,1350,06-Nov-16,06-Nov-16,Canis familiaris,-,SN13-55-CanineSL2001
+KU963505,AL_Indian-Sub,Indian-Sub,-,-,-,2004,2004,2004,1350,06-Nov-16,06-Nov-16,Canis familiaris,-,SN18-57-CanineIND2004
+KU963507,AL_Indian-Sub,Indian-Sub,-,-,-,1997,1997,1997,1350,06-Nov-16,06-Nov-16,Canis familiaris,-,SN20-61-CanineIND1997
+KX148108,AL_Indian-Sub,Indian-Sub,NPL,Nepal,-,2011,2011,2011,11925,28-Nov-16,28-Nov-16,Felis catus,-,11001NEP
+KX148245,AL_Indian-Sub,Indian-Sub,NPL,Nepal,-,2009,2009,2009,11803,28-Nov-16,28-Nov-16,buffalo,-,09029NEP
+KX148246,AL_Indian-Sub,Indian-Sub,IND,India,-,1997,1997,1997,11803,28-Nov-16,28-Nov-16,Homo sapiens,-,97002IND
+KX434506,AL_Indian-Sub,Indian-Sub,IND,India,-,2005,2005,2005,1353,24-Apr-17,24-Apr-17,Canis familiaris,-,ITN-R148
+KX434507,AL_Indian-Sub,Indian-Sub,IND,India,-,2005,2005,2005,1353,24-Apr-17,24-Apr-17,elephant,-,IKE-R154
+KX434508,AL_Indian-Sub,Indian-Sub,IND,India,-,2005,2005,2005,1353,24-Apr-17,24-Apr-17,Bos taurus,-,IKE-R155
+LC110290,AL_Indian-Sub,Indian-Sub,LKA,Sri Lanka,Gampaha,2011,2011,2011,1353,07-Jul-16,07-Jul-16,Bat,-,H-528-11
+LC110291,AL_Indian-Sub,Indian-Sub,LKA,Sri Lanka,Moneragala,2012,2012,2012,1353,07-Jul-16,07-Jul-16,Homo sapiens,-,H-547-12
+LC110292,AL_Indian-Sub,Indian-Sub,LKA,Sri Lanka,Puttalam,2012,2012,2012,1353,07-Jul-16,07-Jul-16,Homo sapiens,-,H-964-12
+LC110293,AL_Indian-Sub,Indian-Sub,LKA,Sri Lanka,Colombo,2010,2010,2010,1353,07-Jul-16,07-Jul-16,Civet,-,H-1351-10
+LC110294,AL_Indian-Sub,Indian-Sub,LKA,Sri Lanka,Kalutara,2011,2011,2011,1353,07-Jul-16,07-Jul-16,Felis catus,-,H-605-11
+LC110295,AL_Indian-Sub,Indian-Sub,LKA,Sri Lanka,Kalutara,2011,2011,2011,1353,07-Jul-16,07-Jul-16,Mongoose,-,H-807-11
+LC110296,AL_Indian-Sub,Indian-Sub,LKA,Sri Lanka,Gampaha,2011,2011,2011,1353,07-Jul-16,07-Jul-16,Monkey,-,H-784-11
+LC110297,AL_Indian-Sub,Indian-Sub,LKA,Sri Lanka,Colombo,2010,2010,2010,1353,07-Jul-16,07-Jul-16,Mongoose,-,H-1322-10
+LC110298,AL_Indian-Sub,Indian-Sub,LKA,Sri Lanka,Kegalle,2010,2010,2010,1353,07-Jul-16,07-Jul-16,Squirrel,-,H-939-10
+LC110299,AL_Indian-Sub,Indian-Sub,LKA,Sri Lanka,Colombo,2010,2010,2010,1353,07-Jul-16,07-Jul-16,Squirrel,-,H-1485-10
+LC110300,AL_Indian-Sub,Indian-Sub,LKA,Sri Lanka,Colombo,2011,2011,2011,1353,07-Jul-16,07-Jul-16,Mongoose,-,H-74-11
+LC110301,AL_Indian-Sub,Indian-Sub,LKA,Sri Lanka,Gampaha,2010,2010,2010,1353,07-Jul-16,07-Jul-16,Felis catus,-,H-1525-10
+LC110302,AL_Indian-Sub,Indian-Sub,LKA,Sri Lanka,Gampaha,2012,2012,2012,1353,07-Jul-16,07-Jul-16,Canis familiaris,-,H-459-12
+LC110303,AL_Indian-Sub,Indian-Sub,LKA,Sri Lanka,Colombo,2012,2012,2012,1353,07-Jul-16,07-Jul-16,Mongoose,-,H-1172-12
+LC110304,AL_Indian-Sub,Indian-Sub,LKA,Sri Lanka,Kalutara,2010,2010,2010,1353,07-Jul-16,07-Jul-16,Felis catus,-,H-24-10
+LC110305,AL_Indian-Sub,Indian-Sub,LKA,Sri Lanka,Kalutara,2009,2009,2009,1353,07-Jul-16,07-Jul-16,Felis catus,-,H-1373-09
+LC110306,AL_Indian-Sub,Indian-Sub,LKA,Sri Lanka,Colombo,2009,2009,2009,1353,07-Jul-16,07-Jul-16,Felis catus,-,H-1468-09
+LC110307,AL_Indian-Sub,Indian-Sub,LKA,Sri Lanka,Gampaha,2010,2010,2010,1353,07-Jul-16,07-Jul-16,Felis catus,-,H-74-10
+LC110308,AL_Indian-Sub,Indian-Sub,LKA,Sri Lanka,Matale,2012,2012,2012,1353,07-Jul-16,07-Jul-16,Homo sapiens,-,H-1454-12
+LC110309,AL_Indian-Sub,Indian-Sub,LKA,Sri Lanka,Ratnapura,2012,2012,2012,1353,07-Jul-16,07-Jul-16,Homo sapiens,-,H-1371-12
+LC110310,AL_Indian-Sub,Indian-Sub,LKA,Sri Lanka,Matale,2012,2012,2012,1353,07-Jul-16,07-Jul-16,Homo sapiens,-,H-1218-12
+LC110311,AL_Indian-Sub,Indian-Sub,LKA,Sri Lanka,Kurunegala,2012,2012,2012,1353,07-Jul-16,07-Jul-16,Homo sapiens,-,H-1033-12
+LC110312,AL_Indian-Sub,Indian-Sub,LKA,Sri Lanka,Colombo,2012,2012,2012,1353,07-Jul-16,07-Jul-16,Homo sapiens,-,H-1122-12
+LC110313,AL_Indian-Sub,Indian-Sub,LKA,Sri Lanka,Batticaloa,2012,2012,2012,1353,07-Jul-16,07-Jul-16,Homo sapiens,-,H-685-12
+LC110314,AL_Indian-Sub,Indian-Sub,LKA,Sri Lanka,Badulla,2012,2012,2012,1353,07-Jul-16,07-Jul-16,Homo sapiens,-,H-595-12
+LC110315,AL_Indian-Sub,Indian-Sub,LKA,Sri Lanka,Kalutara,2012,2012,2012,1353,07-Jul-16,07-Jul-16,Homo sapiens,-,H-725-12
+LC110316,AL_Indian-Sub,Indian-Sub,LKA,Sri Lanka,Ampara,2012,2012,2012,1353,07-Jul-16,07-Jul-16,Homo sapiens,-,H-921-12
+LC110317,AL_Indian-Sub,Indian-Sub,LKA,Sri Lanka,Gampaha,2012,2012,2012,1353,07-Jul-16,07-Jul-16,Homo sapiens,-,H-1074-12
+LC110318,AL_Indian-Sub,Indian-Sub,LKA,Sri Lanka,Ratnapura,2012,2012,2012,1353,07-Jul-16,07-Jul-16,Homo sapiens,-,H-1208-12
+LC110319,AL_Indian-Sub,Indian-Sub,LKA,Sri Lanka,Gampaha,2012,2012,2012,1353,07-Jul-16,07-Jul-16,Canis familiaris,-,H-987-12
+LC110320,AL_Indian-Sub,Indian-Sub,LKA,Sri Lanka,Kegalle,2012,2012,2012,1353,07-Jul-16,07-Jul-16,Gray mongoose,-,H-706-12
+LC110321,AL_Indian-Sub,Indian-Sub,LKA,Sri Lanka,Colombo,2012,2012,2012,1353,07-Jul-16,07-Jul-16,Civet,-,H-910-12
+MH258837,AL_Indian-Sub,Indian-Sub,IND,India,Goa,2014,2014,2014,1353,28-Jul-18,28-Jul-18,Canis familiaris,-,India/dog/MVC-21/2014
+MH258838,AL_Indian-Sub,Indian-Sub,IND,India,Chennai,2014,2014,2014,1353,28-Jul-18,28-Jul-18,Canis familiaris,-,India/dog/MVC-10/2014
+MH258840,AL_Indian-Sub,Indian-Sub,IND,India,Chennai,2014,2014,2014,1353,28-Jul-18,28-Jul-18,Canis familiaris,-,India/dog/MVC-34/2014
+MH258841,AL_Indian-Sub,Indian-Sub,IND,India,Chennai,2014,2014,2014,1353,28-Jul-18,28-Jul-18,Capra hircus,-,India/goat/MVC-53/2014
+MH671332,AL_Indian-Sub,Indian-Sub,CHN,China,-,2017,2017,2017,11925,02-Jan-20,02-Jan-20,Homo sapiens,30640911,CXZ1704H
+MN534894,AL_Indian-Sub,Indian-Sub,NPL,Nepal,-,2018,2018,2018,11802,18-Apr-20,18-Apr-20,Homo sapiens,-,RABV_Nepal_2018
+MT826966,AL_Indian-Sub,Indian-Sub,IND,India,-,2011,2011,2011,1308,17-Apr-21,17-Apr-21,Canis lupus,-,TN/CHEN/Dog/PMS3

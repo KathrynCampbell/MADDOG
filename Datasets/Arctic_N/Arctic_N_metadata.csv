@@ -1,0 +1,792 @@
+﻿ID,alignment.name,assignment,sequence.m49_country.id,country,sequence.gb_place_sampled,sequence.collection_year,sequence.earliest_collection_year,year,sequence.gb_length,sequence.gb_create_date,sequence.gb_update_date,sequence.host,sequence.gb_pubmed_id,sequence.isolate
+AB178890,AL_Arctic_AL2,Arctic AL2,-,-,-,-,-,2004,1353,10-Dec-04,10-Dec-04,-,15508715,Komatsugawa
+AB571004,AL_Arctic_AL2,Arctic AL2,MNG,Mongolia,Tuv,2007,2007,2007,1365,22-Sep-10,22-Sep-10,Canis lupus familiaris,20859006,MGL-22
+AB699214,AL_Arctic_AL1a,Arctic AL1a,BGD,Bangladesh,Dhaka,2010,2010,2010,1353,21-Aug-12,14-Dec-12,Canis lupus familiaris,23171512,BDR1
+AB699215,AL_Arctic_AL1a,Arctic AL1a,BGD,Bangladesh,Narshingdi,2010,2010,2010,1353,21-Aug-12,14-Dec-12,Bos taurus,23171512,BDR2
+AB699216,AL_Arctic_AL1a,Arctic AL1a,BGD,Bangladesh,Dhaka,2010,2010,2010,1353,21-Aug-12,14-Dec-12,Bos taurus,23171512,BDR3
+AB699217,AL_Arctic_AL1a,Arctic AL1a,BGD,Bangladesh,Narayanganj,2010,2010,2010,1353,21-Aug-12,14-Dec-12,Capra hircus,23171512,BDR4
+AB699218,AL_Arctic_AL1a,Arctic AL1a,BGD,Bangladesh,Dhaka,2010,2010,2010,1353,21-Aug-12,14-Dec-12,Bos taurus,23171512,BDR6
+AB699219,AL_Arctic_AL1a,Arctic AL1a,BGD,Bangladesh,Narayanganj,2010,2010,2010,1353,21-Aug-12,14-Dec-12,Bos taurus,23171512,BDR7
+AB699220,AL_Arctic_AL1a,Arctic AL1a,BGD,Bangladesh,Narayanganj,2010,2010,2010,11928,21-Aug-12,14-Dec-12,Capra hircus,23171512,BDR5
+AB910532,AL_Arctic_AL1a,Arctic AL1a,BTN,Bhutan,Trashigang,2010,2010,2010,1353,20-Feb-14,20-Feb-14,Bos taurus,23171512,Btn115
+AH014570,AL_Arctic_A,Arctic A,USA,United States,New Hampshire,1994,1994,1994,1468,04-Aug-05,24-Aug-16,skunk,-,SM 2697
+AY352458,AL_Arctic_AL2,Arctic AL2,-,-,Chabarovsk,-,-,2004,1414,31-Jul-04,25-Jul-16,Nyctereutes procyonoides,15650080,857r
+AY352459,AL_Arctic_AL2,Arctic AL2,-,-,-,-,-,2004,1414,31-Jul-04,25-Jul-16,-,15650080,304c
+AY352460,AL_Arctic_AL2,Arctic AL2,-,-,Southern Siberia,1977,1977,1977,1414,31-Jul-04,25-Jul-16,Vulpes corsac,15650080,248c
+AY352462,AL_Arctic_A,Arctic A,-,-,North-central Siberia,1998,1998,1998,1414,31-Jul-04,25-Jul-16,Homo sapiens,15650080,RVHK
+AY352480,AL_Arctic_A,Arctic A,-,-,Tuva,-,-,2004,1414,31-Jul-04,25-Jul-16,Citellus undulatus,15650080,RV250
+AY352486,AL_Arctic_A,Arctic A,-,-,Yakutia,1995,1995,1995,1414,31-Jul-04,25-Jul-16,Canis lupus,15650080,3510w
+AY352487,AL_Arctic_A,Arctic A,-,-,-,-,-,2004,1414,31-Jul-04,25-Jul-16,-,15650080,483a
+AY352488,AL_Arctic_A,Arctic A,-,-,Yakutia,1988,1988,1988,1414,31-Jul-04,25-Jul-16,Vulpes lagopus,15650080,743a
+AY352493,AL_Arctic_AL1a,Arctic AL1a,-,-,-,-,-,2004,1414,31-Jul-04,25-Jul-16,-,15650080,RV61
+AY352494,AL_Arctic_AL2,Arctic AL2,-,-,-,-,-,2004,1414,31-Jul-04,25-Jul-16,Canis lupus familiaris,15650080,Komatsugawa
+AY352495,AL_Arctic_AL1b,Arctic AL1b,-,-,-,-,-,2004,1414,31-Jul-04,25-Jul-16,Bos taurus,15650080,196p
+AY352496,AL_Arctic,Arctic,-,-,-,-,-,2004,1414,31-Jul-04,25-Jul-16,Capra,15650080,277p
+AY352498,AL_Arctic_A,Arctic A,-,-,Alaska,1988,1988,1988,1414,31-Jul-04,25-Jul-16,Canis lupus familiaris,15650080,4795
+AY352499,AL_Arctic_A,Arctic A,-,-,Alaska,-,-,2004,1414,31-Jul-04,25-Jul-16,Vulpes vulpes,15650080,1420
+AY352500,AL_Arctic_A,Arctic A,-,-,Alaska,1988,1988,1988,1414,31-Jul-04,25-Jul-16,Vulpes vulpes,15650080,1421
+AY352501,AL_Arctic_A,Arctic A,-,-,Alaska,-,-,2004,1414,31-Jul-04,25-Jul-16,Vulpes lagopus,15650080,1422
+AY704923,AL_Arctic_A,Arctic A,-,-,-,-,-,2005,1374,04-Aug-05,25-Jul-16,Vulpes lagopus,-,-
+AY704924,AL_Arctic_A,Arctic A,USA,United States,Vermont,1992,1992,1992,1389,04-Aug-05,25-Jul-16,skunk,-,SM 1555
+AY704925,AL_Arctic_A,Arctic A,USA,United States,Vermont,1992,1992,1992,1371,04-Aug-05,25-Jul-16,Procyon lotor,-,SM 1571
+AY730595,AL_Arctic_AL2,Arctic AL2,KOR,South Korea,"Hongcheon County, Gangwon Province",2004,2004,2004,1353,08-May-05,08-May-05,Procyon lotor,15830152,KRH2-04
+AY730596,AL_Arctic_AL2,Arctic AL2,KOR,South Korea,"Hongcheon County, Gangwon Province",2004,2004,2004,1353,08-May-05,08-May-05,Canis lupus familiaris,15830152,KRH3-04
+AY730597,AL_Arctic_AL2,Arctic AL2,KOR,South Korea,Chuncheon,-,-,2005,1353,08-May-05,08-May-05,-,15830152,KRC5-04
+AY956319,AL_Arctic_AL1a,Arctic AL1a,DEU,Germany,-,-,-,2005,11928,29-Mar-05,29-Mar-05,-,-,-
+DQ076119,AL_Arctic_AL2,Arctic AL2,KOR,South Korea,-,1998,1998,1998,1353,18-Nov-05,18-Nov-05,Bos taurus,16051390,SKRBV9801YC
+DQ076120,AL_Arctic_AL2,Arctic AL2,KOR,South Korea,-,1998,1998,1998,1353,18-Nov-05,18-Nov-05,Canis familiaris,16051390,SKRDG9902GY
+DQ076121,AL_Arctic_AL2,Arctic AL2,KOR,South Korea,-,1999,1999,1999,1353,18-Nov-05,18-Nov-05,Canis familiaris,16051390,SKRRD9902PJ
+DQ076122,AL_Arctic_AL2,Arctic AL2,KOR,South Korea,-,1999,1999,1999,1353,18-Nov-05,18-Nov-05,Canis familiaris,16051390,SKRDG9901GY
+DQ076123,AL_Arctic_AL2,Arctic AL2,KOR,South Korea,-,1999,1999,1999,1353,18-Nov-05,18-Nov-05,Canis familiaris,16051390,SKRRD9901PJ
+DQ076124,AL_Arctic_AL2,Arctic AL2,KOR,South Korea,-,2002,2002,2002,1353,18-Nov-05,18-Nov-05,Canis familiaris,16051390,SKRDG0203CW
+DQ076125,AL_Arctic_AL2,Arctic AL2,KOR,South Korea,-,2002,2002,2002,1353,18-Nov-05,18-Nov-05,Canis familiaris,16051390,SKRDG0204CW
+DQ076126,AL_Arctic_AL2,Arctic AL2,KOR,South Korea,-,2004,2004,2004,1353,18-Nov-05,18-Nov-05,Canis familiaris,16051390,SKRRD0406CC
+DQ076127,AL_Arctic_AL2,Arctic AL2,KOR,South Korea,-,2002,2002,2002,1353,18-Nov-05,18-Nov-05,Canis familiaris,16051390,SKRRD0205HC
+DQ076128,AL_Arctic_AL2,Arctic AL2,KOR,South Korea,-,2002,2002,2002,1353,18-Nov-05,18-Nov-05,Canis familiaris,16051390,SKRRD0204HC
+DQ076129,AL_Arctic_AL2,Arctic AL2,KOR,South Korea,-,2004,2004,2004,1353,18-Nov-05,18-Nov-05,Bos taurus,16051390,SKRBV0403CW
+DQ076130,AL_Arctic_AL2,Arctic AL2,KOR,South Korea,-,2004,2004,2004,1353,18-Nov-05,18-Nov-05,Bos taurus,16051390,SKRBV0404HC
+DQ076131,AL_Arctic_AL2,Arctic AL2,KOR,South Korea,-,1999,1999,1999,1353,18-Nov-05,18-Nov-05,Bos taurus,16051390,SKRRD9903YG
+DQ521212,AL_Arctic,Arctic,IRN,Iran,-,-,-,2006,1455,26-May-06,01-Dec-08,Ovis aries,-,V704IRN
+DQ840098,AL_Arctic_AL1a,Arctic AL1a,IND,India,-,-,-,2006,1410,22-Aug-06,22-Aug-06,Canis familiaris,-,-
+EF437215,AL_Arctic_AL1a,Arctic AL1a,IND,India,-,-,-,2007,11928,07-Mar-07,07-Mar-07,Homo sapiens,-,NNV-RAB-H
+EF611828,AL_Arctic_A,Arctic A,-,-,Yakutia,1987,1987,1987,1350,06-Mar-08,25-Jul-16,Vulpes vulpes,17599781,SG21
+EF611829,AL_Arctic_A,Arctic A,-,-,Yakutia,1987,1987,1987,1350,06-Mar-08,25-Jul-16,Vulpes vulpes,17599781,SG19
+EF611830,AL_Arctic_A,Arctic A,-,-,Yakutia,1987,1987,1987,1350,06-Mar-08,25-Jul-16,Vulpes vulpes,17599781,SG20
+EF611831,AL_Arctic_A,Arctic A,-,-,Yakutia,1987,1987,1987,1350,06-Mar-08,25-Jul-16,Vulpes vulpes,17599781,SG22
+EF611832,AL_Arctic_A,Arctic A,-,-,Yakutia,-,1950,1960,1350,06-Mar-08,25-Jul-16,Vulpes vulpes,17599781,SG3
+EF611833,AL_Arctic_A,Arctic A,-,-,Yakutia,1988,1988,1988,1350,06-Mar-08,25-Jul-16,Vulpes vulpes,17599781,SG23
+EF611834,AL_Arctic_A,Arctic A,-,-,Yakutia,-,1950,1960,1350,06-Mar-08,25-Jul-16,Vulpes vulpes,17599781,SG91
+EF611835,AL_Arctic_A,Arctic A,-,-,Yakutia,-,1950,1960,1350,06-Mar-08,25-Jul-16,Vulpes vulpes,17599781,SG92
+EF611836,AL_Arctic_A,Arctic A,-,-,Yakutia,-,1950,1960,1350,06-Mar-08,25-Jul-16,Vulpes vulpes,17599781,SG16
+EF611837,AL_Arctic_A,Arctic A,-,-,Yakutia,-,1950,1960,1350,06-Mar-08,25-Jul-16,Vulpes vulpes,17599781,SG12
+EF611838,AL_Arctic_A,Arctic A,-,-,Yakutia,-,1950,1960,1350,06-Mar-08,25-Jul-16,Vulpes vulpes,17599781,SG10
+EF611839,AL_Arctic_A,Arctic A,-,-,Yakutia,-,1950,1960,1350,06-Mar-08,25-Jul-16,Vulpes vulpes,17599781,SG1
+EF611840,AL_Arctic_A,Arctic A,-,-,Yakutia,-,1950,1960,1350,06-Mar-08,25-Jul-16,Vulpes vulpes,17599781,SG15
+EF611841,AL_Arctic_A,Arctic A,-,-,Alaska,2007,2007,2007,1350,06-Mar-08,25-Jul-16,Vulpes vulpes,17599781,A7007
+EF611842,AL_Arctic_A,Arctic A,-,-,Alaska,2006,2006,2006,1350,06-Mar-08,25-Jul-16,Vulpes vulpes,17599781,A6086
+EF611843,AL_Arctic_A,Arctic A,-,-,Alaska,2007,2007,2007,1350,06-Mar-08,25-Jul-16,Vulpes vulpes,17599781,A7027
+EF611844,AL_Arctic_A,Arctic A,-,-,Alaska,2007,2007,2007,1350,06-Mar-08,25-Jul-16,Canis familiaris,17599781,A7006
+EF611845,AL_Arctic_A,Arctic A,-,-,Alaska,2007,2007,2007,1350,06-Mar-08,25-Jul-16,Vulpes vulpes,17599781,A7033
+EF611846,AL_Arctic_A,Arctic A,-,-,Alaska,2006,2006,2006,1350,06-Mar-08,25-Jul-16,Vulpes vulpes,17599781,A6054
+EF611847,AL_Arctic_A,Arctic A,-,-,Alaska,2006,2006,2006,1350,06-Mar-08,25-Jul-16,Vulpes vulpes,17599781,A6053
+EF611848,AL_Arctic_A,Arctic A,-,-,Alaska,2006,2006,2006,1350,06-Mar-08,25-Jul-16,Vulpes vulpes,17599781,A6013
+EF611849,AL_Arctic_A,Arctic A,-,-,Alaska,2006,2006,2006,1350,06-Mar-08,25-Jul-16,Vulpes vulpes,17599781,A6091
+EF611850,AL_Arctic_A,Arctic A,-,-,Alaska,2007,2007,2007,1350,06-Mar-08,25-Jul-16,Vulpes vulpes,17599781,A7032
+EF611851,AL_Arctic_A,Arctic A,-,-,Alaska,2006,2006,2006,1350,06-Mar-08,25-Jul-16,Vulpes vulpes,17599781,A7031
+EF611852,AL_Arctic_A,Arctic A,-,-,Alaska,2006,2006,2006,1350,06-Mar-08,25-Jul-16,Vulpes vulpes,17599781,A7026
+EF611853,AL_Arctic_A,Arctic A,-,-,-,-,-,2008,1350,06-Mar-08,25-Jul-16,Canis familiaris,17599781,A0905
+EF611854,AL_Arctic_A,Arctic A,-,-,Alaska,2006,2006,2006,1350,06-Mar-08,25-Jul-16,Vulpes vulpes,17599781,A0904
+EF611855,AL_Arctic_A,Arctic A,-,-,Alaska,2006,2006,2006,1350,06-Mar-08,25-Jul-16,Canis familiaris,17599781,A0903
+EF611856,AL_Arctic_A,Arctic A,-,-,Alaska,2006,2006,2006,1350,06-Mar-08,25-Jul-16,Vulpes vulpes,17599781,A0906
+EF611857,AL_Arctic_AL1a,Arctic AL1a,-,-,-,-,-,2008,1350,06-Mar-08,25-Jul-16,-,17599781,I_145
+EF611858,AL_Arctic_AL1a,Arctic AL1a,-,-,-,-,-,2008,1350,06-Mar-08,25-Jul-16,-,17599781,I_141
+EF611859,AL_Arctic_AL1a,Arctic AL1a,-,-,-,-,-,2008,1350,06-Mar-08,25-Jul-16,-,17599781,I_129
+EF611860,AL_Arctic_AL1a,Arctic AL1a,-,-,-,-,-,2008,1350,06-Mar-08,25-Jul-16,-,17599781,I_123
+EF611861,AL_Arctic_AL1a,Arctic AL1a,-,-,-,-,-,2008,1350,06-Mar-08,25-Jul-16,-,17599781,I_117
+EF611862,AL_Arctic_AL1a,Arctic AL1a,-,-,-,-,-,2008,1350,06-Mar-08,25-Jul-16,-,17599781,I_116
+EF611863,AL_Arctic_AL1a,Arctic AL1a,-,-,-,-,-,2008,1350,06-Mar-08,25-Jul-16,-,17599781,I_114
+EF611864,AL_Arctic_AL1a,Arctic AL1a,-,-,-,-,-,2008,1350,06-Mar-08,25-Jul-16,-,17599781,I_107
+EF611865,AL_Arctic_AL1a,Arctic AL1a,-,-,-,-,-,2008,1350,06-Mar-08,25-Jul-16,-,17599781,I_96
+EF611866,AL_Arctic_AL1a,Arctic AL1a,-,-,-,-,-,2008,1350,06-Mar-08,25-Jul-16,-,17599781,I_81
+EF611867,AL_Arctic_AL1a,Arctic AL1a,-,-,-,-,-,2008,1350,06-Mar-08,25-Jul-16,-,17599781,I_76
+EF611868,AL_Arctic_AL2,Arctic AL2,-,-,Southern Siberia,1980,1980,1980,1350,06-Mar-08,25-Jul-16,Canis familiaris,17599781,994_dog
+EF611869,AL_Arctic_AL1b,Arctic AL1b,-,-,-,2005,2005,2005,1350,06-Mar-08,25-Jul-16,Canis familiaris,17599781,Iraq_dog
+EU086162,AL_Arctic,Arctic,AFG,Afghanistan,-,1996,1996,1996,1353,30-Aug-08,20-Oct-08,Canis familiaris,18931062,04027AFG
+EU086196,AL_Arctic_AL3,Arctic AL3,NPL,Nepal,-,1998,1998,1998,1353,30-Aug-08,20-Oct-08,Canis familiaris,18931062,9901NEP
+EU086197,AL_Arctic_AL3,Arctic AL3,NPL,Nepal,-,1998,1998,1998,1353,30-Aug-08,20-Oct-08,Capra hircus,18931062,9902NEP
+EU086198,AL_Arctic_AL3,Arctic AL3,NPL,Nepal,-,1998,1998,1998,1353,30-Aug-08,20-Oct-08,mongoose,18931062,9903NEP
+EU284093,AL_Arctic_AL2,Arctic AL2,CHN,China,Zhengxiangbaiqi,2007,2007,2007,1567,19-Dec-07,12-Jan-12,Nyctereutes procyonoides,20546631,NeiMeng927A
+EU284094,AL_Arctic_AL2,Arctic AL2,CHN,China,Zhengxiangbaiqi,2007,2007,2007,1567,19-Dec-07,12-Jan-12,Nyctereutes procyonoides,20546631,NeiMeng1025C
+EU652444,AL_Arctic_AL2,Arctic AL2,CHN,China,Zhengxiangbaiqi,2007,2007,2007,1567,03-May-08,12-Jan-12,Nyctereutes procyonoides,20546631,NeiMeng927B
+EU652445,AL_Arctic_AL2,Arctic AL2,CHN,China,Zhengxiangbaiqi,2007,2007,2007,1567,03-May-08,12-Jan-12,Nyctereutes procyonoides,20546631,NeiMeng1025B
+EU836832,AL_Arctic_AL3,Arctic AL3,ITA,Italy,-,1996,1996,1996,1353,14-Jul-09,14-Jul-09,Homo sapiens,-,-
+FJ228546,AL_Arctic_AL1a,Arctic AL1a,USA,United States,Alaska,2007,2007,2007,1350,08-Mar-09,23-Jul-16,Vulpes lagopus,-,AKDOG2007
+FJ415313,AL_Arctic_AL2,Arctic AL2,CHN,China,Zhengxiangbaiqi,2007,2007,2007,5367,18-Nov-08,12-Jan-12,Nyctereutes procyonoides,20546631,NeiMeng925
+GU937035,AL_Arctic_AL2,Arctic AL2,KOR,South Korea,-,2009,2009,2009,1353,26-Apr-10,04-Jul-12,Canis familiaris,21368564,KRVR0906
+GU937036,AL_Arctic_AL2,Arctic AL2,KOR,South Korea,-,2009,2009,2009,1353,26-Apr-10,04-Jul-12,Canis familiaris,21368564,KRVR0901
+GU937037,AL_Arctic_AL2,Arctic AL2,KOR,South Korea,-,2008,2008,2008,1353,26-Apr-10,04-Jul-12,Canis familiaris,21368564,KRVR0804
+GU937038,AL_Arctic_AL2,Arctic AL2,KOR,South Korea,-,2008,2008,2008,1353,26-Apr-10,04-Jul-12,Canis familiaris,21368564,KRVR0803
+GU937039,AL_Arctic_AL2,Arctic AL2,KOR,South Korea,-,2008,2008,2008,1353,26-Apr-10,04-Jul-12,Canis familiaris,21368564,KRVR0801
+GU937040,AL_Arctic_AL2,Arctic AL2,KOR,South Korea,-,2008,2008,2008,1353,26-Apr-10,04-Jul-12,Canis lupus familiaris,21368564,KRVC0802
+GU937041,AL_Arctic_AL2,Arctic AL2,KOR,South Korea,-,2009,2009,2009,1353,26-Apr-10,04-Jul-12,Bos taurus,21368564,KRVB0907
+GU937042,AL_Arctic_AL2,Arctic AL2,KOR,South Korea,-,2009,2009,2009,1353,26-Apr-10,04-Jul-12,Bos taurus,21368564,KRVB0905
+GU937043,AL_Arctic_AL2,Arctic AL2,KOR,South Korea,-,2009,2009,2009,1353,26-Apr-10,04-Jul-12,Bos taurus,21368564,KRVB0904
+GU937044,AL_Arctic_AL2,Arctic AL2,KOR,South Korea,-,2009,2009,2009,1353,26-Apr-10,04-Jul-12,Bos taurus,21368564,KRVB0903
+GU937045,AL_Arctic_AL2,Arctic AL2,KOR,South Korea,-,2009,2009,2009,1353,26-Apr-10,04-Jul-12,Bos taurus,21368564,KRVB0902
+GU992304,AL_Arctic_AL1b,Arctic AL1b,AFG,Afghanistan,-,2004,2004,2004,1353,26-Apr-10,09-Aug-10,Canis familiaris,-,04035AFG
+GU992317,AL_Arctic_A,Arctic A,USA,United States,-,1991,1991,1991,1353,26-Apr-10,09-Aug-10,skunk,-,9104USA
+HE801579,AL_Arctic,Arctic,-,-,-,-,-,2014,1353,06-Jan-14,06-Jan-14,Canis familiaris,-,Pk 19
+HE801580,AL_Arctic_AL1b,Arctic AL1b,-,-,-,-,-,2014,1353,06-Jan-14,06-Jan-14,Canis familiaris,-,Pk 20
+HE801581,AL_Arctic,Arctic,-,-,-,-,-,2014,1353,06-Jan-14,06-Jan-14,Canis familiaris,-,Pk 21
+HE801582,AL_Arctic,Arctic,-,-,-,-,-,2014,1353,06-Jan-14,06-Jan-14,Equus mulus,-,Pk 22
+HE801583,AL_Arctic,Arctic,-,-,-,-,-,2014,1353,06-Jan-14,06-Jan-14,Equus mulus,-,Pk 25
+HE801584,AL_Arctic,Arctic,-,-,-,-,-,2014,1353,06-Jan-14,06-Jan-14,Bubalus bubalis,-,Pk 26
+HE801585,AL_Arctic_AL1a,Arctic AL1a,-,-,-,-,-,2014,1353,06-Jan-14,06-Jan-14,Equus mulus,-,Pk 27
+HE801586,AL_Arctic_AL1b,Arctic AL1b,-,-,-,-,-,2014,1353,06-Jan-14,06-Jan-14,Equus mulus,-,Pk 55
+HE801587,AL_Arctic_AL1b,Arctic AL1b,-,-,-,-,-,2014,1353,06-Jan-14,06-Jan-14,Bos taurus,-,Pk 56
+HE801588,AL_Arctic_AL1b,Arctic AL1b,-,-,-,-,-,2014,1353,06-Jan-14,06-Jan-14,Capra hircus,-,Pk 57
+HE801589,AL_Arctic_AL1b,Arctic AL1b,-,-,-,-,-,2014,1353,06-Jan-14,06-Jan-14,Bos taurus,-,Pk 58
+HE801590,AL_Arctic_AL1b,Arctic AL1b,-,-,-,-,-,2014,1353,06-Jan-14,06-Jan-14,Bos taurus,-,Pk 59
+HE801591,AL_Arctic,Arctic,-,-,-,-,-,2014,1353,06-Jan-14,06-Jan-14,Equus mulus,-,Pk 60
+HE802675,AL_Arctic_AL1a,Arctic AL1a,PAK,Pakistan,-,2010,2010,2010,11928,06-Jan-14,06-Jan-14,Bos taurus,-,Pk 23
+HE802676,AL_Arctic_AL1a,Arctic AL1a,PAK,Pakistan,-,2007,2007,2007,11928,06-Jan-14,06-Jan-14,Bos taurus,-,Pk 24
+JN258586,AL_Arctic_A,Arctic A,USA,United States,Alaska,2007,2007,2007,1360,07-Dec-11,07-Dec-11,Vulpes vulpes,22100340,07V1479AL
+JN258587,AL_Arctic_A,Arctic A,USA,United States,Alaska,2007,2007,2007,1360,07-Dec-11,07-Dec-11,Vulpes vulpes,22100340,07V1480AL
+JN258588,AL_Arctic_A,Arctic A,USA,United States,Alaska,2007,2007,2007,1360,07-Dec-11,07-Dec-11,Vulpes vulpes,22100340,07V1481AL
+JN258589,AL_Arctic_A,Arctic A,USA,United States,Alaska,2008,2008,2008,1360,07-Dec-11,07-Dec-11,Vulpes vulpes,22100340,08V1484AL
+JN258590,AL_Arctic_A,Arctic A,USA,United States,Alaska,2008,2008,2008,1360,07-Dec-11,07-Dec-11,Vulpes vulpes,22100340,08V1485AL
+JN258591,AL_Arctic_A,Arctic A,USA,United States,Alaska,2008,2008,2008,1360,07-Dec-11,07-Dec-11,Vulpes vulpes,22100340,08V1486AL
+JN258592,AL_Arctic_A,Arctic A,USA,United States,Alaska,2008,2008,2008,1360,07-Dec-11,07-Dec-11,Vulpes vulpes,22100340,08V1488AL
+JQ944707,AL_Arctic_A,Arctic A,RUS,Russia,-,2008,2008,2008,11927,13-Jul-12,13-Jul-12,deer,-,1410KOM
+JX944565,AL_Arctic_AL3,Arctic AL3,NPL,Nepal,-,2003,2003,2003,1353,31-Oct-13,04-Dec-13,Homo sapiens,24278494,4403-13(09030NEP)
+JX944566,AL_Arctic_AL3,Arctic AL3,NPL,Nepal,-,2010,2010,2010,1353,31-Oct-13,04-Dec-13,Canis familiaris,24278494,3878-02(11002NEP)
+JX944567,AL_Arctic_AL1a,Arctic AL1a,NPL,Nepal,-,2010,2010,2010,1353,31-Oct-13,04-Dec-13,Canis familiaris,24278494,3878-09(11009NEP)
+JX944568,AL_Arctic_AL3,Arctic AL3,NPL,Nepal,-,2010,2010,2010,1353,31-Oct-13,04-Dec-13,Canis familiaris,24278494,3878-10(11013NEP)
+JX944570,AL_Arctic_AL3,Arctic AL3,NPL,Nepal,-,2010,2010,2010,1353,31-Oct-13,04-Dec-13,Capra hircus,24278494,3878-74(11004NEP)
+JX944571,AL_Arctic_AL3,Arctic AL3,NPL,Nepal,-,2010,2010,2010,1353,31-Oct-13,04-Dec-13,Capra hircus,24278494,3878-75(11005NEP)
+JX944572,AL_Arctic_AL3,Arctic AL3,NPL,Nepal,-,2010,2010,2010,1353,31-Oct-13,04-Dec-13,Felis catus,24278494,3878-76(11006NEP)
+JX944573,AL_Arctic_AL3,Arctic AL3,NPL,Nepal,-,2010,2010,2010,1353,31-Oct-13,04-Dec-13,Capra hircus,24278494,3878-77(11007NEP)
+JX944574,AL_Arctic_AL1a,Arctic AL1a,NPL,Nepal,-,2010,2010,2010,1353,31-Oct-13,04-Dec-13,Capra hircus,24278494,3878-78(11008NEP)
+JX944596,AL_Arctic_AL3,Arctic AL3,NPL,Nepal,-,2009,2009,2009,1353,31-Oct-13,04-Dec-13,Canis familiaris,24278494,4403-16
+JX944598,AL_Arctic_AL3,Arctic AL3,NPL,Nepal,-,2009,2009,2009,1353,31-Oct-13,04-Dec-13,Canis familiaris,24278494,4403-19
+JX944599,AL_Arctic_AL3,Arctic AL3,NPL,Nepal,-,2010,2010,2010,1353,31-Oct-13,04-Dec-13,Canis familiaris,24278494,3878-03
+JX944600,AL_Arctic_AL3,Arctic AL3,NPL,Nepal,-,2010,2010,2010,1353,31-Oct-13,04-Dec-13,Canis familiaris,24278494,3878-04
+JX944601,AL_Arctic_AL3,Arctic AL3,NPL,Nepal,-,2010,2010,2010,1353,31-Oct-13,04-Dec-13,mongoose,24278494,3878-05
+JX944602,AL_Arctic_AL3,Arctic AL3,NPL,Nepal,-,2010,2010,2010,1353,31-Oct-13,04-Dec-13,Canis familiaris,24278494,3878-08
+JX987735,AL_Arctic_AL1b,Arctic AL1b,AFG,Afghanistan,Kabul city,2002,2002,2002,1353,31-Oct-13,04-Dec-13,Canis familiaris,24278494,02052AFG
+JX987736,AL_Arctic_AL1b,Arctic AL1b,AFG,Afghanistan,Kabul city,2004,2004,2004,1353,31-Oct-13,04-Dec-13,Canis familiaris,24278494,04029AFG
+JX987738,AL_Arctic_AL3,Arctic AL3,NPL,Nepal,Kathmandu region,2008,2008,2008,1353,31-Oct-13,04-Dec-13,Canis familiaris,24278494,09031NEP
+JX987739,AL_Arctic_AL1b,Arctic AL1b,AFG,Afghanistan,Kabul city,2009,2009,2009,1353,31-Oct-13,04-Dec-13,Canis familiaris,24278494,09032AFG
+JX987741,AL_Arctic_AL3,Arctic AL3,NPL,Nepal,Kathmandu region,2011,2011,2011,1353,31-Oct-13,04-Dec-13,Canis familiaris,24278494,11015NEP
+JX987742,AL_Arctic_AL3,Arctic AL3,NPL,Nepal,Kathmandu region,2011,2011,2011,1353,31-Oct-13,04-Dec-13,Canis familiaris,24278494,11016NEP
+JX987743,AL_Arctic_AL3,Arctic AL3,NPL,Nepal,Kathmandu region,2011,2011,2011,1353,31-Oct-13,04-Dec-13,Canis familiaris,24278494,11017NEP
+JX987745,AL_Arctic_A,Arctic A,GRL,Greenland,-,1980,1980,1980,1353,31-Oct-13,04-Dec-13,Canis familiaris,24278494,8683GRO
+JX987747,AL_Arctic_A,Arctic A,RUS,Russia,Yakutia region,-,1988,1990,1353,31-Oct-13,04-Dec-13,Vulpes vulpes,24278494,9143RUS
+KC171643,AL_Arctic_AL2,Arctic AL2,KOR,South Korea,-,2008,2008,2008,11928,27-Feb-13,13-Dec-13,Felis catus,23975690,08F40
+KC171644,AL_Arctic_AL2,Arctic AL2,KOR,South Korea,-,2004,2004,2004,11928,27-Feb-13,13-Dec-13,Canis familiaris,23975690,BD0406CC
+KC171645,AL_Arctic_AL2,Arctic AL2,KOR,South Korea,-,1999,1999,1999,11928,27-Feb-13,13-Dec-13,Canis familiaris,23975690,BV9901PJ
+KC465371,AL_Arctic_AL1a,Arctic AL1a,CHN,China,-,2012,2012,2012,1353,31-Jan-18,31-Jan-18,Homo sapiens,-,CBJ1212H
+KC465372,AL_Arctic_AL2,Arctic AL2,CHN,China,-,2012,2012,2012,1353,18-Nov-15,18-Nov-15,Canis familiaris,26484668,CXZ1201D
+KF154996,AL_Arctic_AL1a,Arctic AL1a,GBR,United Kingdom,-,1987,1987,1987,11928,13-Jul-13,13-Jul-13,Homo sapiens,23822119,RV61
+KF437655,AL_Arctic_AL2,Arctic AL2,KOR,South Korea,-,2012,2012,2012,1341,11-Nov-13,11-Nov-13,Canis familiaris,-,12D101
+KF437656,AL_Arctic_AL2,Arctic AL2,KOR,South Korea,-,2012,2012,2012,1341,11-Nov-13,11-Nov-13,Canis familiaris,-,12Q116
+KF437657,AL_Arctic_AL2,Arctic AL2,KOR,South Korea,-,2012,2012,2012,1341,11-Nov-13,11-Nov-13,Bos taurus,-,12F95-1
+KF437658,AL_Arctic_AL2,Arctic AL2,KOR,South Korea,-,2012,2012,2012,1341,11-Nov-13,11-Nov-13,Procyon lotor,-,12Q314
+KF437659,AL_Arctic_AL2,Arctic AL2,KOR,South Korea,-,2013,2013,2013,1341,11-Nov-13,11-Nov-13,Felis catus,-,13R06
+KF437660,AL_Arctic_AL2,Arctic AL2,KOR,South Korea,-,2013,2013,2013,1341,11-Nov-13,11-Nov-13,Bos taurus,-,13R10
+KF437661,AL_Arctic_AL2,Arctic AL2,KOR,South Korea,-,2013,2013,2013,1341,11-Nov-13,11-Nov-13,Canis familiaris,-,13D36
+KF437662,AL_Arctic_AL2,Arctic AL2,KOR,South Korea,-,2013,2013,2013,1341,11-Nov-13,11-Nov-13,Canis familiaris,-,13R13
+KF437663,AL_Arctic_AL2,Arctic AL2,KOR,South Korea,-,2013,2013,2013,1341,11-Nov-13,11-Nov-13,Canis familiaris,-,13R17
+KF437664,AL_Arctic_AL2,Arctic AL2,KOR,South Korea,-,2013,2013,2013,1341,11-Nov-13,11-Nov-13,Procyon lotor,-,13R18
+KF437665,AL_Arctic_AL2,Arctic AL2,KOR,South Korea,-,2013,2013,2013,1341,11-Nov-13,11-Nov-13,Procyon lotor,-,13R19
+KF660245,AL_Arctic_AL1a,Arctic AL1a,IND,India,-,2012,2012,2012,1353,14-Dec-13,14-Dec-13,buffalo,-,IGU-199
+KF660246,AL_Arctic_AL1a,Arctic AL1a,IND,India,-,2012,2012,2012,1353,14-Dec-13,14-Dec-13,buffalo,-,IGU-200
+KF709083,AL_Arctic_AL2,Arctic AL2,KOR,South Korea,-,2010,2010,2010,1353,28-Dec-13,28-Dec-13,Canis familiaris,-,KRVC1007
+KF709084,AL_Arctic_AL2,Arctic AL2,KOR,South Korea,-,2010,2010,2010,1353,28-Dec-13,28-Dec-13,Bos taurus,-,KRVB1008
+KF709085,AL_Arctic_AL2,Arctic AL2,KOR,South Korea,-,2011,2011,2011,1353,28-Dec-13,28-Dec-13,Bos taurus,-,KRVB1101
+KF709086,AL_Arctic_AL2,Arctic AL2,KOR,South Korea,-,2011,2011,2011,1353,28-Dec-13,28-Dec-13,Bos taurus,-,KRVB1102
+KF709087,AL_Arctic_AL2,Arctic AL2,KOR,South Korea,-,2011,2011,2011,1353,28-Dec-13,28-Dec-13,Bos taurus,-,KRVB1103
+KF709088,AL_Arctic_AL2,Arctic AL2,KOR,South Korea,-,2011,2011,2011,1353,28-Dec-13,28-Dec-13,Bos taurus,-,KRVB1104
+KF709089,AL_Arctic_AL2,Arctic AL2,KOR,South Korea,-,2012,2012,2012,1353,28-Dec-13,28-Dec-13,Canis familiaris,-,KRVR1202
+KF709090,AL_Arctic_AL2,Arctic AL2,KOR,South Korea,-,2012,2012,2012,1353,28-Dec-13,28-Dec-13,Bos taurus,-,KRVB1206
+KF709091,AL_Arctic_AL2,Arctic AL2,KOR,South Korea,-,2012,2012,2012,1353,28-Dec-13,28-Dec-13,Canis familiaris,-,KRVR1207
+KF709092,AL_Arctic_AL2,Arctic AL2,KOR,South Korea,-,2013,2013,2013,1353,28-Dec-13,28-Dec-13,Felis catus,-,KRVF1301
+KF709093,AL_Arctic_AL2,Arctic AL2,KOR,South Korea,-,2013,2013,2013,1353,28-Dec-13,28-Dec-13,Bos taurus,-,KRVB1302
+KF709094,AL_Arctic_AL2,Arctic AL2,KOR,South Korea,-,2013,2013,2013,1353,28-Dec-13,28-Dec-13,Canis familiaris,-,KRVC1303
+KF709095,AL_Arctic_AL2,Arctic AL2,KOR,South Korea,-,2013,2013,2013,1353,28-Dec-13,28-Dec-13,Canis familiaris,-,KRVC1304
+KF709096,AL_Arctic_AL2,Arctic AL2,KOR,South Korea,-,2013,2013,2013,1353,28-Dec-13,28-Dec-13,Canis familiaris,-,KRVC1305
+KF992019,AL_Arctic,Arctic,AFG,Afghanistan,-,2011,2011,2011,1353,15-Mar-14,15-Mar-14,Homo sapiens,-,ACS11
+KJ476821,AL_Arctic_AL2,Arctic AL2,KOR,South Korea,-,2009,2009,2009,1353,23-Jun-14,23-Jun-14,Bos taurus,-,KRVB0910
+KJ476822,AL_Arctic_AL2,Arctic AL2,KOR,South Korea,-,2012,2012,2012,1353,23-Jun-14,23-Jun-14,Canis familiaris,-,KRVR1201
+KM016898,AL_Arctic_AL2,Arctic AL2,CHN,China,-,2011,2011,2011,1353,30-Sep-14,30-Sep-14,Canis familiaris,-,TJ11-RD
+KM034905,AL_Arctic_AL2,Arctic AL2,CHN,China,-,2012,2012,2012,1353,18-Nov-15,18-Nov-15,Canis familiaris,26484668,CQH1202D
+KM099392,AL_Arctic_AL1a,Arctic AL1a,IND,India,-,2013,2013,2013,1353,11-Oct-14,11-Oct-14,nilgai,-,RV-IGU-201-Nilgai
+KM099393,AL_Arctic_AL1a,Arctic AL1a,IND,India,-,2014,2014,2014,1353,11-Oct-14,11-Oct-14,mongoose,-,RV-IGU-R202-Mongoose
+KM272192,AL_Arctic_AL2,Arctic AL2,CHN,China,-,2012,2012,2012,11927,05-Apr-15,07-Jul-15,Canis familiaris,-,CQH1202D/China/2012
+KM979359,AL_Arctic_AL3,Arctic AL3,NPL,Nepal,-,2011,2011,2011,1353,31-Dec-15,31-Dec-15,Canis familiaris,-,NPDOG11-1
+KM979360,AL_Arctic_AL3,Arctic AL3,NPL,Nepal,-,2011,2011,2011,1353,31-Dec-15,31-Dec-15,Canis familiaris,-,NPDOG11-2
+KM979361,AL_Arctic_AL3,Arctic AL3,NPL,Nepal,-,2011,2011,2011,1353,31-Dec-15,31-Dec-15,Canis familiaris,-,NPDOG11-3
+KM979362,AL_Arctic_AL3,Arctic AL3,NPL,Nepal,-,2011,2011,2011,1353,31-Dec-15,31-Dec-15,Canis familiaris,-,NPDOG11-4
+KM979363,AL_Arctic_AL3,Arctic AL3,NPL,Nepal,-,2011,2011,2011,1353,31-Dec-15,31-Dec-15,Canis familiaris,-,NPDOG11-5
+KM979364,AL_Arctic_AL3,Arctic AL3,NPL,Nepal,-,2012,2012,2012,1353,31-Dec-15,31-Dec-15,Canis familiaris,-,NPDOG12-1
+KM979365,AL_Arctic_AL3,Arctic AL3,NPL,Nepal,-,2012,2012,2012,1353,31-Dec-15,31-Dec-15,Canis familiaris,-,NPDOG12-2
+KM979366,AL_Arctic_AL1a,Arctic AL1a,NPL,Nepal,-,2012,2012,2012,1353,31-Dec-15,31-Dec-15,buffalo,-,NPBUF12-1
+KT895593,AL_Arctic_AL2,Arctic AL2,CHN,China,Inner Mongolia,2013,2013,2013,1353,21-Oct-16,21-Oct-16,Canis familiaris,-,DG11248
+KU041697,AL_Arctic_AL2,Arctic AL2,CHN,China,Inner Mongolia,2014,2014,2014,1353,31-Dec-16,31-Dec-16,Canis familiaris,-,NMXLHT
+KU198460,AL_Arctic_A,Arctic A,USA,United States,-,1989,1989,1989,11926,03-May-16,03-May-16,Alopex lagopus,-,89V809AFX
+KU198461,AL_Arctic_A,Arctic A,CAN,Canada,-,1990,1990,1990,11927,03-May-16,03-May-16,Alopex lagopus,-,90L2968AFX
+KU198462,AL_Arctic_A,Arctic A,USA,United States,-,1990,1990,1990,11926,03-May-16,03-May-16,Alopex lagopus,-,90V814AFX
+KU198463,AL_Arctic_A,Arctic A,USA,United States,-,1990,1990,1990,11926,03-May-16,03-May-16,Vulpes vulpes,-,90V820RFX
+KU198464,AL_Arctic_A,Arctic A,CAN,Canada,-,1991,1991,1991,11927,03-May-16,03-May-16,Alopex lagopus,-,91L0085AFX
+KU198465,AL_Arctic_A,Arctic A,CAN,Canada,-,1992,1992,1992,11926,03-May-16,03-May-16,Vulpes vulpes,-,92N7894RFX
+KU198466,AL_Arctic_A,Arctic A,CAN,Canada,-,1993,1993,1993,11927,03-May-16,03-May-16,Alopex lagopus,-,93N1395AFX
+KU198467,AL_Arctic_A,Arctic A,CAN,Canada,-,1997,1997,1997,11926,03-May-16,03-May-16,Alopex lagopus,-,97L1793AFX
+KU198468,AL_Arctic_A,Arctic A,CAN,Canada,-,2000,2000,2000,11926,03-May-16,03-May-16,Vulpes vulpes,-,00N3340RFX
+KU198469,AL_Arctic_A,Arctic A,CAN,Canada,-,2001,2001,2001,11924,03-May-16,03-May-16,Vulpes vulpes,-,01N10254RFX
+KU198470,AL_Arctic_A,Arctic A,CAN,Canada,-,2002,2002,2002,11926,03-May-16,03-May-16,Vulpes vulpes,-,02N2980RFX
+KU198471,AL_Arctic_A,Arctic A,USA,United States,-,2007,2007,2007,11926,03-May-16,03-May-16,Vulpes vulpes,-,07V1483RFX
+KU198472,AL_Arctic_A,Arctic A,CAN,Canada,-,2012,2012,2012,11926,03-May-16,03-May-16,Alopex lagopus,-,12L1020AFX
+KU198473,AL_Arctic_A,Arctic A,CAN,Canada,-,2012,2012,2012,11927,03-May-16,03-May-16,Vulpes vulpes,-,12N0215RFX
+KU198474,AL_Arctic_A,Arctic A,CAN,Canada,-,2012,2012,2012,11926,03-May-16,03-May-16,Vulpes vulpes,-,12N0280RFX
+KU198475,AL_Arctic_A,Arctic A,CAN,Canada,-,2013,2013,2013,11926,03-May-16,03-May-16,Alopex lagopus,-,13L0040AFX
+KU198476,AL_Arctic_A,Arctic A,CAN,Canada,-,2013,2013,2013,11926,03-May-16,03-May-16,Alopex lagopus,-,13L0094AFX
+KU198477,AL_Arctic_A,Arctic A,CAN,Canada,-,2013,2013,2013,11927,03-May-16,03-May-16,Alopex lagopus,-,13N0473AFX
+KU198478,AL_Arctic_A,Arctic A,CAN,Canada,-,2013,2013,2013,11927,03-May-16,03-May-16,Alopex lagopus,-,13NO643AFX
+KU198479,AL_Arctic_A,Arctic A,CAN,Canada,-,2014,2014,2014,11926,03-May-16,03-May-16,Vulpes vulpes,-,14N0601RFX
+KU314711,AL_Arctic_AL2,Arctic AL2,CHN,China,-,2015,2015,2015,1353,22-Jul-16,22-Jul-16,Homo sapiens,-,2015MY-K0015-1(G3)
+KU954769,AL_Arctic_AL2,Arctic AL2,CHN,China,Ulanqab,2013,2013,2013,1350,19-Nov-16,19-Nov-16,Canis lupus familiaris,-,DG11248
+KU963488,AL_Arctic_AL1a,Arctic AL1a,-,-,-,2007,2007,2007,1350,06-Nov-16,06-Nov-16,Vulpes lagopus,-,SN1-58-ArcticFoxUSA2007
+KU963504,AL_Arctic_AL1a,Arctic AL1a,-,-,-,1987,1987,1987,1350,06-Nov-16,06-Nov-16,Canis familiaris,-,SN17-60-CanineIND1987
+KX036361,AL_Arctic_A,Arctic A,GRL,Greenland,-,1990,1990,1990,11926,29-Jun-16,29-Jun-16,Vulpes vulpes,-,RV1391-GRL-1-F-1990
+KX036362,AL_Arctic_A,Arctic A,GRL,Greenland,-,2001,2001,2001,11901,29-Jun-16,29-Jun-16,Vulpes vulpes,-,RV1415-GRL-4-F-2001
+KX036363,AL_Arctic_A,Arctic A,GRL,Greenland,-,2002,2002,2002,11926,29-Jun-16,29-Jun-16,Vulpes vulpes,-,RV1416-GRL-5-AF-2002
+KX036364,AL_Arctic_A,Arctic A,GRL,Greenland,-,2002,2002,2002,11926,29-Jun-16,29-Jun-16,Vulpes vulpes,-,RV1417-GRL-3-AF-2002
+KX036365,AL_Arctic_A,Arctic A,GRL,Greenland,-,2002,2002,2002,11926,29-Jun-16,29-Jun-16,Vulpes vulpes,-,RV1418-GRL-4-AF-2002
+KX036366,AL_Arctic_A,Arctic A,GRL,Greenland,-,2002,2002,2002,11926,29-Jun-16,29-Jun-16,Vulpes vulpes,-,RV1419-GRL-3-AF-2002
+KX036367,AL_Arctic_A,Arctic A,GRL,Greenland,-,2002,2002,2002,11926,29-Jun-16,29-Jun-16,Vulpes vulpes,-,RV1420-GRL-4-AF-2002
+KX148105,AL_Arctic_A,Arctic A,GRL,Greenland,-,1980,1980,1980,11923,28-Nov-16,28-Nov-16,Canis familiaris,-,86083GRO
+KX148106,AL_Arctic_A,Arctic A,USA,United States,-,1990,1990,1990,11926,28-Nov-16,28-Nov-16,Vulpes vulpes,-,91005USA
+KX148224,AL_Arctic_A,Arctic A,USA,United States,-,1991,1991,1991,11804,28-Nov-16,28-Nov-16,skunk,-,91004USA
+KX148225,AL_Arctic_AL1b,Arctic AL1b,AFG,Afghanistan,-,2002,2002,2002,11806,28-Nov-16,28-Nov-16,Canis familiaris,-,02052AFG
+KX148226,AL_Arctic_AL1b,Arctic AL1b,AFG,Afghanistan,-,2002,2002,2002,11806,28-Nov-16,28-Nov-16,Canis familiaris,-,04035AFG
+KX148227,AL_Arctic_AL1b,Arctic AL1b,AFG,Afghanistan,-,2004,2004,2004,11806,28-Nov-16,28-Nov-16,Canis familiaris,-,04029AFG
+KX148228,AL_Arctic_AL3,Arctic AL3,NPL,Nepal,-,1998,1998,1998,11810,28-Nov-16,28-Nov-16,Canis familiaris,-,99001NEP
+KX434483,AL_Arctic_AL1a,Arctic AL1a,IND,India,-,2004,2004,2004,1353,24-Apr-17,24-Apr-17,buffalo,-,IKE-R73
+KX434484,AL_Arctic_AL1a,Arctic AL1a,IND,India,-,2004,2004,2004,1353,24-Apr-17,24-Apr-17,Bos taurus,-,IKE-R77
+KX434485,AL_Arctic_AL1a,Arctic AL1a,IND,India,-,2004,2004,2004,1353,24-Apr-17,24-Apr-17,Bos taurus,-,IKE-R78
+KX434486,AL_Arctic_AL1a,Arctic AL1a,IND,India,-,2004,2004,2004,1353,24-Apr-17,24-Apr-17,Canis familiaris,-,IKE-R86
+KX434487,AL_Arctic_AL1a,Arctic AL1a,IND,India,-,2004,2004,2004,1353,24-Apr-17,24-Apr-17,Bos taurus,-,IKE-R87
+KX434488,AL_Arctic_AL1a,Arctic AL1a,IND,India,-,2004,2004,2004,1353,24-Apr-17,24-Apr-17,Canis familiaris,-,IMA-R88
+KX434489,AL_Arctic_AL1a,Arctic AL1a,IND,India,-,2002,2002,2002,1353,24-Apr-17,24-Apr-17,buffalo,-,IAP-R91
+KX434490,AL_Arctic_AL1a,Arctic AL1a,IND,India,-,2004,2004,2004,1353,24-Apr-17,24-Apr-17,Canis familiaris,-,IKE-R94
+KX434491,AL_Arctic_AL1a,Arctic AL1a,IND,India,-,2004,2004,2004,1353,24-Apr-17,24-Apr-17,Canis familiaris,-,IKE-R97
+KX434492,AL_Arctic_AL1a,Arctic AL1a,IND,India,-,2004,2004,2004,1353,24-Apr-17,24-Apr-17,Bos taurus,-,IKE-R101
+KX434493,AL_Arctic_AL1a,Arctic AL1a,IND,India,-,2004,2004,2004,1353,24-Apr-17,24-Apr-17,Canis familiaris,-,IKE-R106
+KX434494,AL_Arctic_AL1a,Arctic AL1a,IND,India,-,2004,2004,2004,1353,24-Apr-17,24-Apr-17,Canis familiaris,-,IKE-R107
+KX434495,AL_Arctic_AL1a,Arctic AL1a,IND,India,-,2004,2004,2004,1353,24-Apr-17,24-Apr-17,Canis familiaris,-,IKE-R109
+KX434496,AL_Arctic_AL1a,Arctic AL1a,IND,India,-,2004,2004,2004,1353,24-Apr-17,24-Apr-17,Bos taurus,-,IKE-R110
+KX434497,AL_Arctic_AL1a,Arctic AL1a,IND,India,-,2004,2004,2004,1353,24-Apr-17,24-Apr-17,Capra hircus,-,IKE-R111
+KX434498,AL_Arctic_AL1a,Arctic AL1a,IND,India,-,2004,2004,2004,1353,24-Apr-17,24-Apr-17,Bos taurus,-,IKE-R114
+KX434499,AL_Arctic_AL1a,Arctic AL1a,IND,India,-,2004,2004,2004,1353,24-Apr-17,24-Apr-17,Canis familiaris,-,IKE-R116
+KX434500,AL_Arctic_AL1a,Arctic AL1a,IND,India,-,2004,2004,2004,1353,24-Apr-17,24-Apr-17,Capra hircus,-,IKE-R121
+KX434501,AL_Arctic_AL1a,Arctic AL1a,IND,India,-,2004,2004,2004,1353,24-Apr-17,24-Apr-17,Canis familiaris,-,IKA-R129
+KX434502,AL_Arctic_AL1a,Arctic AL1a,IND,India,-,2004,2004,2004,1353,24-Apr-17,24-Apr-17,Canis familiaris,-,IKA-R132
+KX434503,AL_Arctic_AL1a,Arctic AL1a,IND,India,-,2004,2004,2004,1353,24-Apr-17,24-Apr-17,Canis familiaris,-,IKA-R142
+KX434504,AL_Arctic_AL1a,Arctic AL1a,IND,India,-,2004,2004,2004,1353,24-Apr-17,24-Apr-17,Canis familiaris,-,IKA-R144
+KX434505,AL_Arctic_AL1a,Arctic AL1a,IND,India,-,2004,2004,2004,1353,24-Apr-17,24-Apr-17,Canis familiaris,-,IMA-R146
+KX434509,AL_Arctic_AL1a,Arctic AL1a,IND,India,-,2009,2009,2009,1353,24-Apr-17,24-Apr-17,Homo sapiens,-,IMA-R189
+KX434510,AL_Arctic_AL1a,Arctic AL1a,IND,India,-,2009,2009,2009,1353,24-Apr-17,24-Apr-17,Canis familiaris,-,IAP-R190
+KX434511,AL_Arctic_AL1a,Arctic AL1a,IND,India,-,2009,2009,2009,1353,24-Apr-17,24-Apr-17,Canis familiaris,-,IAP-R191
+KX434512,AL_Arctic_AL1a,Arctic AL1a,IND,India,-,2009,2009,2009,1353,24-Apr-17,24-Apr-17,Canis familiaris,-,IAP-R192
+KX434513,AL_Arctic_AL1a,Arctic AL1a,IND,India,-,2011,2011,2011,1353,24-Apr-17,24-Apr-17,Homo sapiens,-,IAP-R193
+KX434514,AL_Arctic_AL1a,Arctic AL1a,IND,India,-,2011,2011,2011,1353,24-Apr-17,24-Apr-17,Homo sapiens,-,IAP-R194
+KX434515,AL_Arctic_AL1a,Arctic AL1a,IND,India,-,2011,2011,2011,1353,24-Apr-17,24-Apr-17,Homo sapiens,-,IAP-R195
+KX434516,AL_Arctic_AL1a,Arctic AL1a,IND,India,-,2012,2012,2012,1353,24-Apr-17,24-Apr-17,Canis familiaris,-,IAP-R196
+KX434517,AL_Arctic_AL1b,Arctic AL1b,IND,India,-,2012,2012,2012,1353,24-Apr-17,24-Apr-17,Equus caballus,-,IUP-R197
+KX434518,AL_Arctic_AL1b,Arctic AL1b,IND,India,-,2012,2012,2012,1353,24-Apr-17,24-Apr-17,Equus caballus,-,IUP-R198
+KX434519,AL_Arctic_AL1a,Arctic AL1a,IND,India,-,2014,2014,2014,1353,24-Apr-17,24-Apr-17,buffalo,-,IGR-R203
+KX434520,AL_Arctic_AL1a,Arctic AL1a,IND,India,-,2014,2014,2014,1353,24-Apr-17,24-Apr-17,buffalo,-,IGR-R204
+KX434521,AL_Arctic_AL1a,Arctic AL1a,IND,India,-,2014,2014,2014,1353,24-Apr-17,24-Apr-17,buffalo,-,IGR-R205
+KX434522,AL_Arctic_AL1a,Arctic AL1a,IND,India,-,2014,2014,2014,1353,24-Apr-17,24-Apr-17,buffalo,-,IGR-R206
+KX434523,AL_Arctic_AL1a,Arctic AL1a,IND,India,-,2014,2014,2014,1353,24-Apr-17,24-Apr-17,buffalo,-,IGR-R207
+KX954123,AL_Arctic_A,Arctic A,RUS,Russia,-,2016,2016,2016,11851,20-Mar-17,20-Mar-17,Vulpes lagopus,28225771,RUS_FJL_2016_VL
+KY175229,AL_Arctic_AL2,Arctic AL2,CHN,China,-,2012,2012,2012,11927,26-Feb-19,26-Feb-19,Canis familiaris,30640911,CXZ1201D
+KY175230,AL_Arctic_AL2,Arctic AL2,CHN,China,-,2015,2015,2015,11927,26-Feb-19,26-Feb-19,Homo sapiens,30640911,CXZ1501H
+KY775603,AL_Arctic_AL1a,Arctic AL1a,IND,India,-,2014,2014,2014,11928,23-May-17,23-May-17,nilgai,-,IGU-R201-Nilgai
+KY775604,AL_Arctic_AL1a,Arctic AL1a,IND,India,-,2014,2014,2014,11928,23-May-17,23-May-17,mongoose,-,IGU-R202-Mongoose
+KY860613,AL_Arctic_AL2,Arctic AL2,RUS,Russia,-,1989,1989,1989,11926,31-Jan-18,31-Jan-18,Canis familiaris,-,RV303
+KY912036,AL_Arctic_AL2,Arctic AL2,CHN,China,-,2014,2014,2014,11925,09-May-19,09-May-19,yak,-,CQHy2014Y/China/2014
+KY952219,AL_Arctic_AL2,Arctic AL2,CHN,China,-,2014,2014,2014,11928,09-May-19,09-May-19,Canis lupus,-,CQHy2014W/China/2014
+KY952220,AL_Arctic_AL2,Arctic AL2,CHN,China,-,2016,2016,2016,11925,09-May-19,09-May-19,Canis familiaris,-,CQHm2016 D/China/2016
+KY964322,AL_Arctic_AL2,Arctic AL2,CHN,China,-,2016,2016,2016,11926,09-May-19,09-May-19,Canis familiaris,-,CQHy20106D/China/2016
+KY964323,AL_Arctic_AL2,Arctic AL2,CHN,China,-,2016,2016,2016,11925,09-May-19,09-May-19,Homo sapiens,-,CQHm2016H/China/2016
+KY982922,AL_Arctic_AL2,Arctic AL2,CHN,China,-,2014,2014,2014,11925,09-May-19,09-May-19,Canis familiaris,-,CQHy2014D150/China/2014
+KY982923,AL_Arctic_AL2,Arctic AL2,CHN,China,-,2012,2012,2012,11928,09-May-19,09-May-19,Homo sapiens,-,CQHM2012H/China/2012
+KY997452,AL_Arctic_AL2,Arctic AL2,CHN,China,-,2014,2014,2014,11928,09-May-19,09-May-19,Canis familiaris,-,CQHy2014DY/China/2014
+L20671,AL_Arctic_A,Arctic A,-,-,Ontario,-,-,1993,1367,25-Jul-93,06-Jul-93,Skunk,8492088,-
+L20672,AL_Arctic_A,Arctic A,-,-,Ontario,-,-,1993,1367,25-Jul-93,20-Mar-96,Vulpes,8492088,-
+L20673,AL_Arctic_A,Arctic A,-,-,Ontario,1991,1991,1991,1365,25-Jul-93,08-Feb-01,Vulpes vulpes,8492088,91RABN1578
+L20674,AL_Arctic_A,Arctic A,-,-,Ontario,1991,1991,1991,1365,25-Jul-93,08-Feb-01,Vulpes vulpes,8492088,91RABN2756
+L20675,AL_Arctic_A,Arctic A,-,-,Ontario,1993,1993,1993,1365,25-Jul-93,08-Feb-01,Vulpes vulpes,8492088,91RABN0783
+L20676,AL_Arctic_A,Arctic A,-,-,Ontario,1990,1990,1990,1365,25-Jul-93,08-Feb-01,Vulpes vulpes,8492088,90RABN9196
+LC553558,AL_Arctic_AL2,Arctic AL2,JPN,Japan,-,-,-,2020,11927,15-Jun-20,15-Jun-20,Canis lupus,-,Komatsugawa
+LM645015,AL_Arctic_A,Arctic A,GRL,Greenland,-,2006,2006,2006,11922,18-Aug-16,18-Aug-16,Vulpes vulpes,-,Gra 07.06-1-F
+LM645016,AL_Arctic_A,Arctic A,GRL,Greenland,-,2006,2006,2006,11926,18-Aug-16,18-Aug-16,Vulpes vulpes,-,Gra 14.06-1-F
+LM645017,AL_Arctic_A,Arctic A,GRL,Greenland,-,2005,2005,2005,11919,18-Aug-16,18-Aug-16,Vulpes vulpes,-,Gra 21.05-1-F
+LM645018,AL_Arctic_A,Arctic A,GRL,Greenland,-,2006,2006,2006,11925,18-Aug-16,18-Aug-16,Vulpes vulpes,-,Gra 23.06-2-F
+LM645019,AL_Arctic_A,Arctic A,GRL,Greenland,-,2010,2010,2010,11916,18-Aug-16,18-Aug-16,Vulpes vulpes,-,Gra 03.10-2-F
+LM645020,AL_Arctic_A,Arctic A,GRL,Greenland,-,2007,2007,2007,11895,18-Aug-16,18-Aug-16,Vulpes vulpes,-,Gra 02.07-3-F
+LM645021,AL_Arctic_A,Arctic A,GRL,Greenland,-,2006,2006,2006,11914,18-Aug-16,18-Aug-16,Vulpes vulpes,-,Gra 04.06-3-F
+LM645022,AL_Arctic_A,Arctic A,GRL,Greenland,-,2006,2006,2006,11922,18-Aug-16,18-Aug-16,Canis familiaris,-,Gra 24.06-3-D
+LM645023,AL_Arctic_A,Arctic A,GRL,Greenland,-,2006,2006,2006,11916,18-Aug-16,18-Aug-16,Vulpes vulpes,-,Gra 08.06-3-F
+LM645024,AL_Arctic_A,Arctic A,GRL,Greenland,-,2006,2006,2006,11916,18-Aug-16,18-Aug-16,Vulpes vulpes,-,Gra 10.06-3-F
+LM645025,AL_Arctic_A,Arctic A,GRL,Greenland,-,2006,2006,2006,11902,18-Aug-16,18-Aug-16,Vulpes vulpes,-,Gra 03.06-3-F
+LM645026,AL_Arctic_A,Arctic A,GRL,Greenland,-,2006,2006,2006,11926,18-Aug-16,18-Aug-16,Vulpes vulpes,-,Gra 05.06-3-F
+LM645027,AL_Arctic_A,Arctic A,GRL,Greenland,-,2006,2006,2006,11924,18-Aug-16,18-Aug-16,Vulpes vulpes,-,Gra 25.06-3-F
+LM645028,AL_Arctic_A,Arctic A,GRL,Greenland,-,2006,2006,2006,11897,18-Aug-16,18-Aug-16,Vulpes vulpes,-,Gra 09.06-3-F
+LM645029,AL_Arctic_A,Arctic A,GRL,Greenland,-,2007,2007,2007,11924,18-Aug-16,18-Aug-16,Vulpes vulpes,-,Gra 09.07-4-F
+LM645030,AL_Arctic_A,Arctic A,GRL,Greenland,-,2007,2007,2007,11926,18-Aug-16,18-Aug-16,Vulpes vulpes,-,Gra 10.07-4-F
+LM645031,AL_Arctic_A,Arctic A,GRL,Greenland,-,2006,2006,2006,11926,18-Aug-16,18-Aug-16,Vulpes vulpes,-,Gra 16.06-4-F
+LM645032,AL_Arctic_A,Arctic A,GRL,Greenland,-,2010,2010,2010,11926,18-Aug-16,18-Aug-16,Vulpes vulpes,-,Gra 05.10-5-F
+LM645033,AL_Arctic_A,Arctic A,GRL,Greenland,-,2010,2010,2010,11896,18-Aug-16,18-Aug-16,Vulpes vulpes,-,Gra 02.10-5-F
+LM645034,AL_Arctic_A,Arctic A,GRL,Greenland,-,2009,2009,2009,11923,18-Aug-16,18-Aug-16,Vulpes vulpes,-,Gra 07.09-6-F
+LM645035,AL_Arctic_A,Arctic A,GRL,Greenland,-,2010,2010,2010,11887,18-Aug-16,18-Aug-16,Vulpes vulpes,-,Gra 07.10-6-F
+LM645036,AL_Arctic_A,Arctic A,GRL,Greenland,-,2010,2010,2010,11926,18-Aug-16,18-Aug-16,Vulpes vulpes,-,Gra 06.10-6-F
+LM645037,AL_Arctic_A,Arctic A,GRL,Greenland,-,2008,2008,2008,11920,18-Aug-16,18-Aug-16,Vulpes vulpes,-,Gra 10.08-6-F
+LM645038,AL_Arctic_A,Arctic A,GRL,Greenland,-,2009,2009,2009,11908,18-Aug-16,18-Aug-16,Vulpes vulpes,-,Gra 13.09-6-F
+LM645039,AL_Arctic_A,Arctic A,GRL,Greenland,-,2009,2009,2009,11907,18-Aug-16,18-Aug-16,Ovis aries,-,Gra 01.09-7-S
+LM645040,AL_Arctic_A,Arctic A,GRL,Greenland,-,2009,2009,2009,11917,18-Aug-16,18-Aug-16,Ovis aries,-,Gra 02.09-7-S
+LM645041,AL_Arctic_A,Arctic A,GRL,Greenland,-,2008,2008,2008,11926,18-Aug-16,18-Aug-16,Vulpes vulpes,-,Gra 03.08-7-F
+LM645042,AL_Arctic_A,Arctic A,GRL,Greenland,-,2009,2009,2009,11893,18-Aug-16,18-Aug-16,Vulpes vulpes,-,Gra 03.09-7-F
+LM645043,AL_Arctic_A,Arctic A,GRL,Greenland,-,2010,2010,2010,11908,18-Aug-16,18-Aug-16,Vulpes vulpes,-,Gra 01.10-7-F
+LM645044,AL_Arctic_A,Arctic A,GRL,Greenland,-,2011,2011,2011,11929,18-Aug-16,18-Aug-16,Ovis aries,-,Gra 01.11-7-F
+LM645045,AL_Arctic_A,Arctic A,GRL,Greenland,-,2007,2007,2007,11919,18-Aug-16,18-Aug-16,Vulpes vulpes,-,Gra 05.07-7-F
+LM645046,AL_Arctic_A,Arctic A,GRL,Greenland,-,2006,2006,2006,11928,18-Aug-16,18-Aug-16,Felis catus,-,Gra 06.06-7-C
+LM645047,AL_Arctic_A,Arctic A,GRL,Greenland,-,2008,2008,2008,11920,18-Aug-16,18-Aug-16,Vulpes vulpes,-,Gra 13.08-7-F
+LM645048,AL_Arctic_A,Arctic A,GRL,Greenland,-,2005,2005,2005,11915,18-Aug-16,18-Aug-16,Vulpes vulpes,-,Gra 18.05-7-F
+LM645049,AL_Arctic_A,Arctic A,GRL,Greenland,-,2007,2007,2007,11918,18-Aug-16,18-Aug-16,Vulpes vulpes,-,Gra 3a.07-7-F
+LM645050,AL_Arctic_A,Arctic A,GRL,Greenland,-,2007,2007,2007,11909,18-Aug-16,18-Aug-16,Vulpes vulpes,-,Gra 3b.07-7-F
+LM645051,AL_Arctic_A,Arctic A,GRL,Greenland,-,2007,2007,2007,11919,18-Aug-16,18-Aug-16,Vulpes vulpes,-,Gra 01.06-7-F
+LM645052,AL_Arctic_A,Arctic A,GRL,Greenland,-,2006,2006,2006,11928,18-Aug-16,18-Aug-16,Vulpes vulpes,-,Gra 02.06-7-F
+LM645053,AL_Arctic_A,Arctic A,GRL,Greenland,-,2007,2007,2007,11921,18-Aug-16,18-Aug-16,Vulpes vulpes,-,Gra 04.07-7-F
+LM645054,AL_Arctic_A,Arctic A,GRL,Greenland,-,2007,2007,2007,11922,18-Aug-16,18-Aug-16,Ovis aries,-,Gra 15.07-7-S
+LM645055,AL_Arctic_A,Arctic A,GRL,Greenland,-,2006,2006,2006,11907,18-Aug-16,18-Aug-16,Vulpes vulpes,-,Gra 21.06-7-F
+LM645056,AL_Arctic_A,Arctic A,GRL,Greenland,-,2008,2008,2008,11880,18-Aug-16,18-Aug-16,Vulpes vulpes,-,Gra 02.08-7-F
+LT598537,AL_Arctic_A,Arctic A,-,-,Northwest Territories,1977,1977,1977,11926,07-Jul-16,07-Jul-16,Vulpes lagopus,-,13232-NT-F
+LT598538,AL_Arctic_A,Arctic A,-,-,Upernavik,2013,2013,2013,11925,07-Jul-16,07-Jul-16,Vulpes lagopus,-,Gra_02.13-2-F
+LT598539,AL_Arctic_A,Arctic A,-,-,Upernavik,2013,2013,2013,11926,07-Jul-16,07-Jul-16,Vulpes lagopus,-,Gra_01.13-2-F
+LT598540,AL_Arctic_A,Arctic A,-,-,Kangerlussuaq,2014,2014,2014,11925,07-Jul-16,07-Jul-16,Vulpes lagopus,-,Gra_02.14-4-F
+LT598541,AL_Arctic_A,Arctic A,-,-,Qaasuitsup,2013,2013,2013,11926,07-Jul-16,07-Jul-16,Vulpes lagopus,-,Gra_03.13-1-F
+LT598542,AL_Arctic_A,Arctic A,-,-,Kangerlussuaq,2014,2014,2014,11926,07-Jul-16,07-Jul-16,Vulpes lagopus,-,Gra_03.14-4-F
+LT598543,AL_Arctic_A,Arctic A,-,-,Kangaatsiaq,2014,2014,2014,11926,07-Jul-16,07-Jul-16,Vulpes lagopus,-,Gra_01.14-3-F
+LT909539,AL_Arctic_AL1a,Arctic AL1a,-,-,-,2002,2002,2002,11928,29-Jan-18,29-Jan-18,Canis familiaris,-,13182
+LT909541,AL_Arctic_AL1a,Arctic AL1a,-,-,-,1984,1984,1984,11928,29-Jan-18,29-Jan-18,Canis familiaris,-,13086
+LT909545,AL_Arctic_AL1b,Arctic AL1b,-,-,-,2006,2006,2006,11928,29-Jan-18,29-Jan-18,Canis familiaris,-,20282
+LT909550,AL_Arctic_A,Arctic A,-,-,-,2000,2000,2000,11926,29-Jan-18,29-Jan-18,Vulpes lagopus,-,13020
+MF144114,AL_Arctic_AL1a,Arctic AL1a,IND,India,-,2017,2017,2017,1294,20-Apr-18,20-Apr-18,Melursus ursinus (sloth bear); female,-,RBBEKAN2617
+MG011654,AL_Arctic_AL1a,Arctic AL1a,FRA,France,-,2016,2016,2016,11889,31-Aug-18,31-Aug-18,Homo sapiens,-,17011FRA
+MG099711,AL_Arctic_AL1a,Arctic AL1a,BGD,Bangladesh,-,2016,2016,2016,11928,01-Jan-20,01-Jan-20,-,-,HU-BAN2017
+MG458313,AL_Arctic_A,Arctic A,RUS,Russia,-,1996,1996,1996,11926,31-Jan-18,31-Jan-18,Vulpes vulpes,29357361,RV1336
+MG458320,AL_Arctic_AL1a,Arctic AL1a,NPL,Nepal,-,2012,2012,2012,11927,31-Jan-18,31-Jan-18,Homo sapiens,29357361,RV2924
+MH258816,AL_Arctic_AL1a,Arctic AL1a,IND,India,Chennai,2014,2014,2014,1353,28-Jul-18,28-Jul-18,Canis familiaris,-,India/dog/MVC-29/2014
+MH258817,AL_Arctic_AL1a,Arctic AL1a,IND,India,Chennai,2014,2014,2014,1353,28-Jul-18,28-Jul-18,Canis familiaris,-,India/dog/MVC-30/2014
+MH258818,AL_Arctic_AL1a,Arctic AL1a,IND,India,Chennai,2014,2014,2014,1353,28-Jul-18,28-Jul-18,Canis familiaris,-,India/dog/MVC-31/2014
+MH258819,AL_Arctic_AL1a,Arctic AL1a,IND,India,Chennai,2014,2014,2014,1353,28-Jul-18,28-Jul-18,Canis familiaris,-,India/dog/MVC-37/2014
+MH258820,AL_Arctic_AL1a,Arctic AL1a,IND,India,Chennai,2014,2014,2014,1353,28-Jul-18,28-Jul-18,Canis familiaris,-,India/dog/MVC-38/2014
+MH258821,AL_Arctic_AL1a,Arctic AL1a,IND,India,Chennai,2014,2014,2014,1353,28-Jul-18,28-Jul-18,Canis familiaris,-,India/dog/MVC-42/2014
+MH258822,AL_Arctic_AL1a,Arctic AL1a,IND,India,Chennai,2014,2014,2014,1353,28-Jul-18,28-Jul-18,Capra hircus,-,India/goat/MVC-45/2014
+MH258829,AL_Arctic_AL1a,Arctic AL1a,IND,India,Goa,2014,2014,2014,1353,28-Jul-18,28-Jul-18,Canis familiaris,-,India/dog/MVC-19/2014
+MH258830,AL_Arctic_AL1a,Arctic AL1a,IND,India,Goa,2014,2014,2014,1353,28-Jul-18,28-Jul-18,Canis familiaris,-,India/dog/MVC-15/2014
+MH258831,AL_Arctic_AL1a,Arctic AL1a,IND,India,Goa,2014,2014,2014,1353,28-Jul-18,28-Jul-18,Canis familiaris,-,India/dog/MVC-8/2014
+MH258832,AL_Arctic_AL1a,Arctic AL1a,IND,India,Goa,2014,2014,2014,1353,28-Jul-18,28-Jul-18,Canis familiaris,-,India/dog/MVC-5/2014
+MH258833,AL_Arctic_AL1a,Arctic AL1a,IND,India,Goa,2014,2014,2014,1353,28-Jul-18,28-Jul-18,Canis familiaris,-,India/dog/MVC-4/2014
+MH258834,AL_Arctic_AL1a,Arctic AL1a,IND,India,Goa,2014,2014,2014,1353,28-Jul-18,28-Jul-18,Canis familiaris,-,India/dog/MVC-3/2014
+MH258835,AL_Arctic_AL1a,Arctic AL1a,IND,India,Goa,2014,2014,2014,1353,28-Jul-18,28-Jul-18,Canis familiaris,-,India/dog/MVC-2/2014
+MH258836,AL_Arctic_AL1a,Arctic AL1a,IND,India,Goa,2014,2014,2014,1353,28-Jul-18,28-Jul-18,Canis familiaris,-,India/dog/MVC-1/2014
+MK540887,AL_Arctic_A,Arctic A,CAN,Canada,Ontario,1990,1990,1990,11925,02-Sep-19,02-Sep-19,skunk,-,ON.1990.9199SSK
+MK540888,AL_Arctic_A,Arctic A,CAN,Canada,Ontario,1990,1990,1990,11925,02-Sep-19,02-Sep-19,Vulpes vulpes,-,ON.1990.9236RFX
+MK540889,AL_Arctic_A,Arctic A,CAN,Canada,Ontario,1990,1990,1990,11926,02-Sep-19,02-Sep-19,Vulpes vulpes,-,ON.1990.9339RFX
+MK540890,AL_Arctic_A,Arctic A,CAN,Canada,Ontario,1990,1990,1990,11926,02-Sep-19,02-Sep-19,skunk,-,ON.1990.9340SSK
+MK540891,AL_Arctic_A,Arctic A,CAN,Canada,Ontario,1990,1990,1990,11924,02-Sep-19,02-Sep-19,skunk,-,ON.1990.9509SSK
+MK540892,AL_Arctic_A,Arctic A,CAN,Canada,Ontario,1990,1990,1990,11926,02-Sep-19,02-Sep-19,skunk,-,ON.1990.9510SSK
+MK540893,AL_Arctic_A,Arctic A,CAN,Canada,Ontario,1991,1991,1991,11926,02-Sep-19,02-Sep-19,skunk,-,ON.1991.0789SSK
+MK540894,AL_Arctic_A,Arctic A,CAN,Canada,Ontario,1991,1991,1991,11925,02-Sep-19,02-Sep-19,skunk,-,ON.1991.0851SSK
+MK540895,AL_Arctic_A,Arctic A,CAN,Canada,Ontario,1991,1991,1991,11926,02-Sep-19,02-Sep-19,Vulpes vulpes,-,ON.1991.0987RFX
+MK540896,AL_Arctic_A,Arctic A,CAN,Canada,Ontario,1991,1991,1991,11926,02-Sep-19,02-Sep-19,skunk,-,ON.1991.1035SSK
+MK540897,AL_Arctic_A,Arctic A,CAN,Canada,Ontario,1991,1991,1991,11925,02-Sep-19,02-Sep-19,skunk,-,ON.1991.1348SSK
+MK540898,AL_Arctic_A,Arctic A,CAN,Canada,Ontario,1991,1991,1991,11925,02-Sep-19,02-Sep-19,Vulpes vulpes,-,ON.1991.1399RFX
+MK540899,AL_Arctic_A,Arctic A,CAN,Canada,Ontario,1991,1991,1991,11925,02-Sep-19,02-Sep-19,Vulpes vulpes,-,ON.1991.2151RFX
+MK540900,AL_Arctic_A,Arctic A,CAN,Canada,Ontario,1991,1991,1991,11926,02-Sep-19,02-Sep-19,Vulpes vulpes,-,ON.1991.5537RFX
+MK540901,AL_Arctic_A,Arctic A,CAN,Canada,Ontario,1991,1991,1991,11925,02-Sep-19,02-Sep-19,Vulpes vulpes,-,ON.1991.6795RFX
+MK540902,AL_Arctic_A,Arctic A,CAN,Canada,Ontario,1993,1993,1993,11926,02-Sep-19,02-Sep-19,skunk,-,ON.1993.0173SSK
+MK540903,AL_Arctic_A,Arctic A,CAN,Canada,Ontario,1993,1993,1993,11926,02-Sep-19,02-Sep-19,Vulpes vulpes,-,ON.1993.0215RFX
+MK540904,AL_Arctic_A,Arctic A,CAN,Canada,Ontario,1993,1993,1993,11926,02-Sep-19,02-Sep-19,Vulpes vulpes,-,ON.1993.0661RFX
+MK540905,AL_Arctic_A,Arctic A,CAN,Canada,Ontario,1993,1993,1993,11925,02-Sep-19,02-Sep-19,Vulpes vulpes,-,ON.1993.2321RFX
+MK540906,AL_Arctic_A,Arctic A,CAN,Canada,Ontario,1995,1995,1995,11926,02-Sep-19,02-Sep-19,Vulpes vulpes,-,ON.1995.3267RFX
+MK540907,AL_Arctic_A,Arctic A,CAN,Canada,Ontario,1995,1995,1995,11925,02-Sep-19,02-Sep-19,skunk,-,ON.1995.3870SSK
+MK540908,AL_Arctic_A,Arctic A,CAN,Canada,Ontario,1995,1995,1995,11926,02-Sep-19,02-Sep-19,Vulpes vulpes,-,ON.1995.4428RFX
+MK540909,AL_Arctic_A,Arctic A,CAN,Canada,Ontario,1995,1995,1995,11926,02-Sep-19,02-Sep-19,Vulpes vulpes,-,ON.1995.5013RFX
+MK540910,AL_Arctic_A,Arctic A,CAN,Canada,Ontario,1995,1995,1995,11926,02-Sep-19,02-Sep-19,Vulpes vulpes,-,ON.1995.5042RFX
+MK540911,AL_Arctic_A,Arctic A,CAN,Canada,Ontario,1995,1995,1995,11926,02-Sep-19,02-Sep-19,Vulpes vulpes,-,ON.1995.6381RFX
+MK540912,AL_Arctic_A,Arctic A,CAN,Canada,Ontario,1995,1995,1995,11926,02-Sep-19,02-Sep-19,skunk,-,ON.1995.6413SSK
+MK540913,AL_Arctic_A,Arctic A,CAN,Canada,Ontario,1996,1996,1996,11926,02-Sep-19,02-Sep-19,skunk,-,ON.1996.0212SSK
+MK540914,AL_Arctic_A,Arctic A,CAN,Canada,Ontario,1996,1996,1996,11926,02-Sep-19,02-Sep-19,Vulpes vulpes,-,ON.1996.0341RFX
+MK540915,AL_Arctic_A,Arctic A,CAN,Canada,Ontario,1996,1996,1996,11926,02-Sep-19,02-Sep-19,Vulpes vulpes,-,ON.1996.0534RFX
+MK540916,AL_Arctic_A,Arctic A,CAN,Canada,Ontario,1996,1996,1996,11925,02-Sep-19,02-Sep-19,Vulpes vulpes,-,ON.1996.0714RFX
+MK540917,AL_Arctic_A,Arctic A,CAN,Canada,Ontario,1996,1996,1996,11926,02-Sep-19,02-Sep-19,skunk,-,ON.1996.1572SSK
+MK540918,AL_Arctic_A,Arctic A,CAN,Canada,Ontario,1996,1996,1996,11926,02-Sep-19,02-Sep-19,skunk,-,ON.1996.2916SSK
+MK540919,AL_Arctic_A,Arctic A,CAN,Canada,Ontario,1996,1996,1996,11926,02-Sep-19,02-Sep-19,skunk,-,ON.1996.3873SSK
+MK540920,AL_Arctic_A,Arctic A,CAN,Canada,Ontario,1997,1997,1997,11925,02-Sep-19,02-Sep-19,skunk,-,ON.1997.9733SSK
+MK540921,AL_Arctic_A,Arctic A,CAN,Canada,Ontario,1998,1998,1998,11925,02-Sep-19,02-Sep-19,skunk,-,ON.1998.0009SSK
+MK540922,AL_Arctic_A,Arctic A,CAN,Canada,Ontario,1998,1998,1998,11926,02-Sep-19,02-Sep-19,skunk,-,ON.1998.0794SSK
+MK540923,AL_Arctic_A,Arctic A,CAN,Canada,Ontario,1998,1998,1998,11924,02-Sep-19,02-Sep-19,skunk,-,ON.1998.1489SSK
+MK540924,AL_Arctic_A,Arctic A,CAN,Canada,Ontario,1998,1998,1998,11927,02-Sep-19,02-Sep-19,skunk,-,ON.1998.2038SSK
+MK540925,AL_Arctic_A,Arctic A,CAN,Canada,Ontario,1998,1998,1998,11926,02-Sep-19,02-Sep-19,skunk,-,ON.1998.4915SSK
+MK540926,AL_Arctic_A,Arctic A,CAN,Canada,Ontario,1998,1998,1998,11925,02-Sep-19,02-Sep-19,skunk,-,ON.1998.4999SSK
+MK540927,AL_Arctic_A,Arctic A,CAN,Canada,Ontario,1999,1999,1999,11926,02-Sep-19,02-Sep-19,skunk,-,ON.1999.0172SSK
+MK540928,AL_Arctic_A,Arctic A,CAN,Canada,Ontario,1999,1999,1999,11925,02-Sep-19,02-Sep-19,skunk,-,ON.1999.1029SSK
+MK540929,AL_Arctic_A,Arctic A,CAN,Canada,Ontario,1999,1999,1999,11926,02-Sep-19,02-Sep-19,skunk,-,ON.1999.1414SSK
+MK540930,AL_Arctic_A,Arctic A,CAN,Canada,Ontario,1999,1999,1999,11926,02-Sep-19,02-Sep-19,Vulpes vulpes,-,ON.1999.2980RFX
+MK540931,AL_Arctic_A,Arctic A,CAN,Canada,Ontario,1999,1999,1999,11926,02-Sep-19,02-Sep-19,skunk,-,ON.1999.3009SSK
+MK540932,AL_Arctic_A,Arctic A,CAN,Canada,Ontario,1999,1999,1999,11926,02-Sep-19,02-Sep-19,skunk,-,ON.1999.3073SSK
+MK540933,AL_Arctic_A,Arctic A,CAN,Canada,Ontario,1999,1999,1999,11926,02-Sep-19,02-Sep-19,skunk,-,ON.1999.3074SSK
+MK540934,AL_Arctic_A,Arctic A,CAN,Canada,Ontario,1999,1999,1999,11926,02-Sep-19,02-Sep-19,Vulpes vulpes,-,ON.1999.5106RFX
+MK540935,AL_Arctic_A,Arctic A,CAN,Canada,Ontario,1999,1999,1999,11926,02-Sep-19,02-Sep-19,skunk,-,ON.1999.6363SSK
+MK540936,AL_Arctic_A,Arctic A,CAN,Canada,Ontario,2000,2000,2000,11926,02-Sep-19,02-Sep-19,skunk,-,ON.2000.0047SSK
+MK540937,AL_Arctic_A,Arctic A,CAN,Canada,Ontario,2000,2000,2000,11926,02-Sep-19,02-Sep-19,skunk,-,ON.2000.0383SSK
+MK540938,AL_Arctic_A,Arctic A,CAN,Canada,Ontario,2000,2000,2000,11926,02-Sep-19,02-Sep-19,skunk,-,ON.2000.0422SSK
+MK540939,AL_Arctic_A,Arctic A,CAN,Canada,Ontario,2000,2000,2000,11926,02-Sep-19,02-Sep-19,skunk,-,ON.2000.0442SSK
+MK540940,AL_Arctic_A,Arctic A,CAN,Canada,Ontario,2000,2000,2000,11928,02-Sep-19,02-Sep-19,skunk,-,ON.2000.0466SSK
+MK540941,AL_Arctic_A,Arctic A,CAN,Canada,Ontario,2000,2000,2000,11926,02-Sep-19,02-Sep-19,skunk,-,ON.2000.1797SSK
+MK540942,AL_Arctic_A,Arctic A,CAN,Canada,Ontario,2000,2000,2000,11926,02-Sep-19,02-Sep-19,skunk,-,ON.2000.1848SSK
+MK540943,AL_Arctic_A,Arctic A,CAN,Canada,Ontario,2000,2000,2000,11926,02-Sep-19,02-Sep-19,Vulpes vulpes,-,ON.2000.2847RFX
+MK540944,AL_Arctic_A,Arctic A,CAN,Canada,Ontario,2000,2000,2000,11926,02-Sep-19,02-Sep-19,skunk,-,ON.2000.4512SSK
+MK540945,AL_Arctic_A,Arctic A,CAN,Canada,Ontario,2000,2000,2000,11926,02-Sep-19,02-Sep-19,skunk,-,ON.2000.5945SSK
+MK540946,AL_Arctic_A,Arctic A,CAN,Canada,Ontario,2001,2001,2001,11926,02-Sep-19,02-Sep-19,skunk,-,ON.2001.4008SSK
+MK540947,AL_Arctic_A,Arctic A,CAN,Canada,Ontario,2001,2001,2001,11926,02-Sep-19,02-Sep-19,skunk,-,ON.2001.5884SSK
+MK540948,AL_Arctic_A,Arctic A,CAN,Canada,Ontario,2001,2001,2001,11926,02-Sep-19,02-Sep-19,skunk,-,ON.2001.7043SSK
+MK540949,AL_Arctic_A,Arctic A,CAN,Canada,Ontario,2001,2001,2001,11926,02-Sep-19,02-Sep-19,skunk,-,ON.2001.7426SSK
+MK540950,AL_Arctic_A,Arctic A,CAN,Canada,Ontario,2001,2001,2001,11925,02-Sep-19,02-Sep-19,skunk,-,ON.2001.10248SSK
+MK540951,AL_Arctic_A,Arctic A,CAN,Canada,Ontario,2001,2001,2001,11926,02-Sep-19,02-Sep-19,skunk,-,ON.2001.10442SSK
+MK540952,AL_Arctic_A,Arctic A,CAN,Canada,Ontario,2001,2001,2001,11926,02-Sep-19,02-Sep-19,skunk,-,ON.2001.10791SSK
+MK540953,AL_Arctic_A,Arctic A,CAN,Canada,Ontario,2001,2001,2001,11926,02-Sep-19,02-Sep-19,skunk,-,ON.2001.11378SSK
+MK540954,AL_Arctic_A,Arctic A,CAN,Canada,Ontario,2001,2001,2001,11925,02-Sep-19,02-Sep-19,skunk,-,ON.2001.11590SSK
+MK540955,AL_Arctic_A,Arctic A,CAN,Canada,Ontario,2001,2001,2001,11926,02-Sep-19,02-Sep-19,skunk,-,ON.2001.12063SSK
+MK540956,AL_Arctic_A,Arctic A,CAN,Canada,Ontario,2002,2002,2002,11925,02-Sep-19,02-Sep-19,skunk,-,ON.2002.0820SSK
+MK540957,AL_Arctic_A,Arctic A,CAN,Canada,Ontario,2002,2002,2002,11926,02-Sep-19,02-Sep-19,skunk,-,ON.2002.2997SSK
+MK540958,AL_Arctic_A,Arctic A,CAN,Canada,Ontario,2002,2002,2002,11926,02-Sep-19,02-Sep-19,skunk,-,ON.2002.7157SSK
+MK540959,AL_Arctic_A,Arctic A,CAN,Canada,Ontario,2002,2002,2002,11926,02-Sep-19,02-Sep-19,skunk,-,ON.2002.9370SSK
+MK540960,AL_Arctic_A,Arctic A,CAN,Canada,Ontario,2003,2003,2003,11926,02-Sep-19,02-Sep-19,skunk,-,ON.2003.3324SSK
+MK540961,AL_Arctic_A,Arctic A,CAN,Canada,Ontario,2003,2003,2003,11926,02-Sep-19,02-Sep-19,skunk,-,ON.2003.5326SSK
+MK540962,AL_Arctic_A,Arctic A,CAN,Canada,Ontario,2003,2003,2003,11926,02-Sep-19,02-Sep-19,Vulpes vulpes,-,ON.2003.7314RFX
+MK540963,AL_Arctic_A,Arctic A,CAN,Canada,Ontario,2003,2003,2003,11926,02-Sep-19,02-Sep-19,Vulpes vulpes,-,ON.2003.10263RFX
+MK540964,AL_Arctic_A,Arctic A,CAN,Canada,Ontario,2004,2004,2004,11926,02-Sep-19,02-Sep-19,skunk,-,ON.2004.5601SSK
+MK540965,AL_Arctic_A,Arctic A,CAN,Canada,Ontario,2004,2004,2004,11925,02-Sep-19,02-Sep-19,skunk,-,ON.2004.7960SSK
+MK540966,AL_Arctic_A,Arctic A,CAN,Canada,Ontario,2004,2004,2004,11925,02-Sep-19,02-Sep-19,skunk,-,ON.2004.8307SSK
+MK540967,AL_Arctic_A,Arctic A,CAN,Canada,Ontario,2005,2005,2005,11926,02-Sep-19,02-Sep-19,Vulpes vulpes,-,ON.2005.0241RFX
+MK540968,AL_Arctic_A,Arctic A,CAN,Canada,Ontario,2005,2005,2005,11925,02-Sep-19,02-Sep-19,skunk,-,ON.2005.0480SSK
+MK540969,AL_Arctic_A,Arctic A,CAN,Canada,Ontario,2005,2005,2005,11926,02-Sep-19,02-Sep-19,Vulpes vulpes,-,ON.2005.3118RFX
+MK540970,AL_Arctic_A,Arctic A,CAN,Canada,Ontario,2005,2005,2005,11926,02-Sep-19,02-Sep-19,skunk,-,ON.2005.5940SSK
+MK540971,AL_Arctic_A,Arctic A,CAN,Canada,Ontario,2006,2006,2006,11926,02-Sep-19,02-Sep-19,skunk,-,ON.2006.1364SSK
+MK540972,AL_Arctic_A,Arctic A,CAN,Canada,Ontario,2006,2006,2006,11925,02-Sep-19,02-Sep-19,skunk,-,ON.2006.2969SSK
+MK540973,AL_Arctic_A,Arctic A,CAN,Canada,Ontario,2006,2006,2006,11926,02-Sep-19,02-Sep-19,Vulpes vulpes,-,ON.2006.3277RFX
+MK540974,AL_Arctic_A,Arctic A,CAN,Canada,Ontario,2006,2006,2006,11926,02-Sep-19,02-Sep-19,skunk,-,ON.2006.5378SSK
+MK540975,AL_Arctic_A,Arctic A,CAN,Canada,Ontario,2006,2006,2006,11926,02-Sep-19,02-Sep-19,skunk,-,ON.2006.6067SSK
+MK540976,AL_Arctic_A,Arctic A,CAN,Canada,Ontario,2006,2006,2006,11928,02-Sep-19,02-Sep-19,skunk,-,ON.2006.6071SSK
+MK540977,AL_Arctic_A,Arctic A,CAN,Canada,Ontario,2006,2006,2006,11926,02-Sep-19,02-Sep-19,skunk,-,ON.2006.6313SSK
+MK540978,AL_Arctic_A,Arctic A,CAN,Canada,Ontario,2007,2007,2007,11926,02-Sep-19,02-Sep-19,skunk,-,ON.2007.2201SSK
+MK540979,AL_Arctic_A,Arctic A,CAN,Canada,Ontario,2007,2007,2007,11926,02-Sep-19,02-Sep-19,skunk,-,ON.2007.6922SSK
+MK540980,AL_Arctic_A,Arctic A,CAN,Canada,Ontario,2007,2007,2007,11926,02-Sep-19,02-Sep-19,skunk,-,ON.2007.6968SSK
+MK540981,AL_Arctic_A,Arctic A,CAN,Canada,Ontario,2008,2008,2008,11926,02-Sep-19,02-Sep-19,skunk,-,ON.2008.1385SSK
+MK540982,AL_Arctic_A,Arctic A,CAN,Canada,Ontario,2008,2008,2008,11926,02-Sep-19,02-Sep-19,skunk,-,ON.2008.2077SSK
+MK540983,AL_Arctic_A,Arctic A,CAN,Canada,Ontario,2008,2008,2008,11926,02-Sep-19,02-Sep-19,skunk,-,ON.2008.3760SSK
+MK540984,AL_Arctic_A,Arctic A,CAN,Canada,Ontario,2008,2008,2008,11926,02-Sep-19,02-Sep-19,skunk,-,ON.2008.5022SSK
+MK540985,AL_Arctic_A,Arctic A,CAN,Canada,Ontario,2008,2008,2008,11926,02-Sep-19,02-Sep-19,Vulpes vulpes,-,ON.2008.5051RFX
+MK540986,AL_Arctic_A,Arctic A,CAN,Canada,Ontario,2008,2008,2008,11925,02-Sep-19,02-Sep-19,skunk,-,ON.2008.5563SSK
+MK540987,AL_Arctic_A,Arctic A,CAN,Canada,Ontario,2009,2009,2009,11926,02-Sep-19,02-Sep-19,Vulpes vulpes,-,ON.2009.0615RFX
+MK540988,AL_Arctic_A,Arctic A,CAN,Canada,Ontario,2009,2009,2009,11926,02-Sep-19,02-Sep-19,Bos taurus,-,ON.2009.1201BOV
+MK540989,AL_Arctic_A,Arctic A,CAN,Canada,Ontario,2009,2009,2009,11927,02-Sep-19,02-Sep-19,Bos taurus,-,ON.2009.1248BOV
+MK540990,AL_Arctic_A,Arctic A,CAN,Canada,Ontario,2009,2009,2009,11926,02-Sep-19,02-Sep-19,skunk,-,ON.2009.1290SSK
+MK540991,AL_Arctic_A,Arctic A,CAN,Canada,Ontario,2009,2009,2009,11926,02-Sep-19,02-Sep-19,Vulpes vulpes,-,ON.2009.3301RFX
+MK540992,AL_Arctic_A,Arctic A,CAN,Canada,Ontario,2009,2009,2009,11925,02-Sep-19,02-Sep-19,skunk,-,ON.2009.3558SSK
+MK540993,AL_Arctic_A,Arctic A,CAN,Canada,Ontario,2010,2010,2010,11926,02-Sep-19,02-Sep-19,skunk,-,ON.2010.0825SSK
+MK540994,AL_Arctic_A,Arctic A,CAN,Canada,Ontario,2011,2011,2011,11926,02-Sep-19,02-Sep-19,Bos taurus,-,ON.2011.1183BOV
+MK540995,AL_Arctic_A,Arctic A,CAN,Canada,Ontario,2011,2011,2011,11926,02-Sep-19,02-Sep-19,skunk,-,ON.2011.2894SSK
+MK540996,AL_Arctic_A,Arctic A,CAN,Canada,Ontario,2012,2012,2012,11926,02-Sep-19,02-Sep-19,skunk,-,ON.2012.0851SSK
+MK540997,AL_Arctic_A,Arctic A,CAN,Canada,Ontario,2012,2012,2012,11926,02-Sep-19,02-Sep-19,Felis catus,-,ON.2012.1070CAT
+MK540998,AL_Arctic_A,Arctic A,CAN,Canada,Ontario,2015,2015,2015,11926,02-Sep-19,02-Sep-19,Bos taurus,-,ON.2015.1465BOV
+MK540999,AL_Arctic_A,Arctic A,CAN,Canada,Ontario,2016,2016,2016,11926,02-Sep-19,02-Sep-19,Bos taurus,-,ON.2016.1850BOV
+MK541000,AL_Arctic_A,Arctic A,CAN,Canada,Ontario,2017,2017,2017,11926,02-Sep-19,02-Sep-19,Bos taurus,-,ON.2017.0059BOV
+MK541001,AL_Arctic_A,Arctic A,CAN,Canada,Ontario,2017,2017,2017,11926,02-Sep-19,02-Sep-19,Bos taurus,-,ON.2017.0103BOV
+MK541002,AL_Arctic_A,Arctic A,CAN,Canada,Ontario,2017,2017,2017,11926,02-Sep-19,02-Sep-19,Bos taurus,-,ON.2017.0240BOV
+MK541003,AL_Arctic_A,Arctic A,CAN,Canada,Ontario,2017,2017,2017,11926,02-Sep-19,02-Sep-19,Bos taurus,-,ON.2017.0302BOV
+MK541004,AL_Arctic_A,Arctic A,CAN,Canada,Ontario,2017,2017,2017,11927,02-Sep-19,02-Sep-19,Vulpes vulpes,-,ON.2017.0615RFX
+MK541005,AL_Arctic_A,Arctic A,CAN,Canada,Ontario,2017,2017,2017,11926,02-Sep-19,02-Sep-19,skunk,-,ON.2017.1359SSK
+MK541006,AL_Arctic_A,Arctic A,CAN,Canada,Ontario,2017,2017,2017,11926,02-Sep-19,02-Sep-19,skunk,-,ON.2017.1555SSK
+MK541007,AL_Arctic_A,Arctic A,CAN,Canada,Ontario,2017,2017,2017,11926,02-Sep-19,02-Sep-19,skunk,-,ON.2017.1746SSK
+MK541008,AL_Arctic_A,Arctic A,CAN,Canada,Ontario,2017,2017,2017,11926,02-Sep-19,02-Sep-19,skunk,-,ON.2017.1833SSK
+MK541009,AL_Arctic_A,Arctic A,CAN,Canada,Ontario,2018,2018,2018,11927,02-Sep-19,02-Sep-19,skunk,-,ON.2018.0135SSK
+MK541010,AL_Arctic_A,Arctic A,CAN,Canada,Ontario,2018,2018,2018,11926,02-Sep-19,02-Sep-19,skunk,-,ON.2018.0248SSK
+MK541011,AL_Arctic_A,Arctic A,CAN,Canada,Ontario,2018,2018,2018,11926,02-Sep-19,02-Sep-19,skunk,-,ON.2018.0325SSK
+MK541012,AL_Arctic_A,Arctic A,CAN,Canada,Ontario,2000,2000,2000,11926,02-Sep-19,02-Sep-19,Vulpes vulpes,-,ON.2000.1512RFX
+MK760702,AL_Arctic,Arctic,IRN,Iran,"South Khorasan, Zirkooh",2012,2012,2012,11729,30-Sep-19,30-Sep-19,Canis lupus familiaris,31535448,91-239
+MK760729,AL_Arctic,Arctic,IRN,Iran,"Razavi Khorasan, Zaveh",2014,2014,2014,11727,30-Sep-19,30-Sep-19,Canis lupus familiaris,31535448,92-351
+MK760735,AL_Arctic,Arctic,IRN,Iran,"Razavi Khorasan, Mashhad",2014,2014,2014,11727,30-Sep-19,30-Sep-19,Canis lupus familiaris,31535448,92-406
+MK760761,AL_Arctic,Arctic,IRN,Iran,"Sistan and Baluchestan, Mirjaveh",2014,2014,2014,11725,30-Sep-19,30-Sep-19,Canis lupus familiaris,31535448,93-A-52
+MN233882,AL_Arctic_A,Arctic A,USA,United States,Alaska,1990,1990,1990,1353,18-Mar-20,18-Mar-20,Vulpes vulpes,-,AK.1990.V817RFX
+MN233883,AL_Arctic_A,Arctic A,CAN,Canada,Manitoba,2012,2012,2012,1353,18-Mar-20,18-Mar-20,Vulpes vulpes,-,MB.2012.0785RFX
+MN233884,AL_Arctic_A,Arctic A,CAN,Canada,Newfoundland and Labrador,2012,2012,2012,1353,18-Mar-20,18-Mar-20,Vulpes vulpes,-,NL.2012.0279RFX
+MN233885,AL_Arctic_A,Arctic A,CAN,Canada,Northern Territories,2012,2012,2012,1353,18-Mar-20,18-Mar-20,Vulpes vulpes,-,NT.2012.0020AFX
+MN233886,AL_Arctic_A,Arctic A,CAN,Canada,Northern Territories,2012,2012,2012,1353,18-Mar-20,18-Mar-20,Vulpes vulpes,-,NT.2012.0043AFX
+MN233887,AL_Arctic_A,Arctic A,CAN,Canada,Northern Territories,2013,2013,2013,1353,18-Mar-20,18-Mar-20,Vulpes vulpes,-,NT.2013.0087AFX
+MN233888,AL_Arctic_A,Arctic A,CAN,Canada,Northern Territories,2013,2013,2013,1353,18-Mar-20,18-Mar-20,Vulpes vulpes,-,NT.2013.0089AFX
+MN233889,AL_Arctic_A,Arctic A,CAN,Canada,Northern Territories,2013,2013,2013,1353,18-Mar-20,18-Mar-20,Vulpes vulpes,-,NT.2013.0098AFX
+MN233890,AL_Arctic_A,Arctic A,CAN,Canada,Northern Territories,2013,2013,2013,1353,18-Mar-20,18-Mar-20,Vulpes vulpes,-,NT.2013.0108RFX
+MN233891,AL_Arctic_A,Arctic A,CAN,Canada,Northern Territories,2014,2014,2014,1353,18-Mar-20,18-Mar-20,Canis lupus,-,NT.2014.0399WLF
+MN233892,AL_Arctic_A,Arctic A,CAN,Canada,Nunavut,2012,2012,2012,1353,18-Mar-20,18-Mar-20,Vulpes vulpes,-,NU.2012.0031AFX
+MN233893,AL_Arctic_A,Arctic A,CAN,Canada,Nunavut,2012,2012,2012,1353,18-Mar-20,18-Mar-20,Vulpes vulpes,-,NU.2012.0085RFX
+MN233894,AL_Arctic_A,Arctic A,CAN,Canada,Nunavut,2012,2012,2012,1353,18-Mar-20,18-Mar-20,Vulpes vulpes,-,NU.2012.0113AFX
+MN233895,AL_Arctic_A,Arctic A,CAN,Canada,Nunavut,2012,2012,2012,1353,18-Mar-20,18-Mar-20,Canis familiaris,-,NU.2012.0114DOG
+MN233896,AL_Arctic_A,Arctic A,CAN,Canada,Nunavut,2012,2012,2012,1353,18-Mar-20,18-Mar-20,Vulpes vulpes,-,NU.2012.0176AFX
+MN233897,AL_Arctic_A,Arctic A,CAN,Canada,Nunavut,2012,2012,2012,1353,18-Mar-20,18-Mar-20,Canis familiaris,-,NU.2012.0312DOG
+MN233898,AL_Arctic_A,Arctic A,USA,United States,Alaska,1989,1989,1989,11926,18-Mar-20,18-Mar-20,Vulpes vulpes,-,AK.1989.V811RFX
+MN233899,AL_Arctic_A,Arctic A,USA,United States,Alaska,2007,2007,2007,11926,18-Mar-20,18-Mar-20,Vulpes vulpes,-,AK.2007.V1481AFX
+MN233900,AL_Arctic_A,Arctic A,USA,United States,Alaska,2007,2007,2007,11926,18-Mar-20,18-Mar-20,Vulpes vulpes,-,AK.2007.V1482AFX
+MN233901,AL_Arctic_A,Arctic A,USA,United States,Alaska,2008,2008,2008,11926,18-Mar-20,18-Mar-20,Vulpes vulpes,-,AK.2008.V1486RFX
+MN233902,AL_Arctic_A,Arctic A,USA,United States,Alaska,2008,2008,2008,11926,18-Mar-20,18-Mar-20,Vulpes vulpes,-,AK.2008.V1488AFX
+MN233903,AL_Arctic_A,Arctic A,CAN,Canada,Manitoba,2005,2005,2005,11926,18-Mar-20,18-Mar-20,Vulpes vulpes,-,MB.2005.6048RFX
+MN233904,AL_Arctic_A,Arctic A,CAN,Canada,Manitoba,2012,2012,2012,11926,18-Mar-20,18-Mar-20,Vulpes vulpes,-,MB.2012.0888RFX
+MN233905,AL_Arctic_A,Arctic A,CAN,Canada,Manitoba,2012,2012,2012,11926,18-Mar-20,18-Mar-20,Canis familiaris,-,MB.2012.1008DOG
+MN233906,AL_Arctic_A,Arctic A,CAN,Canada,Newfoundland and Labrador,1996,1996,1996,11926,18-Mar-20,18-Mar-20,Vulpes vulpes,-,NL.1996.1855RFX
+MN233907,AL_Arctic_A,Arctic A,CAN,Canada,Newfoundland and Labrador,1996,1996,1996,11926,18-Mar-20,18-Mar-20,Vulpes vulpes,-,NL.1996.2026RFX
+MN233908,AL_Arctic_A,Arctic A,CAN,Canada,Newfoundland and Labrador,1996,1996,1996,11926,18-Mar-20,18-Mar-20,Vulpes vulpes,-,NL.1996.2060RFX
+MN233909,AL_Arctic_A,Arctic A,CAN,Canada,Newfoundland and Labrador,1996,1996,1996,11927,18-Mar-20,18-Mar-20,Vulpes vulpes,-,NL.1996.2347RFX
+MN233910,AL_Arctic_A,Arctic A,CAN,Canada,Newfoundland and Labrador,1996,1996,1996,11926,18-Mar-20,18-Mar-20,Vulpes vulpes,-,NL.1996.2351RFX
+MN233911,AL_Arctic_A,Arctic A,CAN,Canada,Newfoundland and Labrador,1996,1996,1996,11926,18-Mar-20,18-Mar-20,Vulpes vulpes,-,NL.1996.2393RFX
+MN233912,AL_Arctic_A,Arctic A,CAN,Canada,Newfoundland and Labrador,1996,1996,1996,11927,18-Mar-20,18-Mar-20,Vulpes vulpes,-,NL.1996.2512RFX
+MN233913,AL_Arctic_A,Arctic A,CAN,Canada,Newfoundland and Labrador,2002,2002,2002,11926,18-Mar-20,18-Mar-20,Vulpes vulpes,-,NL.2002.2909RFX
+MN233914,AL_Arctic_A,Arctic A,CAN,Canada,Newfoundland and Labrador,2002,2002,2002,11926,18-Mar-20,18-Mar-20,Vulpes vulpes,-,NL.2002.3548RFX
+MN233915,AL_Arctic_A,Arctic A,CAN,Canada,Newfoundland and Labrador,2002,2002,2002,11926,18-Mar-20,18-Mar-20,Vulpes vulpes,-,NL.2002.9337RFX
+MN233916,AL_Arctic_A,Arctic A,CAN,Canada,Newfoundland and Labrador,2003,2003,2003,11926,18-Mar-20,18-Mar-20,Vulpes vulpes,-,NL.2003.0352RFX
+MN233917,AL_Arctic_A,Arctic A,CAN,Canada,Newfoundland and Labrador,2003,2003,2003,11926,18-Mar-20,18-Mar-20,Vulpes vulpes,-,NL.2003.3362RFX
+MN233918,AL_Arctic_A,Arctic A,CAN,Canada,Newfoundland and Labrador,2003,2003,2003,11926,18-Mar-20,18-Mar-20,Vulpes vulpes,-,NL.2003.3363RFX
+MN233919,AL_Arctic_A,Arctic A,CAN,Canada,Newfoundland and Labrador,2003,2003,2003,11927,18-Mar-20,18-Mar-20,Vulpes vulpes,-,NL.2003.4056RFX
+MN233920,AL_Arctic_A,Arctic A,CAN,Canada,Newfoundland and Labrador,2004,2004,2004,11926,18-Mar-20,18-Mar-20,Vulpes vulpes,-,NL.2004.3365RFX
+MN233921,AL_Arctic_A,Arctic A,CAN,Canada,Newfoundland and Labrador,2004,2004,2004,11926,18-Mar-20,18-Mar-20,Vulpes vulpes,-,NL.2004.3889RFX
+MN233922,AL_Arctic_A,Arctic A,CAN,Canada,Newfoundland and Labrador,2004,2004,2004,11926,18-Mar-20,18-Mar-20,Vulpes vulpes,-,NL.2004.4320RFX
+MN233923,AL_Arctic_A,Arctic A,CAN,Canada,Newfoundland and Labrador,2004,2004,2004,11926,18-Mar-20,18-Mar-20,Canis familiaris,-,NL.2004.5133DOG
+MN233924,AL_Arctic_A,Arctic A,CAN,Canada,Newfoundland and Labrador,2012,2012,2012,11926,18-Mar-20,18-Mar-20,Vulpes vulpes,-,NL.2012.0130RFX
+MN233925,AL_Arctic_A,Arctic A,CAN,Canada,Newfoundland and Labrador,2012,2012,2012,11926,18-Mar-20,18-Mar-20,Vulpes vulpes,-,NL.2012.0322RFX
+MN233926,AL_Arctic_A,Arctic A,CAN,Canada,Newfoundland and Labrador,2012,2012,2012,11926,18-Mar-20,18-Mar-20,Vulpes vulpes,-,NL.2012.0323RFX
+MN233927,AL_Arctic_A,Arctic A,CAN,Canada,Newfoundland and Labrador,2012,2012,2012,11926,18-Mar-20,18-Mar-20,Vulpes vulpes,-,NL.2012.0449RFX
+MN233928,AL_Arctic_A,Arctic A,CAN,Canada,Newfoundland and Labrador,2012,2012,2012,11926,18-Mar-20,18-Mar-20,Vulpes vulpes,-,NL.2012.0450RFX
+MN233929,AL_Arctic_A,Arctic A,CAN,Canada,Newfoundland and Labrador,2012,2012,2012,11926,18-Mar-20,18-Mar-20,Vulpes vulpes,-,NL.2012.0579RFX
+MN233930,AL_Arctic_A,Arctic A,CAN,Canada,Newfoundland and Labrador,2012,2012,2012,11926,18-Mar-20,18-Mar-20,Vulpes vulpes,-,NL.2012.0580RFX
+MN233931,AL_Arctic_A,Arctic A,CAN,Canada,Newfoundland and Labrador,2012,2012,2012,11926,18-Mar-20,18-Mar-20,Vulpes vulpes,-,NL.2012.0627RFX
+MN233932,AL_Arctic_A,Arctic A,CAN,Canada,Newfoundland and Labrador,2012,2012,2012,11926,18-Mar-20,18-Mar-20,Vulpes vulpes,-,NL.2012.0628RFX
+MN233933,AL_Arctic_A,Arctic A,CAN,Canada,Newfoundland and Labrador,2012,2012,2012,11926,18-Mar-20,18-Mar-20,Vulpes vulpes,-,NL.2012.0672RFX
+MN233934,AL_Arctic_A,Arctic A,CAN,Canada,Newfoundland and Labrador,2012,2012,2012,11926,18-Mar-20,18-Mar-20,Vulpes vulpes,-,NL.2012.0846RFX
+MN233935,AL_Arctic_A,Arctic A,CAN,Canada,Newfoundland and Labrador,2012,2012,2012,11926,18-Mar-20,18-Mar-20,Vulpes vulpes,-,NL.2012.0857RFX
+MN233936,AL_Arctic_A,Arctic A,CAN,Canada,Newfoundland and Labrador,2012,2012,2012,11926,18-Mar-20,18-Mar-20,Vulpes vulpes,-,NL.2012.1054RFX
+MN233937,AL_Arctic_A,Arctic A,CAN,Canada,Newfoundland and Labrador,2015,2015,2015,11926,18-Mar-20,18-Mar-20,Canis lupus,-,NL.2015.0071WLF
+MN233938,AL_Arctic_A,Arctic A,CAN,Canada,Newfoundland and Labrador,2015,2015,2015,11926,18-Mar-20,18-Mar-20,Vulpes vulpes,-,NL.2015.0080RFX
+MN233939,AL_Arctic_A,Arctic A,CAN,Canada,Newfoundland and Labrador,2015,2015,2015,11926,18-Mar-20,18-Mar-20,Canis familiaris,-,NL.2015.0106DOG
+MN233940,AL_Arctic_A,Arctic A,CAN,Canada,Newfoundland and Labrador,2015,2015,2015,11926,18-Mar-20,18-Mar-20,Vulpes vulpes,-,NL.2015.0111RFX
+MN233941,AL_Arctic_A,Arctic A,CAN,Canada,Newfoundland and Labrador,2015,2015,2015,11926,18-Mar-20,18-Mar-20,Vulpes vulpes,-,NL.2015.0182RFX
+MN233942,AL_Arctic_A,Arctic A,CAN,Canada,Newfoundland and Labrador,2015,2015,2015,11926,18-Mar-20,18-Mar-20,Vulpes vulpes,-,NL.2015.0217RFX
+MN233943,AL_Arctic_A,Arctic A,CAN,Canada,Newfoundland and Labrador,2015,2015,2015,11926,18-Mar-20,18-Mar-20,Canis lupus,-,NL.2015.0244WLF
+MN233944,AL_Arctic_A,Arctic A,CAN,Canada,Newfoundland and Labrador,2015,2015,2015,11926,18-Mar-20,18-Mar-20,Vulpes vulpes,-,NL.2015.0337RFX
+MN233945,AL_Arctic_A,Arctic A,CAN,Canada,Newfoundland and Labrador,2015,2015,2015,11926,18-Mar-20,18-Mar-20,Vulpes vulpes,-,NL.2015.0462RFX
+MN233946,AL_Arctic_A,Arctic A,CAN,Canada,Newfoundland and Labrador,2015,2015,2015,11926,18-Mar-20,18-Mar-20,Felis catus,-,NL.2015.0497CAT
+MN233947,AL_Arctic_A,Arctic A,CAN,Canada,Northern Territories,1990,1990,1990,11926,18-Mar-20,18-Mar-20,polar bear,-,NT.1990.0043PLB
+MN233948,AL_Arctic_A,Arctic A,CAN,Canada,Northern Territories,1990,1990,1990,11926,18-Mar-20,18-Mar-20,Vulpes vulpes,-,NT.1990.3225AFX
+MN233949,AL_Arctic_A,Arctic A,CAN,Canada,Northern Territories,1990,1990,1990,11926,18-Mar-20,18-Mar-20,Vulpes vulpes,-,NT.1990.3310AFX
+MN233950,AL_Arctic_A,Arctic A,CAN,Canada,Northern Territories,1992,1992,1992,11926,18-Mar-20,18-Mar-20,Vulpes vulpes,-,NT.1992.0228AFX
+MN233951,AL_Arctic_A,Arctic A,CAN,Canada,Northern Territories,1993,1993,1993,11926,18-Mar-20,18-Mar-20,Vulpes vulpes,-,NT.1993.0217AFX
+MN233952,AL_Arctic_A,Arctic A,CAN,Canada,Northern Territories,1993,1993,1993,11926,18-Mar-20,18-Mar-20,Vulpes vulpes,-,NT.1993.0286AFX
+MN233953,AL_Arctic_A,Arctic A,CAN,Canada,Northern Territories,1993,1993,1993,11926,18-Mar-20,18-Mar-20,Vulpes vulpes,-,NT.1993.0398AFX
+MN233954,AL_Arctic_A,Arctic A,CAN,Canada,Northern Territories,1993,1993,1993,11926,18-Mar-20,18-Mar-20,Vulpes vulpes,-,NT.1993.0669AFX
+MN233955,AL_Arctic_A,Arctic A,CAN,Canada,Northern Territories,1993,1993,1993,11926,18-Mar-20,18-Mar-20,Vulpes vulpes,-,NT.1993.0782AFX
+MN233956,AL_Arctic_A,Arctic A,CAN,Canada,Northern Territories,1993,1993,1993,11926,18-Mar-20,18-Mar-20,Vulpes vulpes,-,NT.1993.2863AFX
+MN233957,AL_Arctic_A,Arctic A,CAN,Canada,Northern Territories,1993,1993,1993,11926,18-Mar-20,18-Mar-20,Vulpes vulpes,-,NT.1993.2980AFX
+MN233958,AL_Arctic_A,Arctic A,CAN,Canada,Northern Territories,1994,1994,1994,11926,18-Mar-20,18-Mar-20,Vulpes vulpes,-,NT.1994.3803AFX
+MN233959,AL_Arctic_A,Arctic A,CAN,Canada,Northern Territories,1997,1997,1997,11926,18-Mar-20,18-Mar-20,Vulpes vulpes,-,NT.1997.0270RFX
+MN233960,AL_Arctic_A,Arctic A,CAN,Canada,Northern Territories,1998,1998,1998,11926,18-Mar-20,18-Mar-20,Vulpes vulpes,-,NT.1998.2209AFX
+MN233961,AL_Arctic_A,Arctic A,CAN,Canada,Northern Territories,2000,2000,2000,11926,18-Mar-20,18-Mar-20,Vulpes vulpes,-,NT.2000.0417RFX
+MN233962,AL_Arctic_A,Arctic A,CAN,Canada,Northern Territories,2000,2000,2000,11926,18-Mar-20,18-Mar-20,Vulpes vulpes,-,NT.2000.0528RFX
+MN233963,AL_Arctic_A,Arctic A,CAN,Canada,Northern Territories,2001,2001,2001,11926,18-Mar-20,18-Mar-20,Vulpes vulpes,-,NT.2001.12568AFX
+MN233964,AL_Arctic_A,Arctic A,CAN,Canada,Northern Territories,2005,2005,2005,11927,18-Mar-20,18-Mar-20,Canis familiaris,-,NT.2005.0250DOG
+MN233965,AL_Arctic_A,Arctic A,CAN,Canada,Northern Territories,2006,2006,2006,11926,18-Mar-20,18-Mar-20,Vulpes vulpes,-,NT.2006.0122RFX
+MN233966,AL_Arctic_A,Arctic A,CAN,Canada,Northern Territories,2006,2006,2006,11926,18-Mar-20,18-Mar-20,Vulpes vulpes,-,NT.2006.1360AFX
+MN233967,AL_Arctic_A,Arctic A,CAN,Canada,Northern Territories,2007,2007,2007,11926,18-Mar-20,18-Mar-20,Vulpes vulpes,-,NT.2007.0005AFX
+MN233968,AL_Arctic_A,Arctic A,CAN,Canada,Northern Territories,2008,2008,2008,11926,18-Mar-20,18-Mar-20,Vulpes vulpes,-,NT.2008.1385AFX
+MN233969,AL_Arctic_A,Arctic A,CAN,Canada,Northern Territories,2008,2008,2008,11926,18-Mar-20,18-Mar-20,Vulpes vulpes,-,NT.2008.1453AFX
+MN233970,AL_Arctic_A,Arctic A,CAN,Canada,Northern Territories,2012,2012,2012,11926,18-Mar-20,18-Mar-20,Vulpes vulpes,-,NT.2012.0042AFX
+MN233971,AL_Arctic_A,Arctic A,CAN,Canada,Northern Territories,2012,2012,2012,11927,18-Mar-20,18-Mar-20,Canis familiaris,-,NT.2012.0338DOG
+MN233972,AL_Arctic_A,Arctic A,CAN,Canada,Northern Territories,2012,2012,2012,11926,18-Mar-20,18-Mar-20,Vulpes vulpes,-,NT.2012.0989AFX
+MN233973,AL_Arctic_A,Arctic A,CAN,Canada,Northern Territories,2013,2013,2013,11926,18-Mar-20,18-Mar-20,Vulpes vulpes,-,NT.2013.0088AFX
+MN233974,AL_Arctic_A,Arctic A,CAN,Canada,Nunavut,1999,1999,1999,11926,18-Mar-20,18-Mar-20,Vulpes vulpes,-,NU.1999.0142AFX
+MN233975,AL_Arctic_A,Arctic A,CAN,Canada,Nunavut,1999,1999,1999,11926,18-Mar-20,18-Mar-20,Vulpes vulpes,-,NU.1999.2159AFX
+MN233976,AL_Arctic_A,Arctic A,CAN,Canada,Nunavut,2002,2002,2002,11926,18-Mar-20,18-Mar-20,Vulpes vulpes,-,NU.2002.0035RFX
+MN233977,AL_Arctic_A,Arctic A,CAN,Canada,Nunavut,2002,2002,2002,11926,18-Mar-20,18-Mar-20,Vulpes vulpes,-,NU.2002.0897AFX
+MN233978,AL_Arctic_A,Arctic A,CAN,Canada,Nunavut,2004,2004,2004,11926,18-Mar-20,18-Mar-20,Vulpes vulpes,-,NU.2004.1518AFX
+MN233979,AL_Arctic_A,Arctic A,CAN,Canada,Nunavut,2005,2005,2005,11926,18-Mar-20,18-Mar-20,Vulpes vulpes,-,NU.2005.0110RFX
+MN233980,AL_Arctic_A,Arctic A,CAN,Canada,Nunavut,2005,2005,2005,11926,18-Mar-20,18-Mar-20,Vulpes vulpes,-,NU.2005.0111AFX
+MN233981,AL_Arctic_A,Arctic A,CAN,Canada,Nunavut,2005,2005,2005,11926,18-Mar-20,18-Mar-20,Vulpes vulpes,-,NU.2005.0119AFX
+MN233982,AL_Arctic_A,Arctic A,CAN,Canada,Nunavut,2006,2006,2006,11927,18-Mar-20,18-Mar-20,Vulpes vulpes,-,NU.2006.0213AFX
+MN233983,AL_Arctic_A,Arctic A,CAN,Canada,Nunavut,2006,2006,2006,11926,18-Mar-20,18-Mar-20,Vulpes vulpes,-,NU.2006.1414AFX
+MN233984,AL_Arctic_A,Arctic A,CAN,Canada,Nunavut,2006,2006,2006,11926,18-Mar-20,18-Mar-20,Vulpes vulpes,-,NU.2006.5386RFX
+MN233985,AL_Arctic_A,Arctic A,CAN,Canada,Nunavut,2007,2007,2007,11926,18-Mar-20,18-Mar-20,Vulpes vulpes,-,NU.2007.0248AFX
+MN233986,AL_Arctic_A,Arctic A,CAN,Canada,Nunavut,2007,2007,2007,11926,18-Mar-20,18-Mar-20,Vulpes vulpes,-,NU.2007.0298AFX
+MN233987,AL_Arctic_A,Arctic A,CAN,Canada,Nunavut,2007,2007,2007,11926,18-Mar-20,18-Mar-20,Vulpes vulpes,-,NU.2007.1475AFX
+MN233988,AL_Arctic_A,Arctic A,CAN,Canada,Nunavut,2008,2008,2008,11926,18-Mar-20,18-Mar-20,Vulpes vulpes,-,NU.2008.0047AFX
+MN233989,AL_Arctic_A,Arctic A,CAN,Canada,Nunavut,2008,2008,2008,11926,18-Mar-20,18-Mar-20,Vulpes vulpes,-,NU.2008.1328RFX
+MN233990,AL_Arctic_A,Arctic A,CAN,Canada,Nunavut,2012,2012,2012,11926,18-Mar-20,18-Mar-20,Vulpes vulpes,-,NU.2012.0150AFX
+MN233991,AL_Arctic_A,Arctic A,CAN,Canada,Nunavut,2012,2012,2012,11926,18-Mar-20,18-Mar-20,Vulpes vulpes,-,NU.2012.0207AFX
+MN233992,AL_Arctic_A,Arctic A,CAN,Canada,Nunavut,2012,2012,2012,11926,18-Mar-20,18-Mar-20,Vulpes vulpes,-,NU.2012.0260AFX
+MN233993,AL_Arctic_A,Arctic A,CAN,Canada,Nunavut,2012,2012,2012,11926,18-Mar-20,18-Mar-20,Vulpes vulpes,-,NU.2012.0988AFX
+MN233994,AL_Arctic_A,Arctic A,CAN,Canada,Nunavut,2013,2013,2013,11926,18-Mar-20,18-Mar-20,Vulpes vulpes,-,NU.2013.0304AFX
+MN233995,AL_Arctic_A,Arctic A,CAN,Canada,Nunavut,2013,2013,2013,11926,18-Mar-20,18-Mar-20,Vulpes vulpes,-,NU.2013.0305AFX
+MN233996,AL_Arctic_A,Arctic A,CAN,Canada,Nunavut,2013,2013,2013,11926,18-Mar-20,18-Mar-20,Canis familiaris,-,NU.2013.0398DOG
+MN233997,AL_Arctic_A,Arctic A,CAN,Canada,Nunavut,2013,2013,2013,11926,18-Mar-20,18-Mar-20,Canis familiaris,-,NU.2013.0459DOG
+MN233998,AL_Arctic_A,Arctic A,CAN,Canada,Nunavut,2014,2014,2014,11926,18-Mar-20,18-Mar-20,Vulpes vulpes,-,NU.2014.0385AFX
+MN233999,AL_Arctic_A,Arctic A,CAN,Canada,Nunavut,2015,2015,2015,11926,18-Mar-20,18-Mar-20,Vulpes vulpes,-,NU.2015.0083RFX
+MN234000,AL_Arctic_A,Arctic A,CAN,Canada,Nunavut,2015,2015,2015,11926,18-Mar-20,18-Mar-20,Vulpes vulpes,-,NU.2015.0172AFX
+MN234001,AL_Arctic_A,Arctic A,CAN,Canada,Nunavut,2015,2015,2015,11926,18-Mar-20,18-Mar-20,Vulpes vulpes,-,NU.2015.0194RFX
+MN234002,AL_Arctic_A,Arctic A,CAN,Canada,Nunavut,2015,2015,2015,11926,18-Mar-20,18-Mar-20,Vulpes vulpes,-,NU.2015.0256AFX
+MN234003,AL_Arctic_A,Arctic A,CAN,Canada,Nunavut,2015,2015,2015,11926,18-Mar-20,18-Mar-20,Vulpes vulpes,-,NU.2015.0257AFX
+MN234004,AL_Arctic_A,Arctic A,CAN,Canada,Nunavut,2015,2015,2015,11926,18-Mar-20,18-Mar-20,Vulpes vulpes,-,NU.2015.0373AFX
+MN234005,AL_Arctic_A,Arctic A,CAN,Canada,Nunavut,2015,2015,2015,11926,18-Mar-20,18-Mar-20,Canis familiaris,-,NU.2015.0375DOG
+MN234006,AL_Arctic_A,Arctic A,CAN,Canada,Nunavut,2015,2015,2015,11926,18-Mar-20,18-Mar-20,Vulpes vulpes,-,NU.2015.1432AFX
+MN234007,AL_Arctic_A,Arctic A,CAN,Canada,Nunavut,2016,2016,2016,11926,18-Mar-20,18-Mar-20,Vulpes vulpes,-,NU.2016.1842RFX
+MN234008,AL_Arctic_A,Arctic A,CAN,Canada,Nunavut,2017,2017,2017,11926,18-Mar-20,18-Mar-20,Vulpes vulpes,-,NU.2017.0118AFX
+MN234009,AL_Arctic_A,Arctic A,CAN,Canada,Nunavut,2017,2017,2017,11926,18-Mar-20,18-Mar-20,Vulpes vulpes,-,NU.2017.0630AFX
+MN234010,AL_Arctic_A,Arctic A,CAN,Canada,Nunavut,2017,2017,2017,11926,18-Mar-20,18-Mar-20,Vulpes vulpes,-,NU.2017.0663AFX
+MN234011,AL_Arctic_A,Arctic A,CAN,Canada,Nunavut,2017,2017,2017,11926,18-Mar-20,18-Mar-20,Canis familiaris,-,NU.2017.0710DOG
+MN234012,AL_Arctic_A,Arctic A,CAN,Canada,Nunavut,2017,2017,2017,11926,18-Mar-20,18-Mar-20,Canis familiaris,-,NU.2017.0722DOG
+MN234013,AL_Arctic_A,Arctic A,CAN,Canada,Ontario,1995,1995,1995,11927,18-Mar-20,18-Mar-20,Vulpes vulpes,-,ON.1995.1082AFX
+MN234014,AL_Arctic_A,Arctic A,CAN,Canada,Ontario,2000,2000,2000,11926,18-Mar-20,18-Mar-20,Vulpes vulpes,-,ON.2000.0408RFX
+MN234015,AL_Arctic_A,Arctic A,CAN,Canada,Ontario,2013,2013,2013,11926,18-Mar-20,18-Mar-20,Canis familiaris,-,ON.2013.0595DOG
+MN234016,AL_Arctic_A,Arctic A,CAN,Canada,Quebec,1993,1993,1993,11926,18-Mar-20,18-Mar-20,Vulpes vulpes,-,QC.1993.2764AFX
+MN234017,AL_Arctic_A,Arctic A,CAN,Canada,Quebec,1996,1996,1996,11926,18-Mar-20,18-Mar-20,Vulpes vulpes,-,QC.1996.1804AFX
+MN234018,AL_Arctic_A,Arctic A,CAN,Canada,Quebec,1999,1999,1999,11926,18-Mar-20,18-Mar-20,Vulpes vulpes,-,QC.1999.0549AFX
+MN234019,AL_Arctic_A,Arctic A,CAN,Canada,Quebec,2000,2000,2000,11926,18-Mar-20,18-Mar-20,Canis familiaris,-,QC.2000.2483DOG
+MN234020,AL_Arctic_A,Arctic A,CAN,Canada,Quebec,2000,2000,2000,11926,18-Mar-20,18-Mar-20,Canis familiaris,-,QC.2000.3420DOG
+MN234021,AL_Arctic_A,Arctic A,CAN,Canada,Quebec,2000,2000,2000,11926,18-Mar-20,18-Mar-20,Vulpes vulpes,-,QC.2000.4337RFX
+MN234022,AL_Arctic_A,Arctic A,CAN,Canada,Quebec,2001,2001,2001,11926,18-Mar-20,18-Mar-20,Vulpes vulpes,-,QC.2001.3447RFX
+MN234023,AL_Arctic_A,Arctic A,CAN,Canada,Quebec,2002,2002,2002,11926,18-Mar-20,18-Mar-20,Vulpes vulpes,-,QC.2002.2258AFX
+MN234024,AL_Arctic_A,Arctic A,CAN,Canada,Quebec,2003,2003,2003,11926,18-Mar-20,18-Mar-20,Canis familiaris,-,QC.2003.1166DOG
+MN234025,AL_Arctic_A,Arctic A,CAN,Canada,Quebec,2003,2003,2003,11926,18-Mar-20,18-Mar-20,Vulpes vulpes,-,QC.2003.1204RFX
+MN234026,AL_Arctic_A,Arctic A,CAN,Canada,Quebec,2003,2003,2003,11926,18-Mar-20,18-Mar-20,Vulpes vulpes,-,QC.2003.1497RFX
+MN234027,AL_Arctic_A,Arctic A,CAN,Canada,Quebec,2004,2004,2004,11926,18-Mar-20,18-Mar-20,Canis lupus,-,QC.2004.0573WLF
+MN234028,AL_Arctic_A,Arctic A,CAN,Canada,Quebec,2004,2004,2004,11926,18-Mar-20,18-Mar-20,Vulpes vulpes,-,QC.2004.3719RFX
+MN234029,AL_Arctic_A,Arctic A,CAN,Canada,Quebec,2004,2004,2004,11926,18-Mar-20,18-Mar-20,Vulpes vulpes,-,QC.2004.4249RFX
+MN234030,AL_Arctic_A,Arctic A,CAN,Canada,Quebec,2004,2004,2004,11926,18-Mar-20,18-Mar-20,Vulpes vulpes,-,QC.2004.4250RFX
+MN234031,AL_Arctic_A,Arctic A,CAN,Canada,Quebec,2009,2009,2009,11926,18-Mar-20,18-Mar-20,Vulpes vulpes,-,QC.2009.0671RFX
+MN234032,AL_Arctic_A,Arctic A,CAN,Canada,Quebec,2009,2009,2009,11926,18-Mar-20,18-Mar-20,Canis lupus,-,QC.2009.1125WLF
+MN234033,AL_Arctic_A,Arctic A,CAN,Canada,Quebec,2009,2009,2009,11926,18-Mar-20,18-Mar-20,Canis familiaris,-,QC.2009.3238DOG
+MN234034,AL_Arctic_A,Arctic A,CAN,Canada,Quebec,2009,2009,2009,11926,18-Mar-20,18-Mar-20,Canis familiaris,-,QC.2009.3239DOG
+MN234035,AL_Arctic_A,Arctic A,CAN,Canada,Quebec,2009,2009,2009,11926,18-Mar-20,18-Mar-20,Canis familiaris,-,QC.2009.3324DOG
+MN234036,AL_Arctic_A,Arctic A,CAN,Canada,Quebec,2012,2012,2012,11926,18-Mar-20,18-Mar-20,Vulpes vulpes,-,QC.2012.0133AFX
+MN234037,AL_Arctic_A,Arctic A,CAN,Canada,Quebec,2012,2012,2012,11926,18-Mar-20,18-Mar-20,Canis familiaris,-,QC.2012.0148DOG
+MN234038,AL_Arctic_A,Arctic A,CAN,Canada,Quebec,2012,2012,2012,11926,18-Mar-20,18-Mar-20,Vulpes vulpes,-,QC.2012.0243AFX
+MN234039,AL_Arctic_A,Arctic A,CAN,Canada,Quebec,2012,2012,2012,11926,18-Mar-20,18-Mar-20,Canis familiaris,-,QC.2012.0244DOG
+MN234040,AL_Arctic_A,Arctic A,CAN,Canada,Quebec,2012,2012,2012,11926,18-Mar-20,18-Mar-20,Vulpes vulpes,-,QC.2012.0247RFX
+MN234041,AL_Arctic_A,Arctic A,CAN,Canada,Quebec,2012,2012,2012,11926,18-Mar-20,18-Mar-20,Canis familiaris,-,QC.2012.0296DOG
+MN234042,AL_Arctic_A,Arctic A,CAN,Canada,Quebec,2012,2012,2012,11926,18-Mar-20,18-Mar-20,Vulpes vulpes,-,QC.2012.0378AFX
+MN234043,AL_Arctic_A,Arctic A,CAN,Canada,Quebec,2012,2012,2012,11926,18-Mar-20,18-Mar-20,Vulpes vulpes,-,QC.2012.0379AFX
+MN234044,AL_Arctic_A,Arctic A,CAN,Canada,Quebec,2012,2012,2012,11926,18-Mar-20,18-Mar-20,Vulpes vulpes,-,QC.2012.0380RFX
+MN234045,AL_Arctic_A,Arctic A,CAN,Canada,Quebec,2012,2012,2012,11926,18-Mar-20,18-Mar-20,Canis lupus,-,QC.2012.0451WLF
+MN234046,AL_Arctic_A,Arctic A,CAN,Canada,Quebec,2012,2012,2012,11926,18-Mar-20,18-Mar-20,Vulpes vulpes,-,QC.2012.0528AFX
+MN234047,AL_Arctic_A,Arctic A,CAN,Canada,Quebec,2012,2012,2012,11926,18-Mar-20,18-Mar-20,Canis familiaris,-,QC.2012.0540DOG
+MN234048,AL_Arctic_A,Arctic A,CAN,Canada,Quebec,2012,2012,2012,11926,18-Mar-20,18-Mar-20,Vulpes vulpes,-,QC.2012.0847RFX
+MN234049,AL_Arctic_A,Arctic A,CAN,Canada,Quebec,2012,2012,2012,11926,18-Mar-20,18-Mar-20,Vulpes vulpes,-,QC.2012.0988RFX
+MN234050,AL_Arctic_A,Arctic A,CAN,Canada,Quebec,2012,2012,2012,11926,18-Mar-20,18-Mar-20,Vulpes vulpes,-,QC.2012.1351RFX
+MN234051,AL_Arctic_A,Arctic A,CAN,Canada,Quebec,2015,2015,2015,11926,18-Mar-20,18-Mar-20,Canis familiaris,-,QC.2015.0047DOG
+MN234052,AL_Arctic_A,Arctic A,CAN,Canada,Quebec,2015,2015,2015,11926,18-Mar-20,18-Mar-20,Vulpes vulpes,-,QC.2015.0068RFX
+MN234053,AL_Arctic_A,Arctic A,CAN,Canada,Quebec,2015,2015,2015,11926,18-Mar-20,18-Mar-20,Canis familiaris,-,QC.2015.0107DOG
+MN234054,AL_Arctic_A,Arctic A,CAN,Canada,Quebec,2015,2015,2015,11926,18-Mar-20,18-Mar-20,Vulpes vulpes,-,QC.2015.0238AFX
+MN234055,AL_Arctic_A,Arctic A,CAN,Canada,Quebec,2017,2017,2017,11926,18-Mar-20,18-Mar-20,Vulpes vulpes,-,QC.2017.0133AFX
+MN234056,AL_Arctic_A,Arctic A,CAN,Canada,Quebec,2017,2017,2017,11926,18-Mar-20,18-Mar-20,Canis familiaris,-,QC.2017.0477DOG
+MN384717,AL_Arctic_A,Arctic A,RUS,Russia,"Chukotka Autonomous Okrug, Iultinsky District",2017,2017,2017,1353,25-Apr-20,25-Apr-20,Vulpes lagopus,-,720_68_2017_Chukotka
+MN384718,AL_Arctic_A,Arctic A,RUS,Russia,"Chukotka Autonomous Okrug, Chukotsky District",2017,2017,2017,1353,25-Apr-20,25-Apr-20,Vulpes vulpes,-,720_69_2017_Chukotka
+MN384719,AL_Arctic_A,Arctic A,RUS,Russia,"Chukotka Autonomous Okrug, Providensky District",2017,2017,2017,1353,25-Apr-20,25-Apr-20,Vulpes vulpes,-,720_71_2017_Chukotka
+MN384720,AL_Arctic_A,Arctic A,RUS,Russia,"Chukotka Autonomous Okrug, Bilibinsky District",2018,2018,2018,1353,25-Apr-20,25-Apr-20,Canis lupus familiaris,-,859_2018_Chukotka
+MN384721,AL_Arctic_A,Arctic A,RUS,Russia,"Chukotka Autonomous Okrug, Iultinsky District",2017,2017,2017,1353,25-Apr-20,25-Apr-20,Vulpes vulpes,-,1335_2017_Chukotka
+MN384722,AL_Arctic_AL2,Arctic AL2,RUS,Russia,"Amurskaya Oblast, Mikhaylovsky District",2018,2018,2018,1353,25-Apr-20,25-Apr-20,Bos taurus,-,2981_2018_Amur
+MN418166,AL_Arctic_A,Arctic A,USA,United States,"Altona, NY",2018,2018,2018,11926,30-May-20,30-May-20,Canis lupus familiaris,-,1624-18
+MN534895,AL_Arctic_AL3,Arctic AL3,NPL,Nepal,-,2019,2019,2019,11792,18-Apr-20,18-Apr-20,Homo sapiens,-,RABV_Nepal_2019
+MN642581,AL_Arctic_AL2,Arctic AL2,CHN,China,Heilongjiang,2018,2018,2018,1353,02-Aug-20,02-Aug-20,Canis familiaris,-,HLJ01
+MN642582,AL_Arctic_AL2,Arctic AL2,CHN,China,Jilin,2017,2017,2017,1353,02-Aug-20,02-Aug-20,Vulpes vulpes,-,JL01
+MN642583,AL_Arctic_AL2,Arctic AL2,CHN,China,Inner Mongolia,2018,2018,2018,1353,02-Aug-20,02-Aug-20,Vulpes vulpes,-,NM02
+MN642584,AL_Arctic_AL2,Arctic AL2,CHN,China,Hebei,2017,2017,2017,1353,02-Aug-20,02-Aug-20,Procyon lotor,-,HB01
+MN642585,AL_Arctic_AL2,Arctic AL2,CHN,China,Liaoning,2018,2018,2018,1353,02-Aug-20,02-Aug-20,Procyon lotor,-,LN01
+MW055133,AL_Arctic_AL1a,Arctic AL1a,IND,India,-,2017,2017,2017,1353,22-Nov-20,22-Nov-20,Homo sapiens,33158200,A17-npval35
+MW055134,AL_Arctic_AL1a,Arctic AL1a,IND,India,Rajasthan,2017,2017,2017,1353,22-Nov-20,22-Nov-20,Canis familiaris,33158200,GOA_A_10-03-2017
+MW055135,AL_Arctic_AL1a,Arctic AL1a,IND,India,Goa,2017,2017,2017,1353,22-Nov-20,22-Nov-20,Canis familiaris,33158200,GOA_A_25-11-2017
+MW055136,AL_Arctic_AL1a,Arctic AL1a,IND,India,Goa,2017,2017,2017,1353,22-Nov-20,22-Nov-20,Canis familiaris,33158200,GOA_A_14-09-2017
+MW055137,AL_Arctic_AL1a,Arctic AL1a,IND,India,Goa,2018,2018,2018,1353,22-Nov-20,22-Nov-20,Canis familiaris,33158200,GOA_A_02-01-2018
+MW055138,AL_Arctic_AL1a,Arctic AL1a,IND,India,Goa,2018,2018,2018,1353,22-Nov-20,22-Nov-20,Canis familiaris,33158200,GOA_A_09-01-2018
+MW055139,AL_Arctic_AL1a,Arctic AL1a,IND,India,Goa,2018,2018,2018,1353,22-Nov-20,22-Nov-20,Canis familiaris,33158200,GOA_A_27-02-2018
+MW055140,AL_Arctic_AL1a,Arctic AL1a,IND,India,Goa,2017,2017,2017,1353,22-Nov-20,22-Nov-20,Canis familiaris,33158200,GOA_B_11-09-2017
+MW055141,AL_Arctic_AL1a,Arctic AL1a,IND,India,Goa,2017,2017,2017,1353,22-Nov-20,22-Nov-20,Canis familiaris,33158200,GOA_A_16-05-2017
+MW055142,AL_Arctic_AL1a,Arctic AL1a,IND,India,Goa,2018,2018,2018,1353,22-Nov-20,22-Nov-20,Canis familiaris,33158200,GOA_B_17-01-2018
+MW055143,AL_Arctic_AL1a,Arctic AL1a,IND,India,Goa,2018,2018,2018,1353,22-Nov-20,22-Nov-20,Canis familiaris,33158200,GOA_A_23-01-2018
+MW055144,AL_Arctic_AL1a,Arctic AL1a,IND,India,Goa,2017,2017,2017,1353,22-Nov-20,22-Nov-20,Canis familiaris,33158200,GOA_A_18-04-2017
+MW055145,AL_Arctic_AL1a,Arctic AL1a,IND,India,Goa,2016,2016,2016,1353,22-Nov-20,22-Nov-20,Bos taurus,33158200,GOA_A_11-12-2016
+MW055146,AL_Arctic_AL1a,Arctic AL1a,IND,India,Goa,2017,2017,2017,1353,22-Nov-20,22-Nov-20,Canis familiaris,33158200,GOA_A_05-09-2017
+MW055147,AL_Arctic_AL1a,Arctic AL1a,IND,India,Goa,2017,2017,2017,1353,22-Nov-20,22-Nov-20,Canis familiaris,33158200,GOA_A_21-09-2017
+MW055148,AL_Arctic_AL1a,Arctic AL1a,IND,India,Goa,2017,2017,2017,1353,22-Nov-20,22-Nov-20,Canis familiaris,33158200,GOA_B_15-11-2017
+MW055149,AL_Arctic_AL1a,Arctic AL1a,IND,India,Goa,2017,2017,2017,1353,22-Nov-20,22-Nov-20,Canis familiaris,33158200,GOA_A_16-11-2017
+MW055150,AL_Arctic_AL1a,Arctic AL1a,IND,India,Goa,2017,2017,2017,1353,22-Nov-20,22-Nov-20,Canis familiaris,33158200,GOA_A_06-11-2017
+MW055151,AL_Arctic_AL1a,Arctic AL1a,IND,India,Goa,2017,2017,2017,1353,22-Nov-20,22-Nov-20,Canis familiaris,33158200,GOA_A_10-08-2017
+MW055152,AL_Arctic_AL1a,Arctic AL1a,IND,India,Goa,2018,2018,2018,1353,22-Nov-20,22-Nov-20,Canis familiaris,33158200,GOA_A_21-01-2018
+MW055153,AL_Arctic_AL1a,Arctic AL1a,IND,India,Goa,2017,2017,2017,1353,22-Nov-20,22-Nov-20,Canis familiaris,33158200,GOA_A_15-11-2017
+MW055154,AL_Arctic_AL1a,Arctic AL1a,IND,India,Goa,2018,2018,2018,1353,22-Nov-20,22-Nov-20,Canis familiaris,33158200,GOA_A_05-04-2018
+MW055155,AL_Arctic_AL1a,Arctic AL1a,IND,India,Goa,2017,2017,2017,1353,22-Nov-20,22-Nov-20,Canis familiaris,33158200,GOA_A_08-11-2017
+MW055156,AL_Arctic_AL1a,Arctic AL1a,IND,India,Goa,2017,2017,2017,1353,22-Nov-20,22-Nov-20,Canis familiaris,33158200,GOA_B_16-03-2017
+MW055157,AL_Arctic_AL1a,Arctic AL1a,IND,India,Goa,2016,2016,2016,1353,22-Nov-20,22-Nov-20,Canis familiaris,33158200,GOA_A_12-12-2016
+MW055158,AL_Arctic_AL1a,Arctic AL1a,IND,India,Goa,2017,2017,2017,1353,22-Nov-20,22-Nov-20,Felis catus,33158200,GOA_A_05-05-2017
+MW055159,AL_Arctic_AL1a,Arctic AL1a,IND,India,Goa,2017,2017,2017,1353,22-Nov-20,22-Nov-20,Canis familiaris,33158200,GOA_B_15-12-2017
+MW055160,AL_Arctic_AL1a,Arctic AL1a,IND,India,Goa,2017,2017,2017,1353,22-Nov-20,22-Nov-20,Canis familiaris,33158200,GOA_A_31-08-2017
+MW055161,AL_Arctic_AL1a,Arctic AL1a,IND,India,Goa,2017,2017,2017,1353,22-Nov-20,22-Nov-20,Canis familiaris,33158200,GOA_B_06-06-2017
+MW055162,AL_Arctic_AL1a,Arctic AL1a,IND,India,Goa,2017,2017,2017,1353,22-Nov-20,22-Nov-20,Canis familiaris,33158200,GOA_B_19-05-2017
+MW055163,AL_Arctic_AL1a,Arctic AL1a,IND,India,Goa,2017,2017,2017,1353,22-Nov-20,22-Nov-20,Canis familiaris,33158200,GOA_A_06-04-2017
+MW055164,AL_Arctic_AL1a,Arctic AL1a,IND,India,Goa,2018,2018,2018,1353,22-Nov-20,22-Nov-20,Canis familiaris,33158200,GOA_B_04-03-2018
+MW055165,AL_Arctic_AL1a,Arctic AL1a,IND,India,Goa,2018,2018,2018,1353,22-Nov-20,22-Nov-20,Canis familiaris,33158200,GOA_A_24-05-2018
+MW055166,AL_Arctic_AL1a,Arctic AL1a,IND,India,Goa,2018,2018,2018,1353,22-Nov-20,22-Nov-20,Canis familiaris,33158200,GOA_A_10-05-2018
+MW055167,AL_Arctic_AL1a,Arctic AL1a,IND,India,Goa,2017,2017,2017,1353,22-Nov-20,22-Nov-20,Canis familiaris,33158200,GOA_A_24-06-2017
+MW055168,AL_Arctic_AL1a,Arctic AL1a,IND,India,Goa,2018,2018,2018,1353,22-Nov-20,22-Nov-20,Canis familiaris,33158200,GOA_A_19-02-2018
+MW055169,AL_Arctic_AL1a,Arctic AL1a,IND,India,Goa,2017,2017,2017,1353,22-Nov-20,22-Nov-20,Felis catus,33158200,GOA_A_06-03-2017
+MW055170,AL_Arctic_AL1a,Arctic AL1a,IND,India,Goa,2017,2017,2017,1353,22-Nov-20,22-Nov-20,Canis familiaris,33158200,GOA_A_30-07-2017
+MW055171,AL_Arctic_AL1a,Arctic AL1a,IND,India,Goa,2016,2016,2016,1353,22-Nov-20,22-Nov-20,Canis familiaris,33158200,GOA_A_30-12-2016
+MW055172,AL_Arctic_AL1a,Arctic AL1a,IND,India,Goa,2016,2016,2016,1353,22-Nov-20,22-Nov-20,Canis familiaris,33158200,GOA_A_30-11-2016
+MW055173,AL_Arctic_AL1a,Arctic AL1a,IND,India,Goa,2017,2017,2017,1353,22-Nov-20,22-Nov-20,Canis familiaris,33158200,GOA_A_22-05-2017
+MW055174,AL_Arctic_AL1a,Arctic AL1a,IND,India,Goa,2017,2017,2017,1353,22-Nov-20,22-Nov-20,Canis familiaris,33158200,GOA_A_02-01-2017
+MW055175,AL_Arctic_AL1a,Arctic AL1a,IND,India,Goa,2016,2016,2016,1353,22-Nov-20,22-Nov-20,Canis familiaris,33158200,GOA_A_16-11-2016
+MW055176,AL_Arctic_AL1a,Arctic AL1a,IND,India,Goa,2016,2016,2016,1353,22-Nov-20,22-Nov-20,Canis familiaris,33158200,GOA_A_21-10-2016
+MW055177,AL_Arctic_AL1a,Arctic AL1a,IND,India,Goa,2016,2016,2016,1353,22-Nov-20,22-Nov-20,Canis familiaris,33158200,GOA_A_15-10-2016
+MW055178,AL_Arctic_AL1a,Arctic AL1a,IND,India,Goa,2017,2017,2017,1353,22-Nov-20,22-Nov-20,Canis familiaris,33158200,GOA_A_25-04-2017
+MW055179,AL_Arctic_AL1a,Arctic AL1a,IND,India,Goa,2016,2016,2016,1353,22-Nov-20,22-Nov-20,Canis familiaris,33158200,GOA_A_26-12-2016
+MW055180,AL_Arctic_AL1a,Arctic AL1a,IND,India,Goa,2017,2017,2017,1353,22-Nov-20,22-Nov-20,Canis familiaris,33158200,GOA_A_26-05-2017
+MW055181,AL_Arctic_AL1a,Arctic AL1a,IND,India,Goa,2017,2017,2017,1353,22-Nov-20,22-Nov-20,Canis familiaris,33158200,GOA_C_19-05-2017
+MW055182,AL_Arctic_AL1a,Arctic AL1a,IND,India,Goa,2017,2017,2017,1353,22-Nov-20,22-Nov-20,Canis familiaris,33158200,GOA_A_06-06-2017
+MW055183,AL_Arctic_AL1a,Arctic AL1a,IND,India,Goa,2017,2017,2017,1353,22-Nov-20,22-Nov-20,Canis familiaris,33158200,GOA_A_11-01-2017
+MW055184,AL_Arctic_AL1a,Arctic AL1a,IND,India,Goa,2017,2017,2017,1353,22-Nov-20,22-Nov-20,Canis familiaris,33158200,GOA_A_13-02-2017
+MW055185,AL_Arctic_AL1a,Arctic AL1a,IND,India,Goa,2016,2016,2016,1353,22-Nov-20,22-Nov-20,Canis familiaris,33158200,GOA_B_29-12-2016
+MW055186,AL_Arctic_AL1a,Arctic AL1a,IND,India,Goa,2017,2017,2017,1353,22-Nov-20,22-Nov-20,Canis familiaris,33158200,GOA_B_18-04-2017
+MW055187,AL_Arctic_AL1a,Arctic AL1a,IND,India,Goa,2017,2017,2017,1353,22-Nov-20,22-Nov-20,Canis familiaris,33158200,GOA_A_09-01-2017
+MW055188,AL_Arctic_AL1a,Arctic AL1a,IND,India,Goa,2017,2017,2017,1353,22-Nov-20,22-Nov-20,Canis familiaris,33158200,GOA_A_01-01-2017
+MW055189,AL_Arctic_AL1a,Arctic AL1a,IND,India,Goa,2016,2016,2016,1353,22-Nov-20,22-Nov-20,Canis familiaris,33158200,GOA_A_14-11-2016
+MW055190,AL_Arctic_AL1a,Arctic AL1a,IND,India,Goa,2017,2017,2017,1353,22-Nov-20,22-Nov-20,Canis familiaris,33158200,GOA_A_01-05-2017
+MW055191,AL_Arctic_AL1a,Arctic AL1a,IND,India,Goa,2016,2016,2016,1353,22-Nov-20,22-Nov-20,Canis familiaris,33158200,GOA_A_22-10-2016
+MW055192,AL_Arctic_AL1a,Arctic AL1a,IND,India,Goa,2016,2016,2016,1353,22-Nov-20,22-Nov-20,Canis familiaris,33158200,GOA_A_13-10-2016
+MW055193,AL_Arctic_AL1a,Arctic AL1a,IND,India,Goa,2018,2018,2018,1353,22-Nov-20,22-Nov-20,Canis familiaris,33158200,GOA_A_30-01-2018
+MW055194,AL_Arctic_AL1a,Arctic AL1a,IND,India,Goa,2017,2017,2017,1353,22-Nov-20,22-Nov-20,Bos taurus,33158200,GOA_A_24-09-2017
+MW055195,AL_Arctic_AL1a,Arctic AL1a,IND,India,Goa,2018,2018,2018,1353,22-Nov-20,22-Nov-20,Canis familiaris,33158200,GOA_A_10-01-2018
+MW055196,AL_Arctic_AL1a,Arctic AL1a,IND,India,Goa,2018,2018,2018,1353,22-Nov-20,22-Nov-20,Canis familiaris,33158200,GOA_A_26-02-2018
+MW055197,AL_Arctic_AL1a,Arctic AL1a,IND,India,Goa,2018,2018,2018,1353,22-Nov-20,22-Nov-20,Canis familiaris,33158200,GOA_A_08-06-2018
+MW055198,AL_Arctic_AL1a,Arctic AL1a,IND,India,Goa,2018,2018,2018,1353,22-Nov-20,22-Nov-20,Bos taurus,33158200,GOA_A_17-01-2018
+MW055199,AL_Arctic_AL1a,Arctic AL1a,IND,India,Goa,2018,2018,2018,1353,22-Nov-20,22-Nov-20,Canis familiaris,33158200,GOA_A_03-02-2018
+MW055200,AL_Arctic_AL1a,Arctic AL1a,IND,India,Goa,2017,2017,2017,1353,22-Nov-20,22-Nov-20,Canis familiaris,33158200,GOA_B_10-01-2017
+MW055201,AL_Arctic_AL1a,Arctic AL1a,IND,India,Goa,2017,2017,2017,1353,22-Nov-20,22-Nov-20,Canis familiaris,33158200,GOA_A_22-12-2017
+MW055202,AL_Arctic_AL1a,Arctic AL1a,IND,India,Goa,2016,2016,2016,1353,22-Nov-20,22-Nov-20,Canis familiaris,33158200,GOA_A_26-09-2016
+MW055203,AL_Arctic_AL1a,Arctic AL1a,IND,India,Goa,2018,2018,2018,1353,22-Nov-20,22-Nov-20,Canis familiaris,33158200,GOA_A_04-01-2018
+MW055204,AL_Arctic_AL1a,Arctic AL1a,IND,India,Goa,2017,2017,2017,1353,22-Nov-20,22-Nov-20,Canis familiaris,33158200,GOA_A_29-03-2017
+MW055205,AL_Arctic_AL1a,Arctic AL1a,IND,India,Goa,2017,2017,2017,1353,22-Nov-20,22-Nov-20,Canis familiaris,33158200,GOA_B_04-03-2017
+MW055206,AL_Arctic_AL1a,Arctic AL1a,IND,India,Maharashtra,2018,2018,2018,1353,22-Nov-20,22-Nov-20,Canis familiaris,33158200,GOA_A_16-02-2018
+MW055207,AL_Arctic_AL1a,Arctic AL1a,IND,India,Goa,2018,2018,2018,1353,22-Nov-20,22-Nov-20,Canis familiaris,33158200,GOA_A_17-03-2018
+MW055208,AL_Arctic_AL1a,Arctic AL1a,IND,India,Goa,2017,2017,2017,1353,22-Nov-20,22-Nov-20,Canis familiaris,33158200,GOA_A_25-10-2017
+MW055209,AL_Arctic_AL1a,Arctic AL1a,IND,India,Goa,2018,2018,2018,1353,22-Nov-20,22-Nov-20,Canis familiaris,33158200,GOA_A_26-04-2018
+MW055210,AL_Arctic_AL1a,Arctic AL1a,IND,India,Goa,2017,2017,2017,1353,22-Nov-20,22-Nov-20,Canis familiaris,33158200,GOA_A_11-09-2017
+MW055211,AL_Arctic_AL1a,Arctic AL1a,IND,India,Goa,2017,2017,2017,1353,22-Nov-20,22-Nov-20,Canis familiaris,33158200,GOA_A_28-09-2017
+MW055212,AL_Arctic_AL1a,Arctic AL1a,IND,India,Goa,2018,2018,2018,1353,22-Nov-20,22-Nov-20,Canis familiaris,33158200,GOA_A_22-04-2018
+MW055213,AL_Arctic_AL1a,Arctic AL1a,IND,India,Karnataka,2018,2018,2018,1353,22-Nov-20,22-Nov-20,Canis familiaris,33158200,GOA_A_04-03-2018
+U03768,AL_Arctic_A,Arctic A,-,-,Ontario,-,-,1993,1367,03-Dec-93,09-May-95,Vulpes vulpes,7931145,Ontario Type 5 - 8480FX
+U03769,AL_Arctic_A,Arctic A,-,-,-,-,-,1993,1367,03-Dec-93,09-May-95,Canis familiaris,7931145,Arctic A1 - 1090DG
+U03770,AL_Arctic_A,Arctic A,-,-,Hudson Bay,-,-,1993,1367,03-Dec-93,09-May-95,Canis familiaris,7931145,Hudson Bay - 4055DG
+U11734,AL_Arctic_A,Arctic A,-,-,-,1991,1991,1991,1455,16-Jul-94,29-Mar-95,Vulpes vulpes,-,1991 fox 6199
+U11735,AL_Arctic_A,Arctic A,-,-,-,1993,1993,1993,1455,16-Jul-94,29-Mar-95,Vulpes vulpes,-,1993 fox 2244
+U22654,AL_Arctic_A,Arctic A,-,-,-,1981,1981,1981,1350,20-Jul-95,20-Jul-95,Vulpes lagopus,7778285,8684GRO
+U22655,AL_Arctic_A,Arctic A,-,-,-,1990,1990,1990,1350,20-Jul-95,20-Jul-95,Vulpes vulpes,7778285,9105CAN
+U22656,AL_Arctic_A,Arctic A,-,-,-,1988,1988,1988,1350,20-Jul-95,20-Jul-95,Vulpes lagopus,7778285,9141RUS
