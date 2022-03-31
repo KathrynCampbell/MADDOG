@@ -13,8 +13,8 @@ metadata$year[which(is.na(metadata$year))]<-"-"
 alignment<-seqinr::read.alignment(paste(args, "/Alignment/", args, "_combined_aligned.fasta", sep = ""), format = "fasta")
 alignment$nam <- gsub("\\/.*", "", alignment$nam, perl = T)
 
-node_data<-node_info(tree, 70, alignment, metadata, ancestral)
-seq_data<-seq_designation(tree, 70, alignment, metadata, ancestral)
+node_data<-node_info(tree, 90, alignment, metadata, ancestral)
+seq_data<-seq_designation(tree, 90, alignment, metadata, ancestral)
 
 names(node_data)[5]<-"number"
 
@@ -24,7 +24,7 @@ for (i in 1:length(node_data$lineage)) {
 
 lineage_info<-MADDOG::lineage_info(seq_data, metadata)
 
-assignments<-read.csv(paste(args, "/", args, "_assignments.csv", sep = ""))
+assignments<-read.csv(paste(args, "/Assignment/assignment.csv", sep = ""))
 assignments$ID <- gsub("\\/.*", "", assignments$ID, perl = T)
 
 
@@ -167,6 +167,14 @@ if (length(which(updates$count >=10))!= 0) {
       problem_names<-data.frame(letters = c("A1", "B1", "C1", "D1", "E1", "F1", "G1", "H1", "I1", "J1", "K1", "L1", "M1", "N1",
                                             "O1", "P1", "Q1", "R1", "S1", "T1", "U1", "V1", "W1", "X1", "Y1", "Z1"))
 
+      numbers<-grep("\\..\\..\\..", int$lineage)
+
+      int$old<-NA
+
+      for (i in 1:length(numbers)) {
+        int$old[numbers[i]]<-int$lineage[numbers[i]]
+      }
+
       int$update<-int$lineage
       int$update<-stringr::str_replace(int$update, "A1\\..\\..\\..", "B1")
       int$update<-stringr::str_replace(int$update, "B1\\..\\..\\..", "C1")
@@ -276,27 +284,29 @@ if (length(which(updates$count >=10))!= 0) {
 
     numbers<-grep("\\.", lineage_info$lineage)
 
-    for (i in 1:length(numbers)) {
-      parent<-strsplit(lineage_info$lineage[grep("\\.", lineage_info$lineage)], "\\.")[[i]]
-      parent<-parent[1:length(parent)-1]
+    if (length(grep("\\.", lineage_info$lineage))!=0){
+      for (i in 1:length(numbers)) {
+        parent<-strsplit(lineage_info$lineage[grep("\\.", lineage_info$lineage)], "\\.")[[i]]
+        parent<-parent[1:length(parent)-1]
 
-      if (length(parent) == 1) {
-        lineage_info$parent[numbers[i]]<-parent
-      } else {
-        parent<-paste(parent[1], parent[2], sep = ".")
-        lineage_info$parent[numbers[i]]<-parent
+        if (length(parent) == 1) {
+          lineage_info$parent[numbers[i]]<-parent
+        } else {
+          parent<-paste(parent[1], parent[2], sep = ".")
+          lineage_info$parent[numbers[i]]<-parent
+        }
       }
     }
 
     numbers<-which(is.na(lineage_info$parent))
 
-    if (length(numbers)!=0){
-      for (i in 1:length(numbers)) {
-        lineage_info$parent[numbers[i]]<-
-          unique(assignments$lineage[
-            which(assignments$ID %in% seq_data$ID[which(seq_data$lineage == lineage_info$lineage[numbers[i]])])])[1]
-      }
+    for (i in 1:length(numbers)) {
+      x<-which(int$update == lineage_info$lineage[numbers[i]])
+      lineage_info$parent[numbers[i]]<-
+        paste(strsplit(int$old[x], "\\.")[[1]][1], strsplit(int$old[x], "\\.")[[1]][2],
+              strsplit(int$old[x], "\\.")[[1]][3], sep = ".")
     }
+
 
 
     write.csv(lineage_info, paste(args, "/Outputs/new_lineages.csv", sep = ""), row.names = F)
