@@ -5,11 +5,23 @@ set -e
 echo "What is the name of the folder containing your sequences and metadata?"
 read runname
 
+reference=RABV
+
 #make sure the metadata is named to work in future script
 mv -vn $runname/*.csv $runname/$runname"_metadata.csv"
 
-#make sure the metadata is named to work in future script
 mv -vn $runname/*.fasta $runname/$runname".fasta"
+
+mafft --add $runname/$runname".fasta" --reorder inst/extdata/References/$reference/reference_aligned.fasta > $runname/$runname"_withref.fasta"
+
+#Lineage assignment
+Rscript Run/windows_run_assignment.R $runname $reference
+
+rm $runname/$runname"_withref.fasta"
+
+mkdir $runname/Assignment
+
+cp $runname/$runname"_assignment.csv" $runname/Assignment/assignment.csv
 
 Rscript R/additions2.R $runname
 
@@ -31,3 +43,7 @@ treetime ancestral --aln $runname/Alignment/$runname"_combined_aligned.fasta" --
 
 mkdir $runname/Outputs
 Rscript R/additions3.R $runname
+
+rm $runname/$runname"_assignment.csv"
+rm $runname/$runname"_combined.fasta"
+rm $runname/$runname"_assignments.csv"
