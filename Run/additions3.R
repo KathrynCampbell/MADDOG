@@ -307,7 +307,10 @@ if (length(which(updates$count >=10))!= 0) {
               strsplit(int$old[x], "\\.")[[1]][3], sep = ".")
     }
 
+    for (i in 1:length(all_lineage$lineage)) {
+      all_lineage$n_seqs[i]<-length(which(assignments$lineage == all_lineage$lineage[i]))
 
+    }
 
     write.csv(lineage_info, paste(args, "/Outputs/new_lineages.csv", sep = ""), row.names = F)
     write.csv(all_lineage, paste(args, "/Outputs/relevant_lineages.csv", sep = ""), row.names = F)
@@ -326,3 +329,23 @@ if (length(which(updates$count >=10))!= 0) {
     write.csv(all_lineage, paste(args, "/Outputs/relevant_lineages.csv", sep = ""), row.names = F)
 }
 
+node_data<-data.frame(lineage=c(current$lineage, updates$lineage), node = c(current$node, updates$node))
+lineage_info<-lineage_info[,-c(6)]
+
+
+lineage_info<-rbind(lineage_info, all_lineage)
+new<-MADDOG::sunburst(lineage_info, node_data, tree, metadata, new_seq)
+htmlwidgets::saveWidget(plotly::as_widget(new), (paste(args, "/Figures/", args, "_sunburst.html", sep = "")))
+
+
+sequences<-sequences[which(sequences$ID %in% tree$tip.label),]
+
+tree$tip.label[-c(which(tree$tip.label %in% sequence_data$ID))]
+
+sequence_data<-data.frame(ID = c(sequences$ID, new_seq$ID), lineage = c(sequences$cluster, new_seq$lineage))
+errors<-data.frame(ID = tree$tip.label[-c(which(tree$tip.label %in% sequence_data$ID))], lineage = NA)
+sequence_data<-rbind(sequence_data, errors)
+plot_tree<-MADDOG::lineage_tree(lineage_info, node_data, tree, metadata, sequence_data)
+
+ggplot2::ggsave(paste(args, "/Figures/", args, "_lineage_tree.png", sep = ""),
+                plot = plot_tree)
