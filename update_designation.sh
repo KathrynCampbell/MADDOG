@@ -42,8 +42,10 @@ mkdir $runname/Timetree
 treetime ancestral --aln $runname/Alignment/$runname"_combined_aligned.fasta" --tree $runname/Trees/$runname"_combined_aligned.fasta.contree" --outdir $runname/Timetree
 
 mkdir $runname/Outputs
+mkdir $runname/Figures
 Rscript R/additions3.R $runname
 
 rm $runname/$runname"_assignment.csv"
 rm $runname/$runname"_combined.fasta"
 rm $runname/$runname"_assignments.csv"
+rm -r $runname/Figures/$runname"_sunburst_files"
