@@ -43,6 +43,10 @@ lineage_tree <- function(lineage_info, node_data, tree, metadata, sequence_data)
   lineage_info$lineage<-gsub("Asian_", "", lineage_info$lineage)
   lineage_info$lineage<-gsub("Cosmopolitan_", "", lineage_info$lineage)
 
+  sequence_data$lineage<-gsub("Asian_", "", sequence_data$lineage)
+  sequence_data$lineage<-gsub("Cosmopolitan_", "", sequence_data$lineage)
+
+
   if(length(grep("\\.", clades)) != 0 ) {
     clades<-clades[-c(grep("\\.", clades))]
   }
@@ -72,6 +76,10 @@ lineage_tree <- function(lineage_info, node_data, tree, metadata, sequence_data)
     lineage_info$colour[(grep(clades[i], lineage_info$lineage))]<-pal
   }
   attach(sequence_data)
+
+  sequence_data$colour<-NA
+
+
   # Plot a nice figure to save
   plot_tree<-ggtree::ggtree(tree, colour = "grey50", ladderize = T) %<+% sequence_data +
     ggtree::geom_tippoint(color="grey50", size=4)+

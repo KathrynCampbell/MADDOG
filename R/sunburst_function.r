@@ -66,6 +66,9 @@ sunburst <- function(lineage_info, node_data, tree, metadata, sequence_data) {
 
   clades<-unique(lineages$subclade)
 
+  lineage_info$lineage<-gsub("Asian_", "", lineage_info$lineage)
+  lineage_info$lineage<-gsub("Cosmopolitan_", "", lineage_info$lineage)
+
   if(length(grep("\\.", clades)) != 0 ) {
     clades<-clades[-c(grep("\\.", clades))]
   }
