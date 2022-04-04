@@ -77,15 +77,7 @@ lineage_tree <- function(lineage_info, node_data, tree, metadata, sequence_data)
   }
   attach(sequence_data)
 
-  sequence_data$colour<-NA
-
-  ggtree(tree, colour = "grey50", ladderize = T) %<+% new_seq +
-    geom_tippoint(aes(color))
-
   # Plot a nice figure to save
-  plot_new<-ggtree::ggtree(tree, colour = "grey50", ladderize = T) %<+% sequence_data +
-    ggtree::geom_tippoint(ggplot2::aes(color=new), size=5)  +
-    scale_color_manual(values = c("#808080", "red"))
 
   plot_tree<-ggtree::ggtree(tree, colour = "grey50", ladderize = T) %<+% sequence_data +
     ggtree::geom_tippoint(colour = "grey50", size=4)  +
@@ -97,13 +89,11 @@ lineage_tree <- function(lineage_info, node_data, tree, metadata, sequence_data)
   genotype<-data.frame(lineage = sequence_data$lineage)
   rownames(genotype)<-sequence_data$ID
 
-  plot_tree<-ggtree::gheatmap(plot_tree, genotype, offset=-0.01, width=.1, font.size=3, color = NA,
+  plot_tree<-ggtree::gheatmap(plot_tree, genotype, offset=0.01, width=.1, font.size=3, color = NA,
                       colnames_angle=-45, hjust=0) +
     ggtree::scale_fill_manual(values=c(lineage_info$colour), name="lineage")+
     ggtree::theme(legend.position = "none")
 
-
-  plot_tree<-gridExtra::grid.arrange(plot_tree, plot_new, ncol = 2)
 
   return(plot_tree)
 
