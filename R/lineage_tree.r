@@ -51,17 +51,7 @@ lineage_tree <- function(lineage_info, node_data, tree, metadata, sequence_data)
     clades<-clades[-c(grep("\\.", clades))]
   }
 
-  if (length(which(clades == "Cosmopolitan")) != 0) {
-    clades<-clades[-c(which(clades == "Cosmopolitan"))]
-  }
 
-  if (length(which(clades == "Asian")) != 0) {
-    clades<-clades[-c(which(clades == "Asian"))]
-  }
-
-  if (length(which(clades == "Bats")) != 0) {
-    clades<-clades[-c(which(clades == "Bats"))]
-  }
   lineage<-lineage_info$lineage[-c(grep("_", lineage_info$lineage))]
   cols<-RColorBrewer::brewer.pal(9, "Blues")
   pal<-colorRampPalette(c(cols))
