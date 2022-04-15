@@ -9,10 +9,10 @@ args = commandArgs(trailingOnly = T)
 #'author: Kathryn Campbell
 #'date: 09/09/2021
 #'---------------------------------------------------------
-data <- read.csv(system.file("extdata", paste("References/RABV/reference_clusters.csv"), package = "MADDOG"))
-clusters <- read.csv(system.file("extdata", paste("References/", args[2], "/lineage_info.csv", sep = ""), package = "MADDOG"))
+data <- read.csv("inst/extdata/References/RABV/reference_clusters.csv")
+clusters <- read.csv("inst/extdata/References/RABV/lineage_info.csv")
 
-alignment<-seqinr::read.alignment(file = (paste(args[1], "/", args[1], "_withref.fasta", sep = "")), format = "fasta")
+alignment<-seqinr::read.alignment(file = (paste(args, "/", args, "_withref.fasta", sep = "")), format = "fasta")
 
 `%notin%` <- Negate(`%in%`)
 
@@ -75,5 +75,5 @@ for (i in numbers) {
 }
 
 
-write.csv(test_seq_assignment, file = (paste(args[1], "/", args[1], "_assignment.csv", sep = "")), row.names = F)
+write.csv(test_seq_assignment, file = (paste(args, "/", args, "_assignment.csv", sep = "")), row.names = F)
 
