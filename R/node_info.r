@@ -464,19 +464,23 @@ node_info <- function(tree, min.support, alignment, metadata, ancestral) {
     }
   }
   node_data<-node_data[, -c((grep("test", names(node_data))), grep("previous", names(node_data)))]
-  node_data<-node_data[,-c(4)]
-  names(node_data)<-c("node", "n_tips", "n_diff_ancestor", "lineage")
+  for (i in 1:length(node_data$cluster)) {
+    sequence_data$cluster[which(sequence_data$cluster == i)] <- node_data$cluster[i]
+  }
+  sequence_data<-sequence_data[,-c(4)]
+  names(sequence_data)<-c("ID", "n_N", "n_gap", "length", "year", "lineage", "previous")
 
-  if(length(grep("-", node_data$lineage)) != 0){
-    clade<-strsplit(node_data$lineage[grep("-", node_data$lineage)][1], "-")[[1]][1]
-    node_data$lineage[-c(grep("-", node_data$lineage))]<-
-      paste(clade, node_data$lineage[-c(grep("-", node_data$lineage))])
+  if(length(grep("-", sequence_data$lineage)) != 0){
+    clade<-strsplit(sequence_data$lineage[grep("-", sequence_data$lineage)][1], "-")[[1]][1]
+    sequence_data$lineage[-c(grep("-", sequence_data$lineage))]<-
+      paste(clade, sequence_data$lineage[-c(grep("-", sequence_data$lineage))])
   }else{
-    if(length(grep("_", node_data$lineage)) != 0){
-      clade<-strsplit(node_data$lineage[grep("_", node_data$lineage)][1], " ")[[1]][1]
-      node_data$lineage[-c(grep("_", node_data$lineage))]<-
-        paste(clade, node_data$lineage[-c(grep("_", node_data$lineage))])
+    if(length(grep("_", sequence_data$lineage)) != 0){
+      clade<-strsplit(sequence_data$lineage[grep("_", sequence_data$lineage)][1], " ")[[1]][1]
+      sequence_data$lineage[-c(grep("_", sequence_data$lineage))]<-
+        paste(clade, sequence_data$lineage[-c(grep("_", sequence_data$lineage))])
     }}
+
 
   if(length(grep("NA", node_data$lineage) != 0)){
     node_data<-node_data[-c(grep("NA", node_data$lineage)),]

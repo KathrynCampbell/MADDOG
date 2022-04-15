@@ -1,242 +1,239 @@
-﻿ID,alignment.name,assignment,sequence.m49_country.id,country,sequence.gb_place_sampled,sequence.collection_year,sequence.earliest_collection_year,year,sequence.gb_length,sequence.gb_create_date,sequence.gb_update_date,sequence.host,sequence.gb_pubmed_id,sequence.isolate
-KJ001529,AL_Cosmopolitan_Vac2,Cosmopolitan Vac2,MEX,Mexico,-,2009,2009,2009,1342,24-Nov-15,24-Nov-15,Spilogale sp.,-,889skSin09
-KJ001530,AL_Cosmopolitan_Vac2,Cosmopolitan Vac2,MEX,Mexico,-,2009,2009,2009,1342,24-Nov-15,24-Nov-15,Spilogale sp.,-,1566skCh09
-GU991844,AL_Cosmopolitan_Vac2,Cosmopolitan Vac2,MEX,Mexico,Sinaloa/Durango,2003,2003,2003,1350,27-Apr-10,24-Jul-16,Mephitis mephitis (skunk),-,231mxsinSK03
-GU991845,AL_Cosmopolitan_Vac2,Cosmopolitan Vac2,MEX,Mexico,Sinaloa/Durango,2005,2005,2005,1350,27-Apr-10,24-Jul-16,Mephitis mephitis (skunk),-,633mxsonsk05
-GU991846,AL_Cosmopolitan_Vac2,Cosmopolitan Vac2,MEX,Mexico,Sinaloa/Durango,2001,2001,2001,1350,27-Apr-10,24-Jul-16,Mephitis mephitis (skunk),-,1535mxDGOsk01
-KJ001519,AL_Cosmopolitan_Vac2,Cosmopolitan Vac2,MEX,Mexico,-,2008,2008,2008,1350,24-Nov-15,24-Nov-15,Spilogale sp.,-,3363skSo08
-KJ001520,AL_Cosmopolitan_Vac2,Cosmopolitan Vac2,MEX,Mexico,-,2009,2009,2009,1350,24-Nov-15,24-Nov-15,Spilogale sp.,-,2433skCh09
-KJ001521,AL_Cosmopolitan_Vac2,Cosmopolitan Vac2,MEX,Mexico,-,2008,2008,2008,1350,24-Nov-15,24-Nov-15,Spilogale sp.,-,8322skSo08
-KJ001522,AL_Cosmopolitan_Vac2,Cosmopolitan Vac2,MEX,Mexico,-,2009,2009,2009,1350,24-Nov-15,24-Nov-15,Spilogale sp.,-,2393skSi09
-AF406695,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,2003,1353,02-Jul-03,11-Sep-03,-,12970438,ERA
-AF406696,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,2003,1353,02-Jul-03,11-Sep-03,-,12970438,CVS
-GQ406343,AL_Cosmopolitan_Vac,Cosmopolitan Vac,CHN,China,-,2005,2005,2005,1353,05-Sep-09,05-Sep-09,Canis familiaris,-,ERA
-GU992309,AL_Cosmopolitan_Vac,Cosmopolitan Vac,CZE,Czechia,-,1995,1995,1995,1353,26-Apr-10,09-Aug-10,-,-,9507TCH
-GU992311,AL_Cosmopolitan_Vac,Cosmopolitan Vac,CZE,Czechia,-,1995,1995,1995,1353,26-Apr-10,09-Aug-10,-,-,9508TCH
-GU992319,AL_Cosmopolitan_Vac,Cosmopolitan Vac,CZE,Czechia,-,1995,1995,1995,1353,26-Apr-10,09-Aug-10,-,-,9503TCH
-GU992320,AL_Cosmopolitan_Vac,Cosmopolitan Vac,FRA,France,-,1993,1993,1993,1353,26-Apr-10,09-Aug-10,-,-,93127FRA
-GU992322,AL_Cosmopolitan_Vac,Cosmopolitan Vac,MAR,Morocco,-,1993,1993,1993,1353,26-Apr-10,09-Aug-10,-,-,93128MAR
-JD593216,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,2015,1353,24-Mar-15,24-Mar-15,-,-,-
-JX944594,AL_Cosmopolitan_Vac,Cosmopolitan Vac,NPL,Nepal,-,-,-,2013,1353,31-Oct-13,04-Dec-13,-,24278494,4403-12
-MK420470,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,2019,1353,16-Aug-19,16-Aug-19,-,-,PV2061
-DQ666292,AL_Cosmopolitan_Vac,Cosmopolitan Vac,CHN,China,-,-,-,2006,1483,22-Jul-06,01-Dec-08,Canis familiaris,16828520,Guizhou_A158
-DQ666305,AL_Cosmopolitan_Vac,Cosmopolitan Vac,CHN,China,-,-,-,2006,1483,22-Jul-06,09-Apr-07,Canis familiaris,16828520,Henan_Sq48
-DQ666313,AL_Cosmopolitan_Vac,Cosmopolitan Vac,CHN,China,-,-,-,2006,1483,22-Jul-06,01-Dec-08,Canis familiaris,16828520,Hunan_Wg68
-DQ666320,AL_Cosmopolitan_Vac,Cosmopolitan Vac,CHN,China,-,-,-,2006,1483,22-Jul-06,01-Dec-08,Homo sapiens,16828520,Jiangsu_Wx0(H)
-DQ666288,AL_Cosmopolitan_Vac,Cosmopolitan Vac,CHN,China,-,-,-,2006,1484,22-Jul-06,01-Dec-08,Homo sapiens,16828520,Guizhou_A10
-DQ666293,AL_Cosmopolitan_Vac,Cosmopolitan Vac,CHN,China,-,-,-,2006,1484,22-Jul-06,01-Dec-08,Canis familiaris,16828520,Guizhou_A173
-DQ666301,AL_Cosmopolitan_Vac,Cosmopolitan Vac,CHN,China,-,-,-,2006,1484,22-Jul-06,09-Apr-07,Canis familiaris,16828520,Henan_Sq17
-DQ666303,AL_Cosmopolitan_Vac,Cosmopolitan Vac,CHN,China,-,-,-,2006,1484,22-Jul-06,09-Apr-07,Canis familiaris,16828520,Henan_Sq30
-DQ666310,AL_Cosmopolitan_Vac,Cosmopolitan Vac,CHN,China,-,-,-,2006,1484,22-Jul-06,01-Dec-08,Canis familiaris,16828520,Hunan_Wg22
-A14407,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,1994,1500,10-Feb-94,10-Feb-94,-,-,-
-X03673,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,1986,1500,18-Nov-86,11-Sep-93,-,3008096,-
-KC522613,AL_Cosmopolitan_Vac,Cosmopolitan Vac,SVN,Slovenia,-,2012,2012,2012,4367,29-Mar-16,29-Mar-16,Vulpes vulpes,24484500,3511-12SVN
-A14671,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,1994,5500,11-Feb-94,13-Apr-05,-,-,-
-KC178555,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,2013,11005,27-Aug-13,27-Aug-13,-,23899697,Lysvulpen
-KC178556,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,2013,11005,27-Aug-13,27-Aug-13,-,23899697,SAD Bern
-LN713548,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,2015,11841,23-Sep-15,23-Sep-15,cell culture,26387431,sadB19p1_2_var01
-LT993246,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,2018,11852,08-Apr-18,08-Apr-18,-,-,AUS/2004/brain
-LN713549,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,2015,11858,23-Sep-15,23-Sep-15,cell culture,26387431,sadB19p1_3_var01
-LN713547,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,2015,11870,23-Sep-15,23-Sep-15,cell culture,26387431,sadB19p1_1_var01
-LN713550,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,2015,11872,23-Sep-15,23-Sep-15,cell culture,26387431,sadB19p1_4_var01
-LN713660,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,2015,11873,23-Sep-15,23-Sep-15,cell culture,26387431,sadWistar_4_var01
-LN713643,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,2015,11874,23-Sep-15,23-Sep-15,cell culture,26387431,sadLysvulpen0609_4_var01
-LN713644,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,2015,11874,23-Sep-15,23-Sep-15,cell culture,26387431,sadLysvulpen0609_4_var02
-MK111075,AL_Cosmopolitan_Vac,Cosmopolitan Vac,HUN,Hungary,-,2015,2015,2015,11874,31-Oct-19,31-Oct-19,Vulpes vulpes,-,Csabaszabadi
-MK111076,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,2019,11874,31-Oct-19,31-Oct-19,-,-,Lysvulpen 0622
-MK111077,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,2019,11874,31-Oct-19,31-Oct-19,-,-,Lysvulpen 0519
-MK111078,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,2019,11874,31-Oct-19,31-Oct-19,-,-,Lysvulpen 1819
-MK111079,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,2019,11874,31-Oct-19,31-Oct-19,-,-,Lysvulpen 6321
-MK111080,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,2019,11874,31-Oct-19,31-Oct-19,-,-,Lysvulpen 0922
-LN713657,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,2015,11885,23-Sep-15,23-Sep-15,cell culture,26387431,sadWistar_1_var01
-EU877067,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,2008,11886,04-Aug-08,07-Apr-09,-,19161553,SAD B19-4th
-EU877068,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,2008,11886,04-Aug-08,07-Apr-09,-,19161553,SAD B19-1st
-EU877069,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,2008,11886,04-Aug-08,02-Mar-09,-,19161553,SAD B19-1st
-EU877070,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,2008,11886,04-Aug-08,02-Mar-09,-,19161553,SAD B19-5th
-EU877071,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,2008,11886,04-Aug-08,02-Mar-09,-,19161553,SAD B19-10th
-LN713658,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,2015,11889,23-Sep-15,23-Sep-15,cell culture,26387431,sadWistar_2_var01
-LN713551,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,2015,11891,23-Sep-15,23-Sep-15,cell culture,26387431,sadB19p1_5_var01
-LN713639,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,2015,11893,23-Sep-15,23-Sep-15,cell culture,26387431,sadLysvulpen0609_3_var01
-LN713640,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,2015,11893,23-Sep-15,23-Sep-15,cell culture,26387431,sadLysvulpen0609_3_var02
-LN713641,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,2015,11893,23-Sep-15,23-Sep-15,cell culture,26387431,sadLysvulpen0609_3_var03
-LN713642,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,2015,11893,23-Sep-15,23-Sep-15,cell culture,26387431,sadLysvulpen0609_3_var04
-MF630920,AL_Cosmopolitan_Vac,Cosmopolitan Vac,RUS,Russia,-,2016,2016,2016,11893,05-Nov-17,05-Nov-17,-,-,Moscow 3253 (Vero)
-LN713638,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,2015,11897,23-Sep-15,23-Sep-15,cell culture,26387431,sadLysvulpen0609_2_var02
-LN713572,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,2015,11898,23-Sep-15,23-Sep-15,cell culture,26387431,sadBatch793_2_var01
-LN713573,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,2015,11898,23-Sep-15,23-Sep-15,cell culture,26387431,sadBatch793_2_var02
-LN713637,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,2015,11898,23-Sep-15,23-Sep-15,cell culture,26387431,sadLysvulpen0609_2_var01
-LN713574,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,2015,11899,23-Sep-15,23-Sep-15,cell culture,26387431,sadBatch793_2_var03
-LN713575,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,2015,11899,23-Sep-15,23-Sep-15,cell culture,26387431,sadBatch793_2_var04
-LT993233,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,2018,11901,08-Apr-18,08-Apr-18,-,-,GER/2001/brain
-LT993242,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,2018,11904,08-Apr-18,08-Apr-18,-,-,CAN/1996/brain
-LN713544,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,2015,11906,23-Sep-15,23-Sep-15,cell culture,26387431,sadB19Behr_3_var01
-LN713645,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,2015,11906,23-Sep-15,23-Sep-15,cell culture,26387431,sadLysvulpen0609_5_var01
-LN713646,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,2015,11906,23-Sep-15,23-Sep-15,cell culture,26387431,sadLysvulpen0609_5_var02
-LN713650,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,2015,11906,23-Sep-15,23-Sep-15,cell culture,26387431,sadP588_4_var01
-EU886631,AL_Cosmopolitan_Vac,Cosmopolitan Vac,DEU,Germany,-,2001,2001,2001,11907,15-Aug-08,06-Jul-09,Vulpes vulpes,19521660,SAD
-EU886632,AL_Cosmopolitan_Vac,Cosmopolitan Vac,DEU,Germany,-,2002,2002,2002,11907,15-Aug-08,06-Jul-09,Vulpes vulpes,19521660,SAD
-EU886633,AL_Cosmopolitan_Vac,Cosmopolitan Vac,AUT,Austria,-,2004,2004,2004,11907,15-Aug-08,06-Jul-09,Vulpes vulpes,19521660,SAD
-EU886634,AL_Cosmopolitan_Vac,Cosmopolitan Vac,DEU,Germany,-,2004,2004,2004,11907,15-Aug-08,06-Jul-09,Vulpes vulpes,19521660,SAD
-EU886635,AL_Cosmopolitan_Vac,Cosmopolitan Vac,DEU,Germany,-,2005,2005,2005,11907,15-Aug-08,06-Jul-09,Vulpes vulpes,19521660,SAD
-EU886636,AL_Cosmopolitan_Vac,Cosmopolitan Vac,AUT,Austria,-,2006,2006,2006,11907,15-Aug-08,06-Jul-09,Vulpes vulpes,19521660,SAD
-LN713664,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,2015,11908,23-Sep-15,23-Sep-15,cell culture,26387431,sag2BatchF04_2_var01
-LT993235,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,2018,11908,08-Apr-18,08-Apr-18,-,-,SLOV/2012/cellculture1
-LN713662,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,2015,11909,23-Sep-15,23-Sep-15,cell culture,26387431,sag2BatchF04_1_var01
-LN713663,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,2015,11909,23-Sep-15,23-Sep-15,cell culture,26387431,sag2BatchF04_1_var02
-LT993234,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,2018,11909,08-Apr-18,08-Apr-18,-,-,GER/2004/brain
-LN713647,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,2015,11912,23-Sep-15,23-Sep-15,cell culture,26387431,sadP588_1_var01
-LN713561,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,2015,11913,23-Sep-15,23-Sep-15,cell culture,26387431,sadBatch744_4_var01
-LN713562,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,2015,11913,23-Sep-15,23-Sep-15,cell culture,26387431,sadBatch744_4_var02
-LN713563,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,2015,11913,23-Sep-15,23-Sep-15,cell culture,26387431,sadBatch744_4_var03
-LN713564,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,2015,11913,23-Sep-15,23-Sep-15,cell culture,26387431,sadBatch744_4_var04
-LN713565,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,2015,11913,23-Sep-15,23-Sep-15,cell culture,26387431,sadBatch744_4_var05
-LN713566,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,2015,11913,23-Sep-15,23-Sep-15,cell culture,26387431,sadBatch744_4_var06
-LN713630,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,2015,11914,23-Sep-15,23-Sep-15,cell culture,26387431,sadERAtueb_1_var01
-LT993241,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,2018,11914,08-Apr-18,08-Apr-18,-,-,CAN/1994/brain
-LN713651,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,2015,11916,23-Sep-15,23-Sep-15,cell culture,26387431,sadP588_5_var01
-LN713546,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,2015,11917,23-Sep-15,23-Sep-15,cell culture,26387431,sadB19Behr_5_var01
-LN713649,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,2015,11917,23-Sep-15,23-Sep-15,cell culture,26387431,sadP588_3_var01
-LN713612,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,2015,11918,23-Sep-15,23-Sep-15,cell culture,26387431,sadBernO_2_var01
-LN713613,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,2015,11918,23-Sep-15,23-Sep-15,cell culture,26387431,sadBernO_2_var02
-LN713614,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,2015,11918,23-Sep-15,23-Sep-15,cell culture,26387431,sadBernO_2_var03
-LN713631,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,2015,11918,23-Sep-15,23-Sep-15,cell culture,26387431,sadERAtueb_2_var01
-LN713632,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,2015,11918,23-Sep-15,23-Sep-15,cell culture,26387431,sadERAtueb_3_var01
-LN713667,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,2015,11919,23-Sep-15,23-Sep-15,cell culture,26387431,sag2BatchF04_4_var01
-LN713668,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,2015,11919,23-Sep-15,23-Sep-15,cell culture,26387431,sag2BatchF04_4_var02
-LR812033,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,2020,11919,29-May-20,29-May-20,-,-,C/POL/2017/B
-LN713633,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,2015,11920,23-Sep-15,23-Sep-15,cell culture,26387431,sadERAtueb_4_var01
-LN713634,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,2015,11922,23-Sep-15,23-Sep-15,cell culture,26387431,sadERAtueb_5_var01
-LN713659,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,2015,11923,23-Sep-15,23-Sep-15,cell culture,26387431,sadWistar_3_var01
-LN713661,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,2015,11923,23-Sep-15,23-Sep-15,cell culture,26387431,sadWistar_5_var01
-LR812029,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,2020,11923,29-May-20,29-May-20,-,-,C/CAN/1992N8944
-LN713556,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,2015,11924,23-Sep-15,23-Sep-15,cell culture,26387431,sadBatch744_2_var01
-LN713557,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,2015,11924,23-Sep-15,23-Sep-15,cell culture,26387431,sadBatch744_2_var02
-LN713558,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,2015,11924,23-Sep-15,23-Sep-15,cell culture,26387431,sadBatch744_2_var03
-LN713559,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,2015,11924,23-Sep-15,23-Sep-15,cell culture,26387431,sadBatch744_3_var01
-LN713560,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,2015,11924,23-Sep-15,23-Sep-15,cell culture,26387431,sadBatch744_3_var02
-LN713635,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,2015,11924,23-Sep-15,23-Sep-15,cell culture,26387431,sadLysvulpen0609_1_var01
-LN713636,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,2015,11924,23-Sep-15,23-Sep-15,cell culture,26387431,sadLysvulpen0609_1_var02
-JQ685975,AL_Cosmopolitan_Vac2,Cosmopolitan Vac2,MEX,Mexico,-,2009,2009,2009,11925,10-Jul-12,10-Jul-12,Spilogale putorius,22737076,MEXSK3636
-LN713552,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,2015,11925,23-Sep-15,23-Sep-15,cell culture,26387431,sadBatch744_1_var03
-LN713553,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,2015,11925,23-Sep-15,23-Sep-15,cell culture,26387431,sadBatch744_1_var06
-LN713554,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,2015,11925,23-Sep-15,23-Sep-15,cell culture,26387431,sadBatch744_1_var09
-LN713555,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,2015,11925,23-Sep-15,23-Sep-15,cell culture,26387431,sadBatch744_1_var12
-LN713591,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,2015,11925,23-Sep-15,23-Sep-15,cell culture,26387431,sadBatch806_2_var01
-LN713592,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,2015,11925,23-Sep-15,23-Sep-15,cell culture,26387431,sadBatch806_2_var02
-LN713593,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,2015,11925,23-Sep-15,23-Sep-15,cell culture,26387431,sadBatch806_2_var03
-LN713594,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,2015,11925,23-Sep-15,23-Sep-15,cell culture,26387431,sadBatch806_2_var04
-LN713595,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,2015,11925,23-Sep-15,23-Sep-15,cell culture,26387431,sadBatch806_2_var05
-LN713596,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,2015,11925,23-Sep-15,23-Sep-15,cell culture,26387431,sadBatch806_2_var06
-LN713603,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,2015,11925,23-Sep-15,23-Sep-15,cell culture,26387431,sadBatch806_5_var02
-LN713604,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,2015,11925,23-Sep-15,23-Sep-15,cell culture,26387431,sadBatch806_5_var03
-LN713606,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,2015,11925,23-Sep-15,23-Sep-15,cell culture,26387431,sadBatch806_5_var05
-LN713607,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,2015,11925,23-Sep-15,23-Sep-15,cell culture,26387431,sadBatch806_5_var06
-LN713669,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,2015,11925,23-Sep-15,23-Sep-15,cell culture,26387431,sag2BatchF04_5_var01
-LN713670,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,2015,11925,23-Sep-15,23-Sep-15,cell culture,26387431,sag2BatchF04_5_var02
-LT993237,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,2018,11925,08-Apr-18,08-Apr-18,-,-,LAT/2015/brain1
-LN713542,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,2015,11926,23-Sep-15,23-Sep-15,cell culture,26387431,sadB19Behr_1_var01
-LN713597,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,2015,11926,23-Sep-15,23-Sep-15,cell culture,26387431,sadBatch806_3_var01
-LN713598,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,2015,11926,23-Sep-15,23-Sep-15,cell culture,26387431,sadBatch806_3_var02
-LN713599,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,2015,11926,23-Sep-15,23-Sep-15,cell culture,26387431,sadBatch806_3_var03
-LR812025,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,2020,11926,29-May-20,29-May-20,-,-,C/CAN/1996N5367
-LN713569,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,2015,11927,23-Sep-15,23-Sep-15,cell culture,26387431,sadBatch744_5_var03
-LN713570,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,2015,11927,23-Sep-15,23-Sep-15,cell culture,26387431,sadBatch793_1_var01
-LN713571,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,2015,11927,23-Sep-15,23-Sep-15,cell culture,26387431,sadBatch793_1_var02
-LN713600,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,2015,11927,23-Sep-15,23-Sep-15,cell culture,26387431,sadBatch806_4_var01
-LN713602,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,2015,11927,23-Sep-15,23-Sep-15,cell culture,26387431,sadBatch806_5_var01
-LN713605,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,2015,11927,23-Sep-15,23-Sep-15,cell culture,26387431,sadBatch806_5_var04
-LN713626,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,2015,11927,23-Sep-15,23-Sep-15,cell culture,26387431,sadBernO_5_var01
-LN713627,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,2015,11927,23-Sep-15,23-Sep-15,cell culture,26387431,sadBernO_5_var02
-LN713628,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,2015,11927,23-Sep-15,23-Sep-15,cell culture,26387431,sadBernO_5_var03
-LN713629,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,2015,11927,23-Sep-15,23-Sep-15,cell culture,26387431,sadBernO_5_var04
-LN713652,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,2015,11927,23-Sep-15,23-Sep-15,cell culture,26387431,sadVA1tueb_1_var01
-LN713653,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,2015,11927,23-Sep-15,23-Sep-15,cell culture,26387431,sadVA1tueb_2_var01
-LN713654,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,2015,11927,23-Sep-15,23-Sep-15,cell culture,26387431,sadVA1tueb_3_var01
-LN713655,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,2015,11927,23-Sep-15,23-Sep-15,cell culture,26387431,sadVA1tueb_4_var01
-LN713656,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,2015,11927,23-Sep-15,23-Sep-15,cell culture,26387431,sadVA1tueb_5_var01
-LN713665,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,2015,11927,23-Sep-15,23-Sep-15,cell culture,26387431,sag2BatchF04_3_var01
-LN713666,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,2015,11927,23-Sep-15,23-Sep-15,cell culture,26387431,sag2BatchF04_3_var02
-LR812028,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,2020,11927,29-May-20,29-May-20,-,-,C/CAN/1998N4916
-AF499686,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,2002,11928,24-Apr-02,21-Jun-04,-,-,SRV9
-DD161903,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,2005,11928,23-Nov-05,23-Nov-05,-,-,-
-DD161904,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,2005,11928,23-Nov-05,23-Nov-05,-,-,-
-DD161905,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,2005,11928,23-Nov-05,23-Nov-05,-,-,-
-DD161906,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,2005,11928,23-Nov-05,23-Nov-05,-,-,-
-DI035301,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,2008,11928,21-Feb-08,21-Feb-08,-,-,-
-DI043469,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,2008,11928,21-Feb-08,21-Feb-08,-,-,-
-DI046747,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,2008,11928,21-Feb-08,21-Feb-08,-,-,-
-DI084725,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,2008,11928,21-Feb-08,21-Feb-08,-,-,-
-EF206708,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,2007,11928,10-Feb-07,30-Jun-08,-,18485548,SAD Bern (Lysvulpen)
-EF206709,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,2007,11928,10-Feb-07,30-Jun-08,-,18485548,SAD B19 (Fuchsoral)
-EF206712,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,2007,11928,10-Feb-07,30-Jun-08,-,18485548,SAD Bern original var 3
-EF206713,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,2007,11928,10-Feb-07,30-Jun-08,-,18485548,SAD Bern original var 4
-EF206714,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,2007,11928,10-Feb-07,30-Jun-08,-,18485548,SAD Bern original var 5
-EF206715,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,2007,11928,10-Feb-07,30-Jun-08,-,18485548,SAD P5/88 (Rabifox)
-EF206716,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,2007,11928,10-Feb-07,30-Jun-08,-,18485548,SAD VA1 (original)
-EF206719,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,2007,11928,10-Feb-07,30-Jun-08,-,18485548,SAG 2
-EF206720,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,2007,11928,10-Feb-07,30-Jun-08,-,18485548,SAD Bern (Sanafox)
-LN713543,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,2015,11928,23-Sep-15,23-Sep-15,cell culture,26387431,sadB19Behr_2_var01
-LN713545,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,2015,11928,23-Sep-15,23-Sep-15,cell culture,26387431,sadB19Behr_4_var01
-LN713576,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,2015,11928,23-Sep-15,23-Sep-15,cell culture,26387431,sadBatch793_3_var01
-LN713577,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,2015,11928,23-Sep-15,23-Sep-15,cell culture,26387431,sadBatch793_3_var02
-LN713578,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,2015,11928,23-Sep-15,23-Sep-15,cell culture,26387431,sadBatch793_3_var03
-LN713579,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,2015,11928,23-Sep-15,23-Sep-15,cell culture,26387431,sadBatch793_3_var04
-LN713580,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,2015,11928,23-Sep-15,23-Sep-15,cell culture,26387431,sadBatch793_4_var01
-LN713581,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,2015,11928,23-Sep-15,23-Sep-15,cell culture,26387431,sadBatch793_4_var02
-LN713582,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,2015,11928,23-Sep-15,23-Sep-15,cell culture,26387431,sadBatch793_4_var03
-LN713583,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,2015,11928,23-Sep-15,23-Sep-15,cell culture,26387431,sadBatch793_4_var04
-LN713584,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,2015,11928,23-Sep-15,23-Sep-15,cell culture,26387431,sadBatch793_5_var01
-LN713585,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,2015,11928,23-Sep-15,23-Sep-15,cell culture,26387431,sadBatch793_5_var02
-LN713586,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,2015,11928,23-Sep-15,23-Sep-15,cell culture,26387431,sadBatch793_5_var03
-LN713587,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,2015,11928,23-Sep-15,23-Sep-15,cell culture,26387431,sadBatch806_1_var01
-LN713588,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,2015,11928,23-Sep-15,23-Sep-15,cell culture,26387431,sadBatch806_1_var02
-LN713589,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,2015,11928,23-Sep-15,23-Sep-15,cell culture,26387431,sadBatch806_1_var05
-LN713590,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,2015,11928,23-Sep-15,23-Sep-15,cell culture,26387431,sadBatch806_1_var06
-LN713601,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,2015,11928,23-Sep-15,23-Sep-15,cell culture,26387431,sadBatch806_4_var02
-LN713608,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,2015,11928,23-Sep-15,23-Sep-15,cell culture,26387431,sadBernO_1_var01
-LN713609,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,2015,11928,23-Sep-15,23-Sep-15,cell culture,26387431,sadBernO_1_var02
-LN713610,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,2015,11928,23-Sep-15,23-Sep-15,cell culture,26387431,sadBernO_1_var03
-LN713611,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,2015,11928,23-Sep-15,23-Sep-15,cell culture,26387431,sadBernO_1_var04
-LN713615,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,2015,11928,23-Sep-15,23-Sep-15,cell culture,26387431,sadBernO_3_var01
-LN713616,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,2015,11928,23-Sep-15,23-Sep-15,cell culture,26387431,sadBernO_3_var02
-LN713617,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,2015,11928,23-Sep-15,23-Sep-15,cell culture,26387431,sadBernO_3_var03
-LN713618,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,2015,11928,23-Sep-15,23-Sep-15,cell culture,26387431,sadBernO_3_var04
-LN713619,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,2015,11928,23-Sep-15,23-Sep-15,cell culture,26387431,sadBernO_3_var05
-LN713620,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,2015,11928,23-Sep-15,23-Sep-15,cell culture,26387431,sadBernO_3_var06
-LN713621,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,2015,11928,23-Sep-15,23-Sep-15,cell culture,26387431,sadBernO_3_var07
-LN713622,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,2015,11928,23-Sep-15,23-Sep-15,cell culture,26387431,sadBernO_3_var08
-LN713623,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,2015,11928,23-Sep-15,23-Sep-15,cell culture,26387431,sadBernO_4_var01
-LN713624,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,2015,11928,23-Sep-15,23-Sep-15,cell culture,26387431,sadBernO_4_var02
-LN713625,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,2015,11928,23-Sep-15,23-Sep-15,cell culture,26387431,sadBernO_4_var03
-LN713648,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,2015,11928,23-Sep-15,23-Sep-15,cell culture,26387431,sadP588_2_var01
-LT993236,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,2018,11928,08-Apr-18,08-Apr-18,-,-,SLOV/2014/brain
-LT993238,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,2018,11928,08-Apr-18,08-Apr-18,-,-,LAT/2015/brain2
-LT993239,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,2018,11928,08-Apr-18,08-Apr-18,-,-,SLOV/2012/cellculture2
-LT993243,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,2018,11928,08-Apr-18,08-Apr-18,-,-,AUS/2004/cellculture
-LT993244,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,2018,11928,08-Apr-18,08-Apr-18,-,-,GER/2002/cellculture
-LT993245,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,2018,11928,08-Apr-18,08-Apr-18,-,-,ROM/2015/brain
-M31046,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,1993,11928,02-Aug-93,14-Jun-90,-,2139267,-
-LN713567,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,2015,11929,23-Sep-15,23-Sep-15,cell culture,26387431,sadBatch744_5_var01
-LN713568,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,2015,11929,23-Sep-15,23-Sep-15,cell culture,26387431,sadBatch744_5_var02
-LR812027,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,2020,11929,29-May-20,29-May-20,-,-,C/CAN/1992N8991
-LT909527,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,2018,11929,29-Jan-18,29-Jan-18,-,-,13102
-LT909549,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,2018,11929,29-Jan-18,29-Jan-18,-,-,34873
-EF206710,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,2007,11930,10-Feb-07,30-Jun-08,-,18485548,SAD Bern original var 1
-EF206711,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,2007,11930,10-Feb-07,30-Jun-08,-,18485548,SAD Bern original var 2
-LR812030,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,2020,11930,29-May-20,29-May-20,-,-,C/CAN/1994N6762-B
-LR812031,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,2020,11930,29-May-20,29-May-20,-,-,C/CAN/1994N6762-M
-LR812032,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,2020,11930,29-May-20,29-May-20,-,-,C/CAN/1994N35116
-CS614408,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,2007,11931,25-Jun-07,25-Jun-07,-,-,-
-EF206707,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,2007,11931,10-Feb-07,30-Jun-08,-,18485548,ERA; Evelyn Rokitniki Abelseth
-EF206717,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,2007,11931,10-Feb-07,30-Jun-08,-,18485548,SAD1-3670 var 1
-EU182346,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,2007,11931,13-Nov-07,13-Nov-07,-,-,RB/E3-15
-LT993240,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,2018,11931,08-Apr-18,08-Apr-18,-,-,CAN/1991/brain
-AB781935,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,2013,11932,13-Feb-13,13-Feb-13,-,-,ERA
-FJ913470,AL_Cosmopolitan_Vac,Cosmopolitan Vac,CHN,China,-,2007,2007,2007,11932,22-May-09,22-May-09,-,-,ERA-VC
-JX276550,AL_Cosmopolitan_Vac,Cosmopolitan Vac,CHN,China,-,-,-,2012,11932,16-Sep-12,16-Sep-12,-,-,PV-2061
-M13215,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,1993,11932,02-Aug-93,14-Sep-89,-,3459163,-
-NC_001542,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,1993,11932,02-Aug-93,08-Dec-08,-,3407152,-
-EF206718,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,2007,11933,10-Feb-07,30-Jun-08,-,18485548,SAD1-3670 var 2
-EU182347,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,2007,11933,13-Nov-07,13-Nov-07,-,-,Rb/E3-15-5
-LR812034,AL_Cosmopolitan_Vac,Cosmopolitan Vac,-,-,-,-,-,2020,11933,29-May-20,29-May-20,-,-,C/CAN/1999N6567
-MH660455,AL_Cosmopolitan_Vac,Cosmopolitan Vac,DEU,Germany,-,2017,2017,2017,13152,30-Mar-19,30-Mar-19,-,-,SPBN GASGAS (IDT)
+"ID","alignment.name","assignment","sequence.m49_country.id","country","sequence.gb_place_sampled","sequence.collection_year","sequence.earliest_collection_year","year","sequence.gb_length","sequence.gb_create_date","sequence.gb_update_date","sequence.host","sequence.gb_pubmed_id","sequence.isolate"
+"AF406695","AL_Cosmopolitan_Vac","Cosmopolitan Vac","-","-","-","-","-",2003,1353,"02-Jul-03","11-Sep-03","-","12970438","ERA"
+"AF406696","AL_Cosmopolitan_Vac","Cosmopolitan Vac","-","-","-","-","-",2003,1353,"02-Jul-03","11-Sep-03","-","12970438","CVS"
+"AF499686","AL_Cosmopolitan_Vac","Cosmopolitan Vac","-","-","-","-","-",2002,11928,"24-Apr-02","21-Jun-04","-","-","SRV9"
+"CS614408","AL_Cosmopolitan_Vac","Cosmopolitan Vac","-","-","-","-","-",2007,11931,"25-Jun-07","25-Jun-07","-","-","-"
+"D42112","AL_Cosmopolitan","Cosmopolitan","-","-","-","-","-",1994,1448,"28-Nov-94","09-Feb-99","-","3459163","CVS"
+"DD161903","AL_Cosmopolitan_Vac","Cosmopolitan Vac","-","-","-","-","-",2005,11928,"23-Nov-05","23-Nov-05","-","-","-"
+"DD161904","AL_Cosmopolitan_Vac","Cosmopolitan Vac","-","-","-","-","-",2005,11928,"23-Nov-05","23-Nov-05","-","-","-"
+"DD161905","AL_Cosmopolitan_Vac","Cosmopolitan Vac","-","-","-","-","-",2005,11928,"23-Nov-05","23-Nov-05","-","-","-"
+"DD161906","AL_Cosmopolitan_Vac","Cosmopolitan Vac","-","-","-","-","-",2005,11928,"23-Nov-05","23-Nov-05","-","-","-"
+"DI035301","AL_Cosmopolitan_Vac","Cosmopolitan Vac","-","-","-","-","-",2008,11928,"21-Feb-08","21-Feb-08","-","-","-"
+"DI043469","AL_Cosmopolitan_Vac","Cosmopolitan Vac","-","-","-","-","-",2008,11928,"21-Feb-08","21-Feb-08","-","-","-"
+"DI046747","AL_Cosmopolitan_Vac","Cosmopolitan Vac","-","-","-","-","-",2008,11928,"21-Feb-08","21-Feb-08","-","-","-"
+"DI084725","AL_Cosmopolitan_Vac","Cosmopolitan Vac","-","-","-","-","-",2008,11928,"21-Feb-08","21-Feb-08","-","-","-"
+"DQ286762","AL_Cosmopolitan","Cosmopolitan","IND","India","-","-","-",2005,2416,"03-Dec-05","13-May-15","Canis familiaris","-","Indian"
+"DQ666288","AL_Cosmopolitan_Vac","Cosmopolitan Vac","CHN","China","-","-","-",2006,1484,"22-Jul-06","01-Dec-08","Homo sapiens","16828520","Guizhou_A10"
+"DQ666292","AL_Cosmopolitan_Vac","Cosmopolitan Vac","CHN","China","-","-","-",2006,1483,"22-Jul-06","01-Dec-08","Canis familiaris","16828520","Guizhou_A158"
+"DQ666293","AL_Cosmopolitan_Vac","Cosmopolitan Vac","CHN","China","-","-","-",2006,1484,"22-Jul-06","01-Dec-08","Canis familiaris","16828520","Guizhou_A173"
+"DQ666301","AL_Cosmopolitan_Vac","Cosmopolitan Vac","CHN","China","-","-","-",2006,1484,"22-Jul-06","09-Apr-07","Canis familiaris","16828520","Henan_Sq17"
+"DQ666303","AL_Cosmopolitan_Vac","Cosmopolitan Vac","CHN","China","-","-","-",2006,1484,"22-Jul-06","09-Apr-07","Canis familiaris","16828520","Henan_Sq30"
+"DQ666305","AL_Cosmopolitan_Vac","Cosmopolitan Vac","CHN","China","-","-","-",2006,1483,"22-Jul-06","09-Apr-07","Canis familiaris","16828520","Henan_Sq48"
+"DQ666310","AL_Cosmopolitan_Vac","Cosmopolitan Vac","CHN","China","-","-","-",2006,1484,"22-Jul-06","01-Dec-08","Canis familiaris","16828520","Hunan_Wg22"
+"DQ666313","AL_Cosmopolitan_Vac","Cosmopolitan Vac","CHN","China","-","-","-",2006,1483,"22-Jul-06","01-Dec-08","Canis familiaris","16828520","Hunan_Wg68"
+"DQ666320","AL_Cosmopolitan_Vac","Cosmopolitan Vac","CHN","China","-","-","-",2006,1483,"22-Jul-06","01-Dec-08","Homo sapiens","16828520","Jiangsu_Wx0(H)"
+"EF206707","AL_Cosmopolitan_Vac","Cosmopolitan Vac","-","-","-","-","-",2007,11931,"10-Feb-07","30-Jun-08","-","18485548","ERA; Evelyn Rokitniki Abelseth"
+"EF206708","AL_Cosmopolitan_Vac","Cosmopolitan Vac","-","-","-","-","-",2007,11928,"10-Feb-07","30-Jun-08","-","18485548","SAD Bern (Lysvulpen)"
+"EF206709","AL_Cosmopolitan_Vac","Cosmopolitan Vac","-","-","-","-","-",2007,11928,"10-Feb-07","30-Jun-08","-","18485548","SAD B19 (Fuchsoral)"
+"EF206710","AL_Cosmopolitan_Vac","Cosmopolitan Vac","-","-","-","-","-",2007,11930,"10-Feb-07","30-Jun-08","-","18485548","SAD Bern original var 1"
+"EF206711","AL_Cosmopolitan_Vac","Cosmopolitan Vac","-","-","-","-","-",2007,11930,"10-Feb-07","30-Jun-08","-","18485548","SAD Bern original var 2"
+"EF206712","AL_Cosmopolitan_Vac","Cosmopolitan Vac","-","-","-","-","-",2007,11928,"10-Feb-07","30-Jun-08","-","18485548","SAD Bern original var 3"
+"EF206713","AL_Cosmopolitan_Vac","Cosmopolitan Vac","-","-","-","-","-",2007,11928,"10-Feb-07","30-Jun-08","-","18485548","SAD Bern original var 4"
+"EF206714","AL_Cosmopolitan_Vac","Cosmopolitan Vac","-","-","-","-","-",2007,11928,"10-Feb-07","30-Jun-08","-","18485548","SAD Bern original var 5"
+"EF206715","AL_Cosmopolitan_Vac","Cosmopolitan Vac","-","-","-","-","-",2007,11928,"10-Feb-07","30-Jun-08","-","18485548","SAD P5/88 (Rabifox)"
+"EF206716","AL_Cosmopolitan_Vac","Cosmopolitan Vac","-","-","-","-","-",2007,11928,"10-Feb-07","30-Jun-08","-","18485548","SAD VA1 (original)"
+"EF206717","AL_Cosmopolitan_Vac","Cosmopolitan Vac","-","-","-","-","-",2007,11931,"10-Feb-07","30-Jun-08","-","18485548","SAD1-3670 var 1"
+"EF206718","AL_Cosmopolitan_Vac","Cosmopolitan Vac","-","-","-","-","-",2007,11933,"10-Feb-07","30-Jun-08","-","18485548","SAD1-3670 var 2"
+"EF206719","AL_Cosmopolitan_Vac","Cosmopolitan Vac","-","-","-","-","-",2007,11928,"10-Feb-07","30-Jun-08","-","18485548","SAG 2"
+"EF206720","AL_Cosmopolitan_Vac","Cosmopolitan Vac","-","-","-","-","-",2007,11928,"10-Feb-07","30-Jun-08","-","18485548","SAD Bern (Sanafox)"
+"EU182346","AL_Cosmopolitan_Vac","Cosmopolitan Vac","-","-","-","-","-",2007,11931,"13-Nov-07","13-Nov-07","-","-","RB/E3-15"
+"EU182347","AL_Cosmopolitan_Vac","Cosmopolitan Vac","-","-","-","-","-",2007,11933,"13-Nov-07","13-Nov-07","-","-","Rb/E3-15-5"
+"EU877067","AL_Cosmopolitan_Vac","Cosmopolitan Vac","-","-","-","-","-",2008,11886,"04-Aug-08","07-Apr-09","-","19161553","SAD B19-4th"
+"EU877068","AL_Cosmopolitan_Vac","Cosmopolitan Vac","-","-","-","-","-",2008,11886,"04-Aug-08","07-Apr-09","-","19161553","SAD B19-1st"
+"EU877069","AL_Cosmopolitan_Vac","Cosmopolitan Vac","-","-","-","-","-",2008,11886,"04-Aug-08","02-Mar-09","-","19161553","SAD B19-1st"
+"EU877070","AL_Cosmopolitan_Vac","Cosmopolitan Vac","-","-","-","-","-",2008,11886,"04-Aug-08","02-Mar-09","-","19161553","SAD B19-5th"
+"EU877071","AL_Cosmopolitan_Vac","Cosmopolitan Vac","-","-","-","-","-",2008,11886,"04-Aug-08","02-Mar-09","-","19161553","SAD B19-10th"
+"EU886631","AL_Cosmopolitan_Vac","Cosmopolitan Vac","DEU","Germany","-","2001","2001",2001,11907,"15-Aug-08","06-Jul-09","Vulpes vulpes","19521660","SAD"
+"EU886632","AL_Cosmopolitan_Vac","Cosmopolitan Vac","DEU","Germany","-","2002","2002",2002,11907,"15-Aug-08","06-Jul-09","Vulpes vulpes","19521660","SAD"
+"EU886633","AL_Cosmopolitan_Vac","Cosmopolitan Vac","AUT","Austria","-","2004","2004",2004,11907,"15-Aug-08","06-Jul-09","Vulpes vulpes","19521660","SAD"
+"EU886634","AL_Cosmopolitan_Vac","Cosmopolitan Vac","DEU","Germany","-","2004","2004",2004,11907,"15-Aug-08","06-Jul-09","Vulpes vulpes","19521660","SAD"
+"EU886635","AL_Cosmopolitan_Vac","Cosmopolitan Vac","DEU","Germany","-","2005","2005",2005,11907,"15-Aug-08","06-Jul-09","Vulpes vulpes","19521660","SAD"
+"EU886636","AL_Cosmopolitan_Vac","Cosmopolitan Vac","AUT","Austria","-","2006","2006",2006,11907,"15-Aug-08","06-Jul-09","Vulpes vulpes","19521660","SAD"
+"FJ913470","AL_Cosmopolitan_Vac","Cosmopolitan Vac","CHN","China","-","2007","2007",2007,11932,"22-May-09","22-May-09","-","-","ERA-VC"
+"GQ406343","AL_Cosmopolitan_Vac","Cosmopolitan Vac","CHN","China","-","2005","2005",2005,1353,"05-Sep-09","05-Sep-09","Canis familiaris","-","ERA"
+"GU991844","AL_Cosmopolitan_Vac2","Cosmopolitan Vac2","MEX","Mexico","Sinaloa/Durango","2003","2003",2003,1350,"27-Apr-10","24-Jul-16","Mephitis mephitis (skunk)","-","231mxsinSK03"
+"GU992309","AL_Cosmopolitan_Vac","Cosmopolitan Vac","CZE","Czechia","-","1995","1995",1995,1353,"26-Apr-10","09-Aug-10","-","-","9507TCH"
+"GU992311","AL_Cosmopolitan_Vac","Cosmopolitan Vac","CZE","Czechia","-","1995","1995",1995,1353,"26-Apr-10","09-Aug-10","-","-","9508TCH"
+"GU992319","AL_Cosmopolitan_Vac","Cosmopolitan Vac","CZE","Czechia","-","1995","1995",1995,1353,"26-Apr-10","09-Aug-10","-","-","9503TCH"
+"GU992320","AL_Cosmopolitan_Vac","Cosmopolitan Vac","FRA","France","-","1993","1993",1993,1353,"26-Apr-10","09-Aug-10","-","-","93127FRA"
+"GU992321","AL_Cosmopolitan","Cosmopolitan","FRA","France","-","1988","1988",1988,1353,"26-Apr-10","09-Aug-10","-","-","CVS"
+"GU992322","AL_Cosmopolitan_Vac","Cosmopolitan Vac","MAR","Morocco","-","1993","1993",1993,1353,"26-Apr-10","09-Aug-10","-","-","93128MAR"
+"JQ685975","AL_Cosmopolitan_Vac2","Cosmopolitan Vac2","MEX","Mexico","-","2009","2009",2009,11925,"10-Jul-12","10-Jul-12","Spilogale putorius","22737076","MEXSK3636"
+"JX276550","AL_Cosmopolitan_Vac","Cosmopolitan Vac","CHN","China","-","-","-",2012,11932,"16-Sep-12","16-Sep-12","-","-","PV-2061"
+"JX944594","AL_Cosmopolitan_Vac","Cosmopolitan Vac","NPL","Nepal","-","-","-",2013,1353,"31-Oct-13","04-Dec-13","-","24278494","4403-12"
+"KC178555","AL_Cosmopolitan_Vac","Cosmopolitan Vac","-","-","-","-","-",2013,11005,"27-Aug-13","27-Aug-13","-","23899697","Lysvulpen"
+"KC178556","AL_Cosmopolitan_Vac","Cosmopolitan Vac","-","-","-","-","-",2013,11005,"27-Aug-13","27-Aug-13","-","23899697","SAD Bern"
+"KC522613","AL_Cosmopolitan_Vac","Cosmopolitan Vac","SVN","Slovenia","-","2012","2012",2012,4367,"29-Mar-16","29-Mar-16","Vulpes vulpes","24484500","3511-12SVN"
+"KF733451","AL_Cosmopolitan","Cosmopolitan","FRA","France","-","2013","2013",2013,1353,"24-Dec-13","24-Dec-13","-","-","CVS-11_12-10"
+"KJ001521","AL_Cosmopolitan_Vac2","Cosmopolitan Vac2","MEX","Mexico","-","2008","2008",2008,1350,"24-Nov-15","24-Nov-15","Spilogale sp.","-","8322skSo08"
+"KJ001522","AL_Cosmopolitan_Vac2","Cosmopolitan Vac2","MEX","Mexico","-","2009","2009",2009,1350,"24-Nov-15","24-Nov-15","Spilogale sp.","-","2393skSi09"
+"KJ001529","AL_Cosmopolitan_Vac2","Cosmopolitan Vac2","MEX","Mexico","-","2009","2009",2009,1342,"24-Nov-15","24-Nov-15","Spilogale sp.","-","889skSin09"
+"KJ001530","AL_Cosmopolitan_Vac2","Cosmopolitan Vac2","MEX","Mexico","-","2009","2009",2009,1342,"24-Nov-15","24-Nov-15","Spilogale sp.","-","1566skCh09"
+"LN713542","AL_Cosmopolitan_Vac","Cosmopolitan Vac","-","-","-","-","-",2015,11926,"23-Sep-15","23-Sep-15","cell culture","26387431","sadB19Behr_1_var01"
+"LN713543","AL_Cosmopolitan_Vac","Cosmopolitan Vac","-","-","-","-","-",2015,11928,"23-Sep-15","23-Sep-15","cell culture","26387431","sadB19Behr_2_var01"
+"LN713544","AL_Cosmopolitan_Vac","Cosmopolitan Vac","-","-","-","-","-",2015,11906,"23-Sep-15","23-Sep-15","cell culture","26387431","sadB19Behr_3_var01"
+"LN713545","AL_Cosmopolitan_Vac","Cosmopolitan Vac","-","-","-","-","-",2015,11928,"23-Sep-15","23-Sep-15","cell culture","26387431","sadB19Behr_4_var01"
+"LN713546","AL_Cosmopolitan_Vac","Cosmopolitan Vac","-","-","-","-","-",2015,11917,"23-Sep-15","23-Sep-15","cell culture","26387431","sadB19Behr_5_var01"
+"LN713547","AL_Cosmopolitan_Vac","Cosmopolitan Vac","-","-","-","-","-",2015,11870,"23-Sep-15","23-Sep-15","cell culture","26387431","sadB19p1_1_var01"
+"LN713548","AL_Cosmopolitan_Vac","Cosmopolitan Vac","-","-","-","-","-",2015,11841,"23-Sep-15","23-Sep-15","cell culture","26387431","sadB19p1_2_var01"
+"LN713549","AL_Cosmopolitan_Vac","Cosmopolitan Vac","-","-","-","-","-",2015,11858,"23-Sep-15","23-Sep-15","cell culture","26387431","sadB19p1_3_var01"
+"LN713550","AL_Cosmopolitan_Vac","Cosmopolitan Vac","-","-","-","-","-",2015,11872,"23-Sep-15","23-Sep-15","cell culture","26387431","sadB19p1_4_var01"
+"LN713551","AL_Cosmopolitan_Vac","Cosmopolitan Vac","-","-","-","-","-",2015,11891,"23-Sep-15","23-Sep-15","cell culture","26387431","sadB19p1_5_var01"
+"LN713552","AL_Cosmopolitan_Vac","Cosmopolitan Vac","-","-","-","-","-",2015,11925,"23-Sep-15","23-Sep-15","cell culture","26387431","sadBatch744_1_var03"
+"LN713553","AL_Cosmopolitan_Vac","Cosmopolitan Vac","-","-","-","-","-",2015,11925,"23-Sep-15","23-Sep-15","cell culture","26387431","sadBatch744_1_var06"
+"LN713554","AL_Cosmopolitan_Vac","Cosmopolitan Vac","-","-","-","-","-",2015,11925,"23-Sep-15","23-Sep-15","cell culture","26387431","sadBatch744_1_var09"
+"LN713555","AL_Cosmopolitan_Vac","Cosmopolitan Vac","-","-","-","-","-",2015,11925,"23-Sep-15","23-Sep-15","cell culture","26387431","sadBatch744_1_var12"
+"LN713556","AL_Cosmopolitan_Vac","Cosmopolitan Vac","-","-","-","-","-",2015,11924,"23-Sep-15","23-Sep-15","cell culture","26387431","sadBatch744_2_var01"
+"LN713557","AL_Cosmopolitan_Vac","Cosmopolitan Vac","-","-","-","-","-",2015,11924,"23-Sep-15","23-Sep-15","cell culture","26387431","sadBatch744_2_var02"
+"LN713558","AL_Cosmopolitan_Vac","Cosmopolitan Vac","-","-","-","-","-",2015,11924,"23-Sep-15","23-Sep-15","cell culture","26387431","sadBatch744_2_var03"
+"LN713559","AL_Cosmopolitan_Vac","Cosmopolitan Vac","-","-","-","-","-",2015,11924,"23-Sep-15","23-Sep-15","cell culture","26387431","sadBatch744_3_var01"
+"LN713560","AL_Cosmopolitan_Vac","Cosmopolitan Vac","-","-","-","-","-",2015,11924,"23-Sep-15","23-Sep-15","cell culture","26387431","sadBatch744_3_var02"
+"LN713561","AL_Cosmopolitan_Vac","Cosmopolitan Vac","-","-","-","-","-",2015,11913,"23-Sep-15","23-Sep-15","cell culture","26387431","sadBatch744_4_var01"
+"LN713562","AL_Cosmopolitan_Vac","Cosmopolitan Vac","-","-","-","-","-",2015,11913,"23-Sep-15","23-Sep-15","cell culture","26387431","sadBatch744_4_var02"
+"LN713563","AL_Cosmopolitan_Vac","Cosmopolitan Vac","-","-","-","-","-",2015,11913,"23-Sep-15","23-Sep-15","cell culture","26387431","sadBatch744_4_var03"
+"LN713564","AL_Cosmopolitan_Vac","Cosmopolitan Vac","-","-","-","-","-",2015,11913,"23-Sep-15","23-Sep-15","cell culture","26387431","sadBatch744_4_var04"
+"LN713565","AL_Cosmopolitan_Vac","Cosmopolitan Vac","-","-","-","-","-",2015,11913,"23-Sep-15","23-Sep-15","cell culture","26387431","sadBatch744_4_var05"
+"LN713566","AL_Cosmopolitan_Vac","Cosmopolitan Vac","-","-","-","-","-",2015,11913,"23-Sep-15","23-Sep-15","cell culture","26387431","sadBatch744_4_var06"
+"LN713567","AL_Cosmopolitan_Vac","Cosmopolitan Vac","-","-","-","-","-",2015,11929,"23-Sep-15","23-Sep-15","cell culture","26387431","sadBatch744_5_var01"
+"LN713568","AL_Cosmopolitan_Vac","Cosmopolitan Vac","-","-","-","-","-",2015,11929,"23-Sep-15","23-Sep-15","cell culture","26387431","sadBatch744_5_var02"
+"LN713569","AL_Cosmopolitan_Vac","Cosmopolitan Vac","-","-","-","-","-",2015,11927,"23-Sep-15","23-Sep-15","cell culture","26387431","sadBatch744_5_var03"
+"LN713570","AL_Cosmopolitan_Vac","Cosmopolitan Vac","-","-","-","-","-",2015,11927,"23-Sep-15","23-Sep-15","cell culture","26387431","sadBatch793_1_var01"
+"LN713571","AL_Cosmopolitan_Vac","Cosmopolitan Vac","-","-","-","-","-",2015,11927,"23-Sep-15","23-Sep-15","cell culture","26387431","sadBatch793_1_var02"
+"LN713572","AL_Cosmopolitan_Vac","Cosmopolitan Vac","-","-","-","-","-",2015,11898,"23-Sep-15","23-Sep-15","cell culture","26387431","sadBatch793_2_var01"
+"LN713573","AL_Cosmopolitan_Vac","Cosmopolitan Vac","-","-","-","-","-",2015,11898,"23-Sep-15","23-Sep-15","cell culture","26387431","sadBatch793_2_var02"
+"LN713574","AL_Cosmopolitan_Vac","Cosmopolitan Vac","-","-","-","-","-",2015,11899,"23-Sep-15","23-Sep-15","cell culture","26387431","sadBatch793_2_var03"
+"LN713575","AL_Cosmopolitan_Vac","Cosmopolitan Vac","-","-","-","-","-",2015,11899,"23-Sep-15","23-Sep-15","cell culture","26387431","sadBatch793_2_var04"
+"LN713576","AL_Cosmopolitan_Vac","Cosmopolitan Vac","-","-","-","-","-",2015,11928,"23-Sep-15","23-Sep-15","cell culture","26387431","sadBatch793_3_var01"
+"LN713577","AL_Cosmopolitan_Vac","Cosmopolitan Vac","-","-","-","-","-",2015,11928,"23-Sep-15","23-Sep-15","cell culture","26387431","sadBatch793_3_var02"
+"LN713578","AL_Cosmopolitan_Vac","Cosmopolitan Vac","-","-","-","-","-",2015,11928,"23-Sep-15","23-Sep-15","cell culture","26387431","sadBatch793_3_var03"
+"LN713579","AL_Cosmopolitan_Vac","Cosmopolitan Vac","-","-","-","-","-",2015,11928,"23-Sep-15","23-Sep-15","cell culture","26387431","sadBatch793_3_var04"
+"LN713580","AL_Cosmopolitan_Vac","Cosmopolitan Vac","-","-","-","-","-",2015,11928,"23-Sep-15","23-Sep-15","cell culture","26387431","sadBatch793_4_var01"
+"LN713581","AL_Cosmopolitan_Vac","Cosmopolitan Vac","-","-","-","-","-",2015,11928,"23-Sep-15","23-Sep-15","cell culture","26387431","sadBatch793_4_var02"
+"LN713582","AL_Cosmopolitan_Vac","Cosmopolitan Vac","-","-","-","-","-",2015,11928,"23-Sep-15","23-Sep-15","cell culture","26387431","sadBatch793_4_var03"
+"LN713583","AL_Cosmopolitan_Vac","Cosmopolitan Vac","-","-","-","-","-",2015,11928,"23-Sep-15","23-Sep-15","cell culture","26387431","sadBatch793_4_var04"
+"LN713584","AL_Cosmopolitan_Vac","Cosmopolitan Vac","-","-","-","-","-",2015,11928,"23-Sep-15","23-Sep-15","cell culture","26387431","sadBatch793_5_var01"
+"LN713585","AL_Cosmopolitan_Vac","Cosmopolitan Vac","-","-","-","-","-",2015,11928,"23-Sep-15","23-Sep-15","cell culture","26387431","sadBatch793_5_var02"
+"LN713586","AL_Cosmopolitan_Vac","Cosmopolitan Vac","-","-","-","-","-",2015,11928,"23-Sep-15","23-Sep-15","cell culture","26387431","sadBatch793_5_var03"
+"LN713587","AL_Cosmopolitan_Vac","Cosmopolitan Vac","-","-","-","-","-",2015,11928,"23-Sep-15","23-Sep-15","cell culture","26387431","sadBatch806_1_var01"
+"LN713588","AL_Cosmopolitan_Vac","Cosmopolitan Vac","-","-","-","-","-",2015,11928,"23-Sep-15","23-Sep-15","cell culture","26387431","sadBatch806_1_var02"
+"LN713589","AL_Cosmopolitan_Vac","Cosmopolitan Vac","-","-","-","-","-",2015,11928,"23-Sep-15","23-Sep-15","cell culture","26387431","sadBatch806_1_var05"
+"LN713590","AL_Cosmopolitan_Vac","Cosmopolitan Vac","-","-","-","-","-",2015,11928,"23-Sep-15","23-Sep-15","cell culture","26387431","sadBatch806_1_var06"
+"LN713591","AL_Cosmopolitan_Vac","Cosmopolitan Vac","-","-","-","-","-",2015,11925,"23-Sep-15","23-Sep-15","cell culture","26387431","sadBatch806_2_var01"
+"LN713592","AL_Cosmopolitan_Vac","Cosmopolitan Vac","-","-","-","-","-",2015,11925,"23-Sep-15","23-Sep-15","cell culture","26387431","sadBatch806_2_var02"
+"LN713593","AL_Cosmopolitan_Vac","Cosmopolitan Vac","-","-","-","-","-",2015,11925,"23-Sep-15","23-Sep-15","cell culture","26387431","sadBatch806_2_var03"
+"LN713594","AL_Cosmopolitan_Vac","Cosmopolitan Vac","-","-","-","-","-",2015,11925,"23-Sep-15","23-Sep-15","cell culture","26387431","sadBatch806_2_var04"
+"LN713595","AL_Cosmopolitan_Vac","Cosmopolitan Vac","-","-","-","-","-",2015,11925,"23-Sep-15","23-Sep-15","cell culture","26387431","sadBatch806_2_var05"
+"LN713596","AL_Cosmopolitan_Vac","Cosmopolitan Vac","-","-","-","-","-",2015,11925,"23-Sep-15","23-Sep-15","cell culture","26387431","sadBatch806_2_var06"
+"LN713597","AL_Cosmopolitan_Vac","Cosmopolitan Vac","-","-","-","-","-",2015,11926,"23-Sep-15","23-Sep-15","cell culture","26387431","sadBatch806_3_var01"
+"LN713598","AL_Cosmopolitan_Vac","Cosmopolitan Vac","-","-","-","-","-",2015,11926,"23-Sep-15","23-Sep-15","cell culture","26387431","sadBatch806_3_var02"
+"LN713599","AL_Cosmopolitan_Vac","Cosmopolitan Vac","-","-","-","-","-",2015,11926,"23-Sep-15","23-Sep-15","cell culture","26387431","sadBatch806_3_var03"
+"LN713600","AL_Cosmopolitan_Vac","Cosmopolitan Vac","-","-","-","-","-",2015,11927,"23-Sep-15","23-Sep-15","cell culture","26387431","sadBatch806_4_var01"
+"LN713601","AL_Cosmopolitan_Vac","Cosmopolitan Vac","-","-","-","-","-",2015,11928,"23-Sep-15","23-Sep-15","cell culture","26387431","sadBatch806_4_var02"
+"LN713602","AL_Cosmopolitan_Vac","Cosmopolitan Vac","-","-","-","-","-",2015,11927,"23-Sep-15","23-Sep-15","cell culture","26387431","sadBatch806_5_var01"
+"LN713603","AL_Cosmopolitan_Vac","Cosmopolitan Vac","-","-","-","-","-",2015,11925,"23-Sep-15","23-Sep-15","cell culture","26387431","sadBatch806_5_var02"
+"LN713604","AL_Cosmopolitan_Vac","Cosmopolitan Vac","-","-","-","-","-",2015,11925,"23-Sep-15","23-Sep-15","cell culture","26387431","sadBatch806_5_var03"
+"LN713605","AL_Cosmopolitan_Vac","Cosmopolitan Vac","-","-","-","-","-",2015,11927,"23-Sep-15","23-Sep-15","cell culture","26387431","sadBatch806_5_var04"
+"LN713606","AL_Cosmopolitan_Vac","Cosmopolitan Vac","-","-","-","-","-",2015,11925,"23-Sep-15","23-Sep-15","cell culture","26387431","sadBatch806_5_var05"
+"LN713607","AL_Cosmopolitan_Vac","Cosmopolitan Vac","-","-","-","-","-",2015,11925,"23-Sep-15","23-Sep-15","cell culture","26387431","sadBatch806_5_var06"
+"LN713608","AL_Cosmopolitan_Vac","Cosmopolitan Vac","-","-","-","-","-",2015,11928,"23-Sep-15","23-Sep-15","cell culture","26387431","sadBernO_1_var01"
+"LN713609","AL_Cosmopolitan_Vac","Cosmopolitan Vac","-","-","-","-","-",2015,11928,"23-Sep-15","23-Sep-15","cell culture","26387431","sadBernO_1_var02"
+"LN713610","AL_Cosmopolitan_Vac","Cosmopolitan Vac","-","-","-","-","-",2015,11928,"23-Sep-15","23-Sep-15","cell culture","26387431","sadBernO_1_var03"
+"LN713611","AL_Cosmopolitan_Vac","Cosmopolitan Vac","-","-","-","-","-",2015,11928,"23-Sep-15","23-Sep-15","cell culture","26387431","sadBernO_1_var04"
+"LN713612","AL_Cosmopolitan_Vac","Cosmopolitan Vac","-","-","-","-","-",2015,11918,"23-Sep-15","23-Sep-15","cell culture","26387431","sadBernO_2_var01"
+"LN713613","AL_Cosmopolitan_Vac","Cosmopolitan Vac","-","-","-","-","-",2015,11918,"23-Sep-15","23-Sep-15","cell culture","26387431","sadBernO_2_var02"
+"LN713614","AL_Cosmopolitan_Vac","Cosmopolitan Vac","-","-","-","-","-",2015,11918,"23-Sep-15","23-Sep-15","cell culture","26387431","sadBernO_2_var03"
+"LN713615","AL_Cosmopolitan_Vac","Cosmopolitan Vac","-","-","-","-","-",2015,11928,"23-Sep-15","23-Sep-15","cell culture","26387431","sadBernO_3_var01"
+"LN713616","AL_Cosmopolitan_Vac","Cosmopolitan Vac","-","-","-","-","-",2015,11928,"23-Sep-15","23-Sep-15","cell culture","26387431","sadBernO_3_var02"
+"LN713617","AL_Cosmopolitan_Vac","Cosmopolitan Vac","-","-","-","-","-",2015,11928,"23-Sep-15","23-Sep-15","cell culture","26387431","sadBernO_3_var03"
+"LN713618","AL_Cosmopolitan_Vac","Cosmopolitan Vac","-","-","-","-","-",2015,11928,"23-Sep-15","23-Sep-15","cell culture","26387431","sadBernO_3_var04"
+"LN713619","AL_Cosmopolitan_Vac","Cosmopolitan Vac","-","-","-","-","-",2015,11928,"23-Sep-15","23-Sep-15","cell culture","26387431","sadBernO_3_var05"
+"LN713620","AL_Cosmopolitan_Vac","Cosmopolitan Vac","-","-","-","-","-",2015,11928,"23-Sep-15","23-Sep-15","cell culture","26387431","sadBernO_3_var06"
+"LN713621","AL_Cosmopolitan_Vac","Cosmopolitan Vac","-","-","-","-","-",2015,11928,"23-Sep-15","23-Sep-15","cell culture","26387431","sadBernO_3_var07"
+"LN713622","AL_Cosmopolitan_Vac","Cosmopolitan Vac","-","-","-","-","-",2015,11928,"23-Sep-15","23-Sep-15","cell culture","26387431","sadBernO_3_var08"
+"LN713623","AL_Cosmopolitan_Vac","Cosmopolitan Vac","-","-","-","-","-",2015,11928,"23-Sep-15","23-Sep-15","cell culture","26387431","sadBernO_4_var01"
+"LN713624","AL_Cosmopolitan_Vac","Cosmopolitan Vac","-","-","-","-","-",2015,11928,"23-Sep-15","23-Sep-15","cell culture","26387431","sadBernO_4_var02"
+"LN713625","AL_Cosmopolitan_Vac","Cosmopolitan Vac","-","-","-","-","-",2015,11928,"23-Sep-15","23-Sep-15","cell culture","26387431","sadBernO_4_var03"
+"LN713626","AL_Cosmopolitan_Vac","Cosmopolitan Vac","-","-","-","-","-",2015,11927,"23-Sep-15","23-Sep-15","cell culture","26387431","sadBernO_5_var01"
+"LN713627","AL_Cosmopolitan_Vac","Cosmopolitan Vac","-","-","-","-","-",2015,11927,"23-Sep-15","23-Sep-15","cell culture","26387431","sadBernO_5_var02"
+"LN713628","AL_Cosmopolitan_Vac","Cosmopolitan Vac","-","-","-","-","-",2015,11927,"23-Sep-15","23-Sep-15","cell culture","26387431","sadBernO_5_var03"
+"LN713629","AL_Cosmopolitan_Vac","Cosmopolitan Vac","-","-","-","-","-",2015,11927,"23-Sep-15","23-Sep-15","cell culture","26387431","sadBernO_5_var04"
+"LN713630","AL_Cosmopolitan_Vac","Cosmopolitan Vac","-","-","-","-","-",2015,11914,"23-Sep-15","23-Sep-15","cell culture","26387431","sadERAtueb_1_var01"
+"LN713631","AL_Cosmopolitan_Vac","Cosmopolitan Vac","-","-","-","-","-",2015,11918,"23-Sep-15","23-Sep-15","cell culture","26387431","sadERAtueb_2_var01"
+"LN713632","AL_Cosmopolitan_Vac","Cosmopolitan Vac","-","-","-","-","-",2015,11918,"23-Sep-15","23-Sep-15","cell culture","26387431","sadERAtueb_3_var01"
+"LN713633","AL_Cosmopolitan_Vac","Cosmopolitan Vac","-","-","-","-","-",2015,11920,"23-Sep-15","23-Sep-15","cell culture","26387431","sadERAtueb_4_var01"
+"LN713634","AL_Cosmopolitan_Vac","Cosmopolitan Vac","-","-","-","-","-",2015,11922,"23-Sep-15","23-Sep-15","cell culture","26387431","sadERAtueb_5_var01"
+"LN713635","AL_Cosmopolitan_Vac","Cosmopolitan Vac","-","-","-","-","-",2015,11924,"23-Sep-15","23-Sep-15","cell culture","26387431","sadLysvulpen0609_1_var01"
+"LN713636","AL_Cosmopolitan_Vac","Cosmopolitan Vac","-","-","-","-","-",2015,11924,"23-Sep-15","23-Sep-15","cell culture","26387431","sadLysvulpen0609_1_var02"
+"LN713637","AL_Cosmopolitan_Vac","Cosmopolitan Vac","-","-","-","-","-",2015,11898,"23-Sep-15","23-Sep-15","cell culture","26387431","sadLysvulpen0609_2_var01"
+"LN713638","AL_Cosmopolitan_Vac","Cosmopolitan Vac","-","-","-","-","-",2015,11897,"23-Sep-15","23-Sep-15","cell culture","26387431","sadLysvulpen0609_2_var02"
+"LN713639","AL_Cosmopolitan_Vac","Cosmopolitan Vac","-","-","-","-","-",2015,11893,"23-Sep-15","23-Sep-15","cell culture","26387431","sadLysvulpen0609_3_var01"
+"LN713640","AL_Cosmopolitan_Vac","Cosmopolitan Vac","-","-","-","-","-",2015,11893,"23-Sep-15","23-Sep-15","cell culture","26387431","sadLysvulpen0609_3_var02"
+"LN713641","AL_Cosmopolitan_Vac","Cosmopolitan Vac","-","-","-","-","-",2015,11893,"23-Sep-15","23-Sep-15","cell culture","26387431","sadLysvulpen0609_3_var03"
+"LN713642","AL_Cosmopolitan_Vac","Cosmopolitan Vac","-","-","-","-","-",2015,11893,"23-Sep-15","23-Sep-15","cell culture","26387431","sadLysvulpen0609_3_var04"
+"LN713643","AL_Cosmopolitan_Vac","Cosmopolitan Vac","-","-","-","-","-",2015,11874,"23-Sep-15","23-Sep-15","cell culture","26387431","sadLysvulpen0609_4_var01"
+"LN713644","AL_Cosmopolitan_Vac","Cosmopolitan Vac","-","-","-","-","-",2015,11874,"23-Sep-15","23-Sep-15","cell culture","26387431","sadLysvulpen0609_4_var02"
+"LN713645","AL_Cosmopolitan_Vac","Cosmopolitan Vac","-","-","-","-","-",2015,11906,"23-Sep-15","23-Sep-15","cell culture","26387431","sadLysvulpen0609_5_var01"
+"LN713646","AL_Cosmopolitan_Vac","Cosmopolitan Vac","-","-","-","-","-",2015,11906,"23-Sep-15","23-Sep-15","cell culture","26387431","sadLysvulpen0609_5_var02"
+"LN713647","AL_Cosmopolitan_Vac","Cosmopolitan Vac","-","-","-","-","-",2015,11912,"23-Sep-15","23-Sep-15","cell culture","26387431","sadP588_1_var01"
+"LN713648","AL_Cosmopolitan_Vac","Cosmopolitan Vac","-","-","-","-","-",2015,11928,"23-Sep-15","23-Sep-15","cell culture","26387431","sadP588_2_var01"
+"LN713649","AL_Cosmopolitan_Vac","Cosmopolitan Vac","-","-","-","-","-",2015,11917,"23-Sep-15","23-Sep-15","cell culture","26387431","sadP588_3_var01"
+"LN713650","AL_Cosmopolitan_Vac","Cosmopolitan Vac","-","-","-","-","-",2015,11906,"23-Sep-15","23-Sep-15","cell culture","26387431","sadP588_4_var01"
+"LN713651","AL_Cosmopolitan_Vac","Cosmopolitan Vac","-","-","-","-","-",2015,11916,"23-Sep-15","23-Sep-15","cell culture","26387431","sadP588_5_var01"
+"LN713652","AL_Cosmopolitan_Vac","Cosmopolitan Vac","-","-","-","-","-",2015,11927,"23-Sep-15","23-Sep-15","cell culture","26387431","sadVA1tueb_1_var01"
+"LN713653","AL_Cosmopolitan_Vac","Cosmopolitan Vac","-","-","-","-","-",2015,11927,"23-Sep-15","23-Sep-15","cell culture","26387431","sadVA1tueb_2_var01"
+"LN713654","AL_Cosmopolitan_Vac","Cosmopolitan Vac","-","-","-","-","-",2015,11927,"23-Sep-15","23-Sep-15","cell culture","26387431","sadVA1tueb_3_var01"
+"LN713655","AL_Cosmopolitan_Vac","Cosmopolitan Vac","-","-","-","-","-",2015,11927,"23-Sep-15","23-Sep-15","cell culture","26387431","sadVA1tueb_4_var01"
+"LN713656","AL_Cosmopolitan_Vac","Cosmopolitan Vac","-","-","-","-","-",2015,11927,"23-Sep-15","23-Sep-15","cell culture","26387431","sadVA1tueb_5_var01"
+"LN713657","AL_Cosmopolitan_Vac","Cosmopolitan Vac","-","-","-","-","-",2015,11885,"23-Sep-15","23-Sep-15","cell culture","26387431","sadWistar_1_var01"
+"LN713658","AL_Cosmopolitan_Vac","Cosmopolitan Vac","-","-","-","-","-",2015,11889,"23-Sep-15","23-Sep-15","cell culture","26387431","sadWistar_2_var01"
+"LN713659","AL_Cosmopolitan_Vac","Cosmopolitan Vac","-","-","-","-","-",2015,11923,"23-Sep-15","23-Sep-15","cell culture","26387431","sadWistar_3_var01"
+"LN713660","AL_Cosmopolitan_Vac","Cosmopolitan Vac","-","-","-","-","-",2015,11873,"23-Sep-15","23-Sep-15","cell culture","26387431","sadWistar_4_var01"
+"LN713661","AL_Cosmopolitan_Vac","Cosmopolitan Vac","-","-","-","-","-",2015,11923,"23-Sep-15","23-Sep-15","cell culture","26387431","sadWistar_5_var01"
+"LN713662","AL_Cosmopolitan_Vac","Cosmopolitan Vac","-","-","-","-","-",2015,11909,"23-Sep-15","23-Sep-15","cell culture","26387431","sag2BatchF04_1_var01"
+"LN713663","AL_Cosmopolitan_Vac","Cosmopolitan Vac","-","-","-","-","-",2015,11909,"23-Sep-15","23-Sep-15","cell culture","26387431","sag2BatchF04_1_var02"
+"LN713664","AL_Cosmopolitan_Vac","Cosmopolitan Vac","-","-","-","-","-",2015,11908,"23-Sep-15","23-Sep-15","cell culture","26387431","sag2BatchF04_2_var01"
+"LN713665","AL_Cosmopolitan_Vac","Cosmopolitan Vac","-","-","-","-","-",2015,11927,"23-Sep-15","23-Sep-15","cell culture","26387431","sag2BatchF04_3_var01"
+"LN713666","AL_Cosmopolitan_Vac","Cosmopolitan Vac","-","-","-","-","-",2015,11927,"23-Sep-15","23-Sep-15","cell culture","26387431","sag2BatchF04_3_var02"
+"LN713667","AL_Cosmopolitan_Vac","Cosmopolitan Vac","-","-","-","-","-",2015,11919,"23-Sep-15","23-Sep-15","cell culture","26387431","sag2BatchF04_4_var01"
+"LN713668","AL_Cosmopolitan_Vac","Cosmopolitan Vac","-","-","-","-","-",2015,11919,"23-Sep-15","23-Sep-15","cell culture","26387431","sag2BatchF04_4_var02"
+"LN713669","AL_Cosmopolitan_Vac","Cosmopolitan Vac","-","-","-","-","-",2015,11925,"23-Sep-15","23-Sep-15","cell culture","26387431","sag2BatchF04_5_var01"
+"LN713670","AL_Cosmopolitan_Vac","Cosmopolitan Vac","-","-","-","-","-",2015,11925,"23-Sep-15","23-Sep-15","cell culture","26387431","sag2BatchF04_5_var02"
+"LR812025","AL_Cosmopolitan_Vac","Cosmopolitan Vac","-","-","-","-","-",2020,11926,"29-May-20","29-May-20","-","-","C/CAN/1996N5367"
+"LR812027","AL_Cosmopolitan_Vac","Cosmopolitan Vac","-","-","-","-","-",2020,11929,"29-May-20","29-May-20","-","-","C/CAN/1992N8991"
+"LR812028","AL_Cosmopolitan_Vac","Cosmopolitan Vac","-","-","-","-","-",2020,11927,"29-May-20","29-May-20","-","-","C/CAN/1998N4916"
+"LR812029","AL_Cosmopolitan_Vac","Cosmopolitan Vac","-","-","-","-","-",2020,11923,"29-May-20","29-May-20","-","-","C/CAN/1992N8944"
+"LR812030","AL_Cosmopolitan_Vac","Cosmopolitan Vac","-","-","-","-","-",2020,11930,"29-May-20","29-May-20","-","-","C/CAN/1994N6762-B"
+"LR812031","AL_Cosmopolitan_Vac","Cosmopolitan Vac","-","-","-","-","-",2020,11930,"29-May-20","29-May-20","-","-","C/CAN/1994N6762-M"
+"LR812032","AL_Cosmopolitan_Vac","Cosmopolitan Vac","-","-","-","-","-",2020,11930,"29-May-20","29-May-20","-","-","C/CAN/1994N35116"
+"LR812033","AL_Cosmopolitan_Vac","Cosmopolitan Vac","-","-","-","-","-",2020,11919,"29-May-20","29-May-20","-","-","C/POL/2017/B"
+"LR812034","AL_Cosmopolitan_Vac","Cosmopolitan Vac","-","-","-","-","-",2020,11933,"29-May-20","29-May-20","-","-","C/CAN/1999N6567"
+"LT909527","AL_Cosmopolitan_Vac","Cosmopolitan Vac","-","-","-","-","-",2018,11929,"29-Jan-18","29-Jan-18","-","-","13102"
+"LT909549","AL_Cosmopolitan_Vac","Cosmopolitan Vac","-","-","-","-","-",2018,11929,"29-Jan-18","29-Jan-18","-","-","34873"
+"LT993233","AL_Cosmopolitan_Vac","Cosmopolitan Vac","-","-","-","-","-",2018,11901,"08-Apr-18","08-Apr-18","-","-","GER/2001/brain"
+"LT993234","AL_Cosmopolitan_Vac","Cosmopolitan Vac","-","-","-","-","-",2018,11909,"08-Apr-18","08-Apr-18","-","-","GER/2004/brain"
+"LT993235","AL_Cosmopolitan_Vac","Cosmopolitan Vac","-","-","-","-","-",2018,11908,"08-Apr-18","08-Apr-18","-","-","SLOV/2012/cellculture1"
+"LT993236","AL_Cosmopolitan_Vac","Cosmopolitan Vac","-","-","-","-","-",2018,11928,"08-Apr-18","08-Apr-18","-","-","SLOV/2014/brain"
+"LT993237","AL_Cosmopolitan_Vac","Cosmopolitan Vac","-","-","-","-","-",2018,11925,"08-Apr-18","08-Apr-18","-","-","LAT/2015/brain1"
+"LT993238","AL_Cosmopolitan_Vac","Cosmopolitan Vac","-","-","-","-","-",2018,11928,"08-Apr-18","08-Apr-18","-","-","LAT/2015/brain2"
+"LT993239","AL_Cosmopolitan_Vac","Cosmopolitan Vac","-","-","-","-","-",2018,11928,"08-Apr-18","08-Apr-18","-","-","SLOV/2012/cellculture2"
+"LT993240","AL_Cosmopolitan_Vac","Cosmopolitan Vac","-","-","-","-","-",2018,11931,"08-Apr-18","08-Apr-18","-","-","CAN/1991/brain"
+"LT993241","AL_Cosmopolitan_Vac","Cosmopolitan Vac","-","-","-","-","-",2018,11914,"08-Apr-18","08-Apr-18","-","-","CAN/1994/brain"
+"LT993242","AL_Cosmopolitan_Vac","Cosmopolitan Vac","-","-","-","-","-",2018,11904,"08-Apr-18","08-Apr-18","-","-","CAN/1996/brain"
+"LT993243","AL_Cosmopolitan_Vac","Cosmopolitan Vac","-","-","-","-","-",2018,11928,"08-Apr-18","08-Apr-18","-","-","AUS/2004/cellculture"
+"LT993244","AL_Cosmopolitan_Vac","Cosmopolitan Vac","-","-","-","-","-",2018,11928,"08-Apr-18","08-Apr-18","-","-","GER/2002/cellculture"
+"LT993245","AL_Cosmopolitan_Vac","Cosmopolitan Vac","-","-","-","-","-",2018,11928,"08-Apr-18","08-Apr-18","-","-","ROM/2015/brain"
+"LT993246","AL_Cosmopolitan_Vac","Cosmopolitan Vac","-","-","-","-","-",2018,11852,"08-Apr-18","08-Apr-18","-","-","AUS/2004/brain"
+"M13215","AL_Cosmopolitan_Vac","Cosmopolitan Vac","-","-","-","-","-",1993,11932,"02-Aug-93","14-Sep-89","-","3459163","-"
+"M31046","AL_Cosmopolitan_Vac","Cosmopolitan Vac","-","-","-","-","-",1993,11928,"02-Aug-93","14-Jun-90","-","2139267","-"
+"M61047","AL_Cosmopolitan","Cosmopolitan","-","-","-","-","-",1993,1401,"02-Aug-93","30-Jul-91","-","1840709","-"
+"MF630920","AL_Cosmopolitan_Vac","Cosmopolitan Vac","RUS","Russia","-","2016","2016",2016,11893,"05-Nov-17","05-Nov-17","-","-","Moscow 3253 (Vero)"
+"MH660455","AL_Cosmopolitan_Vac","Cosmopolitan Vac","DEU","Germany","-","2017","2017",2017,13152,"30-Mar-19","30-Mar-19","-","-","SPBN GASGAS (IDT)"
+"MK111075","AL_Cosmopolitan_Vac","Cosmopolitan Vac","HUN","Hungary","-","2015","2015",2015,11874,"31-Oct-19","31-Oct-19","Vulpes vulpes","-","Csabaszabadi"
+"MK111076","AL_Cosmopolitan_Vac","Cosmopolitan Vac","-","-","-","-","-",2019,11874,"31-Oct-19","31-Oct-19","-","-","Lysvulpen 0622"
+"MK111077","AL_Cosmopolitan_Vac","Cosmopolitan Vac","-","-","-","-","-",2019,11874,"31-Oct-19","31-Oct-19","-","-","Lysvulpen 0519"
+"MK111078","AL_Cosmopolitan_Vac","Cosmopolitan Vac","-","-","-","-","-",2019,11874,"31-Oct-19","31-Oct-19","-","-","Lysvulpen 1819"
+"MK111079","AL_Cosmopolitan_Vac","Cosmopolitan Vac","-","-","-","-","-",2019,11874,"31-Oct-19","31-Oct-19","-","-","Lysvulpen 6321"
+"MK111080","AL_Cosmopolitan_Vac","Cosmopolitan Vac","-","-","-","-","-",2019,11874,"31-Oct-19","31-Oct-19","-","-","Lysvulpen 0922"
+"MK420470","AL_Cosmopolitan_Vac","Cosmopolitan Vac","-","-","-","-","-",2019,1353,"16-Aug-19","16-Aug-19","-","-","PV2061"
+"NC_001542","AL_Cosmopolitan_Vac","Cosmopolitan Vac","-","-","-","-","-",1993,11932,"02-Aug-93","08-Dec-08","-","3407152","-"
+"X13357","AL_Cosmopolitan","Cosmopolitan","-","-","-","-","-",1990,3385,"14-Jan-90","25-Jul-16","-","3147698","AVO1 (avirulent)"

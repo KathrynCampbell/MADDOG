@@ -1,37 +1,31 @@
 "ID","N","gap","Length_before","Length_after","Year","cluster","previous","Country"
-"AY352496",0,1,1354,1353,2004,NA,"Arctic","-"
 "DQ521212",0,1,1354,1353,2006,"Arctic AL2_A1","Arctic","Iran"
-"EU086162",0,1,1354,1353,1996,NA,"Arctic","Afghanistan"
-"HE801579",0,1,1354,1353,2014,NA,"Arctic","-"
-"HE801581",0,1,1354,1353,2014,NA,"Arctic","-"
-"HE801582",0,1,1354,1353,2014,NA,"Arctic","-"
-"HE801583",0,1,1354,1353,2014,NA,"Arctic","-"
-"HE801584",0,1,1354,1353,2014,NA,"Arctic","-"
-"HE801591",0,1,1354,1353,2014,NA,"Arctic","-"
-"KF992019",0,1,1354,1353,2011,NA,"Arctic","Afghanistan"
 "AH014570",6,38,1354,1310,1994,"Arctic A_B1","Arctic A","United States"
-"AY352462",0,1,1354,1353,1998,"Arctic AL3_A1.2","Arctic A","-"
+"AY352462",0,1,1354,1353,1998,"Arctic A_A1","Arctic A","-"
 "AY352480",0,1,1354,1353,2004,"Arctic A_A1.4","Arctic A","-"
 "AY352486",0,1,1354,1353,1995,"Arctic A_A1.4","Arctic A","-"
-"AY352487",0,1,1354,1353,2004,"Arctic A_A1.4","Arctic A","-"
-"AY352488",0,1,1354,1353,1988,"Arctic A_A1","Arctic A","-"
+"AY352487",0,1,1354,1353,2004,"Arctic A_A1","Arctic A","-"
+"AY352488",0,1,1354,1353,1988,"Arctic A_A1.4","Arctic A","-"
 "AY352498",0,1,1354,1353,1988,"Arctic A_A1.4","Arctic A","-"
 "AY352499",0,1,1354,1353,2004,"Arctic A_A1.4","Arctic A","-"
-"AY352500",0,1,1354,1353,1988,"Arctic AL3_A1.2","Arctic A","-"
-"AY352501",0,1,1354,1353,2004,"Arctic AL3_A1.2","Arctic A","-"
+"AY352500",0,1,1354,1353,1988,"Arctic A_A1","Arctic A","-"
+"AY352501",0,1,1354,1353,2004,"Arctic A_A1","Arctic A","-"
 "AY704923",0,36,1354,1318,2005,"Arctic AL1a_A1","Arctic A","-"
 "AY704924",0,22,1354,1332,1992,"Arctic AL1a_A1","Arctic A","United States"
 "AY704925",0,38,1354,1316,1992,"Arctic AL1a_A1","Arctic A","United States"
-"EF611828",0,4,1354,1350,1987,"Arctic A_A1","Arctic A","-"
+"EF611828",0,4,1354,1350,1987,"Arctic AL2_A1.2","Arctic A","-"
 "EF611829",0,4,1354,1350,1987,"Arctic A_A1.4","Arctic A","-"
 "EF611830",0,4,1354,1350,1987,"Arctic A_A1.4","Arctic A","-"
 "EF611831",0,4,1354,1350,1987,"Arctic A_A1.4","Arctic A","-"
-"EF611832",0,4,1354,1350,1960,"Arctic A_A1","Arctic A","-"
+"EF611832",0,4,1354,1350,1960,"Arctic AL2_A1.2","Arctic A","-"
 "EF611833",0,4,1354,1350,1988,"Arctic A_A1.4","Arctic A","-"
 "EF611834",0,4,1354,1350,1960,"Arctic A_A1.4","Arctic A","-"
-"EF611836",0,4,1354,1350,1960,"Arctic A_A1","Arctic A","-"
+"EF611835",0,4,1354,1350,1960,"Arctic AL2_A1.2","Arctic A","-"
+"EF611836",0,4,1354,1350,1960,"Arctic AL2_A1.2","Arctic A","-"
 "EF611837",0,4,1354,1350,1960,"Arctic A_A1.4","Arctic A","-"
-"EF611838",0,4,1354,1350,1960,"Arctic AL3_A1.2","Arctic A","-"
+"EF611838",0,4,1354,1350,1960,"Arctic A_A1","Arctic A","-"
+"EF611839",0,4,1354,1350,1960,"Arctic AL2_A1.2","Arctic A","-"
+"EF611840",0,4,1354,1350,1960,"Arctic AL2_A1.2","Arctic A","-"
 "EF611841",0,7,1354,1347,2007,"Arctic A_B1.3","Arctic A","-"
 "EF611842",0,7,1354,1347,2006,"Arctic A_B1.3","Arctic A","-"
 "EF611843",0,7,1354,1347,2007,"Arctic A_B1.3","Arctic A","-"
@@ -56,8 +50,8 @@
 "JN258590",0,1,1354,1353,2008,"Arctic A_A1","Arctic A","United States"
 "JN258591",0,1,1354,1353,2008,"Arctic A_A1","Arctic A","United States"
 "JN258592",0,1,1354,1353,2008,"Arctic A_A1.4","Arctic A","United States"
-"JX987745",0,1,1354,1353,1980,"Arctic AL3_A1.2","Arctic A","Greenland"
-"JX987747",0,1,1354,1353,1990,"Arctic A_A1","Arctic A","Russia"
+"JX987745",0,1,1354,1353,1980,"Arctic A_A1","Arctic A","Greenland"
+"JX987747",0,1,1354,1353,1990,"Arctic A_A1.4","Arctic A","Russia"
 "L20671",0,1,1354,1353,1993,"Arctic A_B1","Arctic A","-"
 "L20672",0,1,1354,1353,1993,"Arctic A_B1.4","Arctic A","-"
 "L20673",0,1,1354,1353,1991,"Arctic A_B1","Arctic A","-"
@@ -71,15 +65,15 @@
 "MN233886",0,1,1354,1353,2012,"Arctic A_A1","Arctic A","Canada"
 "MN233887",0,1,1354,1353,2013,"Arctic A_A1","Arctic A","Canada"
 "MN233888",0,1,1354,1353,2013,"Arctic A_A1","Arctic A","Canada"
-"MN233889",0,1,1354,1353,2013,"Arctic A_A1.4","Arctic A","Canada"
+"MN233889",0,1,1354,1353,2013,"Arctic A_A1","Arctic A","Canada"
 "MN233890",0,1,1354,1353,2013,"Arctic A_A1","Arctic A","Canada"
 "MN233891",0,1,1354,1353,2014,"Arctic A_A1.4","Arctic A","Canada"
 "MN233892",0,1,1354,1353,2012,"Arctic A_A1.4","Arctic A","Canada"
-"MN233893",0,1,1354,1353,2012,"Arctic A_A1.4","Arctic A","Canada"
+"MN233893",0,1,1354,1353,2012,"Arctic A_A1","Arctic A","Canada"
 "MN233894",0,1,1354,1353,2012,"Arctic A_A1","Arctic A","Canada"
 "MN233895",0,1,1354,1353,2012,"Arctic A_A1.4","Arctic A","Canada"
 "MN233896",0,1,1354,1353,2012,"Arctic A_A1.4","Arctic A","Canada"
-"MN233897",0,1,1354,1353,2012,"Arctic A_A1.4","Arctic A","Canada"
+"MN233897",0,1,1354,1353,2012,"Arctic A_A1","Arctic A","Canada"
 "MN384717",0,1,1354,1353,2017,"Arctic A_A1","Arctic A","Russia"
 "MN384718",0,1,1354,1353,2017,"Arctic A_A1.4","Arctic A","Russia"
 "MN384719",0,1,1354,1353,2017,"Arctic A_A1","Arctic A","Russia"
@@ -90,7 +84,7 @@
 "U03770",0,1,1354,1353,1993,"Arctic A_A1","Arctic A","-"
 "U11734",0,1,1354,1353,1991,"Arctic A_B1.4","Arctic A","-"
 "U11735",0,1,1354,1353,1993,"Arctic A_B1.4","Arctic A","-"
-"U22654",0,4,1354,1350,1981,"Arctic AL3_A1.2","Arctic A","-"
+"U22654",0,4,1354,1350,1981,"Arctic A_A1","Arctic A","-"
 "U22655",0,4,1354,1350,1990,"Arctic A_B1.4","Arctic A","-"
 "U22656",0,4,1354,1350,1988,"Arctic A_B1","Arctic A","-"
 "AB699214",0,1,1354,1353,2010,"Arctic_A1","Arctic AL1a","Bangladesh"
@@ -99,9 +93,7 @@
 "AB699217",0,1,1354,1353,2010,"Arctic_A1","Arctic AL1a","Bangladesh"
 "AB699218",0,1,1354,1353,2010,"Arctic AL1a_A1","Arctic AL1a","Bangladesh"
 "AB699219",0,1,1354,1353,2010,"Arctic AL1a_A1","Arctic AL1a","Bangladesh"
-"AB910532",0,1,1354,1353,2010,NA,"Arctic AL1a","Bhutan"
 "AY352493",0,1,1354,1353,2004,"Arctic AL1a_A1","Arctic AL1a","-"
-"DQ840098",0,60,1354,1294,2006,"Africa_A1","Arctic AL1a","India"
 "EF611857",0,4,1354,1350,2008,"Arctic AL1a_A1","Arctic AL1a","-"
 "EF611858",0,4,1354,1350,2008,"Arctic AL1a_A1","Arctic AL1a","-"
 "EF611859",0,4,1354,1350,2008,"Arctic AL1a_A1","Arctic AL1a","-"
@@ -114,7 +106,6 @@
 "EF611866",1,4,1354,1349,2008,"Arctic AL1a_A1","Arctic AL1a","-"
 "EF611867",0,4,1354,1350,2008,"Arctic AL1a_A1","Arctic AL1a","-"
 "FJ228546",0,4,1354,1350,2007,"Arctic AL1a_A1","Arctic AL1a","United States"
-"HE801585",0,1,1354,1353,2014,NA,"Arctic AL1a","-"
 "JX944567",0,1,1354,1353,2010,"Arctic_A1","Arctic AL1a","Nepal"
 "JX944574",0,1,1354,1353,2010,"Arctic AL1a_A1","Arctic AL1a","Nepal"
 "KC465371",0,1,1354,1353,2012,"Arctic AL1a_A1","Arctic AL1a","China"
@@ -264,16 +255,22 @@
 "AY352459",0,1,1354,1353,2004,"Arctic AL2_A1","Arctic AL2","-"
 "AY352460",0,1,1354,1353,1977,"Arctic AL2_A1","Arctic AL2","-"
 "AY352494",0,1,1354,1353,2004,"Arctic AL2_A1","Arctic AL2","-"
-"AY730595",0,1,1354,1353,2004,"Arctic AL2_B1.1.1","Arctic AL2","South Korea"
-"AY730597",0,1,1354,1353,2005,"Arctic AL2_B1.1.1","Arctic AL2","South Korea"
-"DQ076119",0,1,1354,1353,1998,"Arctic AL2_A1.1.2","Arctic AL2","South Korea"
-"DQ076120",0,1,1354,1353,1998,"Arctic AL2_A1.1.2","Arctic AL2","South Korea"
-"DQ076122",0,1,1354,1353,1999,"Arctic AL2_A1.1.2","Arctic AL2","South Korea"
-"DQ076124",0,1,1354,1353,2002,"Arctic AL2_A1.1.2","Arctic AL2","South Korea"
-"DQ076125",0,1,1354,1353,2002,"Arctic AL2_B1.1.1","Arctic AL2","South Korea"
-"DQ076127",0,1,1354,1353,2002,"Arctic AL2_B1.1.1","Arctic AL2","South Korea"
-"DQ076129",0,1,1354,1353,2004,"Arctic AL2_B1.1.1","Arctic AL2","South Korea"
-"DQ076130",0,1,1354,1353,2004,"Arctic AL2_B1.1.1","Arctic AL2","South Korea"
+"AY730595",0,1,1354,1353,2004,"Arctic AL2_B1.1","Arctic AL2","South Korea"
+"AY730596",0,1,1354,1353,2004,"Arctic AL2_B1.1","Arctic AL2","South Korea"
+"AY730597",0,1,1354,1353,2005,"Arctic AL2_B1.1","Arctic AL2","South Korea"
+"DQ076119",0,1,1354,1353,1998,"Arctic AL2_A1.1.1","Arctic AL2","South Korea"
+"DQ076120",0,1,1354,1353,1998,"Arctic AL2_A1.1.1","Arctic AL2","South Korea"
+"DQ076121",0,1,1354,1353,1999,"Arctic AL2_A1.1.1","Arctic AL2","South Korea"
+"DQ076122",0,1,1354,1353,1999,"Arctic AL2_A1.1.1","Arctic AL2","South Korea"
+"DQ076123",0,1,1354,1353,1999,"Arctic AL2_A1.1.1","Arctic AL2","South Korea"
+"DQ076124",0,1,1354,1353,2002,"Arctic AL2_A1.1.1","Arctic AL2","South Korea"
+"DQ076125",0,1,1354,1353,2002,"Arctic AL2_B1.1","Arctic AL2","South Korea"
+"DQ076126",0,1,1354,1353,2004,"Arctic AL2_B1.1","Arctic AL2","South Korea"
+"DQ076127",0,1,1354,1353,2002,"Arctic AL2_B1.1","Arctic AL2","South Korea"
+"DQ076128",0,1,1354,1353,2002,"Arctic AL2_B1.1","Arctic AL2","South Korea"
+"DQ076129",0,1,1354,1353,2004,"Arctic AL2_B1.1","Arctic AL2","South Korea"
+"DQ076130",0,1,1354,1353,2004,"Arctic AL2_B1.1","Arctic AL2","South Korea"
+"DQ076131",0,1,1354,1353,1999,"Arctic AL2_A1.1.1","Arctic AL2","South Korea"
 "EF611868",0,4,1354,1350,1980,"Arctic AL2_A1.1","Arctic AL2","-"
 "EU284093",0,1,1354,1353,2007,"Arctic AL2_A1.1","Arctic AL2","China"
 "EU284094",0,1,1354,1353,2007,"Arctic AL2_A1.1","Arctic AL2","China"
@@ -282,40 +279,43 @@
 "FJ415313",0,1,1354,1353,2007,"Arctic AL2_A1.1","Arctic AL2","China"
 "GU937035",0,1,1354,1353,2009,"Arctic AL2_B1","Arctic AL2","South Korea"
 "GU937036",0,1,1354,1353,2009,"Arctic AL2_B1","Arctic AL2","South Korea"
-"GU937037",0,1,1354,1353,2008,"Arctic AL2_B1.1","Arctic AL2","South Korea"
+"GU937037",0,1,1354,1353,2008,"Arctic AL2_B1","Arctic AL2","South Korea"
 "GU937038",0,1,1354,1353,2008,"Arctic AL2_B1","Arctic AL2","South Korea"
+"GU937039",0,1,1354,1353,2008,"Arctic AL2_B1.1","Arctic AL2","South Korea"
 "GU937040",0,1,1354,1353,2008,"Arctic AL2_B1","Arctic AL2","South Korea"
 "GU937041",0,1,1354,1353,2009,"Arctic AL2_B1","Arctic AL2","South Korea"
 "GU937042",0,1,1354,1353,2009,"Arctic AL2_B1","Arctic AL2","South Korea"
-"GU937043",0,1,1354,1353,2009,"Arctic AL2_B1.1","Arctic AL2","South Korea"
+"GU937043",0,1,1354,1353,2009,"Arctic AL2_B1","Arctic AL2","South Korea"
+"GU937044",0,1,1354,1353,2009,"Arctic AL2_B1","Arctic AL2","South Korea"
 "GU937045",0,1,1354,1353,2009,"Arctic AL2_B1","Arctic AL2","South Korea"
 "KC465372",0,1,1354,1353,2012,"Arctic AL2_A1.1","Arctic AL2","China"
 "KF437655",0,13,1354,1341,2012,"Arctic AL2_B1","Arctic AL2","South Korea"
 "KF437656",0,13,1354,1341,2012,"Arctic AL2_B1","Arctic AL2","South Korea"
-"KF437657",0,13,1354,1341,2012,"Arctic AL2_B1.2","Arctic AL2","South Korea"
-"KF437658",0,13,1354,1341,2012,"Arctic AL2_B1.2","Arctic AL2","South Korea"
-"KF437659",0,13,1354,1341,2013,"Arctic AL2_B1.2","Arctic AL2","South Korea"
-"KF437660",0,13,1354,1341,2013,"Arctic AL2_B1.2","Arctic AL2","South Korea"
-"KF437661",0,13,1354,1341,2013,"Arctic AL2_B1.2","Arctic AL2","South Korea"
-"KF437662",0,13,1354,1341,2013,"Arctic AL2_B1.2","Arctic AL2","South Korea"
-"KF437663",0,13,1354,1341,2013,"Arctic AL2_B1.2","Arctic AL2","South Korea"
-"KF437664",0,13,1354,1341,2013,"Arctic AL2_B1.2","Arctic AL2","South Korea"
-"KF437665",0,13,1354,1341,2013,"Arctic AL2_B1.2","Arctic AL2","South Korea"
-"KF709084",0,1,1354,1353,2010,"Arctic AL2_B1.1","Arctic AL2","South Korea"
-"KF709085",0,1,1354,1353,2011,"Arctic AL2_B1.1","Arctic AL2","South Korea"
-"KF709086",0,1,1354,1353,2011,"Arctic AL2_B1.1","Arctic AL2","South Korea"
-"KF709087",0,1,1354,1353,2011,"Arctic AL2_B1.1","Arctic AL2","South Korea"
+"KF437657",0,13,1354,1341,2012,"Arctic AL2_A1","Arctic AL2","South Korea"
+"KF437658",0,13,1354,1341,2012,"Arctic AL2_A1","Arctic AL2","South Korea"
+"KF437659",0,13,1354,1341,2013,"Arctic AL2_A1","Arctic AL2","South Korea"
+"KF437660",0,13,1354,1341,2013,"Arctic AL2_A1","Arctic AL2","South Korea"
+"KF437661",0,13,1354,1341,2013,"Arctic AL2_A1","Arctic AL2","South Korea"
+"KF437662",0,13,1354,1341,2013,"Arctic AL2_A1","Arctic AL2","South Korea"
+"KF437663",0,13,1354,1341,2013,"Arctic AL2_A1","Arctic AL2","South Korea"
+"KF437664",0,13,1354,1341,2013,"Arctic AL2_A1","Arctic AL2","South Korea"
+"KF437665",0,13,1354,1341,2013,"Arctic AL2_A1","Arctic AL2","South Korea"
+"KF709083",0,1,1354,1353,2010,"Arctic AL2_B1","Arctic AL2","South Korea"
+"KF709084",0,1,1354,1353,2010,"Arctic AL2_B1","Arctic AL2","South Korea"
+"KF709085",0,1,1354,1353,2011,"Arctic AL2_B1","Arctic AL2","South Korea"
+"KF709086",0,1,1354,1353,2011,"Arctic AL2_B1","Arctic AL2","South Korea"
+"KF709087",0,1,1354,1353,2011,"Arctic AL2_B1","Arctic AL2","South Korea"
 "KF709088",0,1,1354,1353,2011,"Arctic AL2_B1","Arctic AL2","South Korea"
-"KF709089",0,1,1354,1353,2012,"Arctic AL2_B1.1","Arctic AL2","South Korea"
-"KF709090",0,1,1354,1353,2012,"Arctic AL2_B1.2","Arctic AL2","South Korea"
-"KF709091",0,1,1354,1353,2012,"Arctic AL2_B1.2","Arctic AL2","South Korea"
-"KF709092",0,1,1354,1353,2013,"Arctic AL2_B1.2","Arctic AL2","South Korea"
-"KF709093",0,1,1354,1353,2013,"Arctic AL2_B1.2","Arctic AL2","South Korea"
-"KF709094",0,1,1354,1353,2013,"Arctic AL2_B1.2","Arctic AL2","South Korea"
-"KF709095",0,1,1354,1353,2013,"Arctic AL2_B1.2","Arctic AL2","South Korea"
-"KF709096",0,1,1354,1353,2013,"Arctic AL2_B1.2","Arctic AL2","South Korea"
-"KJ476821",0,1,1354,1353,2009,"Arctic AL2_A1","Arctic AL2","South Korea"
-"KJ476822",0,1,1354,1353,2012,"Arctic AL2_B1.1","Arctic AL2","South Korea"
+"KF709089",0,1,1354,1353,2012,"Arctic AL2_B1","Arctic AL2","South Korea"
+"KF709090",0,1,1354,1353,2012,"Arctic AL2_A1","Arctic AL2","South Korea"
+"KF709091",0,1,1354,1353,2012,"Arctic AL2_A1","Arctic AL2","South Korea"
+"KF709092",0,1,1354,1353,2013,"Arctic AL2_A1","Arctic AL2","South Korea"
+"KF709093",0,1,1354,1353,2013,"Arctic AL2_A1","Arctic AL2","South Korea"
+"KF709094",0,1,1354,1353,2013,"Arctic AL2_A1","Arctic AL2","South Korea"
+"KF709095",0,1,1354,1353,2013,"Arctic AL2_A1","Arctic AL2","South Korea"
+"KF709096",0,1,1354,1353,2013,"Arctic AL2_A1","Arctic AL2","South Korea"
+"KJ476821",0,1,1354,1353,2009,"Arctic AL2_B1","Arctic AL2","South Korea"
+"KJ476822",0,1,1354,1353,2012,"Arctic AL2_B1","Arctic AL2","South Korea"
 "KM016898",0,1,1354,1353,2011,"Arctic AL2_A1","Arctic AL2","China"
 "KM034905",0,1,1354,1353,2012,"Arctic AL2_A1.1","Arctic AL2","China"
 "KT895593",0,1,1354,1353,2013,"Arctic AL2_A1.1","Arctic AL2","China"
@@ -328,25 +328,406 @@
 "MN642583",0,1,1354,1353,2018,"Arctic AL2_A1","Arctic AL2","China"
 "MN642584",0,1,1354,1353,2017,"Arctic AL2_A1","Arctic AL2","China"
 "MN642585",0,1,1354,1353,2018,"Arctic AL2_A1.1","Arctic AL2","China"
-"EU086197",0,1,1354,1353,1998,"Arctic AL3_A1","Arctic AL3","Nepal"
-"EU836832",0,1,1354,1353,1996,"Arctic AL3_A1","Arctic AL3","Italy"
-"JX944566",0,1,1354,1353,2010,"Arctic AL3_A1.1","Arctic AL3","Nepal"
-"JX944568",0,1,1354,1353,2010,"Arctic AL3_A1","Arctic AL3","Nepal"
-"JX944570",0,1,1354,1353,2010,"Arctic AL3_A1.1","Arctic AL3","Nepal"
-"JX944571",0,1,1354,1353,2010,"Arctic AL3_A1","Arctic AL3","Nepal"
-"JX944572",0,1,1354,1353,2010,"Arctic AL3_A1","Arctic AL3","Nepal"
-"JX944573",0,1,1354,1353,2010,"Arctic AL3_A1","Arctic AL3","Nepal"
-"JX944596",0,1,1354,1353,2009,"Arctic AL3_A1","Arctic AL3","Nepal"
-"JX944598",0,1,1354,1353,2009,"Arctic AL3_A1.1","Arctic AL3","Nepal"
-"JX944599",0,1,1354,1353,2010,"Arctic AL3_A1.1","Arctic AL3","Nepal"
-"JX944600",0,1,1354,1353,2010,"Arctic AL3_A1.1","Arctic AL3","Nepal"
-"JX944601",0,1,1354,1353,2010,"Arctic AL3_A1","Arctic AL3","Nepal"
-"JX944602",0,1,1354,1353,2010,"Arctic AL3_A1","Arctic AL3","Nepal"
-"JX987738",0,1,1354,1353,2008,"Arctic AL3_A1.1","Arctic AL3","Nepal"
-"JX987741",0,1,1354,1353,2011,"Arctic AL3_A1","Arctic AL3","Nepal"
-"JX987742",0,1,1354,1353,2011,"Arctic AL3_A1.1","Arctic AL3","Nepal"
-"JX987743",0,1,1354,1353,2011,"Arctic AL3_A1","Arctic AL3","Nepal"
-"KM979359",0,1,1354,1353,2011,"Arctic AL3_A1.1","Arctic AL3","Nepal"
-"KM979360",0,1,1354,1353,2011,"Arctic AL3_A1.1","Arctic AL3","Nepal"
-"KM979361",0,1,1354,1353,2011,"Arctic AL3_A1.1","Arctic AL3","Nepal"
-"KM979362",0,1,1354,1353,2011,"Arctic AL3_A1.1","Arctic AL3","Nepal"
+"MK760761",0,207,NA,NA,2014,"Arctic_A1","Arctic",NA
+"JQ944707",0,2,NA,NA,2008,"Arctic A_A1","Arctic A",NA
+"KU198460",0,2,NA,NA,1989,"Arctic A_A1","Arctic A",NA
+"KU198461",0,2,NA,NA,1990,"Arctic A_A1","Arctic A",NA
+"KU198462",0,2,NA,NA,1990,"Arctic A_A1","Arctic A",NA
+"KU198463",0,2,NA,NA,1990,"Arctic A_A1","Arctic A",NA
+"KU198464",0,2,NA,NA,1991,"Arctic A_A1","Arctic A",NA
+"KU198465",0,2,NA,NA,1992,"Arctic A_B1","Arctic A",NA
+"KU198466",0,2,NA,NA,1993,"Arctic A_A1.1.1","Arctic A",NA
+"KU198467",0,2,NA,NA,1997,"Arctic A_C1.1","Arctic A",NA
+"KU198468",0,3,NA,NA,2000,"Arctic A_D1.1.1","Arctic A",NA
+"KU198469",0,4,NA,NA,2001,"Arctic A_B1.4","Arctic A",NA
+"KU198470",0,2,NA,NA,2002,"Arctic A_E1.2","Arctic A",NA
+"KU198471",0,2,NA,NA,2007,"Arctic A_A1","Arctic A",NA
+"KU198472",0,2,NA,NA,2012,"Arctic A_E1.1","Arctic A",NA
+"KU198473",0,2,NA,NA,2012,"Arctic A_E1.1","Arctic A",NA
+"KU198474",0,2,NA,NA,2012,"Arctic A_E1.1.1","Arctic A",NA
+"KU198475",0,2,NA,NA,2013,"Arctic A_E1.1","Arctic A",NA
+"KU198476",0,2,NA,NA,2013,"Arctic A_C1.2","Arctic A",NA
+"KU198477",0,2,NA,NA,2013,"Arctic A_E1.1.2","Arctic A",NA
+"KU198478",0,2,NA,NA,2013,"Arctic A_A1.4","Arctic A",NA
+"KU198479",0,2,NA,NA,2014,"Arctic A_E1.1.2","Arctic A",NA
+"KX036361",0,2,NA,NA,1990,"Arctic A_A1","Arctic A",NA
+"KX036362",0,28,NA,NA,2001,"Arctic A_A1.2","Arctic A",NA
+"KX036363",0,2,NA,NA,2002,"Arctic A_A1.2","Arctic A",NA
+"KX036364",0,2,NA,NA,2002,"Arctic A_A1.2","Arctic A",NA
+"KX036365",0,2,NA,NA,2002,"Arctic A_A1.2","Arctic A",NA
+"KX036366",0,2,NA,NA,2002,"Arctic A_A1.1.2","Arctic A",NA
+"KX036367",0,2,NA,NA,2002,"Arctic A_A1.2","Arctic A",NA
+"KX148105",0,6,NA,NA,1980,"Arctic A_A1","Arctic A",NA
+"KX148106",0,2,NA,NA,1990,"Arctic A_B1.5","Arctic A",NA
+"KX148224",0,124,NA,NA,1991,"Arctic A_B1.3","Arctic A",NA
+"KX954123",0,77,NA,NA,2016,"Arctic A_A1","Arctic A",NA
+"LM645015",0,6,NA,NA,2006,"Arctic A_E1.1","Arctic A",NA
+"LM645016",0,2,NA,NA,2006,"Arctic A_E1.1","Arctic A",NA
+"LM645017",0,9,NA,NA,2005,"Arctic A_E1.1","Arctic A",NA
+"LM645018",0,3,NA,NA,2006,"Arctic A_A1.2","Arctic A",NA
+"LM645019",0,12,NA,NA,2010,"Arctic A_A1.2.1","Arctic A",NA
+"LM645020",0,33,NA,NA,2007,"Arctic A_C1.2","Arctic A",NA
+"LM645021",0,15,NA,NA,2006,"Arctic A_A1.2.1","Arctic A",NA
+"LM645022",0,6,NA,NA,2006,"Arctic A_A1.2","Arctic A",NA
+"LM645023",0,13,NA,NA,2006,"Arctic A_A1.2.1","Arctic A",NA
+"LM645024",0,12,NA,NA,2006,"Arctic A_A1.2","Arctic A",NA
+"LM645025",0,28,NA,NA,2006,"Arctic A_A1.2.1","Arctic A",NA
+"LM645026",0,2,NA,NA,2006,"Arctic A_A1.2","Arctic A",NA
+"LM645027",0,4,NA,NA,2006,"Arctic A_C1.2","Arctic A",NA
+"LM645028",0,32,NA,NA,2006,"Arctic A_A1.2.1","Arctic A",NA
+"LM645029",0,4,NA,NA,2007,"Arctic A_A1.2","Arctic A",NA
+"LM645030",0,2,NA,NA,2007,"Arctic A_A1.2","Arctic A",NA
+"LM645031",0,3,NA,NA,2006,"Arctic A_A1.2","Arctic A",NA
+"LM645032",0,2,NA,NA,2010,"Arctic A_A1.2.1","Arctic A",NA
+"LM645033",0,32,NA,NA,2010,"Arctic A_A1.2.1","Arctic A",NA
+"LM645034",0,5,NA,NA,2009,"Arctic A_A1.2.1","Arctic A",NA
+"LM645035",0,41,NA,NA,2010,"Arctic A_A1.2.1","Arctic A",NA
+"LM645036",0,2,NA,NA,2010,"Arctic A_A1.2.1","Arctic A",NA
+"LM645037",0,9,NA,NA,2008,"Arctic A_A1","Arctic A",NA
+"LM645038",0,20,NA,NA,2009,"Arctic A_A1.2.1","Arctic A",NA
+"LM645039",0,24,NA,NA,2009,"Arctic A_A1.3.1","Arctic A",NA
+"LM645040",0,13,NA,NA,2009,"Arctic A_A1.3.1","Arctic A",NA
+"LM645041",0,5,NA,NA,2008,"Arctic A_A1.3.1","Arctic A",NA
+"LM645042",0,37,NA,NA,2009,"Arctic A_A1.3.1","Arctic A",NA
+"LM645043",0,21,NA,NA,2010,"Arctic A_A1.3.1","Arctic A",NA
+"LM645044",0,2,NA,NA,2011,"Arctic A_A1.3.1","Arctic A",NA
+"LM645045",0,10,NA,NA,2007,"Arctic A_A1.3","Arctic A",NA
+"LM645046",0,2,NA,NA,2006,"Arctic A_A1.3.1","Arctic A",NA
+"LM645047",0,10,NA,NA,2008,"Arctic A_A1.3.1","Arctic A",NA
+"LM645048",0,14,NA,NA,2005,"Arctic A_A1.3.1","Arctic A",NA
+"LM645049",0,11,NA,NA,2007,"Arctic A_A1.3","Arctic A",NA
+"LM645050",0,20,NA,NA,2007,"Arctic A_A1.3","Arctic A",NA
+"LM645051",0,11,NA,NA,2007,"Arctic A_A1.3","Arctic A",NA
+"LM645052",0,3,NA,NA,2006,"Arctic A_A1.3","Arctic A",NA
+"LM645053",0,8,NA,NA,2007,"Arctic A_A1.3","Arctic A",NA
+"LM645054",0,7,NA,NA,2007,"Arctic A_A1.3","Arctic A",NA
+"LM645055",0,23,NA,NA,2006,"Arctic A_A1.3","Arctic A",NA
+"LM645056",0,52,NA,NA,2008,"Arctic A_A1.3.1","Arctic A",NA
+"LT598537",0,2,NA,NA,1977,"Arctic A_A1","Arctic A",NA
+"LT598538",0,3,NA,NA,2013,"Arctic A_F1","Arctic A",NA
+"LT598539",0,2,NA,NA,2013,"Arctic A_F1","Arctic A",NA
+"LT598540",0,3,NA,NA,2014,"Arctic A_C1.2","Arctic A",NA
+"LT598541",0,2,NA,NA,2013,"Arctic A_E1.1.2","Arctic A",NA
+"LT598542",0,2,NA,NA,2014,"Arctic A_C1.2","Arctic A",NA
+"LT598543",0,2,NA,NA,2014,"Arctic A_A1.2.1","Arctic A",NA
+"LT909550",0,2,NA,NA,2000,"Arctic A_A1","Arctic A",NA
+"MG458313",0,2,NA,NA,1996,"Arctic A_A1","Arctic A",NA
+"MK540887",0,3,NA,NA,1990,"Arctic A_B1.3","Arctic A",NA
+"MK540888",0,3,NA,NA,1990,"Arctic A_B1.3","Arctic A",NA
+"MK540889",0,2,NA,NA,1990,"Arctic A_B1","Arctic A",NA
+"MK540890",0,2,NA,NA,1990,"Arctic A_B1.3","Arctic A",NA
+"MK540891",0,4,NA,NA,1990,"Arctic A_B1.3","Arctic A",NA
+"MK540892",0,2,NA,NA,1990,"Arctic A_B1.3","Arctic A",NA
+"MK540893",0,2,NA,NA,1991,"Arctic A_B1.3","Arctic A",NA
+"MK540894",0,3,NA,NA,1991,"Arctic A_B1.3","Arctic A",NA
+"MK540895",0,2,NA,NA,1991,"Arctic A_B1","Arctic A",NA
+"MK540896",0,2,NA,NA,1991,"Arctic A_B1","Arctic A",NA
+"MK540897",0,3,NA,NA,1991,"Arctic A_B1.1","Arctic A",NA
+"MK540898",0,3,NA,NA,1991,"Arctic A_B1.3","Arctic A",NA
+"MK540899",0,3,NA,NA,1991,"Arctic A_B1.3","Arctic A",NA
+"MK540900",0,2,NA,NA,1991,"Arctic A_B1.5","Arctic A",NA
+"MK540901",0,3,NA,NA,1991,"Arctic A_B1.3","Arctic A",NA
+"MK540902",0,2,NA,NA,1993,"Arctic A_B1.5","Arctic A",NA
+"MK540903",0,2,NA,NA,1993,"Arctic A_B1.3","Arctic A",NA
+"MK540904",0,2,NA,NA,1993,"Arctic A_B1.5","Arctic A",NA
+"MK540905",0,3,NA,NA,1993,"Arctic A_B1.3","Arctic A",NA
+"MK540906",0,3,NA,NA,1995,"Arctic A_D1","Arctic A",NA
+"MK540907",0,3,NA,NA,1995,"Arctic A_B1.3","Arctic A",NA
+"MK540908",0,3,NA,NA,1995,"Arctic A_D1","Arctic A",NA
+"MK540909",0,3,NA,NA,1995,"Arctic A_D1","Arctic A",NA
+"MK540910",0,3,NA,NA,1995,"Arctic A_D1","Arctic A",NA
+"MK540911",0,2,NA,NA,1995,"Arctic A_B1.5","Arctic A",NA
+"MK540912",0,3,NA,NA,1995,"Arctic A_B1.1.1","Arctic A",NA
+"MK540913",0,3,NA,NA,1996,"Arctic A_B1.1.1","Arctic A",NA
+"MK540914",0,3,NA,NA,1996,"Arctic A_B1.1.1","Arctic A",NA
+"MK540915",0,2,NA,NA,1996,"Arctic A_B1.5","Arctic A",NA
+"MK540916",0,3,NA,NA,1996,"Arctic A_B1.4","Arctic A",NA
+"MK540917",0,3,NA,NA,1996,"Arctic A_B1.1.1","Arctic A",NA
+"MK540918",0,3,NA,NA,1996,"Arctic A_D1","Arctic A",NA
+"MK540919",0,2,NA,NA,1996,"Arctic A_B1.5","Arctic A",NA
+"MK540920",0,3,NA,NA,1997,"Arctic A_B1","Arctic A",NA
+"MK540921",0,3,NA,NA,1998,"Arctic A_B1.1","Arctic A",NA
+"MK540922",0,2,NA,NA,1998,"Arctic A_B1.2","Arctic A",NA
+"MK540923",0,4,NA,NA,1998,"Arctic A_B1.1","Arctic A",NA
+"MK540924",0,2,NA,NA,1998,"Arctic A_B1.2","Arctic A",NA
+"MK540925",0,3,NA,NA,1998,"Arctic A_D1.1","Arctic A",NA
+"MK540926",0,3,NA,NA,1998,"Arctic A_B1.4","Arctic A",NA
+"MK540927",0,3,NA,NA,1999,"Arctic A_B1.1.1","Arctic A",NA
+"MK540928",0,3,NA,NA,1999,"Arctic A_B1.4","Arctic A",NA
+"MK540929",0,3,NA,NA,1999,"Arctic A_B1.1","Arctic A",NA
+"MK540930",0,3,NA,NA,1999,"Arctic A_B1.1","Arctic A",NA
+"MK540931",0,2,NA,NA,1999,"Arctic A_B1.2.1","Arctic A",NA
+"MK540932",0,2,NA,NA,1999,"Arctic A_B1.2","Arctic A",NA
+"MK540933",0,2,NA,NA,1999,"Arctic A_B1.5","Arctic A",NA
+"MK540934",0,2,NA,NA,1999,"Arctic A_B1.5","Arctic A",NA
+"MK540935",0,2,NA,NA,1999,"Arctic A_B1.2","Arctic A",NA
+"MK540936",0,2,NA,NA,2000,"Arctic A_B1.2","Arctic A",NA
+"MK540937",0,3,NA,NA,2000,"Arctic A_D1.1","Arctic A",NA
+"MK540938",0,2,NA,NA,2000,"Arctic A_B1.2","Arctic A",NA
+"MK540939",0,3,NA,NA,2000,"Arctic A_D1.1","Arctic A",NA
+"MK540940",0,3,NA,NA,2000,"Arctic A_D1.1.1","Arctic A",NA
+"MK540941",0,3,NA,NA,2000,"Arctic A_D1.1.1","Arctic A",NA
+"MK540942",0,3,NA,NA,2000,"Arctic A_D1.1","Arctic A",NA
+"MK540943",0,2,NA,NA,2000,"Arctic A_B1.2.1","Arctic A",NA
+"MK540944",0,2,NA,NA,2000,"Arctic A_B1.5","Arctic A",NA
+"MK540945",0,3,NA,NA,2000,"Arctic A_D1.1.1","Arctic A",NA
+"MK540946",0,2,NA,NA,2001,"Arctic A_B1.5","Arctic A",NA
+"MK540947",0,2,NA,NA,2001,"Arctic A_B1.2.1","Arctic A",NA
+"MK540948",0,3,NA,NA,2001,"Arctic A_D1.2","Arctic A",NA
+"MK540949",0,3,NA,NA,2001,"Arctic A_D1.1","Arctic A",NA
+"MK540950",0,3,NA,NA,2001,"Arctic A_B1.4","Arctic A",NA
+"MK540951",0,3,NA,NA,2001,"Arctic A_B1.4","Arctic A",NA
+"MK540952",0,3,NA,NA,2001,"Arctic A_D1.1","Arctic A",NA
+"MK540953",0,2,NA,NA,2001,"Arctic A_B1.2.1","Arctic A",NA
+"MK540954",0,3,NA,NA,2001,"Arctic A_B1.4","Arctic A",NA
+"MK540955",0,3,NA,NA,2001,"Arctic A_D1.2","Arctic A",NA
+"MK540956",0,3,NA,NA,2002,"Arctic A_B1.4","Arctic A",NA
+"MK540957",0,2,NA,NA,2002,"Arctic A_B1.2","Arctic A",NA
+"MK540958",0,3,NA,NA,2002,"Arctic A_D1.2","Arctic A",NA
+"MK540959",0,2,NA,NA,2002,"Arctic A_B1.2.1","Arctic A",NA
+"MK540960",0,3,NA,NA,2003,"Arctic A_D1.1","Arctic A",NA
+"MK540961",0,3,NA,NA,2003,"Arctic A_D1.2","Arctic A",NA
+"MK540962",0,3,NA,NA,2003,"Arctic A_D1.2","Arctic A",NA
+"MK540963",0,2,NA,NA,2003,"Arctic A_B1.2.1","Arctic A",NA
+"MK540964",0,3,NA,NA,2004,"Arctic A_B1.1","Arctic A",NA
+"MK540965",0,3,NA,NA,2004,"Arctic A_B1.1","Arctic A",NA
+"MK540966",0,3,NA,NA,2004,"Arctic A_B1.4","Arctic A",NA
+"MK540967",0,3,NA,NA,2005,"Arctic A_B1.1","Arctic A",NA
+"MK540968",0,3,NA,NA,2005,"Arctic A_B1.4","Arctic A",NA
+"MK540969",0,3,NA,NA,2005,"Arctic A_D1.2","Arctic A",NA
+"MK540970",0,3,NA,NA,2005,"Arctic A_D1.1.1","Arctic A",NA
+"MK540971",0,2,NA,NA,2006,"Arctic A_B1.2","Arctic A",NA
+"MK540972",0,3,NA,NA,2006,"Arctic A_B1.4","Arctic A",NA
+"MK540973",0,3,NA,NA,2006,"Arctic A_D1.2","Arctic A",NA
+"MK540974",0,3,NA,NA,2006,"Arctic A_D1.1.1","Arctic A",NA
+"MK540975",0,3,NA,NA,2006,"Arctic A_D1.1.1","Arctic A",NA
+"MK540976",0,3,NA,NA,2006,"Arctic A_D1.1.1","Arctic A",NA
+"MK540977",0,2,NA,NA,2006,"Arctic A_B1.5","Arctic A",NA
+"MK540978",0,2,NA,NA,2007,"Arctic A_B1.2.1","Arctic A",NA
+"MK540979",0,2,NA,NA,2007,"Arctic A_B1.2.1","Arctic A",NA
+"MK540980",0,3,NA,NA,2007,"Arctic A_D1.1.1","Arctic A",NA
+"MK540981",0,2,NA,NA,2008,"Arctic A_B1.2.1","Arctic A",NA
+"MK540982",0,3,NA,NA,2008,"Arctic A_D1.2","Arctic A",NA
+"MK540983",0,2,NA,NA,2008,"Arctic A_B1.2.1","Arctic A",NA
+"MK540984",0,2,NA,NA,2008,"Arctic A_B1.2.1","Arctic A",NA
+"MK540985",0,2,NA,NA,2008,"Arctic A_B1.2.1","Arctic A",NA
+"MK540986",0,3,NA,NA,2008,"Arctic A_B1.1","Arctic A",NA
+"MK540987",0,3,NA,NA,2009,"Arctic A_D1.2","Arctic A",NA
+"MK540988",0,2,NA,NA,2009,"Arctic A_B1.2.1","Arctic A",NA
+"MK540989",0,3,NA,NA,2009,"Arctic A_D1.1.1","Arctic A",NA
+"MK540990",0,3,NA,NA,2009,"Arctic A_D1.1","Arctic A",NA
+"MK540991",0,3,NA,NA,2009,"Arctic A_D1.2","Arctic A",NA
+"MK540992",0,3,NA,NA,2009,"Arctic A_B1.1","Arctic A",NA
+"MK540993",0,3,NA,NA,2010,"Arctic A_D1.1.1","Arctic A",NA
+"MK540994",0,3,NA,NA,2011,"Arctic A_D1.2","Arctic A",NA
+"MK540995",0,3,NA,NA,2011,"Arctic A_D1.1.1","Arctic A",NA
+"MK540996",0,3,NA,NA,2012,"Arctic A_D1.1.1","Arctic A",NA
+"MK540997",0,3,NA,NA,2012,"Arctic A_D1.1.1","Arctic A",NA
+"MK540998",0,3,NA,NA,2015,"Arctic A_G1","Arctic A",NA
+"MK540999",0,3,NA,NA,2016,"Arctic A_G1","Arctic A",NA
+"MK541000",0,3,NA,NA,2017,"Arctic A_G1","Arctic A",NA
+"MK541001",0,3,NA,NA,2017,"Arctic A_G1","Arctic A",NA
+"MK541002",0,3,NA,NA,2017,"Arctic A_G1","Arctic A",NA
+"MK541003",0,3,NA,NA,2017,"Arctic A_G1","Arctic A",NA
+"MK541004",0,3,NA,NA,2017,"Arctic A_G1","Arctic A",NA
+"MK541005",0,3,NA,NA,2017,"Arctic A_G1","Arctic A",NA
+"MK541006",0,3,NA,NA,2017,"Arctic A_G1","Arctic A",NA
+"MK541007",0,3,NA,NA,2017,"Arctic A_G1","Arctic A",NA
+"MK541008",0,3,NA,NA,2017,"Arctic A_G1","Arctic A",NA
+"MK541009",0,3,NA,NA,2018,"Arctic A_G1","Arctic A",NA
+"MK541010",0,3,NA,NA,2018,"Arctic A_G1","Arctic A",NA
+"MK541011",0,3,NA,NA,2018,"Arctic A_G1","Arctic A",NA
+"MK541012",0,2,NA,NA,2000,"Arctic A_A1.1.2","Arctic A",NA
+"MN233898",0,2,NA,NA,1989,"Arctic A_A1","Arctic A",NA
+"MN233899",0,2,NA,NA,2007,"Arctic A_C1.2","Arctic A",NA
+"MN233900",0,2,NA,NA,2007,"Arctic A_C1.2","Arctic A",NA
+"MN233901",0,2,NA,NA,2008,"Arctic A_A1","Arctic A",NA
+"MN233902",0,2,NA,NA,2008,"Arctic A_A1","Arctic A",NA
+"MN233903",0,2,NA,NA,2005,"Arctic A_E1","Arctic A",NA
+"MN233904",0,2,NA,NA,2012,"Arctic A_E1.1.1","Arctic A",NA
+"MN233905",0,2,NA,NA,2012,"Arctic A_E1.1.1","Arctic A",NA
+"MN233906",0,2,NA,NA,1996,"Arctic A_C1","Arctic A",NA
+"MN233907",0,2,NA,NA,1996,"Arctic A_C1","Arctic A",NA
+"MN233908",0,2,NA,NA,1996,"Arctic A_C1","Arctic A",NA
+"MN233909",0,2,NA,NA,1996,"Arctic A_C1","Arctic A",NA
+"MN233910",0,2,NA,NA,1996,"Arctic A_A1.1.1","Arctic A",NA
+"MN233911",0,2,NA,NA,1996,"Arctic A_C1","Arctic A",NA
+"MN233912",0,2,NA,NA,1996,"Arctic A_A1.1.1","Arctic A",NA
+"MN233913",0,2,NA,NA,2002,"Arctic A_A1.1.2","Arctic A",NA
+"MN233914",0,2,NA,NA,2002,"Arctic A_A1.1.2","Arctic A",NA
+"MN233915",0,2,NA,NA,2002,"Arctic A_E1","Arctic A",NA
+"MN233916",0,2,NA,NA,2003,"Arctic A_E1","Arctic A",NA
+"MN233917",0,2,NA,NA,2003,"Arctic A_E1","Arctic A",NA
+"MN233918",0,2,NA,NA,2003,"Arctic A_E1","Arctic A",NA
+"MN233919",0,2,NA,NA,2003,"Arctic A_E1","Arctic A",NA
+"MN233920",0,2,NA,NA,2004,"Arctic A_C1","Arctic A",NA
+"MN233921",0,2,NA,NA,2004,"Arctic A_C1","Arctic A",NA
+"MN233922",0,2,NA,NA,2004,"Arctic A_E1.2","Arctic A",NA
+"MN233923",0,2,NA,NA,2004,"Arctic A_C1","Arctic A",NA
+"MN233924",0,2,NA,NA,2012,"Arctic A_E1.1.1","Arctic A",NA
+"MN233925",0,2,NA,NA,2012,"Arctic A_E1.1.2","Arctic A",NA
+"MN233926",0,2,NA,NA,2012,"Arctic A_E1.1.1","Arctic A",NA
+"MN233927",0,2,NA,NA,2012,"Arctic A_E1.1.2","Arctic A",NA
+"MN233928",0,2,NA,NA,2012,"Arctic A_E1.1.2","Arctic A",NA
+"MN233929",0,2,NA,NA,2012,"Arctic A_E1.1.2","Arctic A",NA
+"MN233930",0,2,NA,NA,2012,"Arctic A_E1.1.1","Arctic A",NA
+"MN233931",0,2,NA,NA,2012,"Arctic A_E1.1.2","Arctic A",NA
+"MN233932",0,2,NA,NA,2012,"Arctic A_E1.1","Arctic A",NA
+"MN233933",0,2,NA,NA,2012,"Arctic A_E1.1.1","Arctic A",NA
+"MN233934",0,2,NA,NA,2012,"Arctic A_E1.1.2","Arctic A",NA
+"MN233935",0,2,NA,NA,2012,"Arctic A_E1.1.1","Arctic A",NA
+"MN233936",0,2,NA,NA,2012,"Arctic A_E1.1.1","Arctic A",NA
+"MN233937",0,2,NA,NA,2015,"Arctic A_F1","Arctic A",NA
+"MN233938",0,2,NA,NA,2015,"Arctic A_F1","Arctic A",NA
+"MN233939",0,2,NA,NA,2015,"Arctic A_F1","Arctic A",NA
+"MN233940",0,2,NA,NA,2015,"Arctic A_E1.1","Arctic A",NA
+"MN233941",0,2,NA,NA,2015,"Arctic A_E1.1","Arctic A",NA
+"MN233942",0,2,NA,NA,2015,"Arctic A_F1","Arctic A",NA
+"MN233943",0,2,NA,NA,2015,"Arctic A_F1","Arctic A",NA
+"MN233944",0,2,NA,NA,2015,"Arctic A_E1.1","Arctic A",NA
+"MN233945",0,2,NA,NA,2015,"Arctic A_F1","Arctic A",NA
+"MN233946",0,2,NA,NA,2015,"Arctic A_F1","Arctic A",NA
+"MN233947",0,2,NA,NA,1990,"Arctic A_A1.1","Arctic A",NA
+"MN233948",0,2,NA,NA,1990,"Arctic A_A1.1.1","Arctic A",NA
+"MN233949",0,2,NA,NA,1990,"Arctic A_A1.1.2","Arctic A",NA
+"MN233950",0,2,NA,NA,1992,"Arctic A_A1.1.2","Arctic A",NA
+"MN233951",0,2,NA,NA,1993,"Arctic A_A1.1.1","Arctic A",NA
+"MN233952",0,2,NA,NA,1993,"Arctic A_A1.1","Arctic A",NA
+"MN233953",0,2,NA,NA,1993,"Arctic A_A1.1.2","Arctic A",NA
+"MN233954",0,2,NA,NA,1993,"Arctic A_A1.1.2","Arctic A",NA
+"MN233955",0,2,NA,NA,1993,"Arctic A_A1.1","Arctic A",NA
+"MN233956",0,2,NA,NA,1993,"Arctic A_A1.1.1","Arctic A",NA
+"MN233957",0,2,NA,NA,1993,"Arctic A_A1.1.1","Arctic A",NA
+"MN233958",0,2,NA,NA,1994,"Arctic A_A1.1","Arctic A",NA
+"MN233959",0,2,NA,NA,1997,"Arctic A_A1.1","Arctic A",NA
+"MN233960",0,2,NA,NA,1998,"Arctic A_C1.1","Arctic A",NA
+"MN233961",0,2,NA,NA,2000,"Arctic A_C1.1","Arctic A",NA
+"MN233962",0,2,NA,NA,2000,"Arctic A_C1.1.1","Arctic A",NA
+"MN233963",0,2,NA,NA,2001,"Arctic A_C1.1.1","Arctic A",NA
+"MN233964",0,2,NA,NA,2005,"Arctic A_C1.2","Arctic A",NA
+"MN233965",0,2,NA,NA,2006,"Arctic A_C1.2","Arctic A",NA
+"MN233966",0,2,NA,NA,2006,"Arctic A_C1.2","Arctic A",NA
+"MN233967",0,2,NA,NA,2007,"Arctic A_C1.2","Arctic A",NA
+"MN233968",0,2,NA,NA,2008,"Arctic A_A1.4","Arctic A",NA
+"MN233969",0,2,NA,NA,2008,"Arctic A_A1.4","Arctic A",NA
+"MN233970",0,2,NA,NA,2012,"Arctic A_A1.4","Arctic A",NA
+"MN233971",0,2,NA,NA,2012,"Arctic A_A1.4","Arctic A",NA
+"MN233972",0,2,NA,NA,2012,"Arctic A_A1.4","Arctic A",NA
+"MN233973",0,2,NA,NA,2013,"Arctic A_E1.1.2","Arctic A",NA
+"MN233974",0,2,NA,NA,1999,"Arctic A_C1.1","Arctic A",NA
+"MN233975",0,2,NA,NA,1999,"Arctic A_C1.1","Arctic A",NA
+"MN233976",0,2,NA,NA,2002,"Arctic A_C1.1.1","Arctic A",NA
+"MN233977",0,2,NA,NA,2002,"Arctic A_E1","Arctic A",NA
+"MN233978",0,2,NA,NA,2004,"Arctic A_E1.2","Arctic A",NA
+"MN233979",0,2,NA,NA,2005,"Arctic A_C1.2","Arctic A",NA
+"MN233980",0,2,NA,NA,2005,"Arctic A_C1.2","Arctic A",NA
+"MN233981",0,2,NA,NA,2005,"Arctic A_C1.2","Arctic A",NA
+"MN233982",0,2,NA,NA,2006,"Arctic A_C1.1.1","Arctic A",NA
+"MN233983",0,2,NA,NA,2006,"Arctic A_C1.2","Arctic A",NA
+"MN233984",0,2,NA,NA,2006,"Arctic A_C1.2","Arctic A",NA
+"MN233985",0,2,NA,NA,2007,"Arctic A_E1.1","Arctic A",NA
+"MN233986",0,2,NA,NA,2007,"Arctic A_C1.2","Arctic A",NA
+"MN233987",0,2,NA,NA,2007,"Arctic A_C1.2","Arctic A",NA
+"MN233988",0,2,NA,NA,2008,"Arctic A_C1.2","Arctic A",NA
+"MN233989",0,2,NA,NA,2008,"Arctic A_C1.2","Arctic A",NA
+"MN233990",0,2,NA,NA,2012,"Arctic A_E1.1.2","Arctic A",NA
+"MN233991",0,2,NA,NA,2012,"Arctic A_E1.1","Arctic A",NA
+"MN233992",0,2,NA,NA,2012,"Arctic A_A1.4","Arctic A",NA
+"MN233993",0,2,NA,NA,2012,"Arctic A_E1.1.1","Arctic A",NA
+"MN233994",0,2,NA,NA,2013,"Arctic A_E1.1","Arctic A",NA
+"MN233995",0,2,NA,NA,2013,"Arctic A_A1.4","Arctic A",NA
+"MN233996",0,2,NA,NA,2013,"Arctic A_A1.4","Arctic A",NA
+"MN233997",0,2,NA,NA,2013,"Arctic A_E1.1.2","Arctic A",NA
+"MN233998",0,2,NA,NA,2014,"Arctic A_E1.1.2","Arctic A",NA
+"MN233999",0,2,NA,NA,2015,"Arctic A_E1.1.1","Arctic A",NA
+"MN234000",0,2,NA,NA,2015,"Arctic A_A1.4","Arctic A",NA
+"MN234001",0,2,NA,NA,2015,"Arctic A_E1.1.1","Arctic A",NA
+"MN234002",0,2,NA,NA,2015,"Arctic A_F1","Arctic A",NA
+"MN234003",0,2,NA,NA,2015,"Arctic A_F1","Arctic A",NA
+"MN234004",0,2,NA,NA,2015,"Arctic A_E1.1.1","Arctic A",NA
+"MN234005",0,2,NA,NA,2015,"Arctic A_A1.4","Arctic A",NA
+"MN234006",0,2,NA,NA,2015,"Arctic A_E1.1","Arctic A",NA
+"MN234007",0,2,NA,NA,2016,"Arctic A_E1.1","Arctic A",NA
+"MN234008",0,2,NA,NA,2017,"Arctic A_E1.1","Arctic A",NA
+"MN234009",0,2,NA,NA,2017,"Arctic A_E1.1","Arctic A",NA
+"MN234010",0,2,NA,NA,2017,"Arctic A_E1.1","Arctic A",NA
+"MN234011",0,2,NA,NA,2017,"Arctic A_E1.1","Arctic A",NA
+"MN234012",0,2,NA,NA,2017,"Arctic A_E1.1","Arctic A",NA
+"MN234013",0,3,NA,NA,1995,"Arctic A_A1.1.1","Arctic A",NA
+"MN234014",0,2,NA,NA,2000,"Arctic A_C1.1","Arctic A",NA
+"MN234015",0,2,NA,NA,2013,"Arctic A_E1.1.1","Arctic A",NA
+"MN234016",0,2,NA,NA,1993,"Arctic A_A1.1.1","Arctic A",NA
+"MN234017",0,2,NA,NA,1996,"Arctic A_A1.1","Arctic A",NA
+"MN234018",0,2,NA,NA,1999,"Arctic A_A1.1.2","Arctic A",NA
+"MN234019",0,2,NA,NA,2000,"Arctic A_A1.1.2","Arctic A",NA
+"MN234020",0,2,NA,NA,2000,"Arctic A_A1.1.2","Arctic A",NA
+"MN234021",0,2,NA,NA,2000,"Arctic A_C1.1","Arctic A",NA
+"MN234022",0,2,NA,NA,2001,"Arctic A_C1","Arctic A",NA
+"MN234023",0,2,NA,NA,2002,"Arctic A_E1.2","Arctic A",NA
+"MN234024",0,2,NA,NA,2003,"Arctic A_E1.2","Arctic A",NA
+"MN234025",0,2,NA,NA,2003,"Arctic A_E1.2","Arctic A",NA
+"MN234026",0,2,NA,NA,2003,"Arctic A_E1.2","Arctic A",NA
+"MN234027",0,2,NA,NA,2004,"Arctic A_E1.2","Arctic A",NA
+"MN234028",0,2,NA,NA,2004,"Arctic A_E1.2","Arctic A",NA
+"MN234029",0,2,NA,NA,2004,"Arctic A_E1.2","Arctic A",NA
+"MN234030",0,2,NA,NA,2004,"Arctic A_E1.2","Arctic A",NA
+"MN234031",0,2,NA,NA,2009,"Arctic A_C1.1.1","Arctic A",NA
+"MN234032",0,2,NA,NA,2009,"Arctic A_C1.1.1","Arctic A",NA
+"MN234033",0,2,NA,NA,2009,"Arctic A_E1.1","Arctic A",NA
+"MN234034",0,2,NA,NA,2009,"Arctic A_E1.1","Arctic A",NA
+"MN234035",0,2,NA,NA,2009,"Arctic A_E1.1.1","Arctic A",NA
+"MN234036",0,2,NA,NA,2012,"Arctic A_E1.1.1","Arctic A",NA
+"MN234037",0,2,NA,NA,2012,"Arctic A_E1.1","Arctic A",NA
+"MN234038",0,2,NA,NA,2012,"Arctic A_E1.1.1","Arctic A",NA
+"MN234039",0,2,NA,NA,2012,"Arctic A_E1.1.1","Arctic A",NA
+"MN234040",0,2,NA,NA,2012,"Arctic A_E1.1.1","Arctic A",NA
+"MN234041",0,2,NA,NA,2012,"Arctic A_E1.1.1","Arctic A",NA
+"MN234042",0,2,NA,NA,2012,"Arctic A_E1.1.1","Arctic A",NA
+"MN234043",0,2,NA,NA,2012,"Arctic A_E1.1.1","Arctic A",NA
+"MN234044",0,2,NA,NA,2012,"Arctic A_E1.1.1","Arctic A",NA
+"MN234045",0,2,NA,NA,2012,"Arctic A_E1.1","Arctic A",NA
+"MN234046",0,2,NA,NA,2012,"Arctic A_E1.1","Arctic A",NA
+"MN234047",0,2,NA,NA,2012,"Arctic A_E1.1","Arctic A",NA
+"MN234048",0,2,NA,NA,2012,"Arctic A_E1.1.1","Arctic A",NA
+"MN234049",0,2,NA,NA,2012,"Arctic A_E1.1.1","Arctic A",NA
+"MN234050",0,2,NA,NA,2012,"Arctic A_E1.1.1","Arctic A",NA
+"MN234051",0,2,NA,NA,2015,"Arctic A_A1.4","Arctic A",NA
+"MN234052",0,2,NA,NA,2015,"Arctic A_E1.1.1","Arctic A",NA
+"MN234053",0,2,NA,NA,2015,"Arctic A_A1.4","Arctic A",NA
+"MN234054",0,2,NA,NA,2015,"Arctic A_A1.4","Arctic A",NA
+"MN234055",0,2,NA,NA,2017,"Arctic A_F1","Arctic A",NA
+"MN234056",0,2,NA,NA,2017,"Arctic A_F1","Arctic A",NA
+"MN418166",0,2,NA,NA,2018,"Arctic A_F1","Arctic A",NA
+"AB699220",0,2,NA,NA,2010,"Arctic AL1a_A1","Arctic AL1a",NA
+"AY956319",0,2,NA,NA,2005,"Arctic AL1a_A1","Arctic AL1a",NA
+"EF437215",0,2,NA,NA,2007,"Arctic AL1a_A1","Arctic AL1a",NA
+"HE802675",0,2,NA,NA,2010,"Arctic AL1a_A1","Arctic AL1a",NA
+"HE802676",0,2,NA,NA,2007,"Arctic AL1a_A1","Arctic AL1a",NA
+"KF154996",0,2,NA,NA,1987,"Arctic AL1a_A1","Arctic AL1a",NA
+"KY775603",0,2,NA,NA,2014,"Arctic AL1a_A1","Arctic AL1a",NA
+"KY775604",0,2,NA,NA,2014,"Arctic AL1a_A1","Arctic AL1a",NA
+"LT909539",0,2,NA,NA,2002,"Arctic AL1a_A1","Arctic AL1a",NA
+"LT909541",0,2,NA,NA,1984,"Arctic AL1a_A1","Arctic AL1a",NA
+"MG011654",0,41,NA,NA,2016,"Arctic AL1a_A1","Arctic AL1a",NA
+"MG099711",0,2,NA,NA,2016,"Arctic AL1a_A1","Arctic AL1a",NA
+"MG458320",0,3,NA,NA,2012,"Arctic AL1a_A1","Arctic AL1a",NA
+"KX148225",0,123,NA,NA,2002,"Arctic_A1","Arctic AL1b",NA
+"KX148226",0,123,NA,NA,2002,"Arctic_A1","Arctic AL1b",NA
+"KX148227",0,123,NA,NA,2004,"Arctic_A1","Arctic AL1b",NA
+"LT909545",0,123,NA,NA,2006,"Arctic_A1","Arctic AL1b",NA
+"KC171643",0,2,NA,NA,2008,"Arctic AL2_A1","Arctic AL2",NA
+"KC171644",0,2,NA,NA,2004,"Arctic AL2_A1","Arctic AL2",NA
+"KC171645",0,2,NA,NA,1999,"Arctic AL2_A1","Arctic AL2",NA
+"KM272192",0,4,NA,NA,2012,"Arctic AL2_A1.1","Arctic AL2",NA
+"KY175229",0,2,NA,NA,2012,"Arctic AL2_A1.1","Arctic AL2",NA
+"KY175230",0,2,NA,NA,2015,"Arctic AL2_A1.1","Arctic AL2",NA
+"KY860613",0,3,NA,NA,1989,"Arctic AL2_A1","Arctic AL2",NA
+"KY912036",0,9,NA,NA,2014,"Arctic AL2_A1.1","Arctic AL2",NA
+"KY952219",0,4,NA,NA,2014,"Arctic AL2_A1.1","Arctic AL2",NA
+"KY952220",0,6,NA,NA,2016,"Arctic AL2_A1.1","Arctic AL2",NA
+"KY964322",0,5,NA,NA,2016,"Arctic AL2_A1.1","Arctic AL2",NA
+"KY964323",0,7,NA,NA,2016,"Arctic AL2_A1.1","Arctic AL2",NA
+"KY982922",0,5,NA,NA,2014,"Arctic AL2_A1","Arctic AL2",NA
+"KY982923",0,4,NA,NA,2012,"Arctic AL2_A1.1","Arctic AL2",NA
+"KY997452",0,10,NA,NA,2014,"Arctic AL2_A1.1","Arctic AL2",NA
+"LC553558",0,2,NA,NA,2020,"Arctic AL2_A1","Arctic AL2",NA
