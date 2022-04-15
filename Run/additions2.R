@@ -96,8 +96,25 @@ align_seq<-c(alignment1$seq, alignment2$seq, alignment3$seq, alignment4$seq, ali
 
 alignment<-seqinr::as.alignment(nb=length(align_nam), nam = align_nam, seq = align_seq, com = NA)
 
-assignments<-gsub("Cosmopolitan ", "", assignments)
-assignments<-gsub("Cosmopolitan_", "", assignments)
+all_lineage<-read.csv("inst/extdata/References/RABV/lineage_info.csv")
+
+x<-1
+
+while(x < 10){
+  assignments<-c(assignments, all_lineage$lineage[which(all_lineage$parent %in% assignments)])
+  x<-x+1
+}
+
+assignments<-unique(assignments)
+
+x<-1
+
+while(x < 10){
+  assignments<-c(assignments, all_lineage$parent[which(all_lineage$lineage %in% assignments)])
+  x<-x+1
+}
+
+assignments<-unique(assignments)
 
 int_seq<-sequences$ID[which(sequences$cluster %in% assignments)]
 
@@ -113,6 +130,8 @@ seqinr::write.fasta(sequences = c(alignment$seq[numbers], query_alignment$seq),
                     file.out = paste(args, "/", args, "_combined.fasta", sep = ""))
 
 query_metadata<-read.csv(paste(args, "/", args, "_metadata.csv", sep = ""))
+
+metadata<-metadata[which(metadata$ID %in% int_seq),]
 
 metadata<-data.frame(ID=metadata$ID, year=metadata$year, country=metadata$country, assignment=metadata$assignment)
 

@@ -440,16 +440,20 @@ seq_designation <- function(tree, min.support, alignment, metadata, ancestral) {
   sequence_data<-sequence_data[,-c(4)]
   names(sequence_data)<-c("ID", "n_N", "n_gap", "length", "year", "lineage", "previous")
 
-  if(length(grep("-", sequence_data$lineage)) != 0){
-    clade<-strsplit(sequence_data$lineage[grep("-", sequence_data$lineage)][1], "-")[[1]][1]
+  if(length(grep("-", node_data$cluster)) != 0){
+    clade<-strsplit(node_data$cluster[grep("-", node_data$cluster)][1], "-")[[1]][1]
     sequence_data$lineage[-c(grep("-", sequence_data$lineage))]<-
       paste(clade, sequence_data$lineage[-c(grep("-", sequence_data$lineage))])
   }else{
-    if(length(grep("_", sequence_data$lineage)) != 0){
-    clade<-strsplit(sequence_data$lineage[grep("_", sequence_data$lineage)][1], " ")[[1]][1]
-    sequence_data$lineage[-c(grep("_", sequence_data$lineage))]<-
-      paste(clade, sequence_data$lineage[-c(grep("_", sequence_data$lineage))])
-  }}
+    if(length(grep("_", node_data$cluster)) != 0){
+      clade<-strsplit(node_data$cluster[grep("_", node_data$cluster)][1], " ")[[1]][1]
+      sequence_data$lineage[-c(grep("_", sequence_data$lineage))]<-
+        paste(clade, sequence_data$lineage[-c(grep("_", sequence_data$lineage))])
+    }}
+
+  if(length(grep("NA", node_data$lineage) != 0)){
+    node_data<-node_data[-c(grep("NA", node_data$lineage)),]
+  }
 
   sequence_data$lineage[grep("NA", sequence_data$lineage)]<-NA
   return(sequence_data)

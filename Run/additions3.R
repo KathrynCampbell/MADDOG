@@ -2,8 +2,13 @@ rm(list=ls())
 
 args = commandArgs(trailingOnly = T)
 
-source("R/seq_designation_nolength.R")
-source("R/node_info_nolength.R")
+source("Run/seq_designation_nolength.R")
+source("Run/node_info_nolength.R")
+
+devtools::install_github("KathrynCampbell/MADDOG", dependencies = F)
+
+library(dplyr)
+library(ggtree)
 
 tree<-ape::read.tree(paste(args, "/Trees/", args, "_combined_aligned.fasta.contree", sep = ""))
 tree$tip.label<- gsub("\\/.*", "", tree$tip.label, perl = T)
@@ -12,6 +17,7 @@ metadata<-read.csv(paste(args, "/", args, "_combined_metadata.csv", sep = ""))
 metadata$year[which(is.na(metadata$year))]<-"-"
 alignment<-seqinr::read.alignment(paste(args, "/Alignment/", args, "_combined_aligned.fasta", sep = ""), format = "fasta")
 alignment$nam <- gsub("\\/.*", "", alignment$nam, perl = T)
+all_lineage<-read.csv("inst/extdata/References/RABV/lineage_info.csv")
 
 node_data<-node_info(tree, 90, alignment, metadata, ancestral)
 seq_data<-seq_designation(tree, 90, alignment, metadata, ancestral)
@@ -23,6 +29,10 @@ for (i in 1:length(node_data$lineage)) {
 }
 
 lineage_info<-MADDOG::lineage_info(seq_data, metadata)
+
+for (i in 1:length(node_data$lineage)) {
+  lineage_info$lineage[which(lineage_info$lineage == node_data$lineage[i])]<-node_data$number[i]
+}
 
 assignments<-read.csv(paste(args, "/Assignment/assignment.csv", sep = ""))
 assignments$ID <- gsub("\\/.*", "", assignments$ID, perl = T)
@@ -37,9 +47,6 @@ for (i in 1:length(clades$clade)) {
     clades$present[i]<-"Y"
   }
 }
-
-assignments$lineage<-gsub("Cosmopolitan ", "", assignments$lineage)
-assignments$lineage<-gsub("Cosmopolitan_", "", assignments$lineage)
 
 numbers<-which(clades$present == "Y")
 
@@ -81,6 +88,8 @@ if (7 %in% numbers) {
 sequences<-rbind(sequences1, sequences2, sequences3, sequences4, sequences5, sequences6, sequences7)
 sequences<-sequences[-c(which(is.na(sequences$ID))),]
 
+sequences<-sequences[which(sequences$ID %in% metadata$ID),]
+
 numbers<-which(clades$present == "Y")
 
 current<-data.frame(lineage=unique(assignments$lineage), node=NA)
@@ -97,9 +106,11 @@ if(length(which(duplicated(current$node))) != 0) {
   current<-current[-c(which(duplicated(current$node))),]
 }
 
-node_data<-node_data[-c(which(node_data$node %in% current$node)),]
+if (length(which(node_data$node %in% current$node)) != 0) {
+  node_data<-node_data[-c(which(node_data$node %in% current$node)),]
+}
 
-updates<-data.frame(lineage = current$lineage, count = NA, node = NA)
+updates<-data.frame(lineage = current$lineage, count = NA, node = NA, old=NA)
 
 for (i in 1:length(updates$lineage)) {
   updates$count[i]<-length(which(assignments$lineage == updates$lineage[i]))
@@ -129,6 +140,7 @@ if (length(which(updates$count >=10))!= 0) {
 
   if(length(which(updates$viable <= 0)) != 0) {
     updates<-updates[-c(which(updates$viable <= 0)),]
+  }
 
   if (length(updates$lineage) != 0) {
     existing<-updates
@@ -142,7 +154,7 @@ if (length(which(updates$count >=10))!= 0) {
     x<-1
 
     while (length(numbers) != 0 && x < 100) {
-      test<-data.frame(lineage = NA, count = NA, node = NA, viable = NA)
+      test<-data.frame(lineage = NA, count = NA, node = NA, viable = NA, old = NA)
       for (i in 1:length(numbers)) {
         test$node<-node_data$node[which(node_data$node %in% phangorn::Descendants(tree, updates$node[numbers[i]], type = "all"))][1]
         test$lineage<-paste(updates$lineage[numbers[i]], ".1", sep = "")
@@ -169,10 +181,8 @@ if (length(which(updates$count >=10))!= 0) {
 
       numbers<-grep("\\..\\..\\..", int$lineage)
 
-      int$old<-NA
-
       for (i in 1:length(numbers)) {
-        int$old[numbers[i]]<-int$lineage[numbers[i]]
+        updates$old[which(updates$lineage == int$lineage[numbers[i]])]<-int$lineage[numbers[i]]
       }
 
       int$update<-int$lineage
@@ -192,7 +202,7 @@ if (length(which(updates$count >=10))!= 0) {
 
 
       duplicates<-int$update[which(duplicated(int$update))]
-      duplicates<-c(duplicates, int$update[which(int$update %in% c(sequences$cluster, existing$lineage))])
+      duplicates<-c(duplicates, int$update[which(int$update %in% c(all_lineage$lineage, existing$lineage))])
       problems<-duplicates[which(stringr::str_count(duplicates, pattern = "\\.") == 0)]
       duplicates<-duplicates[which(stringr::str_count(duplicates, pattern = "\\.") != 0)]
 
@@ -207,7 +217,7 @@ if (length(which(updates$count >=10))!= 0) {
             int$update[test[j]]<-paste(c(name), collapse='.' )
           }
           duplicates<-int$update[which(duplicated(int$update))]
-          duplicates<-c(duplicates, int$update[which(int$update %in% existing$lineage)])
+          duplicates<-c(duplicates, int$update[which(int$update %in% all_lineage$lineage)])
           duplicates<-duplicates[which(stringr::str_count(duplicates, pattern = "\\.") != 0)]
         }
       }
@@ -225,7 +235,7 @@ if (length(which(updates$count >=10))!= 0) {
           }
         }
         duplicates<-int$update[which(duplicated(int$update))]
-        duplicates<-c(duplicates, int$update[which(int$update %in% sequences$cluster)])
+        duplicates<-c(duplicates, int$update[which(int$update %in% all_lineage$lineage)])
         problems<-duplicates[which(stringr::str_count(duplicates, pattern = "\\.") == 0)]
       }
 
@@ -259,7 +269,9 @@ if (length(which(updates$count >=10))!= 0) {
       lineage_info$lineage[which(lineage_info$lineage == node_updates$number[i])]<-node_updates$lineage[i]
     }
 
-    lineage_info<-lineage_info[-c(which(lineage_info$lineage %in% 1:1000)),]
+    if (length(which(lineage_info$lineage %in% 1:1000)) != 0) {
+      lineage_info<-lineage_info[-c(which(lineage_info$lineage %in% 1:1000)),]
+    }
 
     numbers<-which(assignments$ID %in% seq_data$ID[which(seq_data$lineage %in% 1:1000)])
 
@@ -274,9 +286,6 @@ if (length(which(updates$count >=10))!= 0) {
     new_seq<-seq_data[which(seq_data$ID %in% assignments$ID),]
 
     all_lineage<-read.csv("inst/extdata/References/RABV/lineage_info.csv")
-
-    all_lineage$lineage<-gsub("Cosmopolitan ", "", all_lineage$lineage)
-    all_lineage$lineage<-gsub("Cosmopolitan_", "", all_lineage$lineage)
 
     all_lineage<-all_lineage[which(all_lineage$lineage %in% assignments$lineage),]
 
@@ -300,12 +309,16 @@ if (length(which(updates$count >=10))!= 0) {
 
     numbers<-which(is.na(lineage_info$parent))
 
-    for (i in 1:length(numbers)) {
-      x<-which(int$update == lineage_info$lineage[numbers[i]])
-      lineage_info$parent[numbers[i]]<-
-        paste(strsplit(int$old[x], "\\.")[[1]][1], strsplit(int$old[x], "\\.")[[1]][2],
-              strsplit(int$old[x], "\\.")[[1]][3], sep = ".")
+    if(length(numbers) != 0){
+      for (i in 1:length(numbers)) {
+        x<-which(updates$lineage == lineage_info$lineage[numbers[i]])
+        lineage_info$parent[numbers[i]]<-
+          paste(strsplit(updates$old[x], "\\.")[[1]][1], strsplit(updates$old[x], "\\.")[[1]][2],
+                strsplit(updates$old[x], "\\.")[[1]][3], sep = ".")
+      }
     }
+
+
 
     for (i in 1:length(all_lineage$lineage)) {
       all_lineage$n_seqs[i]<-length(which(assignments$lineage == all_lineage$lineage[i]))
@@ -316,36 +329,209 @@ if (length(which(updates$count >=10))!= 0) {
     write.csv(all_lineage, paste(args, "/Outputs/relevant_lineages.csv", sep = ""), row.names = F)
     write.csv(new_seq, paste(args, "/Outputs/sequence_data.csv", sep = ""), row.names = F)
   }
-}
+  node_data<-data.frame(lineage=c(current$lineage, updates$lineage), node = c(current$node, updates$node))
+
+  all_lineage<-read.csv("inst/extdata/References/RABV/lineage_info.csv")
+
+  all_lineage<-all_lineage[which(all_lineage$lineage %in% sequences$cluster),]
+  for (i in 1:length(all_lineage$lineage)) {
+    all_lineage$n_seqs[i]<-length(which(assignments$lineage == all_lineage$lineage[i]))
+
+  }
+
+  lineages<-data.frame(lineage = c(all_lineage$lineage, lineage_info$lineage),
+                       parent = c(all_lineage$parent, lineage_info$parent),
+                       n_seqs = c(all_lineage$n_seqs, lineage_info$n_seqs))
+
+  lineage_info<-lineages
+
+  lineage_info$colour<-NA
+
+  Colours<-c("Reds","Purples","YlOrBr","PuBuGn","YlOrRd","OrRd","PuBu","Pastel1","Greens","Greys",
+             "GnBu","BuGn","RdPu","Oranges","BuPu","YlGn","PuRd","YlGnBu")
+
+  lineages<-data.frame(lineage = lineage_info$lineage, subclade = NA)
+
+  for (i in 1:length(lineages$lineage)) {
+    lineages$subclade[i]<-strsplit(lineages$lineage[i], "_")[[1]][1]
+  }
+
+  letters <- c("A1", "B1", "C1", "D1", "E1", "F1", "G1", "H1", "I1", "J1", "K1", "L1", "M1", "N1",
+               "O1", "P1", "Q1", "R1", "S1", "T1", "U1", "V1", "W1", "X1", "Y1", "Z1")
+
+  if(length(grep("_", lineage_info$lineage)) != 0) {
+    if (length(which(lineages$subclade %in% letters)) != 0) {
+      lineages<-lineages[-c(which(lineages$subclade %in% letters)),]
+    }
+  }
+
+  clades<-unique(lineages$subclade)
+
+  if(length(grep("\\.", clades)) != 0 ) {
+    clades<-clades[-c(grep("\\.", clades))]
+  }
+
+  lineage<-lineage_info$lineage[-c(grep("_", lineage_info$lineage))]
+  cols<-RColorBrewer::brewer.pal(9, "Blues")
+  pal<-colorRampPalette(c(cols))
+  pal<-rev(pal(length(lineage)))
+  lineage_info$colour[-c(grep("_", lineage_info$lineage))]<-pal
+
+  for (i in 1:length(clades)) {
+    lineage<-grep(clades[i], lineage_info$lineage)
+    cols<-RColorBrewer::brewer.pal(3, Colours[i])
+    pal<-colorRampPalette(c(cols))
+    pal<-rev(pal(length(lineage)))
+    lineage_info$colour[(grep(clades[i], lineage_info$lineage))]<-pal
+  }
+
+  new<-plotly::plot_ly(
+    labels = c(lineage_info$lineage),
+    parents = c(lineage_info$parent),
+    values = c(lineage_info$n_seqs),
+    type = "sunburst",
+    marker = list(colors = (lineage_info$colour))
+  )
+  htmlwidgets::saveWidget(plotly::as_widget(new), (paste(args, "/Figures/", args, "_sunburst.html", sep = "")))
+
+
+  sequences<-sequences[which(sequences$ID %in% tree$tip.label),]
+
+  sequence_data<-data.frame(ID = c(sequences$ID, new_seq$ID), lineage = c(sequences$cluster, new_seq$lineage))
+  for (i in 1:length(sequence_data$ID)) {
+    if (sequence_data$ID[i] %in% assignments$ID) {
+      sequence_data$new[i]<-"Y"
+    } else {
+      sequence_data$new[i]<-"N"
+    }
+  }
+
+  plot_tree<-ggtree::ggtree(tree, colour = "grey50", ladderize = T) %<+% sequence_data +
+    ggtree::geom_tippoint(colour = "grey50", size=4)  +
+    ggtree::geom_tippoint(ggplot2::aes(color=lineage), size=3)  +
+    ggtree::theme(plot.title = ggplot2::element_text(size = 40, face = "bold"))+
+    ggtree::scale_color_manual(values=c(lineage_info$colour)) +
+    ggtree::theme(legend.position = "none")
+
+  genotype<-data.frame(lineage = sequence_data$lineage)
+  rownames(genotype)<-sequence_data$ID
+
+  plot_tree<-ggtree::gheatmap(plot_tree, genotype, offset=0.01, width=.1, font.size=3, color = NA,
+                              colnames_angle=-45, hjust=0) +
+    ggtree::scale_fill_manual(values=c(lineage_info$colour), name="lineage")+
+    ggtree::theme(legend.position = "none")
+
+  plot_new<-ggtree::ggtree(tree, colour = "grey50", ladderize = T) %<+% sequence_data +
+    ggtree::geom_tippoint(ggplot2::aes(color=new), size=5)  +
+    scale_color_manual(values = c("#808080", "red"))
+
+
+  ggplot2::ggsave(paste(args, "/Figures/", args, "_lineage_tree.png", sep = ""),
+                  plot = gridExtra::arrangeGrob(plot_tree, plot_new, ncol = 2))
 } else {
     print("No new lineages. Relevent existing lineage information in Outputs/relevant_lineages.csv with individual sequence assignments in assignment file.")
     all_lineage<-read.csv("inst/extdata/References/RABV/lineage_info.csv")
 
-    all_lineage$lineage<-gsub("Cosmopolitan ", "", all_lineage$lineage)
-    all_lineage$lineage<-gsub("Cosmopolitan_", "", all_lineage$lineage)
-
     all_lineage<-all_lineage[which(all_lineage$lineage %in% assignments$lineage),]
 
     write.csv(all_lineage, paste(args, "/Outputs/relevant_lineages.csv", sep = ""), row.names = F)
+
+    all_lineage<-read.csv("inst/extdata/References/RABV/lineage_info.csv")
+
+    all_lineage<-all_lineage[which(all_lineage$lineage %in% sequences$cluster),]
+    for (i in 1:length(all_lineage$lineage)) {
+      all_lineage$n_seqs[i]<-length(which(assignments$lineage == all_lineage$lineage[i]))
+
+    }
+
+    node_data<-current
+    sequence_data<-assignments
+    lineage_info<-all_lineage
+
+    lineage_info$colour<-NA
+
+    Colours<-c("Reds","Purples","YlOrBr","PuBuGn","YlOrRd","OrRd","PuBu","Pastel1","Greens","Greys",
+               "GnBu","BuGn","RdPu","Oranges","BuPu","YlGn","PuRd","YlGnBu")
+
+    lineages<-data.frame(lineage = lineage_info$lineage, subclade = NA)
+
+    for (i in 1:length(lineages$lineage)) {
+      lineages$subclade[i]<-strsplit(lineages$lineage[i], "_")[[1]][1]
+    }
+
+    letters <- c("A1", "B1", "C1", "D1", "E1", "F1", "G1", "H1", "I1", "J1", "K1", "L1", "M1", "N1",
+                 "O1", "P1", "Q1", "R1", "S1", "T1", "U1", "V1", "W1", "X1", "Y1", "Z1")
+
+    if(length(grep("_", lineage_info$lineage)) != 0) {
+      if (length(which(lineages$subclade %in% letters)) != 0) {
+        lineages<-lineages[-c(which(lineages$subclade %in% letters)),]
+      }
+    }
+
+    clades<-unique(lineages$subclade)
+
+    if(length(grep("\\.", clades)) != 0 ) {
+      clades<-clades[-c(grep("\\.", clades))]
+    }
+
+    lineage<-lineage_info$lineage[-c(grep("_", lineage_info$lineage))]
+    cols<-RColorBrewer::brewer.pal(9, "Blues")
+    pal<-colorRampPalette(c(cols))
+    pal<-rev(pal(length(lineage)))
+    lineage_info$colour[-c(grep("_", lineage_info$lineage))]<-pal
+
+    for (i in 1:length(clades)) {
+      lineage<-grep(clades[i], lineage_info$lineage)
+      cols<-RColorBrewer::brewer.pal(3, Colours[i])
+      pal<-colorRampPalette(c(cols))
+      pal<-rev(pal(length(lineage)))
+      lineage_info$colour[(grep(clades[i], lineage_info$lineage))]<-pal
+    }
+
+    new<-plotly::plot_ly(
+      labels = c(lineage_info$lineage),
+      parents = c(lineage_info$parent),
+      values = c(lineage_info$n_seqs),
+      type = "sunburst",
+      marker = list(colors = (lineage_info$colour))
+    )
+    htmlwidgets::saveWidget(plotly::as_widget(new), (paste(args, "/Figures/", args, "_sunburst.html", sep = "")))
+
+    sequences<-sequences[which(sequences$ID %in% tree$tip.label),]
+
+    sequence_data<-data.frame(ID = c(sequences$ID, assignments$ID), lineage = c(sequences$cluster, assignments$lineage))
+
+    for (i in 1:length(sequence_data$ID)) {
+      if (sequence_data$ID[i] %in% assignments$ID) {
+        sequence_data$new[i]<-"Y"
+      } else {
+        sequence_data$new[i]<-"N"
+      }
+    }
+    plot_tree<-ggtree::ggtree(tree, colour = "grey50", ladderize = T) %<+% sequence_data +
+      ggtree::geom_tippoint(colour = "grey50", size=4)  +
+      ggtree::geom_tippoint(ggplot2::aes(color=lineage), size=3)  +
+      ggtree::theme(plot.title = ggplot2::element_text(size = 40, face = "bold"))+
+      ggtree::scale_color_manual(values=c(lineage_info$colour)) +
+      ggtree::theme(legend.position = "none")
+
+    genotype<-data.frame(lineage = sequence_data$lineage)
+    rownames(genotype)<-sequence_data$ID
+
+    plot_tree<-ggtree::gheatmap(plot_tree, genotype, offset=0.01, width=.1, font.size=3, color = NA,
+                                colnames_angle=-45, hjust=0) +
+      ggtree::scale_fill_manual(values=c(lineage_info$colour), name="lineage")+
+      ggtree::theme(legend.position = "none")
+
+    plot_new<-ggtree::ggtree(tree, colour = "grey50", ladderize = T) %<+% sequence_data +
+      ggtree::geom_tippoint(ggplot2::aes(color=new), size=5)  +
+      scale_color_manual(values = c("#808080", "red"))
+
+
+    ggplot2::ggsave(paste(args, "/Figures/", args, "_lineage_tree.png", sep = ""),
+                    plot = gridExtra::arrangeGrob(plot_tree, plot_new, ncol = 2))
 }
 
-node_data<-data.frame(lineage=c(current$lineage, updates$lineage), node = c(current$node, updates$node))
-lineage_info<-lineage_info[,-c(6)]
 
 
-lineage_info<-rbind(lineage_info, all_lineage)
-new<-MADDOG::sunburst(lineage_info, node_data, tree, metadata, new_seq)
-htmlwidgets::saveWidget(plotly::as_widget(new), (paste(args, "/Figures/", args, "_sunburst.html", sep = "")))
 
-
-sequences<-sequences[which(sequences$ID %in% tree$tip.label),]
-
-tree$tip.label[-c(which(tree$tip.label %in% sequence_data$ID))]
-
-sequence_data<-data.frame(ID = c(sequences$ID, new_seq$ID), lineage = c(sequences$cluster, new_seq$lineage))
-errors<-data.frame(ID = tree$tip.label[-c(which(tree$tip.label %in% sequence_data$ID))], lineage = NA)
-sequence_data<-rbind(sequence_data, errors)
-plot_tree<-MADDOG::lineage_tree(lineage_info, node_data, tree, metadata, sequence_data)
-
-ggplot2::ggsave(paste(args, "/Figures/", args, "_lineage_tree.png", sep = ""),
-                plot = plot_tree)
