@@ -48,3 +48,4 @@ rm $runname/$runname"_combined.fasta"
 rm $runname/$runname"_assignments.csv"
 rm -r $runname/Figures/$runname"_sunburst_files"
 rm temp.fasta
+rm Rplots.pdf
