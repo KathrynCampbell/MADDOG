@@ -652,12 +652,15 @@ int$test<-NA
 
 numbers<-which(int$count == 1)
 
-for (i in 1:length(numbers)) {
-  if ((lineage_info$n_seqs[which(lineage_info$lineage == int$lineage[numbers[i]])] -
-       noi$tips[which(noi$lineage == int$lineage[numbers[i]])]) == 0) {
-    int$test[numbers[i]]<-"N"
+if (length(numbers) != 0){
+  for (i in 1:length(numbers)) {
+    if ((lineage_info$n_seqs[which(lineage_info$lineage == int$lineage[numbers[i]])] -
+         noi$tips[which(noi$lineage == int$lineage[numbers[i]])]) == 0) {
+      int$test[numbers[i]]<-"N"
+    }
   }
 }
+
 #' Check that this isn't just a ladder structure from the parent lineage
 
 #############################################
