@@ -41,6 +41,7 @@ library(MADDOG)
 ```{r designation, results='hide'}
 sequence_designation<-seq_designation(tree, 90, alignment, metadata, ancestral)
 defining_node_information<-node_info(tree, 90, alignment, metadata, ancestral)
+names(defining_node_information)<-c("node", "n_tips", "diff", "overlaps", "lineage", "numbers")
 
 ```
 

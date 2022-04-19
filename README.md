@@ -73,17 +73,17 @@ You'll also need to convert some file types so windows can use them.
 
 Write `conda install -c conda-forge dos2unix` 
 
-Then `dos2unix windows_assign_lineages.sh` and next `dos2unix lineage_designation.sh`
+Then `dos2unix assignment.sh` and next `dos2unix designation.sh` followed by `dos2unix new_designation.sh`
 
 #### Input data requirements
 The scripts require only a few things to run, but they need to be formatted in a certain way.
 
-You'll need to have a folder with the name of your dataset (E.g. Example). It's best not to put any spaces or special characters in this. In this folder, you'll need to have a fasta file containing all the sequences. 
+You'll need to have a folder with the name of your dataset (E.g. Example_designation). It's best not to put any spaces or special characters in this. In this folder, you'll need to have a fasta file containing all the sequences. 
 
 ##### Lineage designation
 For the lineage designation you'll also need the metadata for these sequences in a csv file. The metadata file must have a column called 'ID' which contains the ID's for all the sequences. These must match the sequence ID's in the fasta file. It also must have a column called 'year' that contains the collection year of each sequence. Additionally, it must have a column called 'country'. This should contain the country of origin of each sequence. If you don't have this information, you can leave the column blank but it needs to exist. If you have more detailed information about the origin of the sequence (e.g. a state) you can put this in the country column instead of the country. It also needs to have an 'assignment' column which contains any known clade assignments. If you don't have this information, you can leave this column blank but it needs to exist.
 
-Your metadata file can have more columns and data as well, but it must contain at least the 'ID', 'year', 'country' and 'assignment' columns. Look at the metadata file in the example folder to see how this is set out. 
+Your metadata file must have only the 'ID', 'year', 'country' and 'assignment' columns. Look at the metadata file in the example folder to see how this is set out. 
 
 Please note - you can call your fasta and csv files anything, as long as they're in the dataset folder. However, the metadata file will be renamed when running the script to (dataset)_metadata.csv
 
@@ -94,44 +94,61 @@ For the lineage assignment you only need the folder with the fasta file.
 To run the code, in your terminal/command line make sure you are in the MADDOG repository and the MADDOG environment (see Setting up the environment if you're unsure how to do either of these). If you've done this, you should see `MADDOG` appear at either end of your command line. 
 
 ##### Lineage designation
-Type `sh lineage_designation.sh` and then press enter. You'll then be prompted to write the name of the folder that contains your data and press enter.
+Type `sh designation.sh` and then press enter. You'll then be prompted to write the name of the folder that contains your data and press enter.
 
 A lot of numbers and different processes should flash past on the screen - this means it's working! If you have a very large dataset this may take some time.
 
+Lineages are designated using a reference set of designations as a starting point. Your sequences will first be assigned a lineage based on the reference set, and then checked to see if the inclusion of your sequences results in new lineages. If you wish to run an entirely new designation, not including the reference sequences, you can run `sh new_designation.sh` which will produce designation relevant only to your study and not comparable to the global set.
+
 ##### Lineage assignment
-Type `sh assign_lineages.sh` and press enter. You'll then be prompted to write the name of the folder that contains your sequences and press enter. You'll then be prompted to write which reference set you want to use.
+Type `sh assignment.sh` and press enter. You'll then be prompted to write the name of the folder that contains your sequences and press enter. 
 
 The assignment will then begin. This shouldn't take too long. 
 
 #### Example
 The Example_designation and Example_assignment folders show how you need to set out your dataset folder and format your input data. 
 
-You can test out the lineage designation code by writing `sh lineage_designation.sh` When you're in the MADDOG repository and environment and then writing `Example_designation` when prompted.  
+You can test out the lineage designation code by writing `sh designation.sh` When you're in the MADDOG repository and environment and then writing `Example_designation` when prompted.  
 
-You can test out the lineage assignment code by writing `sh assign_lineages.sh` when you're in the MADDOG repository and environment and writing `Example_assignment` when prompted. You'll then need to write `Cosmo_N` when prompted.
+You can test out the lineage assignment code by writing `sh assignment.sh` when you're in the MADDOG repository and environment and writing `Example_assignment` when prompted. 
 
 The outputs will appear in the Example folders.
 
 ### Outputs
 
 #### Lineage designation
+Lineages are designated using a reference set of designations as a starting point. Your sequences will first be assigned a lineage based on the reference set, and then checked to see if the inclusion of your sequences results in new lineages. If so, these new lineages will be designated. 
+**PLEASE NOTE** If new lineages are designated, these are not added to the reference set and therefore the resultant designations apply to your study only.
+
 The lineage designation code will produce a number of outputs in folders called 'Alignment', 'Tree', 'Treetime', 'Figures' and 'Outputs'. These will contain:
 
-**Alignment:** The alignment of all input sequences done by the MAFFT FFT-NS-2 algorithm in fasta format.
+**Alignment:** The assignments of all your sequences against the reference set. 
 
-**Tree:** All outputs of running IQTREE2 with model selection and 1000 ultrafast bootstraps on the alignment produced. The .contree file is the finalised tree.
+**Alignment:** The alignment of all input sequences plus sequences from all relevant existing lineages done by the MAFFT FFT-NS-2 algorithm in fasta format.
+
+**Tree:** All outputs of running IQTREE2 with model selection and 1000 ultrafast bootstraps on the alignment produced. The .contree file is the finalised tree. The tree contains your input sequences plus all sequences from relevant lineages.
 
 **Treetime:** This contains the reconstructed ancestral sequences for each node of the tree in ancestral_sequences.fasta.
 
-**Outputs:** This contains three files. the lineage_info file contains information about each lineage, including all the countries each lineage is seen in, the first and last years the lineage was sequenced, the genetic distance of each lineage and the number of sequences assigned to it from the given fasta file. It also contains a file giving information about each sequence, and information about each lineage defining node.
+**Outputs:** This contains 1-5 files.
 
-**Figures:**This contains three files to help interpret the lineage information. 
+The relevant_lineages file will always be included. This gives details about all the lineages the sequences are assigned to and the number of sequences assigned to each lineage. 
 
-First is a html file of a sunburst plot. This shows the hierarchal relationships of the lineages. The html file is interactive, and sections can be collapsed/ zoomed in as required. This also provides the colour scheme for all the figures. 
+If your sequences result in new lineages being designated, a new_lineages file will be present. This gives details such as the countries the lineage has been seen in, the first and most recent years the lineage has been sequenced, and the number of sequences present in the lineage. 
 
-Second is a lineage tree. This is a phylogenetic tree of the input sequences, with the tips coloured by lineage (colour scheme from sunburst plot) with a lineage bar along side to easily show the positions of the lineages within the tree. 
+If you have a new_lineages file, you will also have a sequence_data file which details the lineage each of your sequences has been designated. If there are no new lineages, this file won't exist and the file in the Assignments folder should be used instead.
 
-Last is a map with pie charts on. This shows the countries the input sequences have been found in, with pie size corresponding to sequence numbers. The pies are coloured according to lineage proportions seen in that country (colour scheme from sunburst plot).
+The lineage designation process also checks fo lineages that are undersampled or emerging (all lineage defining requirements met, but only 5-9 sequences within a 5 year period). If any of these are detected within your sequence set and relevant lineages, a undersampled_emerging file will be present detailing the potentially emerging/undersampled lineages.
+
+The lineage designation process also identifies singletons of interest that may indicate sequencing errors, very undersampled lineages or very newly emerging lineages. If any of these are present, a singletons_of_interest file will be produced, detailing the number of singletons of interest for each lineage, and where and when these singleton sequences are from.
+
+**Figures:**This contains two files to help interpret the lineage information. 
+
+First is a html file of a sunburst plot. This shows the hierarchal relationships of all relevant lineages (new and existing). The html file is interactive, and sections can be collapsed/ zoomed in as required. This also provides the colour scheme for all the figures. 
+
+Second is a lineage tree with 2 panels. The left panel is a phylogenetic tree of the input sequences plus all sequences from relevant lineages, with the tips coloured by lineage (colour scheme from sunburst plot) with a lineage bar along side to easily show the positions of the lineages within the tree. The right hand panel indicates which of the tips represent your input sequences; showing how these fit in to the existing phylogeny.
+
+A csv file detailing the metadata of all the sequences from relevant lineages included during the designation process is also produced.
 
 #### Lineage assignment
 The lineage assignment code produces a csv file detailing the assignment for each sequence, and details about the lineage assigned including the countries it has been seen it and when that lineage was first and last sequenced.
@@ -150,12 +167,20 @@ These are all installed as part of the environment and don't need to be installe
     * ips,
     * adegenet,
     * ape,
+    * rgdal,
     * dplyr,
     * adephylo
+    * gridExtra
+    * phytools
+    * castor
+    * ggtree
+    * treeio
     
 ## R Package 
 This tool is also available as an R package which is capable of Lineage Designation and Assignment.
 The lineage designation in the package requires the alignment, tree, ancestral reconstruction and metadata as input. 
+**PLEASE NOTE** The lineage designation done in the package currently is equivalent to `new_designation.sh` - it produces a set of designation but these are not based on the reference set. It is instead used to give an idea of the diversity within your set of sequences.  
+
 Full details of how to use the package are available in the vignette.
 
 To install the package, run `devtools::install_github("kathryncampbell/MADDOG", build_vignettes = TRUE, force = TRUE)` within R. 

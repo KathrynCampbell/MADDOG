@@ -26,6 +26,7 @@ Imports: seqinr,
          adegenet,
          ape,
          dplyr,
+         rgdal,
          adephylo,
          rmarkdown,
          knitr, 
@@ -35,6 +36,10 @@ Imports: seqinr,
          ggtree,
          treeio,
          plotly,
-         gridExtra
+         gridExtra,
+         devtools,
+         gridExtra,
+         castor,
+         phytools
 Suggests: knitr, rmarkdown
 VignetteBuilder: knitr

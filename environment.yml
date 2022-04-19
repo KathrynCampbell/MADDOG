@@ -22,7 +22,6 @@ dependencies:
   - r-rmarkdown
   - r-knitr
   - r-devtools
-  - r-scatterpie
   - r-gridExtra
   - bioconductor-ggtree
   - bioconductor-treeio
