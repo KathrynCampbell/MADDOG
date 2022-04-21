@@ -17,12 +17,10 @@ install.packages('castor', repos = "http://cran.us.r-project.org")
 library(castor)
 
 tree<-ape::read.tree(paste(args, "/Trees/", args, "_combined_aligned.fasta.contree", sep = ""))
-tree$tip.label<- gsub("\\/.*", "", tree$tip.label, perl = T)
 ancestral<-seqinr::read.alignment(paste(args, "/Timetree/ancestral_sequences.fasta", sep = ""), format = "fasta")
 metadata<-read.csv(paste(args, "/", args, "_combined_metadata.csv", sep = ""))
 metadata$year[which(is.na(metadata$year))]<-"-"
 alignment<-seqinr::read.alignment(paste(args, "/Alignment/", args, "_combined_aligned.fasta", sep = ""), format = "fasta")
-alignment$nam <- gsub("\\/.*", "", alignment$nam, perl = T)
 all_lineage<-read.csv("inst/extdata/References/RABV/lineage_info.csv")
 
 node_data<-node_info(tree, 90, alignment, metadata, ancestral)
@@ -41,8 +39,6 @@ for (i in 1:length(node_data$lineage)) {
 }
 
 assignments<-read.csv(paste(args, "/Assignment/assignment.csv", sep = ""))
-assignments$ID <- gsub("\\/.*", "", assignments$ID, perl = T)
-
 
 clades<-data.frame(clade=c("Africa", "Asian", "Arctic", "Bat", "Cosmopolitan", "Indian", "RAC"), present=NA)
 
@@ -848,6 +844,23 @@ if(length(nodes_diff$node) != 0) {
       which(duplicated(emerging_lineages$lineage))]<-
       gsub("_E2", "_E3", emerging_lineages$lineage[which(duplicated(emerging_lineages$lineage))])
 
+    emerging_lineages$lineage[
+      which(duplicated(emerging_lineages$lineage))]<-
+      gsub("_E3", "_E4", emerging_lineages$lineage[which(duplicated(emerging_lineages$lineage))])
+
+    emerging_lineages$lineage[
+      which(duplicated(emerging_lineages$lineage))]<-
+      gsub("_E4", "_E5", emerging_lineages$lineage[which(duplicated(emerging_lineages$lineage))])
+
+    emerging_lineages$lineage[
+      which(duplicated(emerging_lineages$lineage))]<-
+      gsub("_E5", "_E6", emerging_lineages$lineage[which(duplicated(emerging_lineages$lineage))])
+
+    emerging_lineages$lineage[
+      which(duplicated(emerging_lineages$lineage))]<-
+      gsub("_E6", "_E7", emerging_lineages$lineage[which(duplicated(emerging_lineages$lineage))])
+
+
     emerging_lineages<-emerging_lineages[,2:7]
 
     emerging_lineages <- apply(emerging_lineages,2,as.character)
@@ -912,8 +925,18 @@ for (i in 1:length(lengths$ID)) {
 #' Identify the closest relative sequence. If the patristic distance between the query sequence and its
 #' closest relative is at elast the 95th percentile of the lineage, list the relative. If not, 'NA'
 for (i in c(1:length(lengths$ID))) {
-  up<-alignment$nam[(which(alignment$nam == lengths$ID[i]))+1][[1]]
-  down<-alignment$nam[(which(alignment$nam == lengths$ID[i]))-1][[1]]
+  if (which(alignment$nam == lengths$ID[i]) == length(alignment$nam)){
+    up<-NA
+  }else{
+    up<-alignment$nam[(which(alignment$nam == lengths$ID[i]))+1][[1]]
+  }
+
+  if (which(alignment$nam == lengths$ID[i]) == 1) {
+    down<-NA
+  }else{
+    down<-alignment$nam[(which(alignment$nam == lengths$ID[i]))-1][[1]]
+  }
+
 
   test<-which(tree$tip.label == lengths$ID[i])
 

@@ -27,8 +27,6 @@ Rscript Run/additions2.R $runname
 mkdir $runname/Alignment
 mafft $runname/$runname"_combined.fasta" > $runname/$runname"_combined_aligned.fasta"
 mv $runname/$runname"_combined_aligned.fasta" $runname/Alignment
-#mafft sometimes messes names up so they don't match the tree, in case this happens have this line (though will need to fix later):
-awk '{sub(/,/,"_")}1' $runname/Alignment/$runname"_cmbined_aligned.fasta" > temp.fasta && mv temp.fasta $runname/Alignment/$runname"_combined_aligned.fasta"
 
 #IQTree
 mkdir $runname/Trees
