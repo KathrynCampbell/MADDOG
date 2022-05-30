@@ -601,7 +601,9 @@ for (x in 1:length(tests$lineage)) {
 }
 #' Which of the potential lineage defining nodes are descended from each lineage
 
-tests<-tests[-c(which(is.na(tests$clades))),]
+if(length(which(is.na(tests$clades))) != 0){
+  tests<-tests[-c(which(is.na(tests$clades))),]
+}
 #' Remove any lineages with no potential lineage nodes descended
 
 tests$clades<-gsub("NA,", "", tests$clades)
