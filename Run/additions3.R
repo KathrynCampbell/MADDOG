@@ -5,15 +5,15 @@ args = commandArgs(trailingOnly = T)
 source("Run/seq_designation_nolength.R")
 source("Run/node_info_nolength.R")
 
-devtools::install_github("KathrynCampbell/MADDOG", dependencies = F)
+#devtools::install_github("KathrynCampbell/MADDOG", dependencies = F)
 
 library(dplyr)
 library(ggtree)
 library(ape)
-install.packages("phytools",repos="https://cloud.r-project.org",quiet=TRUE)
+#install.packages("phytools",repos="https://cloud.r-project.org",quiet=TRUE)
 library(phytools)
 library(phangorn)
-install.packages('castor', repos = "http://cran.us.r-project.org")
+#install.packages('castor', repos = "http://cran.us.r-project.org")
 library(castor)
 
 tree<-ape::read.tree(paste(args, "/Trees/", args, "_combined_aligned.fasta.contree", sep = ""))
@@ -510,6 +510,8 @@ if (length(which(updates$count >=10))!= 0) {
         sequence_data$new[i]<-"N"
       }
     }
+
+    lineage_info<-lineage_info[order(lineage_info$lineage),]
     plot_tree<-ggtree::ggtree(tree, colour = "grey50", ladderize = T) %<+% sequence_data +
       ggtree::geom_tippoint(colour = "grey50", size=4)  +
       ggtree::geom_tippoint(ggplot2::aes(color=lineage), size=3)  +
