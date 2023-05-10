@@ -80,6 +80,14 @@ Asian SEA4_A1.1,Philippines,2012,2017,5,Asian SEA4_A1
 Asian SEA4_A1.1.1,Philippines,2012,2016,11,Asian SEA4_A1.1
 Asian SEA4_A1.1.2,Philippines,2013,2019,10,Asian SEA4_A1.1
 Asian SEA4_A1.2,Philippines,2012,2019,15,Asian SEA4_A1
+Asian SEA4_A1.2.1,"c(""Japan"", ""Philippines"")",1994,2020,5,Asian SEA4_A1.2
+Asian SEA4_A1.3,Philippines,1998,2019,8,Asian SEA4_A1
+Asian SEA4_A1.3.1,Philippines,1994,2017,13,Asian SEA4_A1.3
+Asian SEA4_B1,Philippines,1994,2023,9,Asian SEA4_A1.2.1
+Asian SEA4_B1.1,Philippines,2006,2022,6,Asian SEA4_B1
+Asian SEA4_B1.1.1,Philippines,2007,2022,11,Asian SEA4_B1.1
+Asian SEA4_C1,Philippines,2013,2020,13,Asian SEA4_B1.1.1
+Asian SEA4_D1,"c(""Japan"", ""Philippines"")",1998,2015,14,Asian SEA4_A1.1.2
 Asian SEA5_A1,Taiwan,2010,2014,7,Asian
 Asian SEA5_A1.1,Taiwan,2012,2013,7,Asian SEA5_A1
 Asian SEA5_A1.1.1,Taiwan,2010,2014,19,Asian SEA5_A1.1
