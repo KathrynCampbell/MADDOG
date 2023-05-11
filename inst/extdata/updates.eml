@@ -1,0 +1,26 @@
+To: k.campbell.1@research.gla.ac.uk <k.campbell.1@research.gla.ac.uk>
+Subject: MADDOG Updates
+X-Unsent: 1
+Content-Type: multipart/mixed; boundary=--boundary_text_string
+
+----boundary_text_string
+Content-Type: text/html; charset=UTF-8
+
+<html>
+<body>
+<p>New lineages have been found within your dataset! In order for these lineages to be confirmed they need to be added to the MADDOG reference. This is done by emailing the zip file produced by your MADDOG run to Kathryn Campbell. 
+</p>
+<p>
+This *will* involve your sequences being added into MADDOG.
+</p>
+<p>
+If you choose not to have your new lineages included in the reference, please be aware that the generated new lineages exist only for you. The new lineages are not comparable with any other studies or any future studies you run. This is due to MADDOG always picking the next available appropriate name for new lineages. Without your new lineages in the reference, the lineage names are still seen as available and therefore may be assigned to new lineages in other runs that are not related to yours. To solve these compatability issues between your own runs, *all* sequences will need to be rerun each time to ensure any new lineages updated in the reference are included, and to ensure designations are comparable across the whole dataset. 
+</p>
+<p>
+If you are happy for your lineages and sequences to be added to MADDOG, please email the zip file to Kathryn Campbell (email address included here) with the subject "MADDOG Updates". You will recieve a reply when this has been completed and your lineages are confirmed.
+</p>
+<p>
+If you have any questions about the process or the tool, please email Kathryn Campbell (email address included here) with the subject "MADDOG Questions".
+</p>
+</body>
+</html>
