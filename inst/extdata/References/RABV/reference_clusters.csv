@@ -266,6 +266,32 @@ MN726881,Asian SEA4_A1.1.2
 MN726880,Asian SEA4_A1.2
 MN857171,Asian SEA4_A1.2
 MN726845,Asian SEA4_A1.2
+R2-081,Asian SEA4_A1.2.1
+Z-13-184,Asian SEA4_A1.3
+Z-17-57,Asian SEA4_A1.3
+Z-16-209,Asian SEA4_A1.3
+Z-19-029,Asian SEA4_A1.3
+Z-13-234,Asian SEA4_A1.3.1
+Z-13-037,Asian SEA4_A1.3.1
+Z-13-204,Asian SEA4_A1.3.1
+Z-13-098,Asian SEA4_A1.3.1
+H-23-011Sa11,Asian SEA4_B1
+Z-06-39,Asian SEA4_B1
+H-23-011Sk12,Asian SEA4_B1
+Z-08-351,Asian SEA4_B1.1
+4A-22-98,Asian SEA4_B1.1
+4A-22-40,Asian SEA4_B1.1
+4A-22-171,Asian SEA4_B1.1.1
+Z-18-114,Asian SEA4_B1.1.1
+Z-13-135,Asian SEA4_B1.1.1
+Z-16-210,Asian SEA4_B1.1.1
+Z-13-259,Asian SEA4_C1
+Z-20-01,Asian SEA4_C1
+Z-14-05,Asian SEA4_C1
+Z-14-058,Asian SEA4_D1
+Z-98-515,Asian SEA4_D1
+Z-13-086,Asian SEA4_D1
+Z-07-351,Asian SEA4_D1
 KP881356,Asian SEA5_A1
 KP860185,Asian SEA5_A1
 KP860155,Asian SEA5_A1
@@ -587,7 +613,6 @@ GU644769,Bats TB1_A1.1
 KM594030,Bats_A1
 JF693482,Bats_A1
 KM594031,Bats_A1
-ID,cluster
 KX148197,Cosmopolitan AF1a_A1
 MK981888,Cosmopolitan AF1a_A1
 KX148194,Cosmopolitan AF1a_A1
@@ -617,10 +642,6 @@ KR906762,Cosmopolitan AF1b_A1.1.2
 KR906741,Cosmopolitan AF1b_A1.1.2
 KR906761,Cosmopolitan AF1b_A1.1.2
 KR906749,Cosmopolitan AF1b_A1.1.2
-SD818,Cosmopolitan AF1b_A1.1.3
-SD736/1-11923,Cosmopolitan AF1b_A1.1.3
-SD645,Cosmopolitan AF1b_A1.1.3
-SD678,Cosmopolitan AF1b_A1.1.3
 KY210228,Cosmopolitan AF1b_B1
 KR906738,Cosmopolitan AF1b_B1
 KR906786,Cosmopolitan AF1b_B1
@@ -641,21 +662,6 @@ MN726804,Cosmopolitan AF1b_C1
 MN726827,Cosmopolitan AF1b_C1
 KR906754,Cosmopolitan AF1b_C1
 KR906750,Cosmopolitan AF1b_C1
-SD806/1-11923,Cosmopolitan AF1b_D1
-RV3256,Cosmopolitan AF1b_D1
-RV3262,Cosmopolitan AF1b_D1
-SUB7132,Cosmopolitan AF1b_D1
-RAB12002,Cosmopolitan AF1b_D1.1
-SD650,Cosmopolitan AF1b_D1.1
-SD657,Cosmopolitan AF1b_D1.1
-SUB7144,Cosmopolitan AF1b_D1.1
-SD620,Cosmopolitan AF1b_D1.1.1
-SD660,Cosmopolitan AF1b_D1.1.1
-SUB7140,Cosmopolitan AF1b_D1.1.1
-SD740_2019_TZA_nmaistsep2019_medaka/ARTIC/medaka,Cosmopolitan AF1b_E1
-SD734/1-11923,Cosmopolitan AF1b_E1
-SD737/1-11923,Cosmopolitan AF1b_E1
-SD667,Cosmopolitan AF1b_E1
 U22627,Cosmopolitan AF4_A1
 MK760770,Cosmopolitan AF4_A1
 DQ837463,Cosmopolitan AF4_A1
@@ -754,13 +760,6 @@ KJ748635,Cosmopolitan CA1_B1.1
 JQ944706,Cosmopolitan CA2_A1
 MK760766,Cosmopolitan CA2_A1
 MK760756,Cosmopolitan CA2_A1
-MT079912,Cosmopolitan CA2_A1.1
-MT079913,Cosmopolitan CA2_A1.1
-MT079923,Cosmopolitan CA2_A1.1
-MT079929,Cosmopolitan CA2_A1.1
-MT079955,Cosmopolitan CA2_A1.1.1
-MT079894,Cosmopolitan CA2_A1.1.1
-MT079905,Cosmopolitan CA2_A1.1.1
 U43025,Cosmopolitan CA3_A1
 MK598339,Cosmopolitan CA3_A1
 MK598338,Cosmopolitan CA3_A1
@@ -901,17 +900,9 @@ KT336435,Cosmopolitan_C1
 MT454635,Cosmopolitan_C1.1
 MT454648,Cosmopolitan_C1.1
 MT454652,Cosmopolitan_C1.1
-KY553271,Cosmopolitan_C1.1.1
-KY563717,Cosmopolitan_C1.1.1
-KY553267,Cosmopolitan_C1.1.1
-KY553269,Cosmopolitan_C1.1.1
 KX148170,Cosmopolitan_D1
 MN534896,Cosmopolitan_D1
 KX148172,Cosmopolitan_D1
-DQ837412,Cosmopolitan_D1.1
-DQ837421,Cosmopolitan_D1.1
-DQ837427,Cosmopolitan_D1.1
-DQ837413,Cosmopolitan_D1.1
 MK760692,Cosmopolitan_E1
 MK760709,Cosmopolitan_E1
 MK760686,Cosmopolitan_E1
@@ -947,18 +938,6 @@ FJ228514,Cosmopolitan_H1.2
 FJ228515,Cosmopolitan_H1.2
 FJ228506,Cosmopolitan_H1.2
 FJ228511,Cosmopolitan_H1.2
-HM179505,Cosmopolitan_I1
-U22484,Cosmopolitan_I1
-HM179508,Cosmopolitan_I1
-SD809/1-11922,Cosmopolitan_J1
-RV3241,Cosmopolitan_J1
-RV3248,Cosmopolitan_J1
-SD747_2019_TZA_nmaistsep2019_medaka/ARTIC/medaka,Cosmopolitan_J1.1
-SD674,Cosmopolitan_J1.1
-SUB1637,Cosmopolitan_J1.1
-SUB7145,Cosmopolitan_J1.1
-DQ900549,Cosmopolitan_K1
-DQ900557,Cosmopolitan_K1
 MN534894,Indian-Sub_A1
 JX944595,Indian-Sub_A1
 KX148245,Indian-Sub_A1
@@ -1157,43 +1136,3 @@ LN713584,Vac_B1
 LN713550,Vac_B1.1
 LN713588,Vac_B1.1
 LN713557,Vac_B1.1
-Z0083175,Cosmopolitan AF1a_A1.1.1
-Z08151242,Cosmopolitan AF1a_A1.1.1
-Z0826361,Cosmopolitan AF1a_A1.1.1
-Z0826752,Cosmopolitan AF1a_A1.1.1
-Z0083223,Cosmopolitan AF1b_F1
-Z0083226,Cosmopolitan AF1b_F1
-Z0083204,Cosmopolitan AF1b_F1
-Z0083240,Cosmopolitan AF1b_F1
-Z0083219,Cosmopolitan AF1b_F1.1
-Z0083237,Cosmopolitan AF1b_F1.1
-Z0083218,Cosmopolitan AF1b_F1.1
-Z0083205,Cosmopolitan AF1b_F1.1.1
-Z00832441,Cosmopolitan AF1b_F1.1.1
-Z0083225,Cosmopolitan AF1b_F1.1.1
-R2-081,Asian SEA4_A1.2.1
-Z-13-184,Asian SEA4_A1.3
-Z-17-57,Asian SEA4_A1.3
-Z-16-209,Asian SEA4_A1.3
-Z-19-029,Asian SEA4_A1.3
-Z-13-234,Asian SEA4_A1.3.1
-Z-13-037,Asian SEA4_A1.3.1
-Z-13-204,Asian SEA4_A1.3.1
-Z-13-098,Asian SEA4_A1.3.1
-H-23-011Sa11,Asian SEA4_B1
-Z-06-39,Asian SEA4_B1
-H-23-011Sk12,Asian SEA4_B1
-Z-08-351,Asian SEA4_B1.1
-4A-22-98,Asian SEA4_B1.1
-4A-22-40,Asian SEA4_B1.1
-4A-22-171,Asian SEA4_B1.1.1
-Z-18-114,Asian SEA4_B1.1.1
-Z-13-135,Asian SEA4_B1.1.1
-Z-16-210,Asian SEA4_B1.1.1
-Z-13-259,Asian SEA4_C1
-Z-20-01,Asian SEA4_C1
-Z-14-05,Asian SEA4_C1
-Z-14-058,Asian SEA4_D1
-Z-98-515,Asian SEA4_D1
-Z-13-086,Asian SEA4_D1
-Z-07-351,Asian SEA4_D1
