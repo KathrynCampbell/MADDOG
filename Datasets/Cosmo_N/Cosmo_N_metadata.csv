@@ -39,37 +39,34 @@ AB645847,Cosmopolitan AM1,United States,2012
 AB839169,Cosmopolitan,-,2013
 AB839170,Cosmopolitan,-,2013
 AF045664,Cosmopolitan,-,1998
-AF406695,Cosmopolitan Vac,-,2003
-AF406696,Cosmopolitan Vac,-,2003
-AF499686,Cosmopolitan Vac,-,2002
-AY352455,Cosmopolitan CA1,-,2004
-AY352456,Cosmopolitan CA1,-,2004
-AY352461,Cosmopolitan CA1,-,2004
-AY352463,Cosmopolitan CA1,-,2004
-AY352464,Cosmopolitan CA1,-,2004
-AY352465,Cosmopolitan CA1,-,2004
-AY352466,Cosmopolitan CA1,-,2004
-AY352467,Cosmopolitan CA1,-,2004
-AY352468,Cosmopolitan CA1,-,2004
-AY352469,Cosmopolitan CA1,-,2004
-AY352470,Cosmopolitan CA1,-,2004
-AY352471,Cosmopolitan CA1,-,2004
-AY352472,Cosmopolitan CA1,-,2004
-AY352473,Cosmopolitan CA1,-,2004
-AY352474,Cosmopolitan NEE,-,2004
-AY352475,Cosmopolitan NEE,-,2004
-AY352477,Cosmopolitan CA1,-,2004
-AY352478,Cosmopolitan CA1,-,2004
-AY352481,Cosmopolitan CA1,-,2004
-AY352482,Cosmopolitan CA1,-,2004
-AY352483,Cosmopolitan CA1,-,2004
-AY352484,Cosmopolitan CA1,-,2004
-AY352485,Cosmopolitan CA1,-,2004
-AY352489,Cosmopolitan CA1,-,2004
-AY352490,Cosmopolitan CA1,-,2004
-AY352491,Cosmopolitan CA1,-,2004
-AY352492,Cosmopolitan CA1,-,2004
-AY352497,Cosmopolitan CA2,-,2004
+AY352455,Cosmopolitan CA1,Russia,2004
+AY352456,Cosmopolitan CA1,Russia,2004
+AY352461,Cosmopolitan CA1,Russia,2004
+AY352463,Cosmopolitan CA1,Russia,2004
+AY352464,Cosmopolitan CA1,Russia,2004
+AY352465,Cosmopolitan CA1,Russia,2004
+AY352466,Cosmopolitan CA1,Russia,2004
+AY352467,Cosmopolitan CA1,Russia,2004
+AY352468,Cosmopolitan CA1,Russia,2004
+AY352469,Cosmopolitan CA1,Russia,2004
+AY352470,Cosmopolitan CA1,Russia,2004
+AY352471,Cosmopolitan CA1,Russia,2004
+AY352472,Cosmopolitan CA1,Russia,2004
+AY352473,Cosmopolitan CA1,Russia,2004
+AY352474,Cosmopolitan NEE,Russia,2004
+AY352475,Cosmopolitan NEE,Russia,2004
+AY352477,Cosmopolitan CA1,Russia,2004
+AY352478,Cosmopolitan CA1,Russia,2004
+AY352481,Cosmopolitan CA1,Russia,2004
+AY352482,Cosmopolitan CA1,Russia,2004
+AY352483,Cosmopolitan CA1,Russia,2004
+AY352484,Cosmopolitan CA1,Russia,2004
+AY352485,Cosmopolitan CA1,Russia,2004
+AY352489,Cosmopolitan CA1,Kazakhstan,2004
+AY352490,Cosmopolitan CA1,Kazakhstan,2004
+AY352491,Cosmopolitan CA1,Kazakhstan,2004
+AY352492,Cosmopolitan CA1,Kazakhstan,2004
+AY352497,Cosmopolitan CA2,Georgia,2004
 AY500827,Cosmopolitan AF1a,Ethiopia,2004
 AY854504,Cosmopolitan AM2a,Cuba,2000
 AY854505,Cosmopolitan AM2a,Cuba,2001
@@ -116,26 +113,9 @@ AY854586,Cosmopolitan CA1,Iran,2005
 AY854589,Cosmopolitan AM2a,Mexico,1990
 AY854591,Cosmopolitan AM2a,Mexico,1996
 AY854593,Cosmopolitan,Mexico,2005
-DD161903,Cosmopolitan Vac,-,2005
-DD161904,Cosmopolitan Vac,-,2005
-DD161905,Cosmopolitan Vac,-,2005
-DD161906,Cosmopolitan Vac,-,2005
-DI035301,Cosmopolitan Vac,-,2008
-DI043469,Cosmopolitan Vac,-,2008
-DI046747,Cosmopolitan Vac,-,2008
-DI084725,Cosmopolitan Vac,-,2008
 DQ099524,Cosmopolitan,-,2005
 DQ099525,Cosmopolitan,-,2005
 DQ149104,Cosmopolitan,Brazil,2005
-DQ666288,Cosmopolitan Vac,China,2006
-DQ666292,Cosmopolitan Vac,China,2006
-DQ666293,Cosmopolitan Vac,China,2006
-DQ666301,Cosmopolitan Vac,China,2006
-DQ666303,Cosmopolitan Vac,China,2006
-DQ666305,Cosmopolitan Vac,China,2006
-DQ666310,Cosmopolitan Vac,China,2006
-DQ666313,Cosmopolitan Vac,China,2006
-DQ666320,Cosmopolitan Vac,China,2006
 DQ666322,Cosmopolitan,China,2006
 DQ837382,Cosmopolitan ME1a,Israel,1997
 DQ837383,Cosmopolitan ME1a,Israel,1996
@@ -235,7 +215,6 @@ DQ837484,Cosmopolitan ME1a,Israel,1995
 DQ837485,Cosmopolitan ME1a,Israel,1996
 DQ837486,Cosmopolitan ME2,Israel,2005
 DQ837487,Cosmopolitan ME1a,Israel,2004
-DQ840098,Arctic AL1a,India,2006
 DQ875050,Cosmopolitan,China,2006
 DQ875051,Cosmopolitan,China,2006
 DQ900547,Cosmopolitan AF1b,Tanzania,1996
@@ -264,10 +243,6 @@ EF152257,Cosmopolitan,Brazil,2006
 EF152267,Cosmopolitan,Brazil,2006
 EF152271,Cosmopolitan,Brazil,2006
 EF194161,Cosmopolitan,Brazil,2007
-EF206709,Cosmopolitan Vac,-,2007
-EF206715,Cosmopolitan Vac,-,2007
-EF206716,Cosmopolitan Vac,-,2007
-EF206719,Cosmopolitan Vac,-,2007
 EF542830,Cosmopolitan,Russia,2008
 EF614254,Cosmopolitan CA1,Mongolia,2008
 EF614255,Cosmopolitan CA1,Mongolia,2008
@@ -313,17 +288,6 @@ EU853587,Cosmopolitan AF1b,Central African Republic,2006
 EU853588,Cosmopolitan AF1b,Central African Republic,2006
 EU853589,Cosmopolitan AF1b,Central African Republic,2007
 EU853590,Cosmopolitan AF1b,Central African Republic,2000
-EU877067,Cosmopolitan Vac,-,2008
-EU877068,Cosmopolitan Vac,-,2008
-EU877069,Cosmopolitan Vac,-,2008
-EU877070,Cosmopolitan Vac,-,2008
-EU877071,Cosmopolitan Vac,-,2008
-EU886631,Cosmopolitan Vac,Germany,2001
-EU886632,Cosmopolitan Vac,Germany,2002
-EU886633,Cosmopolitan Vac,Austria,2004
-EU886634,Cosmopolitan Vac,Germany,2004
-EU886635,Cosmopolitan Vac,Germany,2005
-EU886636,Cosmopolitan Vac,Austria,2006
 FJ228494,Cosmopolitan,Mexico,2007
 FJ228495,Cosmopolitan,Puerto Rico,2004
 FJ228496,Cosmopolitan,Puerto Rico,2006
@@ -376,305 +340,301 @@ FJ228545,Cosmopolitan,Mexico,2000
 FJ424484,Cosmopolitan WE,Italy,2008
 FJ440104,Cosmopolitan AF1a,Equatorial Guinea,2008
 FJ577895,Cosmopolitan,China,2009
-GQ406343,Cosmopolitan Vac,China,2005
 GQ412744,Cosmopolitan,China,1931
-GQ478245,Cosmopolitan WE,-,2009
+GQ478245,Cosmopolitan WE,Italy,2009
 GQ918139,Cosmopolitan,-,2010
 GU565703,Cosmopolitan,-,1948
 GU565704,Cosmopolitan,-,1948
-GU798102,Cosmopolitan AF1a,-,1986
-GU798103,Cosmopolitan AF1a,-,1986
-GU798104,Cosmopolitan AF1a,-,1986
-GU798105,Cosmopolitan AF1a,-,1986
-GU798106,Cosmopolitan AF1a,-,1986
-GU798107,Cosmopolitan AF1a,-,1986
-GU798108,Cosmopolitan AF1a,-,1986
-GU798109,Cosmopolitan AF1a,-,2002
-GU798110,Cosmopolitan AF1a,-,1990
-GU798111,Cosmopolitan AF1a,-,1990
-GU798112,Cosmopolitan AF1a,-,1990
-GU798113,Cosmopolitan AF1a,-,2007
-GU798114,Cosmopolitan AF1a,-,2007
-GU798115,Cosmopolitan AF1a,-,2007
-GU798116,Cosmopolitan AF1a,-,2008
-GU798117,Cosmopolitan AF1a,-,2008
-GU798118,Cosmopolitan AF1a,-,2007
-GU798119,Cosmopolitan AF1a,-,2006
-GU798120,Cosmopolitan AF1a,-,2007
-GU798121,Cosmopolitan AF1a,-,2006
-GU798122,Cosmopolitan AF1a,-,2003
-GU798123,Cosmopolitan AF1a,-,2007
-GU798124,Cosmopolitan AF1a,-,2007
-GU798125,Cosmopolitan AF1a,-,1990
-GU798126,Cosmopolitan AF1a,-,2008
-GU798127,Cosmopolitan AF1a,-,2006
-GU798128,Cosmopolitan AF1a,-,2007
-GU798129,Cosmopolitan AF1a,-,2007
-GU798130,Cosmopolitan AF1a,-,2008
-GU798131,Cosmopolitan AF1a,-,2007
-GU798132,Cosmopolitan AF1a,-,2004
-GU798133,Cosmopolitan AF1a,-,2006
-GU798134,Cosmopolitan AF1a,-,2007
-GU798135,Cosmopolitan AF1a,-,2007
-GU798136,Cosmopolitan AF1a,-,2007
-GU798137,Cosmopolitan AF1a,-,2007
-GU798138,Cosmopolitan AF1a,-,2007
-GU798139,Cosmopolitan AF1a,-,2007
-GU798140,Cosmopolitan AF1a,-,2007
-GU798141,Cosmopolitan AF1a,-,2004
-GU798142,Cosmopolitan AF1a,-,1991
-GU798143,Cosmopolitan AF1a,-,2007
-GU798144,Cosmopolitan AF1a,-,2008
-GU798145,Cosmopolitan AF1a,-,2008
-GU798146,Cosmopolitan AF1a,-,2007
-GU798147,Cosmopolitan AF1a,-,2008
-GU798148,Cosmopolitan AF1a,-,2008
-GU798149,Cosmopolitan AF1a,-,2007
-GU798150,Cosmopolitan AF1a,-,2007
-GU798151,Cosmopolitan AF1a,-,2007
-GU798152,Cosmopolitan AF1a,-,2007
-GU798153,Cosmopolitan AF1a,-,2007
-GU798154,Cosmopolitan AF1a,-,2007
-GU798155,Cosmopolitan AF1a,-,2008
-GU798156,Cosmopolitan AF1a,-,2004
-GU798157,Cosmopolitan AF1a,-,2007
-GU798158,Cosmopolitan AF1a,-,2007
-GU798159,Cosmopolitan AF1a,-,2007
-GU798160,Cosmopolitan AF1a,-,2007
-GU798161,Cosmopolitan AF1a,-,1987
-GU798162,Cosmopolitan AF1a,-,2007
-GU798163,Cosmopolitan AF1a,-,2007
-GU798164,Cosmopolitan AF1a,-,2007
-GU798165,Cosmopolitan AF1a,-,2007
-GU798166,Cosmopolitan AF1a,-,2007
-GU798167,Cosmopolitan AF1a,-,2008
-GU798168,Cosmopolitan AF1a,-,2008
-GU798169,Cosmopolitan AF1a,-,2003
-GU798170,Cosmopolitan AF1a,-,2007
-GU798171,Cosmopolitan AF1a,-,2008
-GU798172,Cosmopolitan AF1a,-,2008
-GU798173,Cosmopolitan AF1a,-,2007
-GU798174,Cosmopolitan AF1a,-,2007
-GU798175,Cosmopolitan AF1a,-,2007
-GU798176,Cosmopolitan AF1a,-,2007
-GU798177,Cosmopolitan AF1a,-,2007
-GU798178,Cosmopolitan AF1a,-,2007
-GU798179,Cosmopolitan AF1a,-,2007
-GU798180,Cosmopolitan AF1a,-,2007
-GU798181,Cosmopolitan AF1a,-,2008
-GU798182,Cosmopolitan AF1a,-,2007
-GU798183,Cosmopolitan AF1a,-,2007
-GU798184,Cosmopolitan AF1a,-,2007
-GU798185,Cosmopolitan AF1a,-,2007
-GU798186,Cosmopolitan AF1a,-,2007
-GU798187,Cosmopolitan AF1a,-,2007
-GU798188,Cosmopolitan AF1a,-,2007
-GU798189,Cosmopolitan AF1a,-,2007
-GU798190,Cosmopolitan AF1a,-,2007
-GU798191,Cosmopolitan AF1a,-,2007
-GU798192,Cosmopolitan AF1a,-,2008
-GU798193,Cosmopolitan AF1a,-,2003
-GU798194,Cosmopolitan AF1a,-,2004
-GU798195,Cosmopolitan AF1a,-,2007
-GU798196,Cosmopolitan AF1a,-,2007
-GU798197,Cosmopolitan AF1a,-,2008
-GU798198,Cosmopolitan AF1a,-,2006
-GU798199,Cosmopolitan AF1a,-,2007
-GU798200,Cosmopolitan AF1a,-,2003
-GU798201,Cosmopolitan AF1a,-,2007
-GU798202,Cosmopolitan AF1a,-,2005
-GU798203,Cosmopolitan AF1a,-,2007
-GU798204,Cosmopolitan AF1a,-,2007
-GU798205,Cosmopolitan AF1a,-,2007
-GU798206,Cosmopolitan AF1a,-,2006
-GU798207,Cosmopolitan AF1a,-,2007
-GU798208,Cosmopolitan AF1a,-,2007
-GU798209,Cosmopolitan AF1a,-,2008
-GU798210,Cosmopolitan AF1a,-,2007
-GU798211,Cosmopolitan AF1a,-,2007
-GU798212,Cosmopolitan AF1a,-,2007
-GU798213,Cosmopolitan AF1a,-,2007
-GU798214,Cosmopolitan AF1a,-,2007
-GU798215,Cosmopolitan AF1a,-,2007
-GU798216,Cosmopolitan AF1a,-,2007
-GU798217,Cosmopolitan AF1a,-,2007
-GU798218,Cosmopolitan AF1a,-,2007
-GU798219,Cosmopolitan AF1a,-,2007
-GU798220,Cosmopolitan AF1a,-,2007
-GU798221,Cosmopolitan AF1a,-,2008
-GU798222,Cosmopolitan AF1a,-,2007
-GU798223,Cosmopolitan AF1a,-,2007
-GU798224,Cosmopolitan AF1a,-,2007
-GU798225,Cosmopolitan AF1a,-,2007
-GU798226,Cosmopolitan AF1a,-,2007
-GU798227,Cosmopolitan AF1a,-,2007
-GU798228,Cosmopolitan AF1a,-,2007
-GU798229,Cosmopolitan AF1a,-,2007
-GU798230,Cosmopolitan AF1a,-,2008
-GU798231,Cosmopolitan AF1a,-,1990
-GU798232,Cosmopolitan AF1a,-,2007
-GU798233,Cosmopolitan AF1a,-,2008
-GU798234,Cosmopolitan AF1a,-,2006
-GU798235,Cosmopolitan AF1a,-,2007
-GU798236,Cosmopolitan AF1a,-,2007
-GU798237,Cosmopolitan AF1a,-,2007
-GU798238,Cosmopolitan AF1a,-,2007
-GU798239,Cosmopolitan AF1a,-,2007
-GU798240,Cosmopolitan AF1a,-,2007
-GU798241,Cosmopolitan AF1a,-,2007
-GU798242,Cosmopolitan AF1a,-,2007
-GU798243,Cosmopolitan AF1a,-,2007
-GU798244,Cosmopolitan AF1a,-,2007
-GU798245,Cosmopolitan AF1a,-,2005
-GU798246,Cosmopolitan AF1a,-,2002
-GU798247,Cosmopolitan AF1a,-,1995
-GU798248,Cosmopolitan AF1a,-,2008
-GU798249,Cosmopolitan AF1a,-,2007
-GU798250,Cosmopolitan AF1a,-,2007
-GU798251,Cosmopolitan AF1a,-,2007
-GU798252,Cosmopolitan AF1a,-,2008
-GU798253,Cosmopolitan AF1a,-,2007
-GU798254,Cosmopolitan AF1a,-,2007
-GU798255,Cosmopolitan AF1a,-,1986
-GU798256,Cosmopolitan AF1a,-,2008
-GU798257,Cosmopolitan AF1a,-,2007
-GU798258,Cosmopolitan AF1a,-,2008
-GU798259,Cosmopolitan AF1a,-,2007
-GU798260,Cosmopolitan AF1a,-,2007
-GU798261,Cosmopolitan AF1a,-,2008
-GU798262,Cosmopolitan AF1a,-,2007
-GU798263,Cosmopolitan AF1a,-,1993
-GU798264,Cosmopolitan AF1a,-,1992
-GU798265,Cosmopolitan AF1a,-,1991
-GU798266,Cosmopolitan AF1a,-,2003
-GU798267,Cosmopolitan AF1a,-,2007
-GU798268,Cosmopolitan AF1a,-,2007
-GU798269,Cosmopolitan AF1a,-,2007
-GU798270,Cosmopolitan AF1a,-,2003
-GU798271,Cosmopolitan AF1a,-,2007
-GU798272,Cosmopolitan AF1a,-,2007
-GU798273,Cosmopolitan AF1a,-,2007
-GU798274,Cosmopolitan AF1a,-,2008
-GU798275,Cosmopolitan AF1a,-,2007
-GU798276,Cosmopolitan AF1a,-,2008
-GU798277,Cosmopolitan AF1a,-,2004
-GU798278,Cosmopolitan AF1a,-,2007
-GU798279,Cosmopolitan AF1a,-,2007
-GU798280,Cosmopolitan AF1a,-,2003
-GU798281,Cosmopolitan AF1a,-,2007
-GU798282,Cosmopolitan AF1a,-,2007
-GU798283,Cosmopolitan AF1a,-,2007
-GU798284,Cosmopolitan AF1a,-,2008
-GU798285,Cosmopolitan AF1a,-,2007
-GU798286,Cosmopolitan AF1a,-,2008
-GU798287,Cosmopolitan AF1a,-,2007
-GU798288,Cosmopolitan AF1a,-,2008
-GU798289,Cosmopolitan AF1a,-,1996
-GU798290,Cosmopolitan AF1a,-,2007
-GU798291,Cosmopolitan AF1a,-,2002
-GU798292,Cosmopolitan AF1a,-,2005
-GU798293,Cosmopolitan AF1a,-,2007
-GU798294,Cosmopolitan AF1a,-,2007
-GU798295,Cosmopolitan AF1a,-,2008
-GU798296,Cosmopolitan AF1a,-,2005
-GU798297,Cosmopolitan AF1a,-,1996
-GU798298,Cosmopolitan AF1a,-,1991
-GU798299,Cosmopolitan AF1a,-,2007
-GU798300,Cosmopolitan AF1a,-,2003
-GU798301,Cosmopolitan AF1a,-,2004
-GU798302,Cosmopolitan AF1a,-,2004
-GU798303,Cosmopolitan AF1a,-,2004
-GU798304,Cosmopolitan AF1a,-,2002
-GU798305,Cosmopolitan AF1a,-,2007
-GU798306,Cosmopolitan AF1a,-,2008
-GU798307,Cosmopolitan AF1a,-,2002
-GU798308,Cosmopolitan AF1a,-,2007
-GU798309,Cosmopolitan AF1a,-,2007
-GU798310,Cosmopolitan AF1a,-,2007
-GU798311,Cosmopolitan AF1a,-,2007
-GU798312,Cosmopolitan AF1a,-,2004
-GU798313,Cosmopolitan AF1a,-,2008
-GU798314,Cosmopolitan AF1a,-,2007
-GU798315,Cosmopolitan AF1a,-,2007
-GU798316,Cosmopolitan AF1a,-,2001
-GU798317,Cosmopolitan AF1a,-,2007
-GU798318,Cosmopolitan AF1a,-,2001
-GU798319,Cosmopolitan AF1a,-,2008
-GU798320,Cosmopolitan AF1a,-,2008
-GU798321,Cosmopolitan AF1a,-,2007
-GU798322,Cosmopolitan AF1a,-,2007
-GU798323,Cosmopolitan AF1a,-,2007
-GU798324,Cosmopolitan AF1a,-,2007
-GU798325,Cosmopolitan AF1a,-,2007
-GU798326,Cosmopolitan AF1a,-,2007
-GU798327,Cosmopolitan AF1a,-,2003
-GU798328,Cosmopolitan AF1a,-,2003
-GU798329,Cosmopolitan AF1a,-,2002
-GU798330,Cosmopolitan AF1a,-,2004
-GU798331,Cosmopolitan AF1a,-,2004
-GU798332,Cosmopolitan AF1a,-,2003
-GU798333,Cosmopolitan AF1a,-,2002
-GU798334,Cosmopolitan AF1a,-,2002
-GU798335,Cosmopolitan AF1a,-,2004
-GU798336,Cosmopolitan AF1a,-,2007
-GU798337,Cosmopolitan AF1a,-,2007
-GU798338,Cosmopolitan AF1a,-,2004
-GU798339,Cosmopolitan AF1a,-,2007
-GU798340,Cosmopolitan AF1a,-,2008
-GU798341,Cosmopolitan AF1a,-,2004
-GU798342,Cosmopolitan AF1a,-,2004
-GU798343,Cosmopolitan AF1a,-,2001
-GU798344,Cosmopolitan AF1a,-,2003
-GU798345,Cosmopolitan AF1a,-,2002
-GU798346,Cosmopolitan AF1a,-,2002
-GU798347,Cosmopolitan AF1a,-,2007
-GU798348,Cosmopolitan AF1a,-,2001
-GU798349,Cosmopolitan AF1a,-,2003
-GU798350,Cosmopolitan AF1a,-,2007
-GU798351,Cosmopolitan AF1a,-,2004
-GU798352,Cosmopolitan AF1a,-,2003
-GU798353,Cosmopolitan AF1a,-,2004
-GU798354,Cosmopolitan AF1a,-,2008
-GU798355,Cosmopolitan AF1a,-,2007
-GU798356,Cosmopolitan AF1a,-,2007
-GU798357,Cosmopolitan AF1a,-,2007
-GU798358,Cosmopolitan AF1a,-,2007
-GU798359,Cosmopolitan AF1a,-,2007
-GU798360,Cosmopolitan AF1a,-,2008
-GU798361,Cosmopolitan AF1a,-,2007
-GU798362,Cosmopolitan AF1a,-,2008
-GU798363,Cosmopolitan AF1a,-,2008
-GU798364,Cosmopolitan AF1a,-,2008
-GU798365,Cosmopolitan AF1a,-,2008
-GU798366,Cosmopolitan AF1a,-,2008
-GU798367,Cosmopolitan AF1a,-,2008
-GU798368,Cosmopolitan AF1a,-,2008
-GU798369,Cosmopolitan AF1a,-,2008
-GU798370,Cosmopolitan AF1a,-,2007
-GU798371,Cosmopolitan AF1a,-,2001
-GU798372,Cosmopolitan AF1a,-,2008
-GU798373,Cosmopolitan AF1a,-,2008
-GU798374,Cosmopolitan AF1a,-,2001
-GU798375,Cosmopolitan AF1a,-,2003
-GU798376,Cosmopolitan AF1a,-,2001
-GU798377,Cosmopolitan AF1a,-,2002
-GU798378,Cosmopolitan AF1a,-,2001
-GU798379,Cosmopolitan AF1a,-,2002
-GU798380,Cosmopolitan AF1a,-,2007
-GU798381,Cosmopolitan AF1a,-,2001
-GU798382,Cosmopolitan AF1a,-,2003
-GU798383,Cosmopolitan AF1a,-,2004
-GU798384,Cosmopolitan AF1a,-,2002
-GU798385,Cosmopolitan AF1a,-,2001
-GU798386,Cosmopolitan AF1a,-,2001
-GU798387,Cosmopolitan AF1a,-,2004
-GU798388,Cosmopolitan AF1a,-,2007
-GU991844,Cosmopolitan Vac2,Mexico,2003
+GU798102,Cosmopolitan AF1a,Tunisia,1986
+GU798103,Cosmopolitan AF1a,Tunisia,1986
+GU798104,Cosmopolitan AF1a,Tunisia,1986
+GU798105,Cosmopolitan AF1a,Tunisia,1986
+GU798106,Cosmopolitan AF1a,Tunisia,1986
+GU798107,Cosmopolitan AF1a,Tunisia,1986
+GU798108,Cosmopolitan AF1a,Tunisia,1986
+GU798109,Cosmopolitan AF1a,Algeria,2002
+GU798110,Cosmopolitan AF1a,Morocco,1990
+GU798111,Cosmopolitan AF1a,Morocco,1990
+GU798112,Cosmopolitan AF1a,Morocco,1990
+GU798113,Cosmopolitan AF1a,Morocco,2007
+GU798114,Cosmopolitan AF1a,Morocco,2007
+GU798115,Cosmopolitan AF1a,Morocco,2007
+GU798116,Cosmopolitan AF1a,Morocco,2008
+GU798117,Cosmopolitan AF1a,Morocco,2008
+GU798118,Cosmopolitan AF1a,Morocco,2007
+GU798119,Cosmopolitan AF1a,Morocco,2006
+GU798120,Cosmopolitan AF1a,Morocco,2007
+GU798121,Cosmopolitan AF1a,Morocco,2006
+GU798122,Cosmopolitan AF1a,Morocco,2003
+GU798123,Cosmopolitan AF1a,Morocco,2007
+GU798124,Cosmopolitan AF1a,Morocco,2007
+GU798125,Cosmopolitan AF1a,Morocco,1990
+GU798126,Cosmopolitan AF1a,Morocco,2008
+GU798127,Cosmopolitan AF1a,Morocco,2006
+GU798128,Cosmopolitan AF1a,Morocco,2007
+GU798129,Cosmopolitan AF1a,Morocco,2007
+GU798130,Cosmopolitan AF1a,Morocco,2008
+GU798131,Cosmopolitan AF1a,Morocco,2007
+GU798132,Cosmopolitan AF1a,Morocco,2004
+GU798133,Cosmopolitan AF1a,Morocco,2006
+GU798134,Cosmopolitan AF1a,Morocco,2007
+GU798135,Cosmopolitan AF1a,Morocco,2007
+GU798136,Cosmopolitan AF1a,Morocco,2007
+GU798137,Cosmopolitan AF1a,Morocco,2007
+GU798138,Cosmopolitan AF1a,Morocco,2007
+GU798139,Cosmopolitan AF1a,Morocco,2007
+GU798140,Cosmopolitan AF1a,Morocco,2007
+GU798141,Cosmopolitan AF1a,Morocco,2004
+GU798142,Cosmopolitan AF1a,Spain,1991
+GU798143,Cosmopolitan AF1a,Morocco,2007
+GU798144,Cosmopolitan AF1a,Algeria,2008
+GU798145,Cosmopolitan AF1a,Algeria,2008
+GU798146,Cosmopolitan AF1a,Morocco,2007
+GU798147,Cosmopolitan AF1a,Morocco,2008
+GU798148,Cosmopolitan AF1a,Morocco,2008
+GU798149,Cosmopolitan AF1a,Morocco,2007
+GU798150,Cosmopolitan AF1a,Morocco,2007
+GU798151,Cosmopolitan AF1a,Morocco,2007
+GU798152,Cosmopolitan AF1a,Morocco,2007
+GU798153,Cosmopolitan AF1a,Morocco,2007
+GU798154,Cosmopolitan AF1a,Morocco,2007
+GU798155,Cosmopolitan AF1a,Morocco,2008
+GU798156,Cosmopolitan AF1a,Morocco,2004
+GU798157,Cosmopolitan AF1a,Morocco,2007
+GU798158,Cosmopolitan AF1a,Morocco,2007
+GU798159,Cosmopolitan AF1a,Morocco,2007
+GU798160,Cosmopolitan AF1a,Morocco,2007
+GU798161,Cosmopolitan AF1a,Spain,1987
+GU798162,Cosmopolitan AF1a,Morocco,2007
+GU798163,Cosmopolitan AF1a,Morocco,2007
+GU798164,Cosmopolitan AF1a,Morocco,2007
+GU798165,Cosmopolitan AF1a,Morocco,2007
+GU798166,Cosmopolitan AF1a,Morocco,2007
+GU798167,Cosmopolitan AF1a,Morocco,2008
+GU798168,Cosmopolitan AF1a,Morocco,2008
+GU798169,Cosmopolitan AF1a,Morocco,2003
+GU798170,Cosmopolitan AF1a,Morocco,2007
+GU798171,Cosmopolitan AF1a,Morocco,2008
+GU798172,Cosmopolitan AF1a,Morocco,2008
+GU798173,Cosmopolitan AF1a,Morocco,2007
+GU798174,Cosmopolitan AF1a,Morocco,2007
+GU798175,Cosmopolitan AF1a,Morocco,2007
+GU798176,Cosmopolitan AF1a,Morocco,2007
+GU798177,Cosmopolitan AF1a,Morocco,2007
+GU798178,Cosmopolitan AF1a,Morocco,2007
+GU798179,Cosmopolitan AF1a,Morocco,2007
+GU798180,Cosmopolitan AF1a,Morocco,2007
+GU798181,Cosmopolitan AF1a,Morocco,2008
+GU798182,Cosmopolitan AF1a,Morocco,2007
+GU798183,Cosmopolitan AF1a,Morocco,2007
+GU798184,Cosmopolitan AF1a,Morocco,2007
+GU798185,Cosmopolitan AF1a,Morocco,2007
+GU798186,Cosmopolitan AF1a,Morocco,2007
+GU798187,Cosmopolitan AF1a,Morocco,2007
+GU798188,Cosmopolitan AF1a,Morocco,2007
+GU798189,Cosmopolitan AF1a,Morocco,2007
+GU798190,Cosmopolitan AF1a,Morocco,2007
+GU798191,Cosmopolitan AF1a,Morocco,2007
+GU798192,Cosmopolitan AF1a,Italy,2008
+GU798193,Cosmopolitan AF1a,Morocco,2003
+GU798194,Cosmopolitan AF1a,Morocco,2004
+GU798195,Cosmopolitan AF1a,Morocco,2007
+GU798196,Cosmopolitan AF1a,Morocco,2007
+GU798197,Cosmopolitan AF1a,Morocco,2008
+GU798198,Cosmopolitan AF1a,Morocco,2006
+GU798199,Cosmopolitan AF1a,Morocco,2007
+GU798200,Cosmopolitan AF1a,Morocco,2003
+GU798201,Cosmopolitan AF1a,Morocco,2007
+GU798202,Cosmopolitan AF1a,Morocco,2005
+GU798203,Cosmopolitan AF1a,Morocco,2007
+GU798204,Cosmopolitan AF1a,Morocco,2007
+GU798205,Cosmopolitan AF1a,Morocco,2007
+GU798206,Cosmopolitan AF1a,Morocco,2006
+GU798207,Cosmopolitan AF1a,Morocco,2007
+GU798208,Cosmopolitan AF1a,Morocco,2007
+GU798209,Cosmopolitan AF1a,Morocco,2008
+GU798210,Cosmopolitan AF1a,Morocco,2007
+GU798211,Cosmopolitan AF1a,Morocco,2007
+GU798212,Cosmopolitan AF1a,Morocco,2007
+GU798213,Cosmopolitan AF1a,Morocco,2007
+GU798214,Cosmopolitan AF1a,Morocco,2007
+GU798215,Cosmopolitan AF1a,Morocco,2007
+GU798216,Cosmopolitan AF1a,Morocco,2007
+GU798217,Cosmopolitan AF1a,Morocco,2007
+GU798218,Cosmopolitan AF1a,Morocco,2007
+GU798219,Cosmopolitan AF1a,Morocco,2007
+GU798220,Cosmopolitan AF1a,Morocco,2007
+GU798221,Cosmopolitan AF1a,Morocco,2008
+GU798222,Cosmopolitan AF1a,Morocco,2007
+GU798223,Cosmopolitan AF1a,Morocco,2007
+GU798224,Cosmopolitan AF1a,Morocco,2007
+GU798225,Cosmopolitan AF1a,Morocco,2007
+GU798226,Cosmopolitan AF1a,Morocco,2007
+GU798227,Cosmopolitan AF1a,Morocco,2007
+GU798228,Cosmopolitan AF1a,Morocco,2007
+GU798229,Cosmopolitan AF1a,Morocco,2007
+GU798230,Cosmopolitan AF1a,Morocco,2008
+GU798231,Cosmopolitan AF1a,Morocco,1990
+GU798232,Cosmopolitan AF1a,Morocco,2007
+GU798233,Cosmopolitan AF1a,Morocco,2008
+GU798234,Cosmopolitan AF1a,Morocco,2006
+GU798235,Cosmopolitan AF1a,Morocco,2007
+GU798236,Cosmopolitan AF1a,Morocco,2007
+GU798237,Cosmopolitan AF1a,Morocco,2007
+GU798238,Cosmopolitan AF1a,Morocco,2007
+GU798239,Cosmopolitan AF1a,Morocco,2007
+GU798240,Cosmopolitan AF1a,Morocco,2007
+GU798241,Cosmopolitan AF1a,Morocco,2007
+GU798242,Cosmopolitan AF1a,Morocco,2007
+GU798243,Cosmopolitan AF1a,Morocco,2007
+GU798244,Cosmopolitan AF1a,Morocco,2007
+GU798245,Cosmopolitan AF1a,Spain,2005
+GU798246,Cosmopolitan AF1a,Spain,2002
+GU798247,Cosmopolitan AF1a,Spain,1995
+GU798248,Cosmopolitan AF1a,Morocco,2008
+GU798249,Cosmopolitan AF1a,Morocco,2007
+GU798250,Cosmopolitan AF1a,Morocco,2007
+GU798251,Cosmopolitan AF1a,Morocco,2007
+GU798252,Cosmopolitan AF1a,Morocco,2008
+GU798253,Cosmopolitan AF1a,Morocco,2007
+GU798254,Cosmopolitan AF1a,Morocco,2007
+GU798255,Cosmopolitan AF1a,Morocco,1986
+GU798256,Cosmopolitan AF1a,Morocco,2008
+GU798257,Cosmopolitan AF1a,Morocco,2007
+GU798258,Cosmopolitan AF1a,Morocco,2008
+GU798259,Cosmopolitan AF1a,Morocco,2007
+GU798260,Cosmopolitan AF1a,Morocco,2007
+GU798261,Cosmopolitan AF1a,Algeria,2008
+GU798262,Cosmopolitan AF1a,Algeria,2007
+GU798263,Cosmopolitan AF1a,Spain,1993
+GU798264,Cosmopolitan AF1a,Spain,1992
+GU798265,Cosmopolitan AF1a,Spain,1991
+GU798266,Cosmopolitan AF1a,Algeria,2003
+GU798267,Cosmopolitan AF1a,Algeria,2007
+GU798268,Cosmopolitan AF1a,Morocco,2007
+GU798269,Cosmopolitan AF1a,Morocco,2007
+GU798270,Cosmopolitan AF1a,Algeria,2003
+GU798271,Cosmopolitan AF1a,Morocco,2007
+GU798272,Cosmopolitan AF1a,Morocco,2007
+GU798273,Cosmopolitan AF1a,Algeria,2007
+GU798274,Cosmopolitan AF1a,Algeria,2008
+GU798275,Cosmopolitan AF1a,Algeria,2007
+GU798276,Cosmopolitan AF1a,Algeria,2008
+GU798277,Cosmopolitan AF1a,Algeria,2004
+GU798278,Cosmopolitan AF1a,Algeria,2007
+GU798279,Cosmopolitan AF1a,Algeria,2007
+GU798280,Cosmopolitan AF1a,Algeria,2003
+GU798281,Cosmopolitan AF1a,Algeria,2007
+GU798282,Cosmopolitan AF1a,Algeria,2007
+GU798283,Cosmopolitan AF1a,Algeria,2007
+GU798284,Cosmopolitan AF1a,Algeria,2008
+GU798285,Cosmopolitan AF1a,Algeria,2007
+GU798286,Cosmopolitan AF1a,Algeria,2008
+GU798287,Cosmopolitan AF1a,Algeria,2007
+GU798288,Cosmopolitan AF1a,Algeria,2008
+GU798289,Cosmopolitan AF1a,Algeria,1996
+GU798290,Cosmopolitan AF1a,Algeria,2007
+GU798291,Cosmopolitan AF1a,Algeria,2002
+GU798292,Cosmopolitan AF1a,Algeria,2005
+GU798293,Cosmopolitan AF1a,Algeria,2007
+GU798294,Cosmopolitan AF1a,Algeria,2007
+GU798295,Cosmopolitan AF1a,Algeria,2008
+GU798296,Cosmopolitan AF1a,Algeria,2005
+GU798297,Cosmopolitan AF1a,Algeria,1996
+GU798298,Cosmopolitan AF1a,Algeria,1991
+GU798299,Cosmopolitan AF1a,Algeria,2007
+GU798300,Cosmopolitan AF1a,Algeria,2003
+GU798301,Cosmopolitan AF1a,Algeria,2004
+GU798302,Cosmopolitan AF1a,Algeria,2004
+GU798303,Cosmopolitan AF1a,Algeria,2004
+GU798304,Cosmopolitan AF1a,Algeria,2002
+GU798305,Cosmopolitan AF1a,Algeria,2007
+GU798306,Cosmopolitan AF1a,Algeria,2008
+GU798307,Cosmopolitan AF1a,Algeria,2002
+GU798308,Cosmopolitan AF1a,Algeria,2007
+GU798309,Cosmopolitan AF1a,Algeria,2007
+GU798310,Cosmopolitan AF1a,Algeria,2007
+GU798311,Cosmopolitan AF1a,Algeria,2007
+GU798312,Cosmopolitan AF1a,Algeria,2004
+GU798313,Cosmopolitan AF1a,Algeria,2008
+GU798314,Cosmopolitan AF1a,Algeria,2007
+GU798315,Cosmopolitan AF1a,Algeria,2007
+GU798316,Cosmopolitan AF1a,Algeria,2001
+GU798317,Cosmopolitan AF1a,Algeria,2007
+GU798318,Cosmopolitan AF1a,Algeria,2001
+GU798319,Cosmopolitan AF1a,Algeria,2008
+GU798320,Cosmopolitan AF1a,Algeria,2008
+GU798321,Cosmopolitan AF1a,Algeria,2007
+GU798322,Cosmopolitan AF1a,Algeria,2007
+GU798323,Cosmopolitan AF1a,Algeria,2007
+GU798324,Cosmopolitan AF1a,Algeria,2007
+GU798325,Cosmopolitan AF1a,Algeria,2007
+GU798326,Cosmopolitan AF1a,Algeria,2007
+GU798327,Cosmopolitan AF1a,Algeria,2003
+GU798328,Cosmopolitan AF1a,Algeria,2003
+GU798329,Cosmopolitan AF1a,Algeria,2002
+GU798330,Cosmopolitan AF1a,Algeria,2004
+GU798331,Cosmopolitan AF1a,Algeria,2004
+GU798332,Cosmopolitan AF1a,Algeria,2003
+GU798333,Cosmopolitan AF1a,Algeria,2002
+GU798334,Cosmopolitan AF1a,Algeria,2002
+GU798335,Cosmopolitan AF1a,Algeria,2004
+GU798336,Cosmopolitan AF1a,Algeria,2007
+GU798337,Cosmopolitan AF1a,Algeria,2007
+GU798338,Cosmopolitan AF1a,Algeria,2004
+GU798339,Cosmopolitan AF1a,Algeria,2007
+GU798340,Cosmopolitan AF1a,Algeria,2008
+GU798341,Cosmopolitan AF1a,Algeria,2004
+GU798342,Cosmopolitan AF1a,Algeria,2004
+GU798343,Cosmopolitan AF1a,Algeria,2001
+GU798344,Cosmopolitan AF1a,Algeria,2003
+GU798345,Cosmopolitan AF1a,Algeria,2002
+GU798346,Cosmopolitan AF1a,Algeria,2002
+GU798347,Cosmopolitan AF1a,Algeria,2007
+GU798348,Cosmopolitan AF1a,Algeria,2001
+GU798349,Cosmopolitan AF1a,Algeria,2003
+GU798350,Cosmopolitan AF1a,Algeria,2007
+GU798351,Cosmopolitan AF1a,Algeria,2004
+GU798352,Cosmopolitan AF1a,Algeria,2003
+GU798353,Cosmopolitan AF1a,Algeria,2004
+GU798354,Cosmopolitan AF1a,Algeria,2008
+GU798355,Cosmopolitan AF1a,Algeria,2007
+GU798356,Cosmopolitan AF1a,Algeria,2007
+GU798357,Cosmopolitan AF1a,Algeria,2007
+GU798358,Cosmopolitan AF1a,Algeria,2007
+GU798359,Cosmopolitan AF1a,Algeria,2007
+GU798360,Cosmopolitan AF1a,Algeria,2008
+GU798361,Cosmopolitan AF1a,Algeria,2007
+GU798362,Cosmopolitan AF1a,Algeria,2008
+GU798363,Cosmopolitan AF1a,Algeria,2008
+GU798364,Cosmopolitan AF1a,Algeria,2008
+GU798365,Cosmopolitan AF1a,Algeria,2008
+GU798366,Cosmopolitan AF1a,Algeria,2008
+GU798367,Cosmopolitan AF1a,Algeria,2008
+GU798368,Cosmopolitan AF1a,Algeria,2008
+GU798369,Cosmopolitan AF1a,Algeria,2008
+GU798370,Cosmopolitan AF1a,Algeria,2007
+GU798371,Cosmopolitan AF1a,Algeria,2001
+GU798372,Cosmopolitan AF1a,Algeria,2008
+GU798373,Cosmopolitan AF1a,Algeria,2008
+GU798374,Cosmopolitan AF1a,Algeria,2001
+GU798375,Cosmopolitan AF1a,Algeria,2003
+GU798376,Cosmopolitan AF1a,Algeria,2001
+GU798377,Cosmopolitan AF1a,Algeria,2002
+GU798378,Cosmopolitan AF1a,Algeria,2001
+GU798379,Cosmopolitan AF1a,Algeria,2002
+GU798380,Cosmopolitan AF1a,Algeria,2007
+GU798381,Cosmopolitan AF1a,Algeria,2001
+GU798382,Cosmopolitan AF1a,Algeria,2003
+GU798383,Cosmopolitan AF1a,Algeria,2004
+GU798384,Cosmopolitan AF1a,Algeria,2002
+GU798385,Cosmopolitan AF1a,Algeria,2001
+GU798386,Cosmopolitan AF1a,Algeria,2001
+GU798387,Cosmopolitan AF1a,Algeria,2004
+GU798388,Cosmopolitan AF1a,Algeria,2007
 GU991847,Cosmopolitan AM2a,Mexico,2007
 GU992302,Cosmopolitan WE,France,1991
 GU992306,Cosmopolitan ME1a,Oman,1991
-GU992309,Cosmopolitan Vac,Czechia,1995
-GU992311,Cosmopolitan Vac,Czechia,1995
 GU992323,Cosmopolitan,France,1976
 GU992324,Cosmopolitan,France,1985
 GU992325,Cosmopolitan,France,1985
@@ -742,6 +702,20 @@ JQ513535,Cosmopolitan,Puerto Rico,1997
 JQ513536,Cosmopolitan,Puerto Rico,1997
 JQ513537,Cosmopolitan,Puerto Rico,1997
 JQ513538,Cosmopolitan,Puerto Rico,1997
+JQ513539,Cosmopolitan AM4,United States,1994
+JQ513540,Cosmopolitan AM4,United States,1994
+JQ513541,Cosmopolitan AM4,United States,1994
+JQ513542,Cosmopolitan AM4,United States,1994
+JQ513543,Cosmopolitan AM4,United States,1994
+JQ513544,Cosmopolitan AM4,United States,1994
+JQ513545,Cosmopolitan AM4,United States,1997
+JQ513546,Cosmopolitan AM4,United States,1997
+JQ513547,Cosmopolitan AM4,United States,1997
+JQ513548,Cosmopolitan AM4,United States,1997
+JQ513549,Cosmopolitan AM4,United States,1997
+JQ513550,Cosmopolitan AM4,United States,1997
+JQ513551,Cosmopolitan AM4,United States,1997
+JQ513552,Cosmopolitan AM4,United States,1997
 JQ671337,Cosmopolitan ME2,Israel,2011
 JQ671338,Cosmopolitan ME2,Israel,2011
 JQ685894,Cosmopolitan AM4,United States,1994
@@ -774,11 +748,8 @@ JX473841,Cosmopolitan AF1b,Namibia,2009
 JX987744,Cosmopolitan CA1,Iran,2013
 JX987746,Cosmopolitan CA2,Iran,2013
 JX987748,Cosmopolitan ME1a,Iran,1996
-KC178555,Cosmopolitan Vac,-,2013
-KC178556,Cosmopolitan Vac,-,2013
 KC252633,Cosmopolitan CA1,China,2011
 KC465377,Cosmopolitan CA1,China,2011
-KC522613,Cosmopolitan Vac,Slovenia,2012
 KC595280,Cosmopolitan CA1,Russia,2011
 KC595281,Cosmopolitan CA1,Russia,2011
 KC595282,Cosmopolitan CA1,Russia,2011
@@ -814,13 +785,9 @@ KJ001515,Cosmopolitan AM2a,Mexico,2011
 KJ001516,Cosmopolitan AM2a,Mexico,2011
 KJ001517,Cosmopolitan AM2a,Mexico,2011
 KJ001518,Cosmopolitan AM2a,Mexico,2011
-KJ001521,Cosmopolitan Vac2,Mexico,2008
-KJ001522,Cosmopolitan Vac2,Mexico,2009
 KJ001523,Cosmopolitan AM2a,Mexico,2005
 KJ001524,Cosmopolitan AM2a,Mexico,2010
 KJ001525,Cosmopolitan AM2a,Mexico,2009
-KJ001529,Cosmopolitan Vac2,Mexico,2009
-KJ001530,Cosmopolitan Vac2,Mexico,2009
 KJ001534,Cosmopolitan AM2a,Mexico,2010
 KJ001535,Cosmopolitan AM2a,Mexico,2008
 KJ001536,Cosmopolitan AM2a,Mexico,2011
@@ -1125,16 +1092,17 @@ KU041696,Cosmopolitan CA1,China,2014
 KU550103,Cosmopolitan AM2a,Costa Rica,2014
 KU938752,Cosmopolitan,Peru,2011
 KU938829,Cosmopolitan,Peru,2012
-KU963489,Cosmopolitan,-,2005
-KU963490,Cosmopolitan,-,2016
-KU963491,Cosmopolitan AM2a,-,1998
-KU963493,Cosmopolitan,-,1984
-KU963494,Cosmopolitan AM2a,-,1994
-KU963495,Cosmopolitan AM2a,-,1998
-KU963498,Cosmopolitan,-,1994
-KU963502,Cosmopolitan,-,2006
-KU963503,Cosmopolitan AF1a,-,1986
-KU963506,Cosmopolitan,-,2001
+KU963489,Cosmopolitan,China,2005
+KU963490,Cosmopolitan,Peru,2016
+KU963491,Cosmopolitan AM2a,United States,1998
+KU963493,Cosmopolitan,United States,1984
+KU963494,Cosmopolitan AM2a,Mexico,1994
+KU963495,Cosmopolitan AM2a,United States,1998
+KU963497,Cosmopolitan AM4,United States,1994
+KU963498,Cosmopolitan,United States,1994
+KU963502,Cosmopolitan,Puerto Rico,2006
+KU963503,Cosmopolitan AF1a,Tunisia,1986
+KU963506,Cosmopolitan,Japan,2001
 KX148101,Cosmopolitan AF4,Egypt,1979
 KX148102,Cosmopolitan AM2a,Mexico,1991
 KX148103,Cosmopolitan AF1b,South Africa,1981
@@ -1435,78 +1403,9 @@ LC422739,Cosmopolitan CA1,Mongolia,2018
 LC422740,Cosmopolitan CA1,Mongolia,2018
 LC422741,Cosmopolitan CA1,Mongolia,2018
 LC422742,Cosmopolitan CA1,Mongolia,2018
-LN713542,Cosmopolitan Vac,-,2015
-LN713543,Cosmopolitan Vac,-,2015
-LN713544,Cosmopolitan Vac,-,2015
-LN713545,Cosmopolitan Vac,-,2015
-LN713546,Cosmopolitan Vac,-,2015
-LN713553,Cosmopolitan Vac,-,2015
-LN713555,Cosmopolitan Vac,-,2015
-LN713556,Cosmopolitan Vac,-,2015
-LN713558,Cosmopolitan Vac,-,2015
-LN713560,Cosmopolitan Vac,-,2015
-LN713561,Cosmopolitan Vac,-,2015
-LN713564,Cosmopolitan Vac,-,2015
-LN713569,Cosmopolitan Vac,-,2015
-LN713570,Cosmopolitan Vac,-,2015
-LN713571,Cosmopolitan Vac,-,2015
-LN713572,Cosmopolitan Vac,-,2015
-LN713574,Cosmopolitan Vac,-,2015
-LN713576,Cosmopolitan Vac,-,2015
-LN713578,Cosmopolitan Vac,-,2015
-LN713582,Cosmopolitan Vac,-,2015
-LN713583,Cosmopolitan Vac,-,2015
-LN713586,Cosmopolitan Vac,-,2015
-LN713592,Cosmopolitan Vac,-,2015
-LN713593,Cosmopolitan Vac,-,2015
-LN713595,Cosmopolitan Vac,-,2015
-LN713596,Cosmopolitan Vac,-,2015
-LN713598,Cosmopolitan Vac,-,2015
-LN713599,Cosmopolitan Vac,-,2015
-LN713600,Cosmopolitan Vac,-,2015
-LN713603,Cosmopolitan Vac,-,2015
-LN713604,Cosmopolitan Vac,-,2015
-LN713606,Cosmopolitan Vac,-,2015
-LN713607,Cosmopolitan Vac,-,2015
-LN713608,Cosmopolitan Vac,-,2015
-LN713610,Cosmopolitan Vac,-,2015
-LN713612,Cosmopolitan Vac,-,2015
-LN713613,Cosmopolitan Vac,-,2015
-LN713617,Cosmopolitan Vac,-,2015
-LN713618,Cosmopolitan Vac,-,2015
-LN713621,Cosmopolitan Vac,-,2015
-LN713622,Cosmopolitan Vac,-,2015
-LN713623,Cosmopolitan Vac,-,2015
-LN713626,Cosmopolitan Vac,-,2015
-LN713628,Cosmopolitan Vac,-,2015
-LN713636,Cosmopolitan Vac,-,2015
-LN713638,Cosmopolitan Vac,-,2015
-LN713641,Cosmopolitan Vac,-,2015
-LN713642,Cosmopolitan Vac,-,2015
-LN713645,Cosmopolitan Vac,-,2015
-LN713647,Cosmopolitan Vac,-,2015
-LN713648,Cosmopolitan Vac,-,2015
-LN713649,Cosmopolitan Vac,-,2015
-LN713650,Cosmopolitan Vac,-,2015
-LN713651,Cosmopolitan Vac,-,2015
-LN713652,Cosmopolitan Vac,-,2015
-LN713653,Cosmopolitan Vac,-,2015
-LN713654,Cosmopolitan Vac,-,2015
-LN713655,Cosmopolitan Vac,-,2015
-LN713656,Cosmopolitan Vac,-,2015
-LN713662,Cosmopolitan Vac,-,2015
-LN713663,Cosmopolitan Vac,-,2015
-LN713664,Cosmopolitan Vac,-,2015
-LN713665,Cosmopolitan Vac,-,2015
-LN713666,Cosmopolitan Vac,-,2015
-LN713667,Cosmopolitan Vac,-,2015
-LN713668,Cosmopolitan Vac,-,2015
-LN713669,Cosmopolitan Vac,-,2015
-LN713670,Cosmopolitan Vac,-,2015
 LN879480,Cosmopolitan,Azerbaijan,2002
 LN879481,Cosmopolitan WE,Germany,1998
 LQ774355,Cosmopolitan CA2,-,2018
-LR812033,Cosmopolitan Vac,-,2020
 LT839616,Cosmopolitan,-,2017
 LT909526,Cosmopolitan ME1a,-,1991
 LT909528,Cosmopolitan AF1b,-,2009
@@ -1527,18 +1426,6 @@ LT909544,Cosmopolitan AM2a,-,2002
 LT909546,Cosmopolitan AF1a,-,1988
 LT909547,Cosmopolitan CE,-,1990
 LT909551,Cosmopolitan AF1a,-,1992
-LT993233,Cosmopolitan Vac,-,2018
-LT993234,Cosmopolitan Vac,-,2018
-LT993235,Cosmopolitan Vac,-,2018
-LT993236,Cosmopolitan Vac,-,2018
-LT993237,Cosmopolitan Vac,-,2018
-LT993238,Cosmopolitan Vac,-,2018
-LT993239,Cosmopolitan Vac,-,2018
-LT993243,Cosmopolitan Vac,-,2018
-LT993244,Cosmopolitan Vac,-,2018
-LT993245,Cosmopolitan Vac,-,2018
-LT993246,Cosmopolitan Vac,-,2018
-M31046,Cosmopolitan Vac,-,1993
 MD233750,Cosmopolitan CA2,-,2020
 MF172976,Cosmopolitan CA1,-,2018
 MF197741,Cosmopolitan CA1,Poland,2008
@@ -1581,13 +1468,6 @@ MG996464,Cosmopolitan CA1,Russia,2015
 MG996465,Cosmopolitan CA1,Russia,2016
 MG996466,Cosmopolitan CA1,Russia,2016
 MH267792,Cosmopolitan CA1,China,2017
-MH660455,Cosmopolitan Vac,Germany,2017
-MK111075,Cosmopolitan Vac,Hungary,2015
-MK111076,Cosmopolitan Vac,-,2019
-MK111077,Cosmopolitan Vac,-,2019
-MK111078,Cosmopolitan Vac,-,2019
-MK111079,Cosmopolitan Vac,-,2019
-MK111080,Cosmopolitan Vac,-,2019
 MK124735,Cosmopolitan CA1,China,2017
 MK124737,Cosmopolitan CA1,China,2017
 MK124738,Cosmopolitan CA1,China,2017
@@ -1952,221 +1832,3 @@ U43432,Cosmopolitan NEE,-,1999
 U43433,Cosmopolitan WE,-,1974
 U43434,Cosmopolitan WE,-,1984
 U43435,Cosmopolitan WE,-,1986
-AR03,Cosmopolitan AF1b,Tanzania,2022
-LN001,Cosmopolitan AF1b,Tanzania,2020
-LN002,Cosmopolitan AF1b,Tanzania,2020
-LN003,Cosmopolitan AF1b,Tanzania,2021
-LN004,Cosmopolitan AF1b,Tanzania,2021
-LN006,Cosmopolitan AF1b,Tanzania,2021
-LN007,Cosmopolitan AF1b,Tanzania,2020
-MR001,Cosmopolitan AF1b,Tanzania,2020
-MR002,Cosmopolitan AF1b,Tanzania,2020
-MR003,Cosmopolitan AF1b,Tanzania,2020
-MR004,Cosmopolitan AF1b,Tanzania,2021
-MR005,Cosmopolitan AF1b,Tanzania,2021
-MR006,Cosmopolitan AF1b,Tanzania,2017
-MR007,Cosmopolitan AF1b,Tanzania,2021
-MT001,Cosmopolitan AF1b,Tanzania,2021
-MT004,Cosmopolitan AF1b,Tanzania,2022
-MT005,Cosmopolitan AF1b,Tanzania,2022
-SD812,Cosmopolitan AF1b,Tanzania,2021
-SD813,Cosmopolitan AF1b,Tanzania,2021
-SD815,Cosmopolitan AF1b,Tanzania,2021
-SD817,Cosmopolitan AF1b,Tanzania,2021
-SD818,Cosmopolitan AF1b,Tanzania,2021
-HS001,Cosmopolitan AF1b,Tanzania,2019
-HS002,Cosmopolitan AF1b,Tanzania,2019
-HS003,Cosmopolitan AF1b,Tanzania,2019
-MR009,Cosmopolitan AF1b,Tanzania,2019
-MT006,Cosmopolitan AF1b,Tanzania,2019
-RB001,Cosmopolitan AF1b,Tanzania,2019
-RB002,Cosmopolitan AF1b,Tanzania,2019
-RB003,Cosmopolitan AF1b,Tanzania,2019
-RB004,Cosmopolitan AF1b,Tanzania,2019
-SD751,Cosmopolitan AF1b,Tanzania,2019
-Lunar/1-11922,Cosmopolitan AF1b,Tanzania,2021
-SD712/1-11923,Cosmopolitan AF1b,Tanzania,2021
-SD716/1-11923,Cosmopolitan AF1b,Tanzania,2021
-SD734/1-11923,Cosmopolitan AF1b,Tanzania,2021
-SD735/1-11923,Cosmopolitan AF1b,Tanzania,2021
-SD736/1-11923,Cosmopolitan AF1b,Tanzania,2021
-SD737/1-11923,Cosmopolitan AF1b,Tanzania,2021
-SD738/1-11923,Cosmopolitan AF1b,Tanzania,2021
-SD760/1-11923,Cosmopolitan AF1b,Tanzania,2021
-SD761/1-11923,Cosmopolitan AF1b,Tanzania,2021
-SD789/1-11922,Cosmopolitan AF1b,Tanzania,2021
-SD800/1-11923,Cosmopolitan AF1b,Tanzania,2021
-SD801/1-11923,Cosmopolitan AF1b,Tanzania,2021
-SD802/1-11922,Cosmopolitan AF1b,Tanzania,2021
-SD804/1-11924,Cosmopolitan AF1b,Tanzania,2021
-SD806/1-11923,Cosmopolitan AF1b,Tanzania,2021
-SD807/1-11923,Cosmopolitan AF1b,Tanzania,2021
-SD810/1-11923,Cosmopolitan AF1b,Tanzania,2021
-SD738_2018_TZA_nmaistsep2019_medaka/ARTIC/medaka,Cosmopolitan AF1b,Tanzania,2019
-SD740_2019_TZA_nmaistsep2019_medaka/ARTIC/medaka,Cosmopolitan AF1b,Tanzania,2019
-SD741_2019_TZA_nmaistsep2019_medaka/ARTIC/medaka,Cosmopolitan AF1b,Tanzania,2019
-SD743_2019_TZA_nmaistsep2019_medaka/ARTIC/medaka,Cosmopolitan AF1b,Tanzania,2019
-SD744_2019_TZA_nmaistsep2019_medaka/ARTIC/medaka,Cosmopolitan AF1b,Tanzania,2019
-SD745_2019_TZA_nmaistsep2019_medaka/ARTIC/medaka,Cosmopolitan AF1b,Tanzania,2019
-SD746_2019_TZA_nmaistsep2019_medaka/ARTIC/medaka,Cosmopolitan AF1b,Tanzania,2019
-SD749_2019_TZA_nmaistsep2019_medaka/ARTIC/medaka,Cosmopolitan AF1b,Tanzania,2019
-SD752_2019_TZA_nmaistsep2019_medaka/ARTIC/medaka,Cosmopolitan AF1b,Tanzania,2019
-SD753_2019_TZA_nmaistsep2019_medaka/ARTIC/medaka,Cosmopolitan AF1b,Tanzania,2019
-RV2486,Cosmopolitan AF1b,Tanzania,2008
-RV2488,Cosmopolitan AF1b,Tanzania,2008
-RV2932,Cosmopolitan AF1b,Tanzania,2007
-RV2934,Cosmopolitan AF1b,Tanzania,2007
-RV2937,Cosmopolitan AF1b,Tanzania,2007
-RV2946,Cosmopolitan AF1b,Tanzania,2009
-RV2948,Cosmopolitan AF1b,Tanzania,2009
-RV2949,Cosmopolitan AF1b,Tanzania,2009
-RV3142,Cosmopolitan AF1b,Tanzania,2012
-RAB12001,Cosmopolitan AF1b,Tanzania,2012
-RAB12005,Cosmopolitan AF1b,Tanzania,2012
-RAB12039,Cosmopolitan AF1b,Tanzania,2011
-RAB16024,Cosmopolitan AF1b,Tanzania,2016
-RAB16026,Cosmopolitan AF1b,Tanzania,2016
-RAB16027,Cosmopolitan AF1b,Tanzania,2016
-RAB16029,Cosmopolitan AF1b,Tanzania,2016
-RV3081,Cosmopolitan AF1b,Tanzania,2013
-RV3116,Cosmopolitan AF1b,Tanzania,2012
-RV3197,Cosmopolitan AF1b,Tanzania,2014
-RV3198,Cosmopolitan AF1b,Tanzania,2014
-RV3227,Cosmopolitan AF1b,Tanzania,2015
-RV3234,Cosmopolitan AF1b,Tanzania,2015
-RV3241,Cosmopolitan AF1b,Tanzania,2015
-RV3245,Cosmopolitan AF1b,Tanzania,2015
-RV3247,Cosmopolitan AF1b,Tanzania,2015
-RV3248,Cosmopolitan AF1b,Tanzania,2015
-RV3250,Cosmopolitan AF1b,Tanzania,2015
-RV3253,Cosmopolitan AF1b,Tanzania,2015
-SUB7097,Cosmopolitan AF1b,Tanzania,2016
-SUB7100,Cosmopolitan AF1b,Tanzania,NA
-SUB7116,Cosmopolitan AF1b,Tanzania,2015
-SUB7118,Cosmopolitan AF1b,Tanzania,2015
-SUB7119,Cosmopolitan AF1b,Tanzania,2015
-SUB7121,Cosmopolitan AF1b,Tanzania,2015
-SUB7122,Cosmopolitan AF1b,Tanzania,2016
-SUB7123,Cosmopolitan AF1b,Tanzania,2015
-SUB7125,Cosmopolitan AF1b,Tanzania,2015
-SUB7126,Cosmopolitan AF1b,Tanzania,2015
-SUB7130,Cosmopolitan AF1b,Tanzania,2015
-SUB7132,Cosmopolitan AF1b,Tanzania,2015
-SUB7138,Cosmopolitan AF1b,Tanzania,2015
-SD575,Cosmopolitan AF1b,Tanzania,2016
-SD620,Cosmopolitan AF1b,Tanzania,2016
-SD622,Cosmopolitan AF1b,Tanzania,2016
-SD635,Cosmopolitan AF1b,Tanzania,2016
-SD645,Cosmopolitan AF1b,Tanzania,2016
-SD657,Cosmopolitan AF1b,Tanzania,2017
-SD664,Cosmopolitan AF1b,Tanzania,2017
-SD668,Cosmopolitan AF1b,Tanzania,2017
-SD670,Cosmopolitan AF1b,Tanzania,2017
-SD674,Cosmopolitan AF1b,Tanzania,2017
-SD678,Cosmopolitan AF1b,Tanzania,2016
-SD680,Cosmopolitan AF1b,Tanzania,2016
-SD703,Cosmopolitan AF1b,Tanzania,2017
-SUB7105,Cosmopolitan AF1b,Tanzania,2015
-SUB7127,Cosmopolitan AF1b,Tanzania,2015
-SUB7128,Cosmopolitan AF1b,Tanzania,2015
-SUB7143,Cosmopolitan AF1b,Tanzania,2015
-JQ513539,Cosmopolitan AM4,United States,1994
-JQ513540,Cosmopolitan AM4,United States,1994
-JQ513541,Cosmopolitan AM4,United States,1994
-JQ513542,Cosmopolitan AM4,United States,1994
-JQ513543,Cosmopolitan AM4,United States,1994
-JQ513544,Cosmopolitan AM4,United States,1994
-JQ513545,Cosmopolitan AM4,United States,1997
-JQ513546,Cosmopolitan AM4,United States,1997
-JQ513547,Cosmopolitan AM4,United States,1997
-JQ513548,Cosmopolitan AM4,United States,1997
-JQ513549,Cosmopolitan AM4,United States,1997
-JQ513550,Cosmopolitan AM4,United States,1997
-JQ513551,Cosmopolitan AM4,United States,1997
-JQ513552,Cosmopolitan AM4,United States,1997
-KU963497,Cosmopolitan AM4,-,1994
-Z0083197,,Kenya,2021
-Z0083198,,Kenya,2021
-Z0083201,,Kenya,2021
-Z0083205,,Kenya,2021
-Z0083214,,Kenya,2021
-Z0083219,,Kenya,2021
-Z0083223,,Kenya,2021
-Z0083224,,Kenya,2021
-Z0083225,,Kenya,2021
-Z0083226,,Kenya,2021
-Z0083227,,Kenya,2021
-Z0083229,,Kenya,2021
-Z0083233,,Kenya,2021
-Z0083239,,Kenya,2021
-Z00861867,,Kenya,2021
-Z00861869,,Kenya,2021
-Z00861870,,Kenya,2021
-Z00861872,,Kenya,2021
-Z00861875,,Kenya,2021
-02196160414A,,Kenya,2018
-2010818843,,Kenya,2013
-2011100075,,Kenya,2018
-2011100176,,Kenya,2018
-2011100186,,Kenya,2017
-Z0083175,,Kenya,2019
-Z081388851,,Kenya,2019
-Z08151242,,Kenya,2017
-Z08151377,,Kenya,2017
-Z0826253,,Kenya,2017
-Z0826361,,Kenya,2018
-Z0826363,,Kenya,2017
-Z0826475,,Kenya,2018
-Z0826751,,Kenya,2018
-Z0826752,,Kenya,2018
-Z0828879,,Kenya,2018
-Z0083192,,Kenya,2020
-Z0083200,,Kenya,2021
-Z0083202,,Kenya,2020
-Z0083203,,Kenya,2021
-Z0083204,,Kenya,2021
-Z0083215,,Kenya,2021
-Z0083216,,Kenya,2021
-Z0083218,,Kenya,2021
-Z0083220,,Kenya,2021
-Z0083221,,Kenya,2021
-Z0083222,,Kenya,2021
-Z0083228,,Kenya,2021
-Z0083231,,Kenya,2021
-Z00832334,,Kenya,2021
-Z0083235,,Kenya,2021
-Z0083236,,Kenya,2021
-Z0083237,,Kenya,2021
-Z00832441,,Kenya,2021
-Z00832442,,Kenya,2021
-Z00832443,,Kenya,2021
-Z0083245,,Kenya,2021
-Z00861850,,Kenya,2021
-Z00861851,,Kenya,2021
-Z00861852,,Kenya,2021
-Z00861853,,Kenya,2021
-Z00861855,,Kenya,2021
-Z00861857,,Kenya,2021
-Z00861858,,Kenya,2021
-Z00861859,,Kenya,2021
-Z00861860,,Kenya,2021
-Z00861862,,Kenya,NA
-Z00861863,,Kenya,2021
-Z00861864,,Kenya,2021
-Z00861865,,Kenya,2021
-Z00861871,,Kenya,2021
-Z00861877,,Kenya,2021
-Z0083240,,Kenya,2021
-Z0083243,,Kenya,2021
-Z0083252,,Kenya,2021
-Z0083253,,Kenya,2021
-Z00861837,,Kenya,2022
-Z00861838,,Kenya,2022
-Z00861839,,Kenya,2021
-Z00861840,,Kenya,2021
-Z00861841,,Kenya,2021
-Z00861843,,Kenya,2021
-Z00861844,,Kenya,2021
-Z00861845,,Kenya,2021
-Z00861846,,Kenya,2021
-Z00881847,,Kenya,2021
