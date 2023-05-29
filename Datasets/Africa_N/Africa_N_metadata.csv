@@ -1,296 +1,373 @@
-"ID","alignment.name","assignment","sequence.m49_country.id","country","sequence.gb_place_sampled","sequence.collection_year","sequence.earliest_collection_year","year","sequence.gb_length","sequence.gb_create_date","sequence.gb_update_date","sequence.host","sequence.gb_pubmed_id","sequence.isolate"
-"AF467949","AL_Africa-3","Africa-3","ZAF","South Africa","-","-","-",2002,1353,"07-Feb-02","07-Feb-02","-","-","-"
-"EU478492","AL_Africa-2","Africa-2","BFA","Burkina Faso","-","2007","2007",2007,1350,"28-Feb-09","25-Jul-16","Canis familiaris","19264663","28BF"
-"EU478493","AL_Africa-2","Africa-2","BFA","Burkina Faso","-","2007","2007",2007,1350,"28-Feb-09","25-Jul-16","Canis familiaris","-","10BF"
-"EU478494","AL_Africa-2","Africa-2","BFA","Burkina Faso","-","2007","2007",2007,1350,"28-Feb-09","25-Jul-16","Canis familiaris","-","2BF"
-"EU478495","AL_Africa-2","Africa-2","BFA","Burkina Faso","-","2007","2007",2007,1350,"28-Feb-09","25-Jul-16","Canis familiaris","-","4BF"
-"EU478496","AL_Africa-2","Africa-2","BFA","Burkina Faso","-","2007","2007",2007,1350,"28-Feb-09","25-Jul-16","Canis familiaris","-","8BF"
-"EU478497","AL_Africa-2","Africa-2","BFA","Burkina Faso","-","2007","2007",2007,1350,"28-Feb-09","25-Jul-16","Canis familiaris","-","9BF"
-"EU478498","AL_Africa-2","Africa-2","BFA","Burkina Faso","-","2007","2007",2007,1350,"28-Feb-09","25-Jul-16","Canis familiaris","-","12BF"
-"EU478499","AL_Africa-2","Africa-2","BFA","Burkina Faso","-","2007","2007",2007,1350,"28-Feb-09","25-Jul-16","Canis familiaris","-","18BF"
-"EU478500","AL_Africa-2","Africa-2","BFA","Burkina Faso","-","2007","2007",2007,1351,"28-Feb-09","25-Jul-16","Canis familiaris","-","31BF"
-"EU478501","AL_Africa-2","Africa-2","BFA","Burkina Faso","-","2007","2007",2007,1350,"28-Feb-09","25-Jul-16","Canis familiaris","-","33BF"
-"EU478502","AL_Africa-2","Africa-2","BFA","Burkina Faso","-","2007","2007",2007,1350,"28-Feb-09","25-Jul-16","Canis familiaris","19264663","36BF"
-"EU478503","AL_Africa-2","Africa-2","BFA","Burkina Faso","-","2007","2007",2007,1350,"28-Feb-09","25-Jul-16","Canis familiaris","-","41BF"
-"EU478504","AL_Africa-2","Africa-2","BFA","Burkina Faso","-","2007","2007",2007,1350,"28-Feb-09","25-Jul-16","Felis catus","-","43BF"
-"EU478505","AL_Africa-2","Africa-2","BFA","Burkina Faso","-","2007","2007",2007,1350,"28-Feb-09","25-Jul-16","Canis familiaris","-","45BF"
-"EU478506","AL_Africa-2","Africa-2","BFA","Burkina Faso","-","2007","2007",2007,1350,"28-Feb-09","25-Jul-16","Canis familiaris","-","46BF"
-"EU478507","AL_Africa-2","Africa-2","BFA","Burkina Faso","-","2007","2007",2007,1350,"28-Feb-09","25-Jul-16","Canis familiaris","-","57BF"
-"EU478508","AL_Africa-2","Africa-2","BFA","Burkina Faso","-","2007","2007",2007,1350,"28-Feb-09","25-Jul-16","Canis familiaris","-","69BF"
-"EU478509","AL_Africa-2","Africa-2","BFA","Burkina Faso","-","2007","2007",2007,1350,"28-Feb-09","25-Jul-16","Canis familiaris","-","82BF"
-"EU478510","AL_Africa-2","Africa-2","BFA","Burkina Faso","-","2007","2007",2007,1350,"28-Feb-09","25-Jul-16","Canis familiaris","-","104BF"
-"EU478511","AL_Africa-2","Africa-2","BFA","Burkina Faso","-","2007","2007",2007,1350,"28-Feb-09","25-Jul-16","Canis familiaris","-","105BF"
-"EU478512","AL_Africa-2","Africa-2","BFA","Burkina Faso","-","2007","2007",2007,1350,"28-Feb-09","25-Jul-16","Canis familiaris","-","112BF"
-"EU478513","AL_Africa-2","Africa-2","BFA","Burkina Faso","-","2007","2007",2007,1350,"28-Feb-09","25-Jul-16","Canis familiaris","-","114BF"
-"EU478514","AL_Africa-2","Africa-2","BFA","Burkina Faso","-","2007","2007",2007,1350,"28-Feb-09","25-Jul-16","Canis familiaris","-","138BF"
-"EU478515","AL_Africa-2","Africa-2","BFA","Burkina Faso","-","2007","2007",2007,1350,"28-Feb-09","25-Jul-16","Canis familiaris","19264663","139BF"
-"EU478516","AL_Africa-2","Africa-2","BFA","Burkina Faso","-","2007","2007",2007,1350,"28-Feb-09","25-Jul-16","Canis familiaris","-","141BF"
-"EU478517","AL_Africa-2","Africa-2","BFA","Burkina Faso","-","2007","2007",2007,1350,"28-Feb-09","25-Jul-16","Canis familiaris","-","143BF"
-"EU478518","AL_Africa-2","Africa-2","BFA","Burkina Faso","-","2007","2007",2007,1350,"28-Feb-09","25-Jul-16","Canis familiaris","19264663","49BF"
-"EU478519","AL_Africa-2","Africa-2","BFA","Burkina Faso","-","2007","2007",2007,1350,"28-Feb-09","25-Jul-16","Canis familiaris","-","87BF"
-"EU478520","AL_Africa-2","Africa-2","BFA","Burkina Faso","-","2007","2007",2007,1350,"28-Feb-09","25-Jul-16","Canis familiaris","-","94BF"
-"EU478521","AL_Africa-2","Africa-2","BFA","Burkina Faso","-","2007","2007",2007,1350,"28-Feb-09","25-Jul-16","Canis familiaris","-","95BF"
-"EU478522","AL_Africa-2","Africa-2","BFA","Burkina Faso","-","2007","2007",2007,1350,"28-Feb-09","25-Jul-16","Canis familiaris","-","96BF"
-"EU478523","AL_Africa-2","Africa-2","BFA","Burkina Faso","-","2007","2007",2007,1350,"28-Feb-09","25-Jul-16","Canis familiaris","-","132BF"
-"EU478524","AL_Africa-2","Africa-2","BFA","Burkina Faso","-","2007","2007",2007,1350,"28-Feb-09","25-Jul-16","Canis familiaris","-","142BF"
-"EU514571","AL_Africa-2","Africa-2","NER","Niger","-","2007","2007",2007,1350,"28-Feb-09","25-Jul-16","Canis familiaris","19264663","246NIG/07"
-"EU514572","AL_Africa-2","Africa-2","NER","Niger","-","2007","2007",2007,1353,"28-Feb-09","25-Jul-16","Canis familiaris","19264663","247NIG/07"
-"EU514573","AL_Africa-2","Africa-2","NER","Niger","-","2007","2007",2007,1350,"28-Feb-09","25-Jul-16","Canis familiaris","19264663","251NIG/07"
-"EU514574","AL_Africa-2","Africa-2","NER","Niger","-","2007","2007",2007,1350,"28-Feb-09","25-Jul-16","Canis familiaris","19264663","252NIG/07"
-"EU514575","AL_Africa-2","Africa-2","MRT","Mauritania","-","2005","2005",2005,1350,"28-Feb-09","25-Jul-16","Canis familiaris","19264663","1920MAU/05"
-"EU514576","AL_Africa-2","Africa-2","MRT","Mauritania","-","2005","2005",2005,1350,"28-Feb-09","25-Jul-16","Canis familiaris","19264663","1922MAU/05"
-"EU514577","AL_Africa-2","Africa-2","MRT","Mauritania","-","2005","2005",2005,1353,"28-Feb-09","25-Jul-16","Canis familiaris","19264663","1923MAU/05"
-"EU514578","AL_Africa-2","Africa-2","MRT","Mauritania","-","2006","2006",2006,1353,"28-Feb-09","25-Jul-16","Canis familiaris","19264663","1929MAU/06"
-"EU514579","AL_Africa-2","Africa-2","MRT","Mauritania","-","2006","2006",2006,1353,"28-Feb-09","25-Jul-16","Canis familiaris","19264663","1941MAU/06"
-"EU514580","AL_Africa-2","Africa-2","MRT","Mauritania","-","2006","2006",2006,1350,"28-Feb-09","25-Jul-16","Canis familiaris","19264663","2019MAU/06"
-"EU514581","AL_Africa-2","Africa-2","MRT","Mauritania","-","2007","2007",2007,1350,"28-Feb-09","25-Jul-16","Canis familiaris","19264663","2049MAU/07"
-"EU718735","AL_Africa-2","Africa-2","TCD","Chad","-","-","2005",2006,1350,"08-Jun-08","25-Jul-16","Canis familiaris","18365035","Chad_44_20A"
-"EU718736","AL_Africa-2","Africa-2","TCD","Chad","-","-","2005",2006,1350,"08-Jun-08","25-Jul-16","Canis familiaris","18365035","Chad_41_198"
-"EU718737","AL_Africa-2","Africa-2","TCD","Chad","-","-","2005",2006,1350,"08-Jun-08","25-Jul-16","Canis familiaris","18365035","Chad_40_197"
-"EU718738","AL_Africa-2","Africa-2","TCD","Chad","-","-","2005",2006,1350,"08-Jun-08","25-Jul-16","Canis familiaris","18365035","Chad_39_196"
-"EU718739","AL_Africa-2","Africa-2","TCD","Chad","-","-","2005",2006,1350,"08-Jun-08","25-Jul-16","Felis catus","18365035","Chad_38_195cat"
-"EU718740","AL_Africa-2","Africa-2","TCD","Chad","-","-","2005",2006,1350,"08-Jun-08","25-Jul-16","Canis familiaris","18365035","Chad_36_193"
-"EU718741","AL_Africa-2","Africa-2","TCD","Chad","-","-","2005",2006,1350,"08-Jun-08","25-Jul-16","Canis familiaris","18365035","Chad_35_192"
-"EU718742","AL_Africa-2","Africa-2","TCD","Chad","-","-","2005",2006,1350,"08-Jun-08","25-Jul-16","Canis familiaris","18365035","Chad_34_191"
-"EU718743","AL_Africa-2","Africa-2","TCD","Chad","-","-","2005",2006,1350,"08-Jun-08","25-Jul-16","Canis familiaris","18365035","Chad_31_188"
-"EU718744","AL_Africa-2","Africa-2","TCD","Chad","-","-","2005",2006,1350,"08-Jun-08","25-Jul-16","Canis familiaris","18365035","Chad_28_185"
-"EU718745","AL_Africa-2","Africa-2","TCD","Chad","-","-","2005",2006,1350,"08-Jun-08","25-Jul-16","Canis familiaris","18365035","Chad_27B_184"
-"EU718746","AL_Africa-2","Africa-2","TCD","Chad","-","-","2005",2006,1350,"08-Jun-08","25-Jul-16","Canis familiaris","18365035","Chad_27_184"
-"EU718747","AL_Africa-2","Africa-2","TCD","Chad","-","-","2005",2006,1350,"08-Jun-08","25-Jul-16","Canis familiaris","18365035","Chad_26_183"
-"EU718748","AL_Africa-2","Africa-2","TCD","Chad","-","-","2005",2006,1350,"08-Jun-08","25-Jul-16","Canis familiaris","18365035","Chad_20_177"
-"EU718749","AL_Africa-2","Africa-2","TCD","Chad","-","-","2005",2006,1350,"08-Jun-08","25-Jul-16","Canis familiaris","18365035","Chad_17_174"
-"EU718750","AL_Africa-2","Africa-2","TCD","Chad","-","-","2005",2006,1350,"08-Jun-08","25-Jul-16","Canis familiaris","18365035","Chad_15_172"
-"EU718751","AL_Africa-2","Africa-2","TCD","Chad","-","-","2005",2006,1350,"08-Jun-08","25-Jul-16","Canis familiaris","18365035","Chad_12_169"
-"EU718752","AL_Africa-2","Africa-2","TCD","Chad","-","-","2005",2006,1350,"08-Jun-08","25-Jul-16","Canis familiaris","18365035","Chad_11_168"
-"EU718753","AL_Africa-2","Africa-2","TCD","Chad","-","-","2005",2006,1350,"08-Jun-08","25-Jul-16","Canis familiaris","18365035","Chad_9_166"
-"EU718754","AL_Africa-2","Africa-2","TCD","Chad","-","-","2005",2006,1350,"08-Jun-08","25-Jul-16","Canis familiaris","18365035","Chad_8_165"
-"EU718755","AL_Africa-2","Africa-2","TCD","Chad","-","-","2005",2006,1350,"08-Jun-08","25-Jul-16","Canis familiaris","18365035","Chad_5_162"
-"EU718756","AL_Africa-2","Africa-2","TCD","Chad","-","-","2005",2006,1350,"08-Jun-08","25-Jul-16","Canis familiaris","18365035","Chad_4_161"
-"EU718757","AL_Africa-2","Africa-2","TCD","Chad","-","-","2005",2006,1350,"08-Jun-08","25-Jul-16","Canis familiaris","18365035","Chad_3_160"
-"EU718758","AL_Africa-2","Africa-2","TCD","Chad","-","-","2005",2006,1350,"08-Jun-08","25-Jul-16","Canis familiaris","18365035","Chad_1_158"
-"EU718759","AL_Africa-2","Africa-2","TCD","Chad","-","-","2005",2006,1350,"08-Jun-08","25-Jul-16","Canis familiaris","18365035","Chad_71_164"
-"EU718760","AL_Africa-2","Africa-2","TCD","Chad","-","-","2005",2006,1350,"08-Jun-08","25-Jul-16","Canis familiaris","18365035","Chad_10_167"
-"EU718761","AL_Africa-2","Africa-2","TCD","Chad","-","-","2005",2006,1350,"08-Jun-08","25-Jul-16","Canis familiaris","18365035","Chad_29_186"
-"EU718762","AL_Africa-2","Africa-2","TCD","Chad","-","-","2005",2006,1350,"08-Jun-08","25-Jul-16","Canis familiaris","18365035","Chad_33_190"
-"EU718763","AL_Africa-2","Africa-2","TCD","Chad","-","2006","2006",2006,1350,"08-Jun-08","25-Jul-16","Canis familiaris","18365035","Chad_42_199"
-"EU718764","AL_Africa-2","Africa-2","TCD","Chad","-","2006","2006",2006,1350,"08-Jun-08","25-Jul-16","Canis familiaris","18365035","Chad2006_74"
-"EU718766","AL_Africa-2","Africa-2","TCD","Chad","-","2006","2006",2006,1350,"08-Jun-08","25-Jul-16","Canis familiaris","18365035","Chad2006_71"
-"EU718767","AL_Africa-2","Africa-2","TCD","Chad","-","2006","2006",2006,1350,"08-Jun-08","25-Jul-16","Canis familiaris","18365035","Chad2006_70"
-"EU718768","AL_Africa-2","Africa-2","TCD","Chad","-","2006","2006",2006,1350,"08-Jun-08","25-Jul-16","Canis familiaris","18365035","Chad2006_69"
-"EU718769","AL_Africa-2","Africa-2","TCD","Chad","-","2006","2006",2006,1350,"08-Jun-08","25-Jul-16","Canis familiaris","18365035","Chad2006_65"
-"EU718770","AL_Africa-2","Africa-2","TCD","Chad","-","2006","2006",2006,1350,"08-Jun-08","25-Jul-16","Canis familiaris","18365035","Chad2006_62"
-"EU718771","AL_Africa-2","Africa-2","TCD","Chad","-","2006","2006",2006,1350,"08-Jun-08","25-Jul-16","Canis familiaris","18365035","Chad2006_60"
-"EU718772","AL_Africa-2","Africa-2","TCD","Chad","-","2006","2006",2006,1350,"08-Jun-08","25-Jul-16","Canis familiaris","18365035","Chad2006_59"
-"EU718773","AL_Africa-2","Africa-2","TCD","Chad","-","2006","2006",2006,1350,"08-Jun-08","25-Jul-16","Canis familiaris","18365035","Chad2006_58"
-"EU718774","AL_Africa-2","Africa-2","TCD","Chad","-","2006","2006",2006,1350,"08-Jun-08","25-Jul-16","Canis familiaris","18365035","Chad2006_56"
-"EU718775","AL_Africa-2","Africa-2","TCD","Chad","-","2006","2006",2006,1350,"08-Jun-08","25-Jul-16","Canis familiaris","18365035","Chad2006_55"
-"EU718776","AL_Africa-2","Africa-2","TCD","Chad","-","2006","2006",2006,1350,"08-Jun-08","25-Jul-16","Canis familiaris","18365035","Chad2006_54"
-"EU718777","AL_Africa-2","Africa-2","TCD","Chad","-","2006","2006",2006,1350,"08-Jun-08","25-Jul-16","Canis familiaris","18365035","Chad2006_53"
-"EU718778","AL_Africa-2","Africa-2","TCD","Chad","-","2006","2006",2006,1350,"08-Jun-08","25-Jul-16","Canis familiaris","18365035","Chad2006_52"
-"EU718779","AL_Africa-2","Africa-2","TCD","Chad","-","2006","2006",2006,1350,"08-Jun-08","25-Jul-16","Canis familiaris","18365035","Chad2006_51"
-"EU718780","AL_Africa-2","Africa-2","TCD","Chad","-","2006","2006",2006,1350,"08-Jun-08","25-Jul-16","Canis familiaris","18365035","Chad2006_50"
-"EU718781","AL_Africa-2","Africa-2","TCD","Chad","-","2006","2006",2006,1350,"08-Jun-08","25-Jul-16","Canis familiaris","18365035","Chad2006_49"
-"EU718782","AL_Africa-2","Africa-2","TCD","Chad","-","2006","2006",2006,1350,"08-Jun-08","25-Jul-16","Canis familiaris","18365035","Chad2006_46"
-"EU718783","AL_Africa-2","Africa-2","TCD","Chad","-","2006","2006",2006,1350,"08-Jun-08","25-Jul-16","Canis familiaris","18365035","Chad2006_45"
-"EU718784","AL_Africa-2","Africa-2","TCD","Chad","-","2006","2006",2006,1350,"08-Jun-08","25-Jul-16","Canis familiaris","18365035","Chad2006_44"
-"EU718785","AL_Africa-2","Africa-2","TCD","Chad","-","2006","2006",2006,1350,"08-Jun-08","25-Jul-16","Canis familiaris","18365035","Chad2006_43"
-"EU718786","AL_Africa-2","Africa-2","TCD","Chad","-","2006","2006",2006,1350,"08-Jun-08","25-Jul-16","Canis familiaris","18365035","Chad2006_42"
-"EU718787","AL_Africa-2","Africa-2","TCD","Chad","-","2006","2006",2006,1350,"08-Jun-08","25-Jul-16","Canis familiaris","18365035","Chad2006_68"
-"EU827268","AL_Africa-2","Africa-2","BFA","Burkina Faso","-","2007","2007",2007,1350,"12-Mar-09","25-Jul-16","Canis familiaris","19264663","19BF/2007"
-"EU827269","AL_Africa-2","Africa-2","BFA","Burkina Faso","-","2007","2007",2007,1350,"12-Mar-09","25-Jul-16","Canis familiaris","19264663","20BF/2007"
-"EU827270","AL_Africa-2","Africa-2","BFA","Burkina Faso","-","2007","2007",2007,1350,"12-Mar-09","25-Jul-16","Canis familiaris","19264663","21BF/2007"
-"EU827271","AL_Africa-2","Africa-2","BFA","Burkina Faso","-","2007","2007",2007,1350,"12-Mar-09","25-Jul-16","Canis familiaris","19264663","37BF/2007"
-"EU827272","AL_Africa-2","Africa-2","BFA","Burkina Faso","-","2007","2007",2007,1350,"12-Mar-09","25-Jul-16","Canis familiaris","19264663","70BF/2007"
-"EU827273","AL_Africa-2","Africa-2","BFA","Burkina Faso","-","2007","2007",2007,1350,"12-Mar-09","25-Jul-16","Canis familiaris","19264663","124BF/2007"
-"EU827274","AL_Africa-2","Africa-2","BFA","Burkina Faso","-","2007","2007",2007,1350,"12-Mar-09","25-Jul-16","Canis familiaris","19264663","137BF/2007"
-"EU827275","AL_Africa-2","Africa-2","BFA","Burkina Faso","-","2007","2007",2007,1350,"12-Mar-09","25-Jul-16","Canis familiaris","19264663","144BF/2007"
-"EU853591","AL_Africa-2","Africa-2","GMB","Gambia","-","2008","2008",2008,1353,"23-Mar-09","23-Mar-09","Canis familiaris","19264663","08561GMB"
-"EU853592","AL_Africa-2","Africa-2","SEN","Senegal","-","2005","2005",2005,1353,"23-Mar-09","23-Mar-09","Homo sapiens","19264663","07023SEN"
-"EU853593","AL_Africa-2","Africa-2","GIN","Guinea","-","1986","1986",1986,1353,"23-Mar-09","23-Mar-09","Canis familiaris","19264663","8659GUI"
-"EU853594","AL_Africa-2","Africa-2","GIN","Guinea","-","1993","1993",1993,1353,"23-Mar-09","23-Mar-09","Canis familiaris","19264663","9361GUI"
-"EU853595","AL_Africa-2","Africa-2","SLE","Sierra Leone","-","1997","1997",1997,1353,"23-Mar-09","23-Mar-09","Felis catus","19264663","07208SL"
-"EU853596","AL_Africa-2","Africa-2","MLI","Mali","-","2007","2007",2007,1353,"23-Mar-09","23-Mar-09","Canis familiaris","19264663","07211MAL"
-"EU853597","AL_Africa-2","Africa-2","MLI","Mali","-","2007","2007",2007,1353,"23-Mar-09","23-Mar-09","Canis familiaris","19264663","07221MAL"
-"EU853598","AL_Africa-2","Africa-2","MLI","Mali","-","2006","2006",2006,1353,"23-Mar-09","23-Mar-09","Canis familiaris","19264663","07235MAL"
-"EU853599","AL_Africa-2","Africa-2","MLI","Mali","-","2007","2007",2007,1353,"23-Mar-09","23-Mar-09","Canis familiaris","19264663","07225MAL"
-"EU853600","AL_Africa-2","Africa-2","MLI","Mali","-","2007","2007",2007,1353,"23-Mar-09","23-Mar-09","Canis familiaris","19264663","07217MAL"
-"EU853601","AL_Africa-2","Africa-2","MLI","Mali","-","2006","2006",2006,1353,"23-Mar-09","23-Mar-09","Canis familiaris","19264663","07238MAL"
-"EU853602","AL_Africa-2","Africa-2","MLI","Mali","-","2006","2006",2006,1353,"23-Mar-09","23-Mar-09","Canis familiaris","19264663","07233MAL"
-"EU853603","AL_Africa-2","Africa-2","-","-","-","2007","2007",2007,1353,"23-Mar-09","23-Mar-09","Canis familiaris","19264663","07213MAL"
-"EU853604","AL_Africa-2","Africa-2","MLI","Mali","-","2007","2007",2007,1353,"23-Mar-09","23-Mar-09","Canis familiaris","19264663","07220MAL"
-"EU853605","AL_Africa-2","Africa-2","MLI","Mali","-","2006","2006",2006,1353,"23-Mar-09","23-Mar-09","Canis familiaris","19264663","07232MAL"
-"EU853606","AL_Africa-2","Africa-2","MRT","Mauritania","-","1993","1993",1993,1353,"23-Mar-09","23-Mar-09","Canis familiaris","19264663","9311MAU"
-"EU853607","AL_Africa-2","Africa-2","MRT","Mauritania","-","1991","1991",1991,1353,"23-Mar-09","23-Mar-09","Canis familiaris","19264663","9131MAU"
-"EU853608","AL_Africa-2","Africa-2","MRT","Mauritania","-","1991","1991",1991,1353,"23-Mar-09","23-Mar-09","Canis familiaris","19264663","9132MAU"
-"EU853609","AL_Africa-2","Africa-2","MRT","Mauritania","-","1993","1993",1993,1353,"23-Mar-09","23-Mar-09","Canis familiaris","19264663","9312MAU"
-"EU853610","AL_Africa-2","Africa-2","MRT","Mauritania","-","1993","1993",1993,1353,"23-Mar-09","23-Mar-09","Canis familiaris","19264663","9314MAU"
-"EU853611","AL_Africa-2","Africa-2","MRT","Mauritania","-","1994","1994",1994,1353,"23-Mar-09","23-Mar-09","Canis familiaris","19264663","9421MAU"
-"EU853612","AL_Africa-2","Africa-2","MLI","Mali","-","2007","2007",2007,1353,"23-Mar-09","23-Mar-09","Canis familiaris","19264663","07214MAL"
-"EU853613","AL_Africa-2","Africa-2","MRT","Mauritania","-","1992","1992",1992,1353,"23-Mar-09","23-Mar-09","Equus asinus","19264663","9133MAU"
-"EU853614","AL_Africa-2","Africa-2","BFA","Burkina Faso","-","1986","1986",1986,1353,"23-Mar-09","23-Mar-09","Canis familiaris","19264663","8636HAV"
-"EU853615","AL_Africa-2","Africa-2","CIV","C√¥te d'Ivoire","-","2007","2007",2007,1353,"23-Mar-09","23-Mar-09","Canis familiaris","19264663","07059IC"
-"EU853616","AL_Africa-2","Africa-2","CIV","C√¥te d'Ivoire","-","1989","1989",1989,1353,"23-Mar-09","23-Mar-09","Canis familiaris","19264663","8911IC"
-"EU853617","AL_Africa-2","Africa-2","CIV","C√¥te d'Ivoire","-","1989","1989",1989,1353,"23-Mar-09","23-Mar-09","Canis familiaris","19264663","8912IC"
-"EU853618","AL_Africa-2","Africa-2","CIV","C√¥te d'Ivoire","-","1992","1992",1992,1353,"23-Mar-09","23-Mar-09","Canis familiaris","19264663","9237IC"
-"EU853619","AL_Africa-2","Africa-2","CIV","C√¥te d'Ivoire","-","1992","1992",1992,1353,"23-Mar-09","23-Mar-09","Canis familiaris","19264663","9238IC"
-"EU853620","AL_Africa-2","Africa-2","MLI","Mali","-","2007","2007",2007,1353,"23-Mar-09","23-Mar-09","Canis familiaris","19264663","07222MAL"
-"EU853621","AL_Africa-2","Africa-2","CIV","C√¥te d'Ivoire","-","1989","1989",1989,1353,"23-Mar-09","23-Mar-09","Canis familiaris","19264663","8913IC"
-"EU853622","AL_Africa-2","Africa-2","MLI","Mali","-","2006","2006",2006,1353,"23-Mar-09","23-Mar-09","Canis familiaris","19264663","07227MAL"
-"EU853623","AL_Africa-2","Africa-2","MLI","Mali","-","2007","2007",2007,1353,"23-Mar-09","23-Mar-09","Canis familiaris","19264663","07226MAL"
-"EU853624","AL_Africa-2","Africa-2","MRT","Mauritania","-","1991","1991",1991,1353,"23-Mar-09","23-Mar-09","dromadery","19264663","9120MAU"
-"EU853625","AL_Africa-2","Africa-2","SEN","Senegal","-","1995","1995",1995,1353,"23-Mar-09","23-Mar-09","Canis familiaris","19264663","07197SEN"
-"EU853626","AL_Africa-2","Africa-2","SEN","Senegal","-","1997","1997",1997,1353,"23-Mar-09","23-Mar-09","Homo sapiens","19264663","07207SEN"
-"EU853627","AL_Africa-2","Africa-2","SEN","Senegal","-","2002","2002",2002,1353,"23-Mar-09","23-Mar-09","Homo sapiens","19264663","07020SEN"
-"EU853628","AL_Africa-2","Africa-2","SEN","Senegal","-","2007","2007",2007,1353,"23-Mar-09","23-Mar-09","Homo sapiens","19264663","07209SEN"
-"EU853629","AL_Africa-2","Africa-2","SEN","Senegal","-","2006","2006",2006,1353,"23-Mar-09","23-Mar-09","Felis catus","19264663","07017SEN"
-"EU853630","AL_Africa-2","Africa-2","SEN","Senegal","-","2006","2006",2006,1353,"23-Mar-09","23-Mar-09","Homo sapiens","19264663","07027SEN"
-"EU853631","AL_Africa-2","Africa-2","SEN","Senegal","-","2005","2005",2005,1353,"23-Mar-09","23-Mar-09","Homo sapiens","19264663","07024SEN"
-"EU853632","AL_Africa-2","Africa-2","SEN","Senegal","-","2005","2005",2005,1353,"23-Mar-09","23-Mar-09","Homo sapiens","19264663","07022SEN"
-"EU853633","AL_Africa-2","Africa-2","SEN","Senegal","-","2004","2004",2004,1353,"23-Mar-09","23-Mar-09","Homo sapiens","19264663","07011SEN"
-"EU853634","AL_Africa-2","Africa-2","SEN","Senegal","-","2004","2004",2004,1353,"23-Mar-09","23-Mar-09","Canis familiaris","19264663","07014SEN"
-"EU853635","AL_Africa-2","Africa-2","SEN","Senegal","-","2006","2006",2006,1353,"23-Mar-09","23-Mar-09","Homo sapiens","19264663","07028SEN"
-"EU853636","AL_Africa-2","Africa-2","SEN","Senegal","-","2006","2006",2006,1353,"23-Mar-09","23-Mar-09","Homo sapiens","19264663","07029SEN"
-"EU853637","AL_Africa-2","Africa-2","SEN","Senegal","-","2003","2003",2003,1353,"23-Mar-09","23-Mar-09","Homo sapiens","19264663","07008SEN"
-"EU853638","AL_Africa-2","Africa-2","SEN","Senegal","-","1995","1995",1995,1353,"23-Mar-09","23-Mar-09","Homo sapiens","19264663","07018SEN"
-"EU853639","AL_Africa-2","Africa-2","SEN","Senegal","-","2004","2004",2004,1353,"23-Mar-09","23-Mar-09","Homo sapiens","19264663","07021SEN"
-"EU853640","AL_Africa-2","Africa-2","SEN","Senegal","-","1996","1996",1996,1353,"23-Mar-09","23-Mar-09","Homo sapiens","19264663","07019SEN"
-"EU853641","AL_Africa-2","Africa-2","SEN","Senegal","-","1991","1991",1991,1353,"23-Mar-09","23-Mar-09","Canis familiaris","19264663","9303SEN"
-"EU853642","AL_Africa-2","Africa-2","MRT","Mauritania","-","1991","1991",1991,1353,"23-Mar-09","23-Mar-09","Capra hircus","19264663","9136MAU"
-"EU853643","AL_Africa-2","Africa-2","SEN","Senegal","-","2003","2003",2003,1353,"23-Mar-09","23-Mar-09","Homo sapiens","19264663","07009SEN"
-"EU853644","AL_Africa-2","Africa-2","SEN","Senegal","-","2001","2001",2001,1353,"23-Mar-09","23-Mar-09","Homo sapiens","19264663","02025SEN"
-"EU853645","AL_Africa-2","Africa-2","BFA","Burkina Faso","-","1995","1995",1995,1353,"23-Mar-09","23-Mar-09","Canis familiaris","19264663","9547HAV"
-"EU853646","AL_Africa-2","Africa-2","NER","Niger","-","1990","1990",1990,1353,"23-Mar-09","23-Mar-09","Canis familiaris","19264663","9009NIG"
-"EU853647","AL_Africa-2","Africa-2","NER","Niger","-","1990","1990",1990,1353,"23-Mar-09","23-Mar-09","Canis familiaris","19264663","9010NIG"
-"EU853648","AL_Africa-2","Africa-2","NER","Niger","-","1990","1990",1990,1353,"23-Mar-09","23-Mar-09","Canis familiaris","19264663","9011NIG"
-"EU853649","AL_Africa-2","Africa-2","NER","Niger","-","1990","1990",1990,1353,"23-Mar-09","23-Mar-09","Canis familiaris","19264663","9013NIG"
-"EU853650","AL_Africa-2","Africa-2","NER","Niger","-","1987","1987",1987,1353,"23-Mar-09","23-Mar-09","Canis familiaris","19264663","8718NIG"
-"EU853651","AL_Africa-2","Africa-2","CAF","Central African Republic","-","2004","2004",2004,1353,"23-Mar-09","23-Mar-09","Canis familiaris","19264663","07149RCA"
-"EU853652","AL_Africa-2","Africa-2","TCD","Chad","-","1990","1990",1990,1353,"23-Mar-09","23-Mar-09","Canis familiaris","19264663","9021TCH"
-"EU853653","AL_Africa-2","Africa-2","TCD","Chad","-","1996","1996",1996,1353,"23-Mar-09","23-Mar-09","Canis familiaris","19264663","9609TCH"
-"EU853654","AL_Africa-2","Africa-2","NER","Niger","-","1990","1990",1990,1353,"23-Mar-09","23-Mar-09","Canis familiaris","19264663","9014NIG"
-"EU853655","AL_Africa-2","Africa-2","TCD","Chad","-","1987","1987",1987,1353,"23-Mar-09","23-Mar-09","Canis familiaris","19264663","8732TCH"
-"EU853656","AL_Africa-2","Africa-2","TCD","Chad","-","1987","1987",1987,1353,"23-Mar-09","23-Mar-09","Canis familiaris","19264663","8731TCH"
-"EU853657","AL_Africa-2","Africa-2","TCD","Chad","-","1987","1987",1987,1353,"23-Mar-09","23-Mar-09","Canis familiaris","19264663","8733TCH"
-"FJ392366","AL_Africa-3","Africa-3","ZAF","South Africa","Harrismith","1992","1992",1992,1353,"31-Dec-09","02-May-10","Atilax paludinosus","20214938","19/92"
-"FJ392367","AL_Africa-3","Africa-3","ZAF","South Africa","-","2001","2001",2001,1353,"31-Dec-09","02-May-10","feline","20214938","22-Jan"
-"FJ392368","AL_Africa-3","Africa-3","ZAF","South Africa","-","2001","2001",2001,1353,"31-Dec-09","02-May-10","Felis catus","20214938","23-Jan"
-"FJ392369","AL_Africa-3","Africa-3","ZAF","South Africa","-","2000","2000",2000,1353,"31-Dec-09","02-May-10","Galerella sanguinea","20214938","28/00"
-"FJ392370","AL_Africa-3","Africa-3","ZAF","South Africa","-","2000","2000",2000,1353,"31-Dec-09","02-May-10","Bos taurus","20214938","30/00"
-"FJ392371","AL_Africa-3","Africa-3","ZAF","South Africa","-","2002","2002",2002,1353,"31-Dec-09","02-May-10","Cynictis penicillata","20214938","32/02"
-"FJ392373","AL_Africa-3","Africa-3","ZAF","South Africa","-","2003","2003",2003,1353,"31-Dec-09","02-May-10","Galerella sanguinea","20214938","155/03"
-"FJ392377","AL_Africa-3","Africa-3","ZAF","South Africa","-","1999","1999",1999,1353,"31-Dec-09","02-May-10","Cynictis penicillata","20214938","279/99"
-"FJ392378","AL_Africa-3","Africa-3","ZAF","South Africa","-","1999","1999",1999,1353,"31-Dec-09","02-May-10","Cynictis penicillata","20214938","344/99"
-"FJ392379","AL_Africa-3","Africa-3","ZAF","South Africa","-","1996","1996",1996,1353,"31-Dec-09","02-May-10","Cynictis penicillata","20214938","364/96"
-"FJ392380","AL_Africa-3","Africa-3","ZAF","South Africa","-","2006","2006",2006,1353,"31-Dec-09","02-May-10","Cynictis penicillata","20214938","381/06"
-"FJ392384","AL_Africa-3","Africa-3","ZAF","South Africa","-","1994","1994",1994,1353,"31-Dec-09","02-May-10","Felis catus","20214938","485/94"
-"FJ392388","AL_Africa-3","Africa-3","ZAF","South Africa","-","1995","1995",1995,1353,"31-Dec-09","02-May-10","Cynictis penicillata","20214938","767/95"
-"FJ392389","AL_Africa-3","Africa-3","ZAF","South Africa","-","1992","1992",1992,1353,"31-Dec-09","02-May-10","Atilax paludinosus","20214938","878/92"
-"FJ392390","AL_Africa-3","Africa-3","ZAF","South Africa","-","1993","1993",1993,1353,"31-Dec-09","02-May-10","Felis catus","20214938","926/93"
-"FJ392391","AL_Africa-3","Africa-3","ZWE","Zimbabwe","-","1994","1994",1994,1353,"31-Dec-09","02-May-10","Galerella sanguinea","20214938","22107"
-"JQ692985","AL_Africa-3","Africa-3","ZAF","South Africa","-","2006","2006",2006,1353,"31-Dec-12","31-Dec-12","Felis lybica","-","18-Jun"
-"JQ692986","AL_Africa-3","Africa-3","ZAF","South Africa","-","2006","2006",2006,1353,"31-Dec-12","31-Dec-12","Galerella pulverulenta","-","200-06"
-"JQ692989","AL_Africa-3","Africa-3","ZAF","South Africa","-","2006","2006",2006,1353,"31-Dec-12","31-Dec-12","Bos taurus","-","50-06"
-"JQ692990","AL_Africa-3","Africa-3","ZAF","South Africa","-","2006","2006",2006,1353,"31-Dec-12","31-Dec-12","Cynictis penicillata","-","57-06"
-"JQ692994","AL_Africa-3","Africa-3","ZAF","South Africa","-","2006","2006",2006,1353,"31-Dec-12","31-Dec-12","Cynictis penicillata","-","696-06"
-"JQ692995","AL_Africa-3","Africa-3","ZAF","South Africa","-","2005","2005",2005,1353,"31-Dec-12","31-Dec-12","Cynictis penicillata","-","257-05"
-"JQ692996","AL_Africa-3","Africa-3","ZAF","South Africa","-","2007","2007",2007,1353,"31-Dec-12","31-Dec-12","Felis lybica","-","13-Jul"
-"JX088728","AL_Africa-3","Africa-3","ZAF","South Africa","-","2006","2006",2006,1353,"31-Dec-12","31-Dec-12","Bos taurus","-","28-Jun"
-"JX088730","AL_Africa-3","Africa-3","ZAF","South Africa","-","2007","2007",2007,1353,"31-Dec-12","31-Dec-12","Bos taurus","-","397-07"
-"JX088731","AL_Africa-3","Africa-3","ZAF","South Africa","-","2007","2007",2007,1353,"31-Dec-12","31-Dec-12","Galerella sanguinea","-","416-07"
-"JX088732","AL_Africa-3","Africa-3","ZAF","South Africa","-","2006","2006",2006,1353,"31-Dec-12","31-Dec-12","Felis lybica","-","584-06"
-"KF022176","AL_Africa-2","Africa-2","NGA","Nigeria","-","2005","2005",2005,1350,"30-May-14","30-May-14","Canis familiaris","-","99N/2005"
-"KF022186","AL_Africa-2","Africa-2","NGA","Nigeria","-","2005","2005",2005,1350,"30-May-14","30-May-14","Canis familiaris","-","161N/2005"
-"KP345881","AL_Africa-2","Africa-2","FRA","France","-","2014","2014",2014,1353,"20-Apr-15","20-Apr-15","Homo sapiens","25854482","14009FRA"
-"KR080521","AL_Africa-2","Africa-2","NGA","Nigeria","Minna","2012","2012",2012,1353,"25-Sep-15","25-Sep-15","Canis familiaris","-","252NigeriaMinna2012"
-"KU564980","AL_Africa-2","Africa-2","TCD","Chad","-","2012","2012",2012,1353,"26-Jul-16","15-Nov-16","Canis familiaris","-","346"
-"KU564981","AL_Africa-2","Africa-2","TCD","Chad","-","2012","2012",2012,1353,"26-Jul-16","15-Nov-16","Canis familiaris","-","347"
-"KU564982","AL_Africa-2","Africa-2","TCD","Chad","-","2012","2012",2012,1353,"26-Jul-16","15-Nov-16","Canis familiaris","-","349"
-"KU564983","AL_Africa-2","Africa-2","TCD","Chad","-","2012","2012",2012,1353,"26-Jul-16","15-Nov-16","Canis familiaris","-","350"
-"KU564984","AL_Africa-2","Africa-2","TCD","Chad","-","2012","2012",2012,1353,"26-Jul-16","15-Nov-16","Canis familiaris","-","351"
-"KU564985","AL_Africa-2","Africa-2","TCD","Chad","-","2012","2012",2012,1353,"26-Jul-16","15-Nov-16","Canis familiaris","-","352"
-"KU564986","AL_Africa-2","Africa-2","TCD","Chad","-","2012","2012",2012,1353,"26-Jul-16","15-Nov-16","Canis familiaris","-","354"
-"KU564987","AL_Africa-2","Africa-2","TCD","Chad","-","2012","2012",2012,1353,"26-Jul-16","15-Nov-16","Canis familiaris","-","356"
-"KU564988","AL_Africa-2","Africa-2","TCD","Chad","-","2012","2012",2012,1353,"26-Jul-16","15-Nov-16","Canis familiaris","-","357"
-"KU564989","AL_Africa-2","Africa-2","TCD","Chad","-","2012","2012",2012,1353,"26-Jul-16","15-Nov-16","Canis familiaris","-","358"
-"KU564990","AL_Africa-2","Africa-2","TCD","Chad","-","2012","2012",2012,1353,"26-Jul-16","15-Nov-16","Canis familiaris","-","359"
-"KU564991","AL_Africa-2","Africa-2","TCD","Chad","-","2012","2012",2012,1353,"26-Jul-16","15-Nov-16","Canis familiaris","-","363"
-"KU564992","AL_Africa-2","Africa-2","TCD","Chad","-","2012","2012",2012,1353,"26-Jul-16","15-Nov-16","Canis familiaris","-","364"
-"KU564993","AL_Africa-2","Africa-2","TCD","Chad","-","2013","2013",2013,1353,"26-Jul-16","15-Nov-16","Canis familiaris","-","367"
-"KU564994","AL_Africa-2","Africa-2","TCD","Chad","-","2013","2013",2013,1353,"26-Jul-16","15-Nov-16","Canis familiaris","-","368"
-"KU564995","AL_Africa-2","Africa-2","TCD","Chad","-","2013","2013",2013,1353,"26-Jul-16","15-Nov-16","Canis familiaris","-","369"
-"KU564996","AL_Africa-2","Africa-2","TCD","Chad","-","2013","2013",2013,1353,"26-Jul-16","15-Nov-16","Canis familiaris","-","371"
-"KU564997","AL_Africa-2","Africa-2","TCD","Chad","-","2013","2013",2013,1353,"26-Jul-16","15-Nov-16","Canis familiaris","-","372"
-"KU564998","AL_Africa-2","Africa-2","TCD","Chad","-","2013","2013",2013,1353,"26-Jul-16","15-Nov-16","Canis familiaris","-","373"
-"KU564999","AL_Africa-2","Africa-2","TCD","Chad","-","2014","2014",2014,1353,"26-Jul-16","15-Nov-16","Canis familiaris","-","381"
-"KX148107","AL_Africa-2","Africa-2","BEN","Benin","-","1986","1986",1986,11923,"28-Nov-16","28-Nov-16","Felis catus","-","86097BEN"
-"KX148218","AL_Africa-3","Africa-3","BWA","Botswana","-","2009","2009",2009,11800,"28-Nov-16","28-Nov-16","Felis catus","-","14016BOT"
-"KX148219","AL_Africa-3","Africa-3","BWA","Botswana","-","2009","2009",2009,11800,"28-Nov-16","28-Nov-16","honey badger","-","14017BOT"
-"KX148220","AL_Africa-3","Africa-3","ZAF","South Africa","-","2013","2013",2013,11805,"28-Nov-16","28-Nov-16","mongoose","-","15001AFS"
-"KX148221","AL_Africa-3","Africa-3","ZAF","South Africa","-","2014","2014",2014,11805,"28-Nov-16","28-Nov-16","squirrel","-","15003AFS"
-"KX148222","AL_Africa-3","Africa-3","ZAF","South Africa","-","2014","2014",2014,11804,"28-Nov-16","28-Nov-16","mongoose","-","15002AFS"
-"KX148223","AL_Africa-3","Africa-3","ZAF","South Africa","-","2000","2000",2000,11802,"28-Nov-16","28-Nov-16","feline","-","14018AFS"
-"KX148229","AL_Africa-2","Africa-2","NER","Niger","-","1990","1990",1990,11801,"28-Nov-16","28-Nov-16","Canis familiaris","-","90012NIG"
-"KX148230","AL_Africa-2","Africa-2","BFA","Burkina Faso","-","1995","1995",1995,11803,"28-Nov-16","28-Nov-16","Canis familiaris","-","95047HAV"
-"KX148231","AL_Africa-2","Africa-2","NER","Niger","-","1990","1990",1990,11801,"28-Nov-16","28-Nov-16","Canis familiaris","-","90010NIG"
-"KX148232","AL_Africa-2","Africa-2","CIV","C√¥te d'Ivoire","-","1992","1992",1992,11801,"28-Nov-16","28-Nov-16","Canis familiaris","-","92037CI"
-"KX148233","AL_Africa-2","Africa-2","CIV","C√¥te d'Ivoire","-","1992","1992",1992,11801,"28-Nov-16","28-Nov-16","Canis familiaris","-","92038CI"
-"KX148234","AL_Africa-2","Africa-2","BFA","Burkina Faso","-","1986","1986",1986,11801,"28-Nov-16","28-Nov-16","Canis familiaris","-","86036HAV"
-"KX148235","AL_Africa-2","Africa-2","CIV","C√¥te d'Ivoire","-","2001","2001",2001,11801,"28-Nov-16","28-Nov-16","Canis familiaris","-","01007CI"
-"KX148236","AL_Africa-2","Africa-2","MRT","Mauritania","-","1993","1993",1993,11802,"28-Nov-16","28-Nov-16","Canis familiaris","-","93011MAU"
-"KX148237","AL_Africa-2","Africa-2","MRT","Mauritania","-","1993","1993",1993,11801,"28-Nov-16","28-Nov-16","Canis familiaris","-","93012MAU"
-"KX148238","AL_Africa-2","Africa-2","SEN","Senegal","-","1991","1991",1991,11801,"28-Nov-16","28-Nov-16","Canis familiaris","-","93003SEN"
-"KX148239","AL_Africa-2","Africa-2","SEN","Senegal","-","1992","1992",1992,11801,"28-Nov-16","28-Nov-16","Canis familiaris","-","93005SEN"
-"KX148244","AL_Africa-2","Africa-2","GIN","Guinea","-","1990","1990",1990,11802,"28-Nov-16","28-Nov-16","Canis familiaris","-","90024GUI"
-"KY124532","AL_Africa-2","Africa-2","TCD","Chad","-","2011","2011",2011,1353,"30-Nov-18","30-Nov-18","Canis familiaris","-","15028TCH"
-"KY124533","AL_Africa-2","Africa-2","TCD","Chad","-","2011","2011",2011,1353,"30-Nov-18","30-Nov-18","Canis familiaris","-","15030TCH"
-"KY124534","AL_Africa-2","Africa-2","TCD","Chad","-","2012","2012",2012,1353,"30-Nov-18","30-Nov-18","Canis familiaris","-","15031TCH"
-"KY124535","AL_Africa-2","Africa-2","TCD","Chad","-","2012","2012",2012,1353,"30-Nov-18","30-Nov-18","Felis catus","-","15033TCH"
-"KY124536","AL_Africa-2","Africa-2","TCD","Chad","-","2012","2012",2012,1353,"30-Nov-18","30-Nov-18","Canis familiaris","-","15034TCH"
-"KY124537","AL_Africa-2","Africa-2","TCD","Chad","-","2012","2012",2012,1353,"30-Nov-18","30-Nov-18","Canis familiaris","-","15035TCH"
-"KY124538","AL_Africa-2","Africa-2","TCD","Chad","-","2012","2012",2012,1353,"30-Nov-18","30-Nov-18","Canis familiaris","-","15036TCH"
-"KY124539","AL_Africa-2","Africa-2","TCD","Chad","-","2012","2012",2012,1353,"30-Nov-18","30-Nov-18","Canis familiaris","-","15037TCH"
-"KY124540","AL_Africa-2","Africa-2","TCD","Chad","-","2012","2012",2012,1353,"30-Nov-18","30-Nov-18","Canis familiaris","-","15038TCH"
-"KY124541","AL_Africa-2","Africa-2","TCD","Chad","-","2013","2013",2013,1353,"30-Nov-18","30-Nov-18","Canis familiaris","-","15039TCH"
-"MF538629","AL_Africa-2","Africa-2","TCD","Chad","-","2014","2014",2014,1353,"07-Jan-18","07-Jan-18","Canis familiaris","-","15041TCH"
-"MG458307","AL_Africa-3","Africa-3","ZAF","South Africa","-","2000","2000",2000,11922,"31-Jan-18","31-Jan-18","Felis catus","29357361","RV995"
-"MG458308","AL_Africa-3","Africa-3","ZAF","South Africa","-","2000","2000",2000,11926,"31-Jan-18","31-Jan-18","mongoose","29357361","RV1009"
-"MH481711","AL_Africa-2","Africa-2","LBR","Liberia","-","2018","2018",2018,1353,"16-Oct-18","16-Oct-18","Canis familiaris","-","IZSVe_18RD/666-2"
-"MH481712","AL_Africa-2","Africa-2","LBR","Liberia","-","2018","2018",2018,1353,"16-Oct-18","16-Oct-18","Canis familiaris","-","IZSVe_18RD/666-3"
-"MH481713","AL_Africa-2","Africa-2","LBR","Liberia","-","2017","2017",2017,1353,"16-Oct-18","16-Oct-18","Canis familiaris","-","IZSVe_18RD/666-4"
-"MH514968","AL_Africa-2","Africa-2","SEN","Senegal","Dakar","2001","2001",2001,11923,"30-Jul-21","30-Jul-21","Homo sapiens","-","SH155966SEN_2001"
-"MH514969","AL_Africa-2","Africa-2","SEN","Senegal","Dakar","2005","2005",2005,11923,"30-Jul-21","30-Jul-21","Homo sapiens","-","SH177846SEN_2005"
-"MH514970","AL_Africa-2","Africa-2","SEN","Senegal","Linguere","2011","2011",2011,11923,"30-Jul-21","30-Jul-21","Canis lupus familiaris","-","SA217694SEN_2011"
-"MH514971","AL_Africa-2","Africa-2","SEN","Senegal","Dakar","2010","2010",2010,11923,"30-Jul-21","30-Jul-21","Canis lupus familiaris","-","SA206776SEN_2010"
-"MH514972","AL_Africa-2","Africa-2","SEN","Senegal","Dakar","2008","2008",2008,11923,"30-Jul-21","30-Jul-21","Canis lupus familiaris","-","SA194858SEN_2008"
-"MH514973","AL_Africa-2","Africa-2","SEN","Senegal","Dahra","2011","2011",2011,11923,"30-Jul-21","30-Jul-21","Mellivora capensis","-","SA212203SEN_2011"
-"MH514974","AL_Africa-2","Africa-2","SEN","Senegal","Dahra","2011","2011",2011,11923,"30-Jul-21","30-Jul-21","Canis lupus familiaris","-","SA217750SEN_2011"
-"MH514975","AL_Africa-2","Africa-2","SEN","Senegal","Diamniadio","2013","2013",2013,11923,"30-Jul-21","30-Jul-21","Canis lupus familiaris","-","SA252913SEN_2013"
-"MH514976","AL_Africa-2","Africa-2","SEN","Senegal","Dakar","2010","2010",2010,11923,"30-Jul-21","30-Jul-21","Canis lupus familiaris","-","SA204014SEN_2010"
-"MH514977","AL_Africa-2","Africa-2","SEN","Senegal","Dakar","2013","2013",2013,11923,"30-Jul-21","30-Jul-21","Canis lupus familiaris","-","SA262037SEN_2013"
-"MH514978","AL_Africa-2","Africa-2","SEN","Senegal","Dakar","2014","2014",2014,11923,"30-Jul-21","30-Jul-21","Canis lupus familiaris","-","SA262503SEN_2014"
-"MH514979","AL_Africa-2","Africa-2","SEN","Senegal","Dakar","2014","2014",2014,11923,"30-Jul-21","30-Jul-21","Canis lupus familiaris","-","SA262518SEN_2014"
-"MH514980","AL_Africa-2","Africa-2","SEN","Senegal","Dakar","2014","2014",2014,11923,"30-Jul-21","30-Jul-21","Canis lupus familiaris","-","SA267115SEN_2014"
-"MH514981","AL_Africa-2","Africa-2","SEN","Senegal","Dakar","2013","2013",2013,11923,"30-Jul-21","30-Jul-21","Canis lupus familiaris","-","SA252888SEN_2013"
-"MH514982","AL_Africa-2","Africa-2","SEN","Senegal","Dakar","2007","2007",2007,11923,"30-Jul-21","30-Jul-21","Homo sapiens","-","SH189343SEN_2007"
-"MH514983","AL_Africa-2","Africa-2","SEN","Senegal","Dahra","2011","2011",2011,11923,"30-Jul-21","30-Jul-21","Canis lupus familiaris","-","SA217695SEN_2011"
-"MH514984","AL_Africa-2","Africa-2","SEN","Senegal","Dakar","2011","2011",2011,11923,"30-Jul-21","30-Jul-21","Homo sapiens","-","SH218152SEN_2011"
-"MH514985","AL_Africa-2","Africa-2","SEN","Senegal","Dakar","2015","2015",2015,11923,"30-Jul-21","30-Jul-21","Canis lupus familiaris","-","SA272282SEN_2015"
-"MK471246","AL_Africa-2","Africa-2","GIN","Guinea","-","2018","2018",2018,1353,"25-May-19","25-May-19","Canis lupus familiaris","-","1557-2IZSVe"
-"MK471247","AL_Africa-2","Africa-2","GIN","Guinea","-","2018","2018",2018,1353,"25-May-19","25-May-19","Canis lupus familiaris","-","1557-4IZSVe"
-"MK471248","AL_Africa-2","Africa-2","GIN","Guinea","-","2018","2018",2018,1353,"25-May-19","25-May-19","Canis lupus familiaris","-","1557-5IZSVe"
-"MN049979","AL_Africa-2","Africa-2","LBR","Liberia","-","2017","2017",2017,1353,"09-Jul-20","09-Jul-20","Canis familiaris","-","17013LIB"
-"MN049980","AL_Africa-2","Africa-2","LBR","Liberia","Lofa county","2018","2018",2018,1353,"09-Jul-20","09-Jul-20","Canis familiaris","-","18009LIB"
-"MN049981","AL_Africa-2","Africa-2","LBR","Liberia","Montserrado county","2018","2018",2018,1353,"09-Jul-20","09-Jul-20","Canis familiaris","-","18008LIB"
-"MN049982","AL_Africa-2","Africa-2","LBR","Liberia","Montserrado county","2017","2017",2017,1353,"09-Jul-20","09-Jul-20","Canis familiaris","-","18007LIB"
-"MN049983","AL_Africa-2","Africa-2","LBR","Liberia","Montserrado county","2017","2017",2017,1353,"09-Jul-20","09-Jul-20","Felis catus","-","18005LIB"
-"MN049984","AL_Africa-2","Africa-2","LBR","Liberia","-","2018","2018",2018,1353,"09-Jul-20","09-Jul-20","Canis familiaris","-","18018LIB"
-"U22485","AL_Africa-2","Africa-2","-","-","-","1986","1986",1986,1350,"20-Jul-95","20-Jul-95","Felis catus","7778285","8697BEN"
-"U22486","AL_Africa-2","Africa-2","-","-","-","1986","1986",1986,1350,"20-Jul-95","20-Jul-95","Canis familiaris","7778285","88636HAV"
-"U22487","AL_Africa-2","Africa-2","-","-","-","-","-",1995,1350,"20-Jul-95","20-Jul-95","-","7778285","8660GUI"
-"U22489","AL_Africa-2","Africa-2","-","-","-","1986","1986",1986,1350,"20-Jul-95","20-Jul-95","Camelus","7778285","8689MAU"
-"U22639","AL_Africa-2","Africa-2","-","-","-","1989","1989",1989,1350,"20-Jul-95","20-Jul-95","Canis familiaris","7778285","9003CI"
-"U22640","AL_Africa-2","Africa-2","-","-","-","1990","1990",1990,1350,"20-Jul-95","20-Jul-95","Canis familiaris","7778285","9012NIG"
-"U22641","AL_Africa-2","Africa-2","-","-","-","1990","1990",1990,1350,"20-Jul-95","20-Jul-95","Canis familiaris","7778285","9024GUI"
-"U22644","AL_Africa-2","Africa-2","-","-","-","1992","1992",1992,1350,"20-Jul-95","20-Jul-95","Canis familiaris","7778285","9218TCH"
-"U22646","AL_Africa-2","Africa-2","-","-","-","1990","1990",1990,1350,"20-Jul-95","20-Jul-95","Canis familiaris","7778285","9026CI"
-"U22652","AL_Africa-2","Africa-2","-","-","-","1992","1992",1992,1350,"20-Jul-95","20-Jul-95","Canis familiaris","7778285","9239CI"
+"","ID","assignment","country","year"
+"1","AF467949","Africa-3","South Africa",2002
+"2","EU038082","Africa-2","Nigeria",2006
+"3","EU038083","Africa-2","Nigeria",2006
+"4","EU038084","Africa-2","Nigeria",2006
+"5","EU038085","Africa-2","Nigeria",2006
+"6","EU038086","Africa-2","Nigeria",2006
+"7","EU038087","Africa-2","Nigeria",2006
+"8","EU038088","Africa-2","Nigeria",2006
+"9","EU038089","Africa-2","Nigeria",2005
+"10","EU038090","Africa-2","Nigeria",2005
+"11","EU038091","Africa-2","Nigeria",2006
+"12","EU038092","Africa-2","Nigeria",2006
+"13","EU038093","Africa-2","Nigeria",2005
+"14","EU038094","Africa-2","Nigeria",2006
+"15","EU038095","Africa-2","Nigeria",2006
+"16","EU038096","Africa-2","Nigeria",2006
+"17","EU038097","Africa-2","Nigeria",2006
+"18","EU038098","Africa-2","Nigeria",2006
+"19","EU038099","Africa-2","Nigeria",2006
+"20","EU038100","Africa-2","Nigeria",2006
+"21","EU038101","Africa-2","Nigeria",2006
+"22","EU038102","Africa-2","Nigeria",2006
+"23","EU038103","Africa-2","Nigeria",2006
+"24","EU038104","Africa-2","Nigeria",2006
+"25","EU038105","Africa-2","Nigeria",2006
+"26","EU038106","Africa-2","Nigeria",2006
+"27","EU038108","Africa-2","Nigeria",2006
+"28","EU038109","Africa-2","Nigeria",2006
+"29","EU478492","Africa-2","Burkina Faso",2007
+"30","EU478493","Africa-2","Burkina Faso",2007
+"31","EU478494","Africa-2","Burkina Faso",2007
+"32","EU478495","Africa-2","Burkina Faso",2007
+"33","EU478496","Africa-2","Burkina Faso",2007
+"34","EU478497","Africa-2","Burkina Faso",2007
+"35","EU478498","Africa-2","Burkina Faso",2007
+"36","EU478499","Africa-2","Burkina Faso",2007
+"37","EU478500","Africa-2","Burkina Faso",2007
+"38","EU478501","Africa-2","Burkina Faso",2007
+"39","EU478502","Africa-2","Burkina Faso",2007
+"40","EU478503","Africa-2","Burkina Faso",2007
+"41","EU478504","Africa-2","Burkina Faso",2007
+"42","EU478505","Africa-2","Burkina Faso",2007
+"43","EU478506","Africa-2","Burkina Faso",2007
+"44","EU478507","Africa-2","Burkina Faso",2007
+"45","EU478508","Africa-2","Burkina Faso",2007
+"46","EU478509","Africa-2","Burkina Faso",2007
+"47","EU478510","Africa-2","Burkina Faso",2007
+"48","EU478511","Africa-2","Burkina Faso",2007
+"49","EU478512","Africa-2","Burkina Faso",2007
+"50","EU478513","Africa-2","Burkina Faso",2007
+"51","EU478514","Africa-2","Burkina Faso",2007
+"52","EU478515","Africa-2","Burkina Faso",2007
+"53","EU478516","Africa-2","Burkina Faso",2007
+"54","EU478517","Africa-2","Burkina Faso",2007
+"55","EU478518","Africa-2","Burkina Faso",2007
+"56","EU478519","Africa-2","Burkina Faso",2007
+"57","EU478520","Africa-2","Burkina Faso",2007
+"58","EU478521","Africa-2","Burkina Faso",2007
+"59","EU478522","Africa-2","Burkina Faso",2007
+"60","EU478523","Africa-2","Burkina Faso",2007
+"61","EU478524","Africa-2","Burkina Faso",2007
+"62","EU514571","Africa-2","Niger",2007
+"63","EU514572","Africa-2","Niger",2007
+"64","EU514573","Africa-2","Niger",2007
+"65","EU514574","Africa-2","Niger",2007
+"66","EU514575","Africa-2","Mauritania",2005
+"67","EU514576","Africa-2","Mauritania",2005
+"68","EU514577","Africa-2","Mauritania",2005
+"69","EU514578","Africa-2","Mauritania",2006
+"70","EU514579","Africa-2","Mauritania",2006
+"71","EU514580","Africa-2","Mauritania",2006
+"72","EU514581","Africa-2","Mauritania",2007
+"73","EU718735","Africa-2","Chad",2006
+"74","EU718736","Africa-2","Chad",2006
+"75","EU718737","Africa-2","Chad",2006
+"76","EU718738","Africa-2","Chad",2006
+"77","EU718739","Africa-2","Chad",2006
+"78","EU718740","Africa-2","Chad",2006
+"79","EU718741","Africa-2","Chad",2006
+"80","EU718742","Africa-2","Chad",2006
+"81","EU718743","Africa-2","Chad",2006
+"82","EU718744","Africa-2","Chad",2006
+"83","EU718745","Africa-2","Chad",2006
+"84","EU718746","Africa-2","Chad",2006
+"85","EU718747","Africa-2","Chad",2006
+"86","EU718748","Africa-2","Chad",2006
+"87","EU718749","Africa-2","Chad",2006
+"88","EU718750","Africa-2","Chad",2006
+"89","EU718751","Africa-2","Chad",2006
+"90","EU718752","Africa-2","Chad",2006
+"91","EU718753","Africa-2","Chad",2006
+"92","EU718754","Africa-2","Chad",2006
+"93","EU718755","Africa-2","Chad",2006
+"94","EU718756","Africa-2","Chad",2006
+"95","EU718757","Africa-2","Chad",2006
+"96","EU718758","Africa-2","Chad",2006
+"97","EU718759","Africa-2","Chad",2006
+"98","EU718760","Africa-2","Chad",2006
+"99","EU718761","Africa-2","Chad",2006
+"100","EU718762","Africa-2","Chad",2006
+"101","EU718763","Africa-2","Chad",2006
+"102","EU718764","Africa-2","Chad",2006
+"103","EU718766","Africa-2","Chad",2006
+"104","EU718767","Africa-2","Chad",2006
+"105","EU718768","Africa-2","Chad",2006
+"106","EU718769","Africa-2","Chad",2006
+"107","EU718770","Africa-2","Chad",2006
+"108","EU718771","Africa-2","Chad",2006
+"109","EU718772","Africa-2","Chad",2006
+"110","EU718773","Africa-2","Chad",2006
+"111","EU718774","Africa-2","Chad",2006
+"112","EU718775","Africa-2","Chad",2006
+"113","EU718776","Africa-2","Chad",2006
+"114","EU718777","Africa-2","Chad",2006
+"115","EU718778","Africa-2","Chad",2006
+"116","EU718779","Africa-2","Chad",2006
+"117","EU718780","Africa-2","Chad",2006
+"118","EU718781","Africa-2","Chad",2006
+"119","EU718782","Africa-2","Chad",2006
+"120","EU718783","Africa-2","Chad",2006
+"121","EU718784","Africa-2","Chad",2006
+"122","EU718785","Africa-2","Chad",2006
+"123","EU718786","Africa-2","Chad",2006
+"124","EU718787","Africa-2","Chad",2006
+"125","EU827268","Africa-2","Burkina Faso",2007
+"126","EU827269","Africa-2","Burkina Faso",2007
+"127","EU827270","Africa-2","Burkina Faso",2007
+"128","EU827271","Africa-2","Burkina Faso",2007
+"129","EU827272","Africa-2","Burkina Faso",2007
+"130","EU827273","Africa-2","Burkina Faso",2007
+"131","EU827274","Africa-2","Burkina Faso",2007
+"132","EU827275","Africa-2","Burkina Faso",2007
+"133","EU853591","Africa-2","Gambia",2008
+"134","EU853592","Africa-2","Senegal",2005
+"135","EU853593","Africa-2","Guinea",1986
+"136","EU853594","Africa-2","Guinea",1993
+"137","EU853595","Africa-2","Sierra Leone",1997
+"138","EU853596","Africa-2","Mali",2007
+"139","EU853597","Africa-2","Mali",2007
+"140","EU853598","Africa-2","Mali",2006
+"141","EU853599","Africa-2","Mali",2007
+"142","EU853600","Africa-2","Mali",2007
+"143","EU853601","Africa-2","Mali",2006
+"144","EU853602","Africa-2","Mali",2006
+"145","EU853603","Africa-2","-",2007
+"146","EU853604","Africa-2","Mali",2007
+"147","EU853605","Africa-2","Mali",2006
+"148","EU853606","Africa-2","Mauritania",1993
+"149","EU853607","Africa-2","Mauritania",1991
+"150","EU853608","Africa-2","Mauritania",1991
+"151","EU853609","Africa-2","Mauritania",1993
+"152","EU853610","Africa-2","Mauritania",1993
+"153","EU853611","Africa-2","Mauritania",1994
+"154","EU853612","Africa-2","Mali",2007
+"155","EU853613","Africa-2","Mauritania",1992
+"156","EU853614","Africa-2","Burkina Faso",1986
+"157","EU853615","Africa-2","Côte d'Ivoire",2007
+"158","EU853616","Africa-2","Côte d'Ivoire",1989
+"159","EU853617","Africa-2","Côte d'Ivoire",1989
+"160","EU853618","Africa-2","Côte d'Ivoire",1992
+"161","EU853619","Africa-2","Côte d'Ivoire",1992
+"162","EU853620","Africa-2","Mali",2007
+"163","EU853621","Africa-2","Côte d'Ivoire",1989
+"164","EU853622","Africa-2","Mali",2006
+"165","EU853623","Africa-2","Mali",2007
+"166","EU853624","Africa-2","Mauritania",1991
+"167","EU853625","Africa-2","Senegal",1995
+"168","EU853626","Africa-2","Senegal",1997
+"169","EU853627","Africa-2","Senegal",2002
+"170","EU853628","Africa-2","Senegal",2007
+"171","EU853629","Africa-2","Senegal",2006
+"172","EU853630","Africa-2","Senegal",2006
+"173","EU853631","Africa-2","Senegal",2005
+"174","EU853632","Africa-2","Senegal",2005
+"175","EU853633","Africa-2","Senegal",2004
+"176","EU853634","Africa-2","Senegal",2004
+"177","EU853635","Africa-2","Senegal",2006
+"178","EU853636","Africa-2","Senegal",2006
+"179","EU853637","Africa-2","Senegal",2003
+"180","EU853638","Africa-2","Senegal",1995
+"181","EU853639","Africa-2","Senegal",2004
+"182","EU853640","Africa-2","Senegal",1996
+"183","EU853641","Africa-2","Senegal",1991
+"184","EU853642","Africa-2","Mauritania",1991
+"185","EU853643","Africa-2","Senegal",2003
+"186","EU853644","Africa-2","Senegal",2001
+"187","EU853645","Africa-2","Burkina Faso",1995
+"188","EU853646","Africa-2","Niger",1990
+"189","EU853647","Africa-2","Niger",1990
+"190","EU853648","Africa-2","Niger",1990
+"191","EU853649","Africa-2","Niger",1990
+"192","EU853650","Africa-2","Niger",1987
+"193","EU853651","Africa-2","Central African Republic",2004
+"194","EU853652","Africa-2","Chad",1990
+"195","EU853653","Africa-2","Chad",1996
+"196","EU853654","Africa-2","Niger",1990
+"197","EU853655","Africa-2","Chad",1987
+"198","EU853656","Africa-2","Chad",1987
+"199","EU853657","Africa-2","Chad",1987
+"200","FJ392366","Africa-3","South Africa",1992
+"201","FJ392367","Africa-3","South Africa",2001
+"202","FJ392368","Africa-3","South Africa",2001
+"203","FJ392369","Africa-3","South Africa",2000
+"204","FJ392370","Africa-3","South Africa",2000
+"205","FJ392371","Africa-3","South Africa",2002
+"206","FJ392373","Africa-3","South Africa",2003
+"207","FJ392375","Africa-3","South Africa",1998
+"208","FJ392376","Africa-3","South Africa",2001
+"209","FJ392377","Africa-3","South Africa",1999
+"210","FJ392378","Africa-3","South Africa",1999
+"211","FJ392379","Africa-3","South Africa",1996
+"212","FJ392380","Africa-3","South Africa",2006
+"213","FJ392381","Africa-3","South Africa",2006
+"214","FJ392383","Africa-3","South Africa",1990
+"215","FJ392384","Africa-3","South Africa",1994
+"218","FJ392388","Africa-3","South Africa",1995
+"219","FJ392389","Africa-3","South Africa",1992
+"220","FJ392390","Africa-3","South Africa",1993
+"221","FJ392391","Africa-3","Zimbabwe",1994
+"222","JQ692981","Africa-3","South Africa",2006
+"223","JQ692982","Africa-3","South Africa",2007
+"225","JQ692984","Africa-3","South Africa",2008
+"226","JQ692985","Africa-3","South Africa",2006
+"227","JQ692986","Africa-3","South Africa",2006
+"228","JQ692987","Africa-3","South Africa",2008
+"229","JQ692988","Africa-3","South Africa",2006
+"230","JQ692989","Africa-3","South Africa",2006
+"231","JQ692990","Africa-3","South Africa",2006
+"233","JQ692992","Africa-3","South Africa",2006
+"234","JQ692993","Africa-3","South Africa",2006
+"235","JQ692994","Africa-3","South Africa",2006
+"236","JQ692995","Africa-3","South Africa",2005
+"237","JQ692996","Africa-3","South Africa",2007
+"238","JX088728","Africa-3","South Africa",2006
+"239","JX088729","Africa-3","South Africa",2007
+"240","JX088730","Africa-3","South Africa",2007
+"241","JX088731","Africa-3","South Africa",2007
+"242","JX088732","Africa-3","South Africa",2006
+"243","KC196743","Africa-2","Nigeria",2011
+"244","KF022169","Africa-2","Nigeria",2005
+"245","KF022170","Africa-2","Nigeria",2005
+"246","KF022171","Africa-2","Nigeria",2005
+"247","KF022172","Africa-2","Nigeria",2005
+"248","KF022173","Africa-2","Nigeria",2005
+"249","KF022174","Africa-2","Nigeria",2005
+"250","KF022175","Africa-2","Nigeria",2005
+"251","KF022176","Africa-2","Nigeria",2005
+"252","KF022177","Africa-2","Nigeria",2005
+"253","KF022178","Africa-2","Nigeria",2005
+"254","KF022179","Africa-2","Nigeria",2005
+"255","KF022180","Africa-2","Nigeria",2005
+"256","KF022181","Africa-2","Nigeria",2005
+"257","KF022182","Africa-2","Nigeria",2005
+"258","KF022183","Africa-2","Nigeria",2005
+"259","KF022184","Africa-2","Nigeria",2005
+"260","KF022185","Africa-2","Nigeria",2005
+"261","KF022186","Africa-2","Nigeria",2005
+"262","KF022187","Africa-2","Nigeria",2005
+"263","KF022188","Africa-2","Nigeria",2005
+"264","KF022189","Africa-2","Nigeria",2005
+"265","KF022190","Africa-2","Nigeria",2005
+"266","KF022191","Africa-2","Nigeria",2005
+"267","KF022192","Africa-2","Nigeria",2005
+"268","KF977826","Africa-2","Central African Republic",2011
+"269","KP345881","Africa-2","France",2014
+"270","KR080521","Africa-2","Nigeria",2012
+"271","KR080522","Africa-2","Nigeria",2012
+"272","KR080523","Africa-2","Nigeria",2012
+"273","KU564980","Africa-2","Chad",2012
+"274","KU564981","Africa-2","Chad",2012
+"275","KU564982","Africa-2","Chad",2012
+"276","KU564983","Africa-2","Chad",2012
+"277","KU564984","Africa-2","Chad",2012
+"278","KU564985","Africa-2","Chad",2012
+"279","KU564986","Africa-2","Chad",2012
+"280","KU564987","Africa-2","Chad",2012
+"281","KU564988","Africa-2","Chad",2012
+"282","KU564989","Africa-2","Chad",2012
+"283","KU564990","Africa-2","Chad",2012
+"284","KU564991","Africa-2","Chad",2012
+"285","KU564992","Africa-2","Chad",2012
+"286","KU564993","Africa-2","Chad",2013
+"287","KU564994","Africa-2","Chad",2013
+"288","KU564995","Africa-2","Chad",2013
+"289","KU564996","Africa-2","Chad",2013
+"290","KU564997","Africa-2","Chad",2013
+"291","KU564998","Africa-2","Chad",2013
+"292","KU564999","Africa-2","Chad",2014
+"293","KX148107","Africa-2","Benin",1986
+"294","KX148218","Africa-3","Botswana",2009
+"295","KX148219","Africa-3","Botswana",2009
+"296","KX148220","Africa-3","South Africa",2013
+"297","KX148221","Africa-3","South Africa",2014
+"298","KX148222","Africa-3","South Africa",2014
+"299","KX148223","Africa-3","South Africa",2000
+"300","KX148229","Africa-2","Niger",1990
+"301","KX148230","Africa-2","Burkina Faso",1995
+"302","KX148231","Africa-2","Niger",1990
+"303","KX148232","Africa-2","Côte d'Ivoire",1992
+"304","KX148233","Africa-2","Côte d'Ivoire",1992
+"305","KX148234","Africa-2","Burkina Faso",1986
+"306","KX148235","Africa-2","Côte d'Ivoire",2001
+"307","KX148236","Africa-2","Mauritania",1993
+"308","KX148237","Africa-2","Mauritania",1993
+"309","KX148238","Africa-2","Senegal",1991
+"310","KX148239","Africa-2","Senegal",1992
+"311","KX148240","Africa-2","Chad",1990
+"312","KX148241","Africa-2","Chad",1996
+"313","KX148242","Africa-2","Cameroon",1994
+"314","KX148243","Africa-2","Cameroon",1987
+"315","KX148244","Africa-2","Guinea",1990
+"316","KY124532","Africa-2","Chad",2011
+"317","KY124533","Africa-2","Chad",2011
+"318","KY124534","Africa-2","Chad",2012
+"319","KY124535","Africa-2","Chad",2012
+"320","KY124536","Africa-2","Chad",2012
+"321","KY124537","Africa-2","Chad",2012
+"322","KY124538","Africa-2","Chad",2012
+"323","KY124539","Africa-2","Chad",2012
+"324","KY124540","Africa-2","Chad",2012
+"325","KY124541","Africa-2","Chad",2013
+"328","LT909548","Africa-2","-",1989
+"329","MF538629","Africa-2","Chad",2014
+"330","MF538630","Africa-2","Chad",2014
+"331","MF538631","Africa-2","Chad",2015
+"332","MF577065","Africa-2","Chad",2015
+"333","MG458307","Africa-3","South Africa",2000
+"334","MG458308","Africa-3","South Africa",2000
+"335","MH481711","Africa-2","Liberia",2018
+"336","MH481712","Africa-2","Liberia",2018
+"337","MH481713","Africa-2","Liberia",2017
+"338","MH514968","Africa-2","Senegal",2001
+"339","MH514969","Africa-2","Senegal",2005
+"340","MH514970","Africa-2","Senegal",2011
+"341","MH514971","Africa-2","Senegal",2010
+"342","MH514972","Africa-2","Senegal",2008
+"343","MH514973","Africa-2","Senegal",2011
+"344","MH514974","Africa-2","Senegal",2011
+"345","MH514975","Africa-2","Senegal",2013
+"346","MH514976","Africa-2","Senegal",2010
+"347","MH514977","Africa-2","Senegal",2013
+"348","MH514978","Africa-2","Senegal",2014
+"349","MH514979","Africa-2","Senegal",2014
+"350","MH514980","Africa-2","Senegal",2014
+"351","MH514981","Africa-2","Senegal",2013
+"352","MH514982","Africa-2","Senegal",2007
+"353","MH514983","Africa-2","Senegal",2011
+"354","MH514984","Africa-2","Senegal",2011
+"355","MH514985","Africa-2","Senegal",2015
+"356","MK471246","Africa-2","Guinea",2018
+"357","MK471247","Africa-2","Guinea",2018
+"358","MK471248","Africa-2","Guinea",2018
+"359","MN049979","Africa-2","Liberia",2017
+"360","MN049980","Africa-2","Liberia",2018
+"361","MN049981","Africa-2","Liberia",2018
+"362","MN049982","Africa-2","Liberia",2017
+"363","MN049983","Africa-2","Liberia",2017
+"364","MN049984","Africa-2","Liberia",2018
+"365","U22485","Africa-2","-",1986
+"366","U22486","Africa-2","-",1986
+"367","U22487","Africa-2","-",1995
+"368","U22489","Africa-2","-",1986
+"369","U22628","Africa-3","-",1987
+"370","U22634","Africa-2","-",1987
+"371","U22635","Africa-2","-",1988
+"372","U22636","Africa-2","-",1988
+"373","U22639","Africa-2","-",1989
+"374","U22640","Africa-2","-",1990
+"375","U22641","Africa-2","-",1990
+"376","U22644","Africa-2","-",1992
+"377","U22646","Africa-2","-",1990
+"378","U22652","Africa-2","-",1992
