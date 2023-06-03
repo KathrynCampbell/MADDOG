@@ -1,1402 +1,1615 @@
-"ID","N","gap","Length_before","Length_after","Year","cluster","previous","Country"
-"AB201807",0,18,1353,1335,2005,"Bats_A1","Bats","Brazil"
-"AB201809",0,18,1353,1335,2005,"Bats_A1","Bats","Brazil"
-"AB201811",0,18,1353,1335,2005,"Bats_A1","Bats","Brazil"
-"AB201812",0,18,1353,1335,2005,"Bats_A1","Bats","Brazil"
-"AB201813",0,18,1353,1335,2005,"Bats_A1","Bats","Brazil"
-"AB201814",0,18,1353,1335,2005,"Bats_A1","Bats","Brazil"
-"AB297650",0,18,1353,1335,2007,"Bats_A1","Bats","Brazil"
-"AB297655",0,18,1353,1335,2007,"Bats_A1","Bats","Brazil"
-"AB297657",0,18,1353,1335,2007,"Bats_A1","Bats","Brazil"
-"AB297658",0,18,1353,1335,2007,"Bats_A1","Bats","Brazil"
-"AB297659",0,18,1353,1335,2007,"Bats_A1","Bats","Brazil"
-"AF351837",0,0,1353,1353,2001,"Bats LN_A1","Bats","-"
-"AF351841",0,0,1353,1353,2001,"Bats LN_A1","Bats","-"
-"AF394868",0,0,1353,1353,2002,"Bat_B1","Bats","United States"
-"EU981922",0,36,1353,1317,2008,"Bats_A1","Bats","Uruguay"
-"HQ341796",0,0,1353,1353,2009,"Bats_A1","Bats","Chile"
-"JF693483",0,3,1353,1350,2003,"Bats_A1","Bats","Colombia"
-"AB083803",0,18,1353,1335,2002,"Bats DR_A1.1.2","Bats DR","Brazil"
-"AB083804",0,18,1353,1335,2002,"Bats DR_A1.1.13","Bats DR","Brazil"
-"AB083805",0,18,1353,1335,2002,"Bats DR_A1.1.13","Bats DR","Brazil"
-"AB083806",0,18,1353,1335,2002,"Bats DR_A1.1","Bats DR","Brazil"
-"AB083807",0,18,1353,1335,2002,"Bats DR_A1.1","Bats DR","Brazil"
-"AB083809",0,18,1353,1335,2002,"Bats DR_A1.1.7","Bats DR","Brazil"
-"AB083810",0,18,1353,1335,2002,"Bats DR_A1.1.7","Bats DR","Brazil"
-"AB083811",0,18,1353,1335,2002,"Bats DR_A1.1.7","Bats DR","Brazil"
-"AB083812",0,18,1353,1335,2002,"Bats DR_A1.1.13","Bats DR","Brazil"
-"AB083813",0,18,1353,1335,2002,"Bats DR_I1","Bats DR","Brazil"
-"AB083814",0,18,1353,1335,2002,"Bats DR_I1","Bats DR","Brazil"
-"AB083815",0,18,1353,1335,2002,"Bats DR_A1.1.4","Bats DR","Brazil"
-"AB083816",0,18,1353,1335,2002,"Bats DR_A1.1.4","Bats DR","Brazil"
-"AB083817",0,18,1353,1335,2002,"Bats DR_A1.1.13","Bats DR","Brazil"
-"AB083818",0,18,1353,1335,2002,"Bats DR_A1.1.13","Bats DR","Brazil"
-"AB117969",0,0,1353,1353,2004,"Bats DR_A1.1.13","Bats DR","Brazil"
-"AB117970",0,0,1353,1353,2004,"Bats DR_A1.1.13","Bats DR","Brazil"
-"AB117971",0,0,1353,1353,2004,"Bats DR_A1.1.13","Bats DR","Brazil"
-"AB117972",0,0,1353,1353,2004,"Bats DR_A1.1.13","Bats DR","Brazil"
-"AB201802",0,18,1353,1335,2005,"Bat_B1.1","Bats DR","Brazil"
-"AB201803",0,18,1353,1335,2005,"Bats DR_A1.1","Bats DR","Brazil"
-"AB201804",0,18,1353,1335,2005,"Bats DR_A1.1","Bats DR","Brazil"
-"AB201805",0,18,1353,1335,2005,"Bats DR_K1","Bats DR","Brazil"
-"AB201810",0,18,1353,1335,2005,"Bats DR_A1.1.13","Bats DR","Brazil"
-"AB201817",0,18,1353,1335,2005,"Bats DR_A1.1.13","Bats DR","Brazil"
-"AB201820",0,18,1353,1335,2005,"Bats DR_R1","Bats DR","Brazil"
-"AB263325",0,21,1353,1332,2007,"Bats DR_A1.1.13","Bats DR","Brazil"
-"AB263333",0,21,1353,1332,2007,"Bats DR_A1.1.13","Bats DR","Brazil"
-"AB297627",0,18,1353,1335,2007,"Bats DR_A1.1.13","Bats DR","Brazil"
-"AB297628",0,18,1353,1335,2007,"Bats DR_A1.1.13","Bats DR","Brazil"
-"AB297629",0,18,1353,1335,2007,"Bats DR_A1.1.13","Bats DR","Brazil"
-"AB297631",0,18,1353,1335,2007,"Bats DR_H1","Bats DR","Brazil"
-"AB297632",0,18,1353,1335,2007,"Bats DR_A1.1","Bats DR","Brazil"
-"AB297633",0,18,1353,1335,2007,"Bats DR_H1","Bats DR","Brazil"
-"AB297635",0,18,1353,1335,2007,"Bats DR_A1.1","Bats DR","Brazil"
-"AB297636",0,18,1353,1335,2007,"Bats DR_A1.1.4","Bats DR","Brazil"
-"AB297639",0,18,1353,1335,2007,"Bats DR_R1","Bats DR","Brazil"
-"AB297640",0,18,1353,1335,2007,"Bats DR_R1","Bats DR","Brazil"
-"AB297641",0,18,1353,1335,2007,"Bats DR_R1","Bats DR","Brazil"
-"AB297642",0,18,1353,1335,2007,"Bats DR_R1","Bats DR","Brazil"
-"AB297643",0,18,1353,1335,2007,"Bats DR_R1","Bats DR","Brazil"
-"AB297644",0,18,1353,1335,2007,"Bats DR_R1","Bats DR","Brazil"
-"AB297646",0,18,1353,1335,2007,"Bats DR_R1","Bats DR","Brazil"
-"AB685222",0,0,1353,1353,2013,"Bats DR_A1.1.13","Bats DR","Brazil"
-"AB685223",0,0,1353,1353,2013,"Bats DR_A1.1.13","Bats DR","Brazil"
-"AB685224",0,0,1353,1353,2013,"Bats DR_A1.1.13","Bats DR","Brazil"
-"AB685225",0,0,1353,1353,2013,"Bats DR_A1.1.13","Bats DR","Brazil"
-"AB685226",0,0,1353,1353,2013,"Bats DR_A1.1.13","Bats DR","Brazil"
-"AB685228",0,0,1353,1353,2013,"Bats DR_A1.1.13","Bats DR","Brazil"
-"AB685229",0,0,1353,1353,2013,"Bats DR_A1.1.13","Bats DR","Brazil"
-"AB685230",0,0,1353,1353,2013,"Bats DR_A1.1.13","Bats DR","Brazil"
-"AB685231",0,0,1353,1353,2013,"Bats DR_A1.1.13","Bats DR","Brazil"
-"AB685232",0,0,1353,1353,2013,"Bats DR_A1.1.13","Bats DR","Brazil"
-"AB685233",0,0,1353,1353,2013,"Bats DR_A1.1.13","Bats DR","Brazil"
-"AB685234",0,0,1353,1353,2013,"Bats DR_A1.1.13","Bats DR","Brazil"
-"AB685235",0,0,1353,1353,2013,"Bats DR_A1.1.13","Bats DR","Brazil"
-"AB685236",0,0,1353,1353,2013,"Bats DR_A1.1.13","Bats DR","Brazil"
-"AB685237",0,0,1353,1353,2013,"Bats DR_A1.1.13","Bats DR","Brazil"
-"AB685238",0,0,1353,1353,2013,"Bats DR_A1.1.13","Bats DR","Brazil"
-"AB685239",0,0,1353,1353,2013,"Bats DR_A1.1.13","Bats DR","Brazil"
-"AB685240",0,0,1353,1353,2013,"Bats DR_A1.1.13","Bats DR","Brazil"
-"AB685241",0,0,1353,1353,2013,"Bats DR_A1.1.13","Bats DR","Brazil"
-"AB685242",0,0,1353,1353,2013,"Bats DR_A1.1.13","Bats DR","Brazil"
-"AB685243",0,0,1353,1353,2013,"Bats DR_A1.1.13","Bats DR","Brazil"
-"AB685244",0,0,1353,1353,2013,"Bats DR_A1.1.13","Bats DR","Brazil"
-"AB685245",0,0,1353,1353,2013,"Bats DR_A1.1.13","Bats DR","Brazil"
-"AB685246",0,0,1353,1353,2013,"Bats DR_A1.1.13","Bats DR","Brazil"
-"AB685247",0,0,1353,1353,2013,"Bats DR_A1.1.13","Bats DR","Brazil"
-"AF045166",0,0,1353,1353,2000,"Bats DR_A1.1.13","Bats DR","Peru"
-"AF070449",0,0,1353,1353,2000,"Bats DR_A1.1.13","Bats DR","Brazil"
-"AF351852",0,0,1353,1353,2001,"Bats DR_A1.1.10","Bats DR","-"
-"AY854587",0,0,1353,1353,2005,"Bats DR_A1","Bats DR","Mexico"
-"AY854592",0,0,1353,1353,2005,"Bats DR_A1.2.2","Bats DR","Mexico"
-"AY854594",0,0,1353,1353,2005,"Bats DR_A1.2.2","Bats DR","Mexico"
-"AY854595",2,0,1353,1351,2005,"Bats DR_A1.2.2","Bats DR","Mexico"
-"AY877435",0,0,1353,1353,2005,"Bats DR_A1.2","Bats DR","-"
-"EF363727",0,34,1353,1319,2007,"Bats DR_A1.1.10","Bats DR","Ecuador"
-"EF363728",0,34,1353,1319,2007,"Bats DR_A1.1.10","Bats DR","Ecuador"
-"EF363732",0,34,1353,1319,2007,"Bats DR_A1.1.12","Bats DR","Brazil"
-"EF363733",0,34,1353,1319,2007,"Bats DR_A1.1.12","Bats DR","Brazil"
-"EF363734",0,34,1353,1319,2007,"Bats DR_A1.1.12","Bats DR","Brazil"
-"EF363736",0,34,1353,1319,2007,"Bats DR_A1.1.12","Bats DR","Brazil"
-"EF363737",0,34,1353,1319,2007,"Bats DR_A1.1.12","Bats DR","Brazil"
-"EF363739",0,34,1353,1319,2007,"Bats DR_A1.1.12","Bats DR","Brazil"
-"EF363741",0,34,1353,1319,2007,"Bats DR_A1.1.12","Bats DR","Brazil"
-"EF363745",0,34,1353,1319,2007,"Bats DR_C1.1.1","Bats DR","Brazil"
-"EF363749",0,34,1353,1319,2007,"Bats DR_A1.1.12","Bats DR","Brazil"
-"EF363750",0,34,1353,1319,2007,"Bats DR_A1.1.12","Bats DR","Brazil"
-"EF363751",0,34,1353,1319,2007,"Bats DR_A1.1.12","Bats DR","Brazil"
-"EF363752",0,34,1353,1319,2007,"Bats DR_A1.1.12","Bats DR","Brazil"
-"EF363753",0,34,1353,1319,2007,"Bats DR_A1.1.12","Bats DR","Brazil"
-"EF363754",0,34,1353,1319,2007,"Bats DR_A1.1.12","Bats DR","Brazil"
-"EF363755",0,34,1353,1319,2007,"Bats DR_A1.1.12","Bats DR","Brazil"
-"EF363756",0,34,1353,1319,2007,"Bats DR_A1.1.12","Bats DR","Brazil"
-"EF363757",0,34,1353,1319,2007,"Bats DR_A1.1.12","Bats DR","Brazil"
-"EF428576",0,30,1353,1323,2007,"Bats DR_H1","Bats DR","Brazil"
-"EF428577",0,30,1353,1323,2007,"Bats DR_H1","Bats DR","Brazil"
-"EF428578",0,30,1353,1323,2007,"Bats DR_H1","Bats DR","Brazil"
-"EF428579",0,30,1353,1323,2007,"Bats DR_H1","Bats DR","Brazil"
-"EF428580",0,30,1353,1323,2007,"Bats DR_H1","Bats DR","Brazil"
-"EF428581",0,30,1353,1323,2007,"Bats DR_H1","Bats DR","Brazil"
-"EF428582",0,30,1353,1323,2007,"Bats DR_H1","Bats DR","Brazil"
-"EU981917",0,35,1353,1318,2008,"Bats DR_A1.1.2","Bats DR","Uruguay"
-"EU981918",0,35,1353,1318,2008,"Bats DR_A1.1.2","Bats DR","Uruguay"
-"EU981919",0,35,1353,1318,2008,"Bats DR_A1.1.2","Bats DR","Uruguay"
-"EU981921",0,35,1353,1318,2008,"Bats DR_A1.1.2","Bats DR","Uruguay"
-"EU981923",0,35,1353,1318,2008,"Bats DR_A1.1.2","Bats DR","Uruguay"
-"EU981925",0,35,1353,1318,2008,"Bats DR_A1.1.2","Bats DR","Uruguay"
-"EU981926",0,35,1353,1318,2008,"Bats DR_A1.1.2","Bats DR","Uruguay"
-"EU981927",0,35,1353,1318,2008,"Bats DR_A1.1.2","Bats DR","Uruguay"
-"EU981928",0,35,1353,1318,2008,"Bats DR_A1.1.2","Bats DR","Uruguay"
-"EU981930",0,35,1353,1318,2007,"Bats DR_A1.1.2","Bats DR","Uruguay"
-"EU981931",0,35,1353,1318,2007,"Bats DR_A1.1.2","Bats DR","Uruguay"
-"FJ228488",0,3,1353,1350,2004,"Bats DR_A1.2.1","Bats DR","Mexico"
-"FJ228490",0,3,1353,1350,2003,"Bats DR_A1.2.2","Bats DR","Mexico"
-"FJ649043",0,33,1353,1320,2009,"Bats DR_A1.1.11","Bats DR","Brazil"
-"FJ649044",0,33,1353,1320,2009,"Bats DR_A1.1.11","Bats DR","Brazil"
-"FJ649046",0,33,1353,1320,2009,"Bats DR_A1.1.13","Bats DR","Brazil"
-"FJ649047",0,33,1353,1320,2009,"Bats DR_A1.1","Bats DR","Brazil"
-"FJ649049",0,33,1353,1320,2009,"Bats DR_A1.1","Bats DR","Brazil"
-"FJ649051",0,33,1353,1320,2009,"Bats DR_A1.1","Bats DR","Brazil"
-"FJ649054",0,33,1353,1320,2009,"Bats DR_A1.1","Bats DR","Brazil"
-"FJ649055",0,33,1353,1320,2009,"Bats DR_A1.1","Bats DR","Brazil"
-"FJ649056",0,33,1353,1320,2009,"Bats DR_A1.1","Bats DR","Brazil"
-"FJ649057",0,33,1353,1320,2009,"Bats DR_A1.1","Bats DR","Brazil"
-"FJ649058",0,33,1353,1320,2009,"Bats DR_A1.1","Bats DR","Brazil"
-"FJ649059",0,33,1353,1320,2009,"Bats DR_A1.1.13","Bats DR","Brazil"
-"FJ649060",0,33,1353,1320,2009,"Bats DR_A1.1","Bats DR","Brazil"
-"FJ649061",0,33,1353,1320,2009,"Bats DR_A1.1","Bats DR","Brazil"
-"FJ649062",0,33,1353,1320,2009,"Bats DR_A1.1.13","Bats DR","Brazil"
-"FJ649063",0,33,1353,1320,2009,"Bats DR_A1.1","Bats DR","Brazil"
-"FJ649064",0,33,1353,1320,2009,"Bats DR_A1.1.13","Bats DR","Brazil"
-"FJ649065",0,33,1353,1320,2009,"Bats DR_A1.1","Bats DR","Brazil"
-"FJ649067",0,33,1353,1320,2009,"Bats DR_A1.1","Bats DR","Brazil"
-"FJ649068",0,33,1353,1320,2009,"Bats DR_A1.1","Bats DR","Brazil"
-"FJ649069",0,33,1353,1320,2009,"Bats DR_A1.1","Bats DR","Brazil"
-"FJ649070",0,33,1353,1320,2009,"Bats DR_A1.1","Bats DR","Brazil"
-"FJ649071",0,33,1353,1320,2009,"Bats DR_A1.1","Bats DR","Brazil"
-"FJ649073",0,33,1353,1320,2009,"Bats DR_A1.1","Bats DR","Brazil"
-"FJ649074",0,33,1353,1320,2009,"Bats DR_A1.1.13","Bats DR","Brazil"
-"FJ649075",0,33,1353,1320,2009,"Bats DR_A1.1.13","Bats DR","Brazil"
-"FJ649076",0,33,1353,1320,2009,"Bats DR_A1.1","Bats DR","Brazil"
-"FJ649077",0,33,1353,1320,2009,"Bats DR_A1.1","Bats DR","Brazil"
-"FJ649078",0,33,1353,1320,2009,"Bats DR_A1.1","Bats DR","Brazil"
-"FJ649079",0,33,1353,1320,2009,"Bats DR_A1.1.13","Bats DR","Brazil"
-"FJ649080",0,33,1353,1320,2009,"Bats DR_A1.1","Bats DR","Brazil"
-"FJ649081",0,33,1353,1320,2009,"Bats DR_A1.1","Bats DR","Brazil"
-"FJ649082",0,33,1353,1320,2009,"Bats DR_A1.1","Bats DR","Brazil"
-"FJ649083",0,33,1353,1320,2009,"Bats DR_A1.1","Bats DR","Brazil"
-"FJ649084",0,33,1353,1320,2009,"Bats DR_A1.1","Bats DR","Brazil"
-"FJ649085",0,33,1353,1320,2009,"Bats DR_A1.1","Bats DR","Brazil"
-"FJ649086",0,33,1353,1320,2009,"Bats DR_A1.1","Bats DR","Brazil"
-"FJ649087",0,33,1353,1320,2009,"Bats DR_A1.1","Bats DR","Brazil"
-"FJ649088",0,33,1353,1320,2009,"Bats DR_A1.1","Bats DR","Brazil"
-"FJ649089",0,33,1353,1320,2009,"Bats DR_A1.1","Bats DR","Brazil"
-"FJ649091",0,33,1353,1320,2009,"Bats DR_A1.1","Bats DR","Brazil"
-"FJ649092",0,33,1353,1320,2009,"Bats DR_A1.1","Bats DR","Brazil"
-"FJ649093",0,33,1353,1320,2009,"Bats DR_A1.1","Bats DR","Brazil"
-"FJ649094",0,33,1353,1320,2009,"Bats DR_A1.1","Bats DR","Brazil"
-"FJ649095",0,33,1353,1320,2009,"Bats DR_A1.1","Bats DR","Brazil"
-"FJ649096",0,33,1353,1320,2009,"Bats DR_A1.1","Bats DR","Brazil"
-"FJ649097",0,33,1353,1320,2009,"Bats DR_A1.1","Bats DR","Brazil"
-"FJ649098",0,33,1353,1320,2009,"Bats DR_A1.1","Bats DR","Brazil"
-"FJ649099",0,33,1353,1320,2009,"Bats DR_A1.1","Bats DR","Brazil"
-"FJ649100",0,35,1353,1318,2009,"Bats DR_A1.1","Bats DR","Brazil"
-"FJ649101",0,33,1353,1320,2009,"Bats DR_A1.1","Bats DR","Brazil"
-"FJ649102",0,33,1353,1320,2009,"Bats DR_A1.1","Bats DR","Brazil"
-"FJ649103",0,33,1353,1320,2009,"Bats DR_A1.1","Bats DR","Brazil"
-"FJ649104",0,33,1353,1320,2009,"Bats DR_A1.1","Bats DR","Brazil"
-"FJ649105",0,33,1353,1320,2009,"Bats DR_A1.1","Bats DR","Brazil"
-"FJ649106",0,33,1353,1320,2009,"Bats DR_A1.1","Bats DR","Brazil"
-"FJ649107",0,33,1353,1320,2009,"Bats DR_A1.1","Bats DR","Brazil"
-"FJ649108",0,33,1353,1320,2009,"Bats DR_A1.1","Bats DR","Brazil"
-"FJ649109",0,33,1353,1320,2009,"Bats DR_A1.1","Bats DR","Brazil"
-"FJ649110",0,33,1353,1320,2009,"Bats DR_A1.1","Bats DR","Brazil"
-"FJ649111",0,33,1353,1320,2009,"Bats DR_A1.1","Bats DR","Brazil"
-"FJ649112",0,33,1353,1320,2009,"Bats DR_A1.1","Bats DR","Brazil"
-"FJ649113",0,33,1353,1320,2009,"Bats DR_A1.1","Bats DR","Brazil"
-"FJ649114",0,33,1353,1320,2009,"Bats DR_A1.1","Bats DR","Brazil"
-"FJ649115",0,33,1353,1320,2009,"Bats DR_A1.1","Bats DR","Brazil"
-"FJ649116",0,33,1353,1320,2009,"Bats DR_A1.1","Bats DR","Brazil"
-"FJ649117",0,33,1353,1320,2009,"Bats DR_A1.1","Bats DR","Brazil"
-"FJ649118",0,33,1353,1320,2009,"Bats DR_A1.1","Bats DR","Brazil"
-"FJ649119",0,33,1353,1320,2009,"Bats DR_A1.1","Bats DR","Brazil"
-"FJ649120",0,33,1353,1320,2009,"Bats DR_A1.1","Bats DR","Brazil"
-"FJ649121",0,33,1353,1320,2009,"Bats DR_A1.1","Bats DR","Brazil"
-"FJ649122",0,33,1353,1320,2009,"Bats DR_A1.1","Bats DR","Brazil"
-"FJ649123",0,33,1353,1320,2009,"Bats DR_A1.1","Bats DR","Brazil"
-"FJ649124",0,33,1353,1320,2009,"Bats DR_A1.1","Bats DR","Brazil"
-"FJ649125",0,33,1353,1320,2009,"Bats DR_A1.1","Bats DR","Brazil"
-"FJ649126",0,33,1353,1320,2009,"Bats DR_A1.1","Bats DR","Brazil"
-"FJ649127",0,35,1353,1318,2009,"Bats DR_A1.1","Bats DR","Brazil"
-"FJ649128",0,33,1353,1320,2009,"Bats DR_A1.1","Bats DR","Brazil"
-"FJ649129",0,33,1353,1320,2009,"Bats DR_A1.1","Bats DR","Brazil"
-"FJ649130",0,33,1353,1320,2009,"Bats DR_A1.1","Bats DR","Brazil"
-"FJ649131",0,33,1353,1320,2009,"Bats DR_A1.1","Bats DR","Brazil"
-"FJ649132",0,33,1353,1320,2009,"Bats DR_A1.1","Bats DR","Brazil"
-"FJ649133",0,33,1353,1320,2009,"Bats DR_A1.1","Bats DR","Brazil"
-"FJ649134",0,33,1353,1320,2009,"Bats DR_A1.1","Bats DR","Brazil"
-"FJ649135",0,33,1353,1320,2009,"Bats DR_A1.1","Bats DR","Brazil"
-"FJ649136",0,33,1353,1320,2009,"Bats DR_A1.1","Bats DR","Brazil"
-"FJ649137",0,33,1353,1320,2009,"Bats DR_A1.1","Bats DR","Brazil"
-"FJ649138",0,33,1353,1320,2009,"Bats DR_A1.1","Bats DR","Brazil"
-"FJ649139",0,33,1353,1320,2009,"Bats DR_A1.1","Bats DR","Brazil"
-"FJ649140",0,33,1353,1320,2009,"Bats DR_A1.1","Bats DR","Brazil"
-"FJ649141",0,33,1353,1320,2009,"Bats DR_A1.1","Bats DR","Brazil"
-"FJ649142",0,33,1353,1320,2009,"Bats DR_A1.1","Bats DR","Brazil"
-"FJ649143",0,33,1353,1320,2009,"Bats DR_A1.1","Bats DR","Brazil"
-"FJ649144",0,35,1353,1318,2009,"Bats DR_A1.1","Bats DR","Brazil"
-"FJ649145",0,33,1353,1320,2009,"Bats DR_A1.1","Bats DR","Brazil"
-"FJ649146",0,33,1353,1320,2009,"Bats DR_A1.1","Bats DR","Brazil"
-"FJ649147",0,33,1353,1320,2009,"Bats DR_A1.1","Bats DR","Brazil"
-"FJ649148",0,33,1353,1320,2009,"Bats DR_A1.1","Bats DR","Brazil"
-"FJ649149",0,33,1353,1320,2009,"Bats DR_A1.1","Bats DR","Brazil"
-"FJ649150",0,33,1353,1320,2009,"Bats DR_A1.1","Bats DR","Brazil"
-"FJ649151",0,33,1353,1320,2009,"Bats DR_A1.1","Bats DR","Brazil"
-"FJ649152",0,33,1353,1320,2009,"Bats DR_A1.1","Bats DR","Brazil"
-"FJ649153",0,33,1353,1320,2009,"Bats DR_A1.1","Bats DR","Brazil"
-"FJ649154",0,33,1353,1320,2009,"Bats DR_A1.1","Bats DR","Brazil"
-"FJ649155",0,33,1353,1320,2009,"Bats DR_A1.1","Bats DR","Brazil"
-"FJ649156",0,35,1353,1318,2009,"Bats DR_A1.1","Bats DR","Brazil"
-"FJ649157",0,35,1353,1318,2009,"Bats DR_A1.1","Bats DR","Brazil"
-"FJ649158",0,35,1353,1318,2009,"Bats DR_A1.1","Bats DR","Brazil"
-"FJ649159",0,35,1353,1318,2009,"Bats DR_A1.1","Bats DR","Brazil"
-"FJ649160",0,33,1353,1320,2009,"Bats DR_A1.1","Bats DR","Brazil"
-"FJ649161",0,33,1353,1320,2009,"Bats DR_A1.1","Bats DR","Brazil"
-"FJ649162",0,33,1353,1320,2009,"Bats DR_A1.1","Bats DR","Brazil"
-"FJ649163",0,33,1353,1320,2009,"Bats DR_A1.1","Bats DR","Brazil"
-"FJ649164",0,33,1353,1320,2009,"Bats DR_A1.1","Bats DR","Brazil"
-"FJ649165",0,35,1353,1318,2009,"Bats DR_A1.1","Bats DR","Brazil"
-"FJ649166",0,35,1353,1318,2009,"Bats DR_A1.1","Bats DR","Brazil"
-"FJ649167",0,33,1353,1320,2009,"Bats DR_A1.1","Bats DR","Brazil"
-"FJ649168",0,33,1353,1320,2009,"Bats DR_A1.1","Bats DR","Brazil"
-"FJ649169",0,35,1353,1318,2009,"Bats DR_A1.1","Bats DR","Brazil"
-"FJ649170",0,33,1353,1320,2009,"Bats DR_A1.1","Bats DR","Brazil"
-"FJ649171",0,35,1353,1318,2009,"Bats DR_A1.1","Bats DR","Brazil"
-"FJ649172",0,35,1353,1318,2009,"Bats DR_A1.1","Bats DR","Brazil"
-"FJ649175",0,33,1353,1320,2009,"Bats DR_A1.1","Bats DR","Brazil"
-"FJ649176",0,33,1353,1320,2009,"Bats DR_A1.1","Bats DR","Brazil"
-"FJ649177",0,33,1353,1320,2009,"Bats DR_A1.1","Bats DR","Brazil"
-"FJ649178",0,33,1353,1320,2009,"Bats DR_A1.1","Bats DR","Brazil"
-"FJ649179",0,33,1353,1320,2009,"Bats DR_A1.1","Bats DR","Brazil"
-"FJ649180",0,33,1353,1320,2009,"Bats DR_A1.1","Bats DR","Brazil"
-"FJ649181",0,35,1353,1318,2009,"Bats DR_A1.1","Bats DR","Brazil"
-"FJ649182",0,33,1353,1320,2009,"Bats DR_A1.1","Bats DR","Brazil"
-"FJ649183",0,33,1353,1320,2009,"Bats DR_A1.1","Bats DR","Brazil"
-"FJ649184",0,33,1353,1320,2009,"Bats DR_A1.1","Bats DR","Brazil"
-"FJ649185",0,35,1353,1318,2009,"Bats DR_A1.1","Bats DR","Brazil"
-"FJ649186",0,35,1353,1318,2009,"Bats DR_A1.1","Bats DR","Brazil"
-"GQ160910",0,33,1353,1320,2009,"Bats DR_A1.1","Bats DR","Brazil"
-"GQ160912",0,33,1353,1320,2009,"Bats DR_A1.1","Bats DR","Brazil"
-"GQ160914",0,33,1353,1320,2009,"Bats DR_A1.1.13","Bats DR","Brazil"
-"GQ160915",0,33,1353,1320,2009,"Bats DR_A1.1","Bats DR","Brazil"
-"GQ160916",0,33,1353,1320,2009,"Bats DR_A1.1","Bats DR","Brazil"
-"GQ160918",0,33,1353,1320,2009,"Bats DR_A1.1.8","Bats DR","Brazil"
-"GQ160919",0,33,1353,1320,2009,"Bats DR_A1.1","Bats DR","Brazil"
-"GQ160920",0,33,1353,1320,2009,"Bats DR_A1.1","Bats DR","Brazil"
-"GQ160921",0,33,1353,1320,2009,"Bats DR_A1.1","Bats DR","Brazil"
-"GQ160922",0,33,1353,1320,2009,"Bats DR_A1.1","Bats DR","Brazil"
-"GQ160923",0,33,1353,1320,2009,"Bats DR_A1.1.8","Bats DR","Brazil"
-"GQ160924",0,33,1353,1320,2009,"Bats DR_A1.1","Bats DR","Brazil"
-"GQ160927",0,33,1353,1320,2009,"Bats DR_A1.1","Bats DR","Brazil"
-"GQ160928",0,33,1353,1320,2009,"Bats DR_A1.1","Bats DR","Brazil"
-"GQ160929",0,33,1353,1320,2009,"Bats DR_A1.1","Bats DR","Brazil"
-"GQ160930",0,33,1353,1320,2009,"Bats DR_A1.1","Bats DR","Brazil"
-"GQ160931",0,33,1353,1320,2009,"Bats DR_A1.1","Bats DR","Brazil"
-"GQ160932",0,33,1353,1320,2009,"Bats DR_A1.1","Bats DR","Brazil"
-"GQ160933",0,33,1353,1320,2009,"Bats DR_A1.1.2","Bats DR","Brazil"
-"GQ160934",0,33,1353,1320,2009,"Bats DR_A1.1.2","Bats DR","Brazil"
-"GQ160935",0,33,1353,1320,2009,"Bats DR_A1.1","Bats DR","Brazil"
-"GQ160936",0,33,1353,1320,2009,"Bats DR_A1.1","Bats DR","Brazil"
-"GQ160937",0,33,1353,1320,2009,"Bats DR_A1.1","Bats DR","Brazil"
-"GQ160938",0,33,1353,1320,2009,"Bats DR_A1.1.2","Bats DR","Brazil"
-"GQ160939",0,33,1353,1320,2009,"Bats DR_A1.1","Bats DR","Brazil"
-"GQ160941",0,33,1353,1320,2009,"Bats DR_A1.1","Bats DR","Brazil"
-"GQ160942",0,33,1353,1320,2009,"Bats DR_A1.1","Bats DR","Brazil"
-"GQ160944",0,33,1353,1320,2009,"Bats DR_A1.1.8","Bats DR","Brazil"
-"GQ160945",0,33,1353,1320,2009,"Bats DR_A1.1.8","Bats DR","Brazil"
-"GQ160946",0,33,1353,1320,2009,"Bats DR_A1.1.8","Bats DR","Brazil"
-"GQ160947",0,33,1353,1320,2009,"Bats DR_A1.1.8","Bats DR","Brazil"
-"GQ160948",0,33,1353,1320,2009,"Bats DR_A1.1.8","Bats DR","Brazil"
-"GQ160949",0,33,1353,1320,2009,"Bats DR_A1.1.8","Bats DR","Brazil"
-"GQ160950",0,33,1353,1320,2009,"Bats DR_A1.1.8","Bats DR","Brazil"
-"GQ160951",0,33,1353,1320,2009,"Bats DR_A1.1.8","Bats DR","Brazil"
-"GQ160952",0,33,1353,1320,2009,"Bats DR_A1.1","Bats DR","Brazil"
-"GQ160953",0,33,1353,1320,2009,"Bats DR_A1.1","Bats DR","Brazil"
-"GQ160954",0,33,1353,1320,2009,"Bats DR_A1.1","Bats DR","Brazil"
-"GQ160955",0,33,1353,1320,2009,"Bats DR_A1.1","Bats DR","Brazil"
-"GQ160956",0,33,1353,1320,2009,"Bats DR_A1.1","Bats DR","Brazil"
-"GQ160958",0,33,1353,1320,2009,"Bats DR_A1.1","Bats DR","Brazil"
-"GQ160959",0,33,1353,1320,2009,"Bats DR_A1.1","Bats DR","Brazil"
-"GQ915402",0,32,1353,1321,2009,"Bats DR_L1","Bats DR","Brazil"
-"GQ915403",0,34,1353,1319,2009,"Bats DR_L1","Bats DR","Brazil"
-"GQ915404",0,32,1353,1321,2009,"Bats DR_L1","Bats DR","Brazil"
-"GQ915406",0,39,1353,1314,2009,"Bats DR_A1.1","Bats DR","Brazil"
-"GQ915407",0,51,1353,1302,2009,"Bats DR_K1","Bats DR","Brazil"
-"GQ915408",0,27,1353,1326,2009,"Bats DR_A1.1","Bats DR","Brazil"
-"GQ915409",0,18,1353,1335,2009,"Bats DR_L1","Bats DR","Brazil"
-"GQ915410",0,35,1353,1318,2009,"Bats DR_A1.1","Bats DR","Brazil"
-"GQ915411",0,32,1353,1321,2009,"Bats DR_L1","Bats DR","Brazil"
-"GQ915413",0,33,1353,1320,2009,"Bats DR_A1.1","Bats DR","Brazil"
-"GQ915414",0,32,1353,1321,2009,"Bats DR_K1","Bats DR","Brazil"
-"GQ915416",0,27,1353,1326,2009,"Bats DR_H1","Bats DR","Brazil"
-"GQ915417",0,32,1353,1321,2009,"Bats DR_K1","Bats DR","Brazil"
-"GQ915418",0,32,1353,1321,2009,"Bats DR_K1","Bats DR","Brazil"
-"GQ915420",0,34,1353,1319,2009,"Bats DR_L1","Bats DR","Brazil"
-"GQ915421",1,30,1353,1322,2009,"Bats DR_H1","Bats DR","Brazil"
-"GQ915422",0,27,1353,1326,2009,"Bats DR_H1","Bats DR","Brazil"
-"GQ915423",0,38,1353,1315,2009,"Bats DR_H1","Bats DR","Brazil"
-"GQ915424",0,34,1353,1319,2009,"Bats DR_H1","Bats DR","Brazil"
-"GQ915430",0,35,1353,1318,2009,"Bats DR_L1","Bats DR","Brazil"
-"GQ915431",0,32,1353,1321,2009,"Bats DR_A1.1.13","Bats DR","Brazil"
-"GQ915432",0,32,1353,1321,2009,"Bats DR_A1.1","Bats DR","Brazil"
-"GQ915433",0,33,1353,1320,2009,"Bats DR_H1","Bats DR","Brazil"
-"GU204250",0,23,1353,1330,2006,"Bats DR_K1","Bats DR","Brazil"
-"GU592648",0,0,1353,1353,2010,"Bats DR_A1.1","Bats DR","Brazil"
-"GU592649",0,0,1353,1353,2010,"Bats DR_A1.1.7","Bats DR","Brazil"
-"GU991823",0,3,1353,1350,2003,"Bats DR_A1.2.2","Bats DR","Mexico"
-"GU991824",0,3,1353,1350,2002,"Bats DR_A1.2","Bats DR","Mexico"
-"GU991825",0,3,1353,1350,2004,"Bats DR_A1.2","Bats DR","Mexico"
-"GU991826",0,3,1353,1350,1999,"Bats DR_A1.5","Bats DR","Mexico"
-"HM368176",0,34,1353,1319,2007,"Bats DR_A1","Bats DR","Ecuador"
-"HM368179",0,34,1353,1319,2007,"Bats DR_A1.1.10.1.1","Bats DR","Ecuador"
-"HM368180",1,34,1353,1318,2007,"Bats DR_A1.1.10.1.1","Bats DR","Ecuador"
-"HM585149",0,54,1353,1299,2003,"Bats DR_A1.1.7","Bats DR","Brazil"
-"HM585151",0,52,1353,1301,2003,"Bats DR_A1.1","Bats DR","Brazil"
-"HM585152",0,52,1353,1301,2006,"Bats DR_K1","Bats DR","Brazil"
-"HM585153",0,52,1353,1301,2004,"Bats DR_A1.1","Bats DR","Brazil"
-"HM585154",0,54,1353,1299,2004,"Bats DR_A1.1.7","Bats DR","Brazil"
-"HM585155",0,52,1353,1301,2004,"Bats DR_A1.1","Bats DR","Brazil"
-"HM585156",0,54,1353,1299,2004,"Bats DR_A1.1.7","Bats DR","Brazil"
-"HM585158",0,52,1353,1301,2004,"Bats DR_A1.1","Bats DR","Brazil"
-"HM585159",0,52,1353,1301,2001,"Bats DR_K1","Bats DR","Brazil"
-"HM585161",0,52,1353,1301,2006,"Bats DR_H1","Bats DR","Brazil"
-"HM585162",0,52,1353,1301,2006,"Bats DR_K1","Bats DR","Brazil"
-"HM585163",0,52,1353,1301,2006,"Bats DR_K1","Bats DR","Brazil"
-"HM585165",0,54,1353,1299,2006,"Bats DR_A1.1.7","Bats DR","Brazil"
-"HM585166",0,52,1353,1301,2006,"Bats DR_H1","Bats DR","Brazil"
-"HM585167",0,52,1353,1301,2006,"Bats DR_H1","Bats DR","Brazil"
-"HM585169",0,52,1353,1301,2006,"Bats DR_H1","Bats DR","Brazil"
-"HM585170",0,52,1353,1301,2001,"Bats DR_A1.1.4","Bats DR","Brazil"
-"HM585175",0,54,1353,1299,2002,"Bats DR_A1.1.7","Bats DR","Brazil"
-"HM585176",0,52,1353,1301,2002,"Bats DR_A1.1.13","Bats DR","Brazil"
-"HM585177",0,52,1353,1301,2002,"Bats DR_A1.1","Bats DR","Brazil"
-"HM585178",0,52,1353,1301,2004,"Bats DR_H1","Bats DR","Brazil"
-"HM585179",0,54,1353,1299,2003,"Bats DR_A1.1.7","Bats DR","Brazil"
-"HM585180",0,57,1353,1296,2003,"Bats DR_A1.1.7","Bats DR","Brazil"
-"JF693456",0,3,1353,1350,2008,"Bats DR_A1.4","Bats DR","Colombia"
-"JF693457",0,3,1353,1350,2008,"Bats DR_A1.4","Bats DR","Colombia"
-"JF693458",0,3,1353,1350,2006,"Bats DR_A1.4","Bats DR","Colombia"
-"JF693459",0,3,1353,1350,2007,"Bats DR_A1.4","Bats DR","Colombia"
-"JF693460",0,3,1353,1350,2008,"Bats DR_A1.4","Bats DR","Colombia"
-"JF693462",0,3,1353,1350,1996,"Bats DR_A1.4","Bats DR","Colombia"
-"JF693463",0,3,1353,1350,1997,"Bats DR_A1.4","Bats DR","Colombia"
-"JF693464",0,3,1353,1350,1997,"Bats DR_A1.1.10","Bats DR","Colombia"
-"JF693466",0,3,1353,1350,2006,"Bats DR_A1.1.10.1","Bats DR","Colombia"
-"JF693467",0,3,1353,1350,1997,"Bats DR_A1.5","Bats DR","Colombia"
-"JF693468",0,3,1353,1350,2003,"Bats DR_A1.5","Bats DR","Colombia"
-"JF693469",0,3,1353,1350,2002,"Bats DR_A1.5","Bats DR","Colombia"
-"JF693470",0,3,1353,1350,2007,"Bats DR_A1.5","Bats DR","Colombia"
-"JF693471",0,3,1353,1350,1994,"Bats DR_E1","Bats DR","Colombia"
-"JF693472",0,3,1353,1350,1996,"Bats DR_E1","Bats DR","Colombia"
-"JF693473",0,3,1353,1350,1996,"Bats DR_A1.3","Bats DR","Colombia"
-"JF693474",0,3,1353,1350,2006,"Bats DR_A1.3","Bats DR","Colombia"
-"JF693478",0,3,1353,1350,2008,"Bats DR_A1.3","Bats DR","Colombia"
-"JX648391",0,3,1353,1350,2007,"Bats DR_A1.1.9","Bats DR","Peru"
-"JX648392",0,3,1353,1350,2007,"Bats DR_A1.1.9","Bats DR","Peru"
-"JX648393",0,3,1353,1350,2004,"Bats DR_A1.1.9","Bats DR","Peru"
-"JX648394",0,3,1353,1350,2005,"Bats DR_A1.1.9","Bats DR","Peru"
-"JX648395",0,3,1353,1350,2005,"Bats DR_A1.1.9","Bats DR","Peru"
-"JX648396",0,3,1353,1350,2007,"Bats DR_A1.1.9","Bats DR","Peru"
-"JX648397",0,3,1353,1350,2007,"Bats DR_A1.1.9","Bats DR","Peru"
-"JX648398",0,3,1353,1350,2006,"Bats DR_A1.1.9","Bats DR","Peru"
-"JX648399",0,3,1353,1350,2006,"Bats DR_A1.1.10","Bats DR","Peru"
-"JX648400",0,3,1353,1350,2002,"Bats DR_A1.1.10","Bats DR","Peru"
-"JX648401",0,3,1353,1350,2004,"Bats DR_A1.1.9","Bats DR","Peru"
-"JX648402",0,3,1353,1350,2002,"Bats DR_A1.1.9","Bats DR","Peru"
-"JX648403",0,3,1353,1350,2005,"Bats DR_A1.1.9","Bats DR","Peru"
-"JX648404",0,3,1353,1350,2004,"Bats DR_A1.1.9","Bats DR","Peru"
-"JX648405",0,3,1353,1350,2005,"Bats DR_A1.1.10","Bats DR","Peru"
-"JX648406",0,3,1353,1350,2005,"Bats DR_A1.1.9","Bats DR","Peru"
-"JX648407",0,3,1353,1350,2006,"Bats DR_A1.1.9","Bats DR","Peru"
-"JX648408",0,3,1353,1350,2005,"Bats DR_A1.1.9","Bats DR","Peru"
-"JX648409",0,3,1353,1350,2005,"Bats DR_A1.1.9","Bats DR","Peru"
-"JX648410",0,3,1353,1350,2007,"Bats DR_A1.1.9","Bats DR","Peru"
-"JX648412",0,3,1353,1350,2002,"Bats DR_A1.1.9","Bats DR","Peru"
-"JX648413",0,3,1353,1350,2002,"Bats DR_A1.1.9","Bats DR","Peru"
-"JX648414",0,3,1353,1350,2003,"Bats DR_A1.1.10","Bats DR","Peru"
-"JX648415",0,3,1353,1350,2003,"Bats DR_A1.1.10","Bats DR","Peru"
-"JX648417",0,3,1353,1350,2003,"Bats DR_A1","Bats DR","Peru"
-"JX648418",0,3,1353,1350,2003,"Bats DR_A1","Bats DR","Peru"
-"JX648419",0,3,1353,1350,2003,"Bats DR_P1","Bats DR","Peru"
-"JX648420",0,3,1353,1350,2005,"Bats DR_A1","Bats DR","Peru"
-"JX648422",0,3,1353,1350,2005,"Bats DR_P1","Bats DR","Peru"
-"JX648423",0,3,1353,1350,2007,"Bats DR_P1","Bats DR","Peru"
-"JX648424",0,3,1353,1350,2002,"Bats DR_P1","Bats DR","Peru"
-"JX648425",0,3,1353,1350,2007,"Bats DR_P1","Bats DR","Peru"
-"JX648426",0,3,1353,1350,2002,"Bats DR_A1.1.10.1","Bats DR","Peru"
-"JX648427",0,3,1353,1350,2002,"Bats DR_A1.1.10.1","Bats DR","Peru"
-"JX648428",0,3,1353,1350,2004,"Bats DR_A1.1.10.1","Bats DR","Peru"
-"JX648429",0,3,1353,1350,2004,"Bats DR_A1.1.10.1","Bats DR","Peru"
-"JX648430",0,3,1353,1350,2006,"Bats DR_A1.1.10.1","Bats DR","Peru"
-"JX648431",0,3,1353,1350,2004,"Bats DR_A1.1.10.1","Bats DR","Peru"
-"JX648432",0,3,1353,1350,2007,"Bats DR_A1.1.10.1","Bats DR","Peru"
-"JX648434",0,3,1353,1350,2007,"Bats DR_M1","Bats DR","Peru"
-"JX648435",0,3,1353,1350,2007,"Bats DR_M1","Bats DR","Peru"
-"JX648436",0,3,1353,1350,2007,"Bats DR_M1","Bats DR","Peru"
-"JX648437",0,3,1353,1350,2007,"Bats DR_M1","Bats DR","Peru"
-"JX648441",0,3,1353,1350,2007,"Bats DR_C1.1","Bats DR","Peru"
-"JX648443",0,3,1353,1350,2007,"Bats DR_M1","Bats DR","Peru"
-"JX648445",0,3,1353,1350,2007,"Bats DR_E1","Bats DR","Peru"
-"JX648446",0,3,1353,1350,2007,"Bats DR_E1","Bats DR","Peru"
-"JX648447",0,3,1353,1350,2004,"Bats DR_E1","Bats DR","Peru"
-"JX648448",0,3,1353,1350,2005,"Bats DR_E1","Bats DR","Peru"
-"JX648449",0,3,1353,1350,2007,"Bats DR_E1","Bats DR","Peru"
-"JX648450",0,3,1353,1350,2005,"Bats DR_E1","Bats DR","Peru"
-"JX648451",0,3,1353,1350,2007,"Bats DR_E1","Bats DR","Peru"
-"JX648452",0,3,1353,1350,2006,"Bats DR_E1","Bats DR","Peru"
-"JX648453",0,3,1353,1350,2006,"Bats DR_E1","Bats DR","Peru"
-"JX648454",0,3,1353,1350,2007,"Bats DR_E1","Bats DR","Peru"
-"JX648455",0,3,1353,1350,2007,"Bats DR_B1.1","Bats DR","Peru"
-"JX648456",0,3,1353,1350,2002,"Bats DR_E1","Bats DR","Peru"
-"JX648457",0,3,1353,1350,2002,"Bats DR_E1","Bats DR","Peru"
-"JX648458",0,3,1353,1350,2002,"Bats DR_E1.1","Bats DR","Peru"
-"JX648459",0,3,1353,1350,2004,"Bats DR_E1","Bats DR","Peru"
-"JX648460",0,3,1353,1350,2002,"Bats DR_E1","Bats DR","Peru"
-"JX648461",0,3,1353,1350,2006,"Bats DR_E1","Bats DR","Peru"
-"JX648462",0,3,1353,1350,2006,"Bats DR_E1","Bats DR","Peru"
-"JX648463",0,3,1353,1350,2002,"Bats DR_E1","Bats DR","Peru"
-"JX648464",0,3,1353,1350,2007,"Bats DR_E1","Bats DR","Peru"
-"JX648465",0,3,1353,1350,2002,"Bats DR_E1","Bats DR","Peru"
-"JX648466",0,3,1353,1350,2003,"Bats DR_E1","Bats DR","Peru"
-"JX648467",0,3,1353,1350,2003,"Bats DR_E1","Bats DR","Peru"
-"JX648468",0,3,1353,1350,2002,"Bats DR_E1","Bats DR","Peru"
-"JX648469",0,3,1353,1350,2006,"Bats DR_E1","Bats DR","Peru"
-"JX648470",0,3,1353,1350,2006,"Bats DR_E1","Bats DR","Peru"
-"JX648471",0,3,1353,1350,2002,"Bats DR_E1","Bats DR","Peru"
-"JX648473",0,3,1353,1350,2006,"Bats DR_E1","Bats DR","Peru"
-"JX648474",0,3,1353,1350,2003,"Bats DR_E1","Bats DR","Peru"
-"JX648475",0,3,1353,1350,2002,"Bats DR_E1","Bats DR","Peru"
-"JX648476",0,3,1353,1350,2007,"Bats DR_A1","Bats DR","Peru"
-"JX648477",0,3,1353,1350,2007,"Bats DR_A1","Bats DR","Peru"
-"JX648478",0,3,1353,1350,2007,"Bats DR_A1","Bats DR","Peru"
-"JX648479",0,3,1353,1350,2007,"Bats DR_A1","Bats DR","Peru"
-"JX648480",0,3,1353,1350,2006,"Bats DR_E1.1.1","Bats DR","Peru"
-"JX648481",0,3,1353,1350,2006,"Bats DR_E1.1.1","Bats DR","Peru"
-"JX648482",0,3,1353,1350,2006,"Bats DR_E1.1.1","Bats DR","Peru"
-"JX648483",0,3,1353,1350,2006,"Bats DR_E1.1.1","Bats DR","Peru"
-"JX648484",0,3,1353,1350,2006,"Bats DR_E1.1.1","Bats DR","Peru"
-"JX648485",0,3,1353,1350,2007,"Bats DR_E1.1.1","Bats DR","Peru"
-"JX648488",0,3,1353,1350,2006,"Bats DR_E1.1.1","Bats DR","Peru"
-"JX648489",0,3,1353,1350,2004,"Bats DR_E1.1.1","Bats DR","Peru"
-"JX648490",0,3,1353,1350,2006,"Bats DR_E1.1.1","Bats DR","Peru"
-"JX648491",0,3,1353,1350,2006,"Bats DR_E1.1.1","Bats DR","Peru"
-"JX648492",0,3,1353,1350,2006,"Bats DR_E1.1.1","Bats DR","Peru"
-"JX648493",0,3,1353,1350,2006,"Bats DR_E1.1.1","Bats DR","Peru"
-"JX648494",0,3,1353,1350,2006,"Bats DR_E1.1.1","Bats DR","Peru"
-"JX648495",0,3,1353,1350,2004,"Bats DR_E1.1.1","Bats DR","Peru"
-"JX648496",0,3,1353,1350,2006,"Bats DR_E1.1.1","Bats DR","Peru"
-"JX648497",0,3,1353,1350,2002,"Bats DR_E1.1.1","Bats DR","Peru"
-"JX648498",0,3,1353,1350,2002,"Bats DR_E1.1.1","Bats DR","Peru"
-"JX648499",0,3,1353,1350,2004,"Bats DR_E1.1.1","Bats DR","Peru"
-"JX648500",0,3,1353,1350,2003,"Bats DR_E1.1.1","Bats DR","Peru"
-"JX648501",0,3,1353,1350,2002,"Bats DR_E1.1.1","Bats DR","Peru"
-"JX648502",0,3,1353,1350,2004,"Bats DR_E1.1.1","Bats DR","Peru"
-"JX648503",0,3,1353,1350,2004,"Bats DR_E1.1.1","Bats DR","Peru"
-"JX648504",0,3,1353,1350,2003,"Bats DR_E1.1.1","Bats DR","Peru"
-"JX648505",0,3,1353,1350,2002,"Bats DR_E1.1.1","Bats DR","Peru"
-"JX648506",0,3,1353,1350,2004,"Bats DR_E1.1.1","Bats DR","Peru"
-"JX648507",0,3,1353,1350,2003,"Bats DR_E1.1.1","Bats DR","Peru"
-"JX648508",0,3,1353,1350,2003,"Bats DR_E1.1.1","Bats DR","Peru"
-"JX648509",0,3,1353,1350,2007,"Bats DR_B1.1","Bats DR","Peru"
-"JX648510",0,3,1353,1350,2006,"Bats DR_B1.1","Bats DR","Peru"
-"JX648511",0,3,1353,1350,2007,"Bats DR_B1.1","Bats DR","Peru"
-"JX648512",0,3,1353,1350,2006,"Bats DR_B1.1","Bats DR","Peru"
-"JX648513",0,3,1353,1350,2007,"Bats DR_B1.1","Bats DR","Peru"
-"JX648514",0,3,1353,1350,2006,"Bats DR_B1.1","Bats DR","Peru"
-"JX648515",0,3,1353,1350,2006,"Bats DR_B1.1","Bats DR","Peru"
-"JX648516",0,3,1353,1350,2007,"Bats DR_B1.1","Bats DR","Peru"
-"JX648517",0,3,1353,1350,2007,"Bats DR_B1","Bats DR","Peru"
-"JX648518",0,3,1353,1350,2002,"Bats DR_B1","Bats DR","Peru"
-"JX648519",0,3,1353,1350,2006,"Bats DR_B1","Bats DR","Peru"
-"JX648520",0,3,1353,1350,2006,"Bats DR_B1","Bats DR","Peru"
-"JX648521",0,3,1353,1350,2006,"Bats DR_B1","Bats DR","Peru"
-"JX648522",0,3,1353,1350,2002,"Bats DR_B1","Bats DR","Peru"
-"JX648523",0,3,1353,1350,2006,"Bats DR_B1","Bats DR","Peru"
-"JX648524",0,3,1353,1350,2006,"Bats DR_B1.1","Bats DR","Peru"
-"JX648525",0,3,1353,1350,2002,"Bats DR_A1.3.1","Bats DR","Peru"
-"JX648527",0,3,1353,1350,2005,"Bats DR_E1.2","Bats DR","Peru"
-"JX648529",0,3,1353,1350,2002,"Bats DR_A1.3.1","Bats DR","Peru"
-"JX648530",0,3,1353,1350,2003,"Bats DR_A1.3.1","Bats DR","Peru"
-"JX648531",0,3,1353,1350,2003,"Bats DR_A1.3.1","Bats DR","Peru"
-"JX648532",0,3,1353,1350,2002,"Bats DR_A1.3.1","Bats DR","Peru"
-"JX648533",0,3,1353,1350,2002,"Bats DR_A1.3.1","Bats DR","Peru"
-"JX648534",0,3,1353,1350,2004,"Bats DR_A1.3.1","Bats DR","Peru"
-"JX648535",0,3,1353,1350,2003,"Bats DR_A1.3.1","Bats DR","Peru"
-"JX648536",0,3,1353,1350,2003,"Bats DR_A1.3.1","Bats DR","Peru"
-"JX648537",0,3,1353,1350,2002,"Bats DR_A1.3.1","Bats DR","Peru"
-"JX648538",0,3,1353,1350,2002,"Bats DR_E1.2","Bats DR","Peru"
-"JX648539",0,3,1353,1350,2002,"Bats DR_E1.2","Bats DR","Peru"
-"JX648540",0,3,1353,1350,2002,"Bats DR_E1.2","Bats DR","Peru"
-"JX648541",0,3,1353,1350,2002,"Bats DR_E1.2","Bats DR","Peru"
-"JX648544",0,3,1353,1350,2006,"Bats DR_A1.3","Bats DR","Peru"
-"KC758860",0,3,1353,1350,1996,"Bats DR_I1","Bats DR","Argentina"
-"KC758861",0,3,1353,1350,2001,"Bats DR_I1","Bats DR","Argentina"
-"KC758862",0,3,1353,1350,2007,"Bats DR_I1","Bats DR","Argentina"
-"KC758863",0,3,1353,1350,1999,"Bats DR_A1.1.11","Bats DR","Argentina"
-"KF864233",0,0,1353,1353,1991,"Bats DR_A1.1.2","Bats DR","Argentina"
-"KF864234",0,0,1353,1353,1994,"Bats DR_I1","Bats DR","Argentina"
-"KF864235",0,0,1353,1353,1996,"Bats DR_I1","Bats DR","Argentina"
-"KF864236",0,0,1353,1353,1996,"Bats DR_I1","Bats DR","Argentina"
-"KF864237",0,0,1353,1353,1997,"Bats DR_I1","Bats DR","Argentina"
-"KF864238",0,0,1353,1353,1999,"Bats DR_A1.1.11","Bats DR","Argentina"
-"KF864239",0,0,1353,1353,1999,"Bats DR_I1","Bats DR","Argentina"
-"KF864240",0,0,1353,1353,1999,"Bats DR_I1","Bats DR","Argentina"
-"KF864241",0,0,1353,1353,1999,"Bats DR_I1","Bats DR","Argentina"
-"KF864242",0,0,1353,1353,1999,"Bats DR_I1","Bats DR","Argentina"
-"KF864243",0,0,1353,1353,1999,"Bats DR_A1.1.4","Bats DR","Argentina"
-"KF864244",0,0,1353,1353,1999,"Bats DR_I1","Bats DR","Argentina"
-"KF864245",0,0,1353,1353,2001,"Bats DR_A1.1.3","Bats DR","Argentina"
-"KF864246",0,0,1353,1353,2001,"Bats DR_A1.1.3","Bats DR","Argentina"
-"KF864247",0,0,1353,1353,2001,"Bats DR_A1.1.3","Bats DR","Argentina"
-"KF864248",0,0,1353,1353,2001,"Bats DR_A1.1.3","Bats DR","Argentina"
-"KF864249",0,0,1353,1353,2001,"Bats DR_I1","Bats DR","Argentina"
-"KF864250",0,0,1353,1353,2001,"Bats DR_I1","Bats DR","Argentina"
-"KF864251",0,0,1353,1353,2001,"Bats DR_I1","Bats DR","Argentina"
-"KF864253",0,0,1353,1353,2001,"Bats DR_I1","Bats DR","Argentina"
-"KF864254",0,0,1353,1353,2001,"Bats DR_I1","Bats DR","Argentina"
-"KF864255",0,0,1353,1353,2002,"Bats DR_I1","Bats DR","Argentina"
-"KF864256",0,0,1353,1353,2002,"Bats DR_I1","Bats DR","Argentina"
-"KF864257",0,0,1353,1353,2002,"Bats DR_I1","Bats DR","Argentina"
-"KF864258",0,0,1353,1353,2002,"Bats DR_I1","Bats DR","Argentina"
-"KF864259",0,0,1353,1353,2002,"Bats DR_A1.1.3","Bats DR","Argentina"
-"KF864260",0,0,1353,1353,2003,"Bats DR_I1","Bats DR","Argentina"
-"KF864261",0,0,1353,1353,2003,"Bats DR_I1","Bats DR","Argentina"
-"KF864262",0,0,1353,1353,2003,"Bats DR_A1.1.3","Bats DR","Argentina"
-"KF864263",0,0,1353,1353,2003,"Bats DR_A1.1.4","Bats DR","Argentina"
-"KF864264",0,0,1353,1353,2003,"Bats DR_A1.1.3","Bats DR","Argentina"
-"KF864265",0,0,1353,1353,2003,"Bats DR_A1.1.3","Bats DR","Argentina"
-"KF864266",0,0,1353,1353,2003,"Bats DR_A1.1.3","Bats DR","Argentina"
-"KF864267",0,0,1353,1353,2003,"Bats DR_I1","Bats DR","Argentina"
-"KF864268",0,0,1353,1353,2003,"Bats DR_A1.1.3","Bats DR","Argentina"
-"KF864269",0,0,1353,1353,2003,"Bats DR_I1","Bats DR","Argentina"
-"KF864270",0,0,1353,1353,2003,"Bats DR_J1","Bats DR","Argentina"
-"KF864271",0,0,1353,1353,2003,"Bats DR_I1","Bats DR","Argentina"
-"KF864272",0,0,1353,1353,2000,"Bats DR_A1.1.3","Bats DR","Argentina"
-"KF864273",0,0,1353,1353,2000,"Bats DR_I1","Bats DR","Argentina"
-"KF864274",0,0,1353,1353,2000,"Bats DR_J1","Bats DR","Argentina"
-"KF864275",0,0,1353,1353,2000,"Bats DR_I1","Bats DR","Argentina"
-"KF864276",0,0,1353,1353,2000,"Bats DR_A1.1.3","Bats DR","Argentina"
-"KF864277",0,0,1353,1353,2003,"Bats DR_A1.1.3","Bats DR","Argentina"
-"KF864278",0,0,1353,1353,2003,"Bats DR_A1.1.3","Bats DR","Argentina"
-"KF864279",0,0,1353,1353,2003,"Bats DR_A1.1.3","Bats DR","Argentina"
-"KF864280",0,0,1353,1353,2004,"Bats DR_I1","Bats DR","Argentina"
-"KF864281",0,0,1353,1353,2004,"Bats DR_A1.1.4","Bats DR","Argentina"
-"KF864282",0,0,1353,1353,2004,"Bats DR_I1","Bats DR","Argentina"
-"KF864283",0,0,1353,1353,2004,"Bats DR_I1","Bats DR","Argentina"
-"KF864284",0,0,1353,1353,2004,"Bats DR_J1","Bats DR","Argentina"
-"KF864285",0,0,1353,1353,2004,"Bats DR_A1.1.11","Bats DR","Argentina"
-"KF864286",0,0,1353,1353,2005,"Bats DR_I1","Bats DR","Argentina"
-"KF864287",0,0,1353,1353,2005,"Bats DR_I1","Bats DR","Argentina"
-"KF864288",0,0,1353,1353,2006,"Bats DR_A1.1.4","Bats DR","Argentina"
-"KF864289",0,0,1353,1353,2005,"Bats DR_A1.1.4","Bats DR","Argentina"
-"KF864290",0,0,1353,1353,2005,"Bats DR_I1","Bats DR","Argentina"
-"KF864291",0,0,1353,1353,2005,"Bats DR_I1","Bats DR","Argentina"
-"KF864292",0,0,1353,1353,2005,"Bats DR_I1","Bats DR","Argentina"
-"KF864293",0,0,1353,1353,2005,"Bats DR_I1","Bats DR","Argentina"
-"KF864294",0,0,1353,1353,2005,"Bats DR_I1","Bats DR","Argentina"
-"KF864295",0,0,1353,1353,2005,"Bats DR_I1","Bats DR","Argentina"
-"KF864296",0,0,1353,1353,2005,"Bats DR_A1.1.13","Bats DR","Argentina"
-"KF864297",0,0,1353,1353,2005,"Bats DR_A1.1.11","Bats DR","Argentina"
-"KF864298",0,0,1353,1353,2000,"Bats DR_A1.1.3","Bats DR","Argentina"
-"KF864299",0,0,1353,1353,2005,"Bats DR_I1","Bats DR","Argentina"
-"KF864300",0,0,1353,1353,2005,"Bats DR_A1.1.4","Bats DR","Argentina"
-"KF864301",0,0,1353,1353,2006,"Bats DR_I1","Bats DR","Argentina"
-"KF864302",0,0,1353,1353,2000,"Bats DR_A1.1.3","Bats DR","Argentina"
-"KF864303",0,0,1353,1353,2005,"Bats DR_A1.1.4","Bats DR","Argentina"
-"KF864304",0,0,1353,1353,2000,"Bats DR_I1","Bats DR","Argentina"
-"KF864305",0,0,1353,1353,2006,"Bats DR_A1.1.4","Bats DR","Argentina"
-"KF864306",0,0,1353,1353,2006,"Bats DR_A1.1.11","Bats DR","Argentina"
-"KF864307",0,0,1353,1353,2000,"Bats DR_I1","Bats DR","Argentina"
-"KF864308",0,0,1353,1353,2006,"Bats DR_I1","Bats DR","Argentina"
-"KF864309",0,0,1353,1353,2006,"Bats DR_I1","Bats DR","Argentina"
-"KF864310",0,0,1353,1353,2006,"Bats DR_I1","Bats DR","Argentina"
-"KF864311",0,0,1353,1353,2006,"Bats DR_I1","Bats DR","Argentina"
-"KF864313",0,0,1353,1353,2006,"Bats DR_A1.1.3","Bats DR","Argentina"
-"KF864314",0,0,1353,1353,2006,"Bats DR_A1.1.3","Bats DR","Argentina"
-"KF864315",0,0,1353,1353,2006,"Bats DR_A1.1.4","Bats DR","Argentina"
-"KF864316",0,0,1353,1353,2006,"Bats DR_A1.1.4","Bats DR","Argentina"
-"KF864317",0,0,1353,1353,2006,"Bats DR_A1.1.3","Bats DR","Argentina"
-"KF864318",0,0,1353,1353,2006,"Bats DR_A1.1.4","Bats DR","Argentina"
-"KF864319",0,0,1353,1353,2006,"Bats DR_A1.1.4","Bats DR","Argentina"
-"KF864320",0,0,1353,1353,2006,"Bats DR_I1","Bats DR","Argentina"
-"KF864321",0,0,1353,1353,2006,"Bats DR_I1","Bats DR","Argentina"
-"KF864322",0,0,1353,1353,2006,"Bats DR_A1.1.4","Bats DR","Argentina"
-"KF864323",0,0,1353,1353,2000,"Bats DR_J1","Bats DR","Argentina"
-"KF864324",0,0,1353,1353,2006,"Bats DR_A1.1.4","Bats DR","Argentina"
-"KF864325",0,0,1353,1353,2006,"Bats DR_I1","Bats DR","Argentina"
-"KF864326",0,0,1353,1353,2006,"Bats DR_A1.1.11","Bats DR","Argentina"
-"KF864327",0,0,1353,1353,2006,"Bats DR_A1.1.2","Bats DR","Argentina"
-"KF864328",0,0,1353,1353,2006,"Bats DR_A1.1.4","Bats DR","Argentina"
-"KF864329",0,0,1353,1353,2006,"Bats DR_A1.1.2","Bats DR","Argentina"
-"KF864330",0,0,1353,1353,2006,"Bats DR_I1","Bats DR","Argentina"
-"KF864331",0,0,1353,1353,2006,"Bats DR_I1","Bats DR","Argentina"
-"KF864332",0,0,1353,1353,2006,"Bats DR_A1.1.4","Bats DR","Argentina"
-"KF864333",0,0,1353,1353,2006,"Bats DR_I1","Bats DR","Argentina"
-"KF864334",0,0,1353,1353,2006,"Bats DR_A1.1.11","Bats DR","Argentina"
-"KF864335",0,0,1353,1353,2006,"Bats DR_I1","Bats DR","Argentina"
-"KF864336",0,0,1353,1353,2006,"Bats DR_I1","Bats DR","Argentina"
-"KF864337",0,0,1353,1353,2006,"Bats DR_A1.1.11","Bats DR","Argentina"
-"KF864339",0,0,1353,1353,2006,"Bats DR_I1","Bats DR","Argentina"
-"KF864340",0,0,1353,1353,2006,"Bats DR_I1","Bats DR","Argentina"
-"KF864341",0,0,1353,1353,2006,"Bats DR_I1","Bats DR","Argentina"
-"KF864342",0,0,1353,1353,2006,"Bats DR_I1","Bats DR","Argentina"
-"KF864343",0,0,1353,1353,2006,"Bats DR_I1","Bats DR","Argentina"
-"KF864344",0,0,1353,1353,2006,"Bats DR_I1","Bats DR","Argentina"
-"KF864346",0,0,1353,1353,2006,"Bats DR_I1","Bats DR","Argentina"
-"KF864347",0,0,1353,1353,2007,"Bats DR_A1.1.11","Bats DR","Argentina"
-"KF864348",0,0,1353,1353,2006,"Bats DR_A1.1.11","Bats DR","Argentina"
-"KF864349",0,0,1353,1353,2007,"Bats DR_I1","Bats DR","Argentina"
-"KF864350",0,0,1353,1353,2007,"Bats DR_A1.1.11","Bats DR","Argentina"
-"KF864351",0,0,1353,1353,2007,"Bats DR_A1.1.3","Bats DR","Argentina"
-"KF864352",0,0,1353,1353,2007,"Bats DR_I1","Bats DR","Argentina"
-"KF864353",0,0,1353,1353,2007,"Bats DR_I1","Bats DR","Argentina"
-"KF864354",0,0,1353,1353,2007,"Bats DR_I1","Bats DR","Argentina"
-"KF864355",0,0,1353,1353,2007,"Bats DR_I1","Bats DR","Argentina"
-"KF864356",0,0,1353,1353,2007,"Bats DR_I1","Bats DR","Argentina"
-"KF864357",0,0,1353,1353,2007,"Bats DR_A1.1.4","Bats DR","Argentina"
-"KF864358",0,0,1353,1353,2007,"Bats DR_I1","Bats DR","Argentina"
-"KF864359",0,0,1353,1353,2007,"Bats DR_I1","Bats DR","Argentina"
-"KF864360",0,0,1353,1353,2007,"Bats DR_I1","Bats DR","Argentina"
-"KF864361",0,0,1353,1353,2007,"Bats DR_A1.1.4","Bats DR","Argentina"
-"KF864362",0,0,1353,1353,2007,"Bats DR_I1","Bats DR","Argentina"
-"KF864363",0,0,1353,1353,2007,"Bats DR_I1","Bats DR","Argentina"
-"KF864365",0,0,1353,1353,2007,"Bats DR_I1","Bats DR","Argentina"
-"KF864366",0,0,1353,1353,2007,"Bats DR_A1.1.3","Bats DR","Argentina"
-"KF864367",0,0,1353,1353,2007,"Bats DR_I1","Bats DR","Argentina"
-"KF864368",0,0,1353,1353,2007,"Bats DR_A1.1.4","Bats DR","Argentina"
-"KF864369",0,0,1353,1353,2007,"Bats DR_I1","Bats DR","Argentina"
-"KF864371",0,0,1353,1353,2007,"Bats DR_I1","Bats DR","Argentina"
-"KF864372",0,0,1353,1353,2007,"Bats DR_I1","Bats DR","Argentina"
-"KF864373",0,0,1353,1353,2007,"Bats DR_I1","Bats DR","Argentina"
-"KF864374",0,0,1353,1353,2007,"Bats DR_A1.1.11","Bats DR","Argentina"
-"KF864375",0,0,1353,1353,2007,"Bats DR_A1.1.11","Bats DR","Argentina"
-"KF864376",0,0,1353,1353,2007,"Bats DR_I1","Bats DR","Argentina"
-"KF864377",0,0,1353,1353,2001,"Bats DR_A1.1.3","Bats DR","Argentina"
-"KF864378",0,0,1353,1353,2007,"Bats DR_I1","Bats DR","Argentina"
-"KF864379",0,0,1353,1353,2007,"Bats DR_I1","Bats DR","Argentina"
-"KF864380",0,0,1353,1353,2007,"Bats DR_I1","Bats DR","Argentina"
-"KF864381",0,0,1353,1353,2008,"Bats DR_I1","Bats DR","Argentina"
-"KF864382",0,0,1353,1353,2008,"Bats DR_I1","Bats DR","Argentina"
-"KF864383",0,0,1353,1353,2008,"Bats DR_I1","Bats DR","Argentina"
-"KF864384",0,0,1353,1353,2008,"Bats DR_I1","Bats DR","Argentina"
-"KF864385",0,0,1353,1353,2008,"Bats DR_A1.1.3","Bats DR","Argentina"
-"KF864386",0,0,1353,1353,2008,"Bats DR_A1.1.4","Bats DR","Argentina"
-"KF864387",0,0,1353,1353,2008,"Bats DR_I1","Bats DR","Argentina"
-"KF864388",0,0,1353,1353,2008,"Bats DR_A1.1.4","Bats DR","Argentina"
-"KF864389",0,0,1353,1353,2008,"Bats DR_A1.1.3","Bats DR","Argentina"
-"KF864390",0,0,1353,1353,2008,"Bats DR_I1","Bats DR","Argentina"
-"KF864391",0,0,1353,1353,2008,"Bats DR_I1","Bats DR","Argentina"
-"KF864392",0,0,1353,1353,2001,"Bats DR_I1","Bats DR","Argentina"
-"KF864393",0,0,1353,1353,2008,"Bats DR_A1.1.11","Bats DR","Argentina"
-"KF864394",0,0,1353,1353,2008,"Bats DR_I1","Bats DR","Argentina"
-"KF864395",0,0,1353,1353,2001,"Bats DR_J1","Bats DR","Argentina"
-"KF864396",0,0,1353,1353,2008,"Bats DR_A1.1.11","Bats DR","Argentina"
-"KF864397",0,0,1353,1353,2008,"Bats DR_A1.1.11","Bats DR","Argentina"
-"KF864398",0,0,1353,1353,2008,"Bats DR_A1.1.11","Bats DR","Argentina"
-"KF864399",0,0,1353,1353,2001,"Bats DR_A1.1.3","Bats DR","Argentina"
-"KF864400",0,0,1353,1353,2008,"Bats DR_A1.1.11","Bats DR","Argentina"
-"KF864401",0,0,1353,1353,2008,"Bats DR_I1","Bats DR","Argentina"
-"KF864402",0,0,1353,1353,2009,"Bats DR_I1","Bats DR","Argentina"
-"KF864403",0,0,1353,1353,2009,"Bats DR_A1.1.11","Bats DR","Argentina"
-"KF864405",0,0,1353,1353,2009,"Bats DR_A1.1.3","Bats DR","Argentina"
-"KF864407",0,0,1353,1353,2009,"Bats DR_I1","Bats DR","Argentina"
-"KF864408",0,0,1353,1353,2001,"Bats DR_I1","Bats DR","Argentina"
-"KF864411",0,0,1353,1353,2009,"Bats DR_A1.1.11","Bats DR","Argentina"
-"KF864412",0,0,1353,1353,2001,"Bats DR_I1","Bats DR","Argentina"
-"KF864414",0,0,1353,1353,2009,"Bats DR_A1.1.3","Bats DR","Argentina"
-"KF864415",0,0,1353,1353,2001,"Bats DR_J1","Bats DR","Argentina"
-"KP202393",0,0,1353,1353,1988,"Bats DR_A1.2","Bats DR","Mexico"
-"KR781537",0,45,1353,1308,2009,"Bats DR_R1","Bats DR","Brazil"
-"KT276358",0,0,1353,1353,2003,"Bats DR_A1.1.10","Bats DR","French Guiana"
-"KT276359",0,0,1353,1353,2009,"Bat_B1.1","Bats DR","French Guiana"
-"KT276360",0,0,1353,1353,1989,"Bats DR_A1.1.10","Bats DR","French Guiana"
-"KT276361",0,0,1353,1353,1989,"Bat_B1.1","Bats DR","French Guiana"
-"KT276362",0,0,1353,1353,1991,"Bat_B1.1","Bats DR","French Guiana"
-"KT276363",0,0,1353,1353,1991,"Bat_B1.1","Bats DR","French Guiana"
-"KT276364",0,0,1353,1353,1997,"Bats DR_C1.1","Bats DR","French Guiana"
-"KT276365",0,0,1353,1353,1997,"Bats DR_C1.1","Bats DR","French Guiana"
-"KT276366",0,0,1353,1353,1997,"Bats DR_C1.1","Bats DR","French Guiana"
-"KT276367",0,0,1353,1353,1999,"Bats DR_C1.1","Bats DR","French Guiana"
-"KU550099",0,0,1353,1353,2014,"Bats DR_A1.4","Bats DR","Costa Rica"
-"KU550100",0,0,1353,1353,2014,"Bats DR_A1.4","Bats DR","Costa Rica"
-"KU550102",0,0,1353,1353,2014,"Bats DR_A1.5","Bats DR","Costa Rica"
-"KU938660",0,3,1353,1350,2001,"Bats DR_A1.3.1","Bats DR","Peru"
-"KU938661",0,3,1353,1350,2001,"Bats DR_A1.3.1","Bats DR","Peru"
-"KU938662",0,3,1353,1350,2000,"Bats DR_A1.3.1","Bats DR","Peru"
-"KU938663",0,3,1353,1350,2001,"Bats DR_E1.1","Bats DR","Peru"
-"KU938664",0,3,1353,1350,2001,"Bats DR_E1.1.1","Bats DR","Peru"
-"KU938665",0,3,1353,1350,2000,"Bats DR_A1.3.1","Bats DR","Peru"
-"KU938666",0,3,1353,1350,2010,"Bats DR_A1.1","Bats DR","Peru"
-"KU938667",0,3,1353,1350,1998,"Bats DR_A1.3.1","Bats DR","Peru"
-"KU938668",0,3,1353,1350,2001,"Bats DR_E1","Bats DR","Peru"
-"KU938669",0,3,1353,1350,2010,"Bats DR_B1.1","Bats DR","Peru"
-"KU938670",0,3,1353,1350,2001,"Bats DR_E1","Bats DR","Peru"
-"KU938671",0,3,1353,1350,2001,"Bats DR_A1.1.9","Bats DR","Peru"
-"KU938672",0,3,1353,1350,2010,"Bats DR_E1.1","Bats DR","Peru"
-"KU938673",0,3,1353,1350,1999,"Bats DR_A1.1.10.1","Bats DR","Peru"
-"KU938674",0,3,1353,1350,2010,"Bats DR_A1.1","Bats DR","Peru"
-"KU938676",0,3,1353,1350,2010,"Bats DR_B1.1","Bats DR","Peru"
-"KU938677",0,3,1353,1350,2010,"Bats DR_A1.1","Bats DR","Peru"
-"KU938678",0,3,1353,1350,1998,"Bats DR_A1.3.1","Bats DR","Peru"
-"KU938679",0,3,1353,1350,2009,"Bats DR_E1","Bats DR","Peru"
-"KU938680",0,3,1353,1350,2009,"Bats DR_A1.1.7","Bats DR","Peru"
-"KU938681",0,3,1353,1350,2004,"Bats DR_A1.1.9","Bats DR","Peru"
-"KU938682",0,3,1353,1350,2010,"Bats DR_A1.1.10","Bats DR","Peru"
-"KU938683",0,3,1353,1350,2010,"Bats DR_B1.1","Bats DR","Peru"
-"KU938684",0,3,1353,1350,2004,"Bats DR_A1.1.9","Bats DR","Peru"
-"KU938685",0,3,1353,1350,2001,"Bats DR_A1.1.10","Bats DR","Peru"
-"KU938686",0,5,1353,1348,2004,"Bats DR_A1.1.10","Bats DR","Peru"
-"KU938687",0,3,1353,1350,2004,"Bats DR_A1.1.9","Bats DR","Peru"
-"KU938689",0,3,1353,1350,2004,"Bats DR_E1.1","Bats DR","Peru"
-"KU938690",0,3,1353,1350,2000,"Bats DR_A1.1.9","Bats DR","Peru"
-"KU938691",0,3,1353,1350,2004,"Bats DR_E1","Bats DR","Peru"
-"KU938692",0,3,1353,1350,2004,"Bats DR_A1.1.10","Bats DR","Peru"
-"KU938693",0,3,1353,1350,2009,"Bats DR_A1.1.10","Bats DR","Peru"
-"KU938694",0,3,1353,1350,2004,"Bats DR_E1","Bats DR","Peru"
-"KU938696",0,3,1353,1350,2001,"Bats DR_A1.3.1","Bats DR","Peru"
-"KU938697",0,3,1353,1350,2001,"Bats DR_A1.3.1","Bats DR","Peru"
-"KU938699",0,3,1353,1350,2004,"Bats DR_E1","Bats DR","Peru"
-"KU938700",0,3,1353,1350,2005,"Bats DR_A1.1.10.1.1","Bats DR","Peru"
-"KU938701",0,3,1353,1350,2000,"Bats DR_P1","Bats DR","Peru"
-"KU938702",0,3,1353,1350,2004,"Bats DR_A1.1.5","Bats DR","Peru"
-"KU938704",0,3,1353,1350,2010,"Bats DR_A1.1","Bats DR","Peru"
-"KU938705",0,3,1353,1350,2001,"Bats DR_E1","Bats DR","Peru"
-"KU938706",0,3,1353,1350,2004,"Bats DR_E1","Bats DR","Peru"
-"KU938707",0,3,1353,1350,2004,"Bats DR_E1","Bats DR","Peru"
-"KU938708",0,3,1353,1350,2001,"Bats DR_E1.2","Bats DR","Peru"
-"KU938709",0,3,1353,1350,2004,"Bats DR_E1.1","Bats DR","Peru"
-"KU938710",0,3,1353,1350,2010,"Bats DR_E1.1.1","Bats DR","Peru"
-"KU938711",0,3,1353,1350,2010,"Bats DR_E1","Bats DR","Peru"
-"KU938712",0,3,1353,1350,2004,"Bats DR_A1.1.9","Bats DR","Peru"
-"KU938713",0,3,1353,1350,2004,"Bats DR_B1.1","Bats DR","Peru"
-"KU938714",0,3,1353,1350,2004,"Bats DR_A1.1.9","Bats DR","Peru"
-"KU938715",0,3,1353,1350,2004,"Bats DR_A1.1.9","Bats DR","Peru"
-"KU938716",0,3,1353,1350,2009,"Bats DR_A1","Bats DR","Peru"
-"KU938717",0,3,1353,1350,2004,"Bats DR_A1.1.10","Bats DR","Peru"
-"KU938719",0,3,1353,1350,2010,"Bats DR_B1.1","Bats DR","Peru"
-"KU938720",0,3,1353,1350,2010,"Bats DR_B1","Bats DR","Peru"
-"KU938721",0,3,1353,1350,2010,"Bats DR_B1.1","Bats DR","Peru"
-"KU938722",0,3,1353,1350,2010,"Bats DR_E1","Bats DR","Peru"
-"KU938723",0,3,1353,1350,2005,"Bats DR_E1","Bats DR","Peru"
-"KU938724",0,3,1353,1350,2010,"Bats DR_B1.1","Bats DR","Peru"
-"KU938725",0,3,1353,1350,2009,"Bats DR_E1","Bats DR","Peru"
-"KU938726",0,3,1353,1350,2010,"Bats DR_E1.1","Bats DR","Peru"
-"KU938727",0,3,1353,1350,2010,"Bats DR_A1.1.10","Bats DR","Peru"
-"KU938728",0,3,1353,1350,2010,"Bats DR_A1.1.10","Bats DR","Peru"
-"KU938729",0,3,1353,1350,2010,"Bats DR_A1.1.10","Bats DR","Peru"
-"KU938731",0,3,1353,1350,2011,"Bats DR_B1","Bats DR","Peru"
-"KU938732",0,3,1353,1350,2011,"Bats DR_B1.1","Bats DR","Peru"
-"KU938735",0,3,1353,1350,2011,"Bats DR_B1","Bats DR","Peru"
-"KU938736",0,3,1353,1350,2011,"Bats DR_E1.1.1","Bats DR","Peru"
-"KU938737",0,3,1353,1350,2011,"Bats DR_A1.1.9","Bats DR","Peru"
-"KU938738",0,3,1353,1350,2009,"Bats DR_B1.1","Bats DR","Peru"
-"KU938739",0,3,1353,1350,2011,"Bats DR_E1","Bats DR","Peru"
-"KU938740",0,3,1353,1350,2011,"Bats DR_P1","Bats DR","Peru"
-"KU938741",0,3,1353,1350,2011,"Bats DR_A1.1","Bats DR","Peru"
-"KU938742",0,3,1353,1350,2011,"Bats DR_A1.1","Bats DR","Peru"
-"KU938743",0,3,1353,1350,2011,"Bats DR_A1.1","Bats DR","Peru"
-"KU938745",0,3,1353,1350,2011,"Bats DR_A1.1","Bats DR","Peru"
-"KU938747",0,3,1353,1350,2011,"Bats DR_E1.1","Bats DR","Peru"
-"KU938748",0,3,1353,1350,2011,"Bats DR_A1.1.9","Bats DR","Peru"
-"KU938749",0,3,1353,1350,2011,"Bats DR_A1.1","Bats DR","Peru"
-"KU938750",0,3,1353,1350,2011,"Bats DR_A1.1","Bats DR","Peru"
-"KU938751",0,3,1353,1350,2011,"Bats DR_A1.1","Bats DR","Peru"
-"KU938755",0,3,1353,1350,2011,"Bats DR_A1.1","Bats DR","Peru"
-"KU938756",0,3,1353,1350,2011,"Bats DR_A1.1.9","Bats DR","Peru"
-"KU938757",0,3,1353,1350,2011,"Bats DR_E1.1","Bats DR","Peru"
-"KU938759",0,3,1353,1350,2011,"Bats DR_E1.1","Bats DR","Peru"
-"KU938760",0,3,1353,1350,2011,"Bats DR_A1.1","Bats DR","Peru"
-"KU938761",0,3,1353,1350,2011,"Bats DR_B1.1","Bats DR","Peru"
-"KU938763",0,3,1353,1350,2011,"Bats DR_E1.1","Bats DR","Peru"
-"KU938764",0,3,1353,1350,2011,"Bats DR_E1.1","Bats DR","Peru"
-"KU938766",0,3,1353,1350,2011,"Bats DR_B1.1","Bats DR","Peru"
-"KU938768",0,3,1353,1350,2011,"Bats DR_A1.1","Bats DR","Peru"
-"KU938769",0,3,1353,1350,2011,"Bats DR_A1.1.9","Bats DR","Peru"
-"KU938770",0,3,1353,1350,2011,"Bats DR_A1.1.9","Bats DR","Peru"
-"KU938771",0,3,1353,1350,2011,"Bats DR_A1.1.10","Bats DR","Peru"
-"KU938772",0,3,1353,1350,2012,"Bats DR_A1.1.10","Bats DR","Peru"
-"KU938774",0,3,1353,1350,2012,"Bats DR_A1.1.10","Bats DR","Peru"
-"KU938775",0,3,1353,1350,2012,"Bats DR_A1.1.10","Bats DR","Peru"
-"KU938776",0,3,1353,1350,2012,"Bats DR_E1.1","Bats DR","Peru"
-"KU938777",0,3,1353,1350,2012,"Bats DR_B1","Bats DR","Peru"
-"KU938778",0,3,1353,1350,2012,"Bats DR_A1.1.10","Bats DR","Peru"
-"KU938779",0,3,1353,1350,2012,"Bats DR_A1","Bats DR","Peru"
-"KU938780",0,3,1353,1350,2012,"Bats DR_B1","Bats DR","Peru"
-"KU938781",0,3,1353,1350,2012,"Bats DR_B1.1","Bats DR","Peru"
-"KU938782",0,3,1353,1350,2012,"Bats DR_B1","Bats DR","Peru"
-"KU938783",0,3,1353,1350,2012,"Bats DR_A1.1","Bats DR","Peru"
-"KU938784",0,3,1353,1350,2012,"Bats DR_A1.1","Bats DR","Peru"
-"KU938786",0,3,1353,1350,2012,"Bats DR_E1.1","Bats DR","Peru"
-"KU938787",0,3,1353,1350,2012,"Bats DR_A1.1.10","Bats DR","Peru"
-"KU938788",0,3,1353,1350,2012,"Bats DR_A1.1.10","Bats DR","Peru"
-"KU938789",0,3,1353,1350,2012,"Bats DR_A1.1.10","Bats DR","Peru"
-"KU938790",0,3,1353,1350,2012,"Bats DR_B1.1","Bats DR","Peru"
-"KU938791",0,3,1353,1350,2012,"Bats DR_B1","Bats DR","Peru"
-"KU938792",0,3,1353,1350,2012,"Bats DR_B1","Bats DR","Peru"
-"KU938793",0,3,1353,1350,2012,"Bats DR_B1.1","Bats DR","Peru"
-"KU938794",0,3,1353,1350,2012,"Bats DR_B1","Bats DR","Peru"
-"KU938798",0,3,1353,1350,2012,"Bats DR_B1.1","Bats DR","Peru"
-"KU938800",0,3,1353,1350,2012,"Bats DR_B1.1","Bats DR","Peru"
-"KU938801",0,3,1353,1350,2012,"Bats DR_A1.1","Bats DR","Peru"
-"KU938803",0,3,1353,1350,2012,"Bats DR_A1.1.10","Bats DR","Peru"
-"KU938804",0,3,1353,1350,2012,"Bats DR_B1.1","Bats DR","Peru"
-"KU938805",0,3,1353,1350,2012,"Bats DR_B1","Bats DR","Peru"
-"KU938806",0,3,1353,1350,2012,"Bats DR_A1.1.10.1","Bats DR","Peru"
-"KU938808",0,3,1353,1350,2012,"Bats DR_A1.1.10","Bats DR","Peru"
-"KU938809",0,3,1353,1350,2012,"Bats DR_A1.1","Bats DR","Peru"
-"KU938811",0,3,1353,1350,2012,"Bats DR_A1.1","Bats DR","Peru"
-"KU938812",0,3,1353,1350,2012,"Bats DR_A1.1","Bats DR","Peru"
-"KU938813",0,3,1353,1350,2012,"Bats DR_A1.1","Bats DR","Peru"
-"KU938814",0,3,1353,1350,2012,"Bats DR_B1","Bats DR","Peru"
-"KU938815",0,3,1353,1350,2012,"Bats DR_A1.1.10","Bats DR","Peru"
-"KU938816",0,3,1353,1350,2012,"Bats DR_A1.1.9","Bats DR","Peru"
-"KU938819",0,3,1353,1350,2012,"Bats DR_A1.1","Bats DR","Peru"
-"KU938820",0,3,1353,1350,2012,"Bats DR_A1.1.10","Bats DR","Peru"
-"KU938821",0,3,1353,1350,2012,"Bats DR_B1","Bats DR","Peru"
-"KU938822",0,3,1353,1350,2012,"Bats DR_A1.1.10","Bats DR","Peru"
-"KU938823",0,3,1353,1350,2012,"Bats DR_A1.1","Bats DR","Peru"
-"KU938825",0,3,1353,1350,2012,"Bats DR_B1.1","Bats DR","Peru"
-"KU938826",0,3,1353,1350,2012,"Bats DR_A1.1.10","Bats DR","Peru"
-"KU938827",0,3,1353,1350,2012,"Bats DR_E1.1","Bats DR","Peru"
-"KU938830",0,3,1353,1350,2012,"Bats DR_A1.1","Bats DR","Peru"
-"KU938831",0,3,1353,1350,2012,"Bats DR_A1.1.10","Bats DR","Peru"
-"KU938832",0,3,1353,1350,2012,"Bats DR_A1.1.10","Bats DR","Peru"
-"KU938833",0,3,1353,1350,2012,"Bats DR_E1","Bats DR","Peru"
-"KU938834",0,3,1353,1350,2012,"Bats DR_A1.1.10","Bats DR","Peru"
-"KU938836",0,3,1353,1350,2012,"Bats DR_A1.1.10","Bats DR","Peru"
-"KU938837",0,3,1353,1350,2012,"Bats DR_A1.1.10","Bats DR","Peru"
-"KU938838",0,3,1353,1350,2012,"Bats DR_A1.1","Bats DR","Peru"
-"KU938839",0,3,1353,1350,2012,"Bats DR_A1.1","Bats DR","Peru"
-"KU938842",0,3,1353,1350,2011,"Bats DR_A1","Bats DR","Peru"
-"KU938843",0,3,1353,1350,2010,"Bats DR_A1.1.10","Bats DR","Peru"
-"KU938844",0,3,1353,1350,2011,"Bats DR_A1.1","Bats DR","Peru"
-"KU938845",0,3,1353,1350,2010,"Bats DR_E1.1","Bats DR","Peru"
-"KU938846",0,3,1353,1350,2010,"Bats DR_B1.1","Bats DR","Peru"
-"KU938847",0,3,1353,1350,2005,"Bats DR_E1","Bats DR","Peru"
-"KU938849",0,3,1353,1350,2005,"Bats DR_A1.1.10","Bats DR","Peru"
-"KU938851",0,3,1353,1350,2011,"Bats DR_A1.1","Bats DR","Peru"
-"KU938852",0,3,1353,1350,2011,"Bats DR_A1.1.10","Bats DR","Peru"
-"KU938855",0,3,1353,1350,2001,"Bats DR_E1","Bats DR","Peru"
-"KU938856",0,3,1353,1350,2010,"Bats DR_E1.1","Bats DR","Peru"
-"KU938858",0,3,1353,1350,2011,"Bats DR_B1.1","Bats DR","Peru"
-"KU938859",0,3,1353,1350,2010,"Bats DR_E1.1","Bats DR","Peru"
-"KU938861",0,3,1353,1350,2008,"Bats DR_B1.1","Bats DR","Peru"
-"KU938862",0,3,1353,1350,2010,"Bats DR_A1.1","Bats DR","Peru"
-"KU938863",0,3,1353,1350,2008,"Bats DR_A1.1.10.1","Bats DR","Peru"
-"KU938864",0,3,1353,1350,2008,"Bats DR_B1.1","Bats DR","Peru"
-"KU938865",0,3,1353,1350,2001,"Bats DR_E1","Bats DR","Peru"
-"KU938867",0,3,1353,1350,2009,"Bats DR_A1.1.10","Bats DR","Peru"
-"KU938869",0,3,1353,1350,2010,"Bats DR_B1.1","Bats DR","Peru"
-"KU938871",0,3,1353,1350,2009,"Bats DR_G1","Bats DR","Peru"
-"KU938872",0,3,1353,1350,2011,"Bats DR_B1.1","Bats DR","Peru"
-"KU938873",0,3,1353,1350,2009,"Bats DR_E1","Bats DR","Peru"
-"KU938874",0,3,1353,1350,2009,"Bats DR_B1.1","Bats DR","Peru"
-"KU938875",0,3,1353,1350,2011,"Bats DR_A1.1","Bats DR","Peru"
-"KU938877",0,3,1353,1350,2001,"Bats DR_B1.1","Bats DR","Peru"
-"KU938878",0,3,1353,1350,2009,"Bats DR_B1.1","Bats DR","Peru"
-"KU938879",0,3,1353,1350,2009,"Bats DR_B1","Bats DR","Peru"
-"KU938880",0,3,1353,1350,2009,"Bats DR_B1","Bats DR","Peru"
-"KU938882",0,3,1353,1350,2011,"Bats DR_E1","Bats DR","Peru"
-"KU938883",0,3,1353,1350,2010,"Bats DR_A1.1.10","Bats DR","Peru"
-"KU938885",0,3,1353,1350,2009,"Bats DR_B1","Bats DR","Peru"
-"KU938886",0,3,1353,1350,2009,"Bats DR_E1.1.1","Bats DR","Peru"
-"KU938889",0,3,1353,1350,2010,"Bats DR_B1.1","Bats DR","Peru"
-"KU938890",0,3,1353,1350,2009,"Bats DR_A1","Bats DR","Peru"
-"KU938892",0,3,1353,1350,2009,"Bats DR_E1.1.1","Bats DR","Peru"
-"KU938893",0,3,1353,1350,2001,"Bats DR_A1.3.1","Bats DR","Peru"
-"KU938894",0,3,1353,1350,2009,"Bats DR_A1","Bats DR","Peru"
-"KU938895",6,3,1353,1344,2009,"Bats DR_E1","Bats DR","Peru"
-"KU938896",0,3,1353,1350,2010,"Bats DR_A1.1","Bats DR","Peru"
-"KU938897",0,3,1353,1350,2010,"Bats DR_A1.1","Bats DR","Peru"
-"KU938898",0,3,1353,1350,2010,"Bats DR_A1.1","Bats DR","Peru"
-"KU938899",0,3,1353,1350,2009,"Bats DR_A1.1.10.1","Bats DR","Peru"
-"KU938900",0,3,1353,1350,2009,"Bats DR_E1","Bats DR","Peru"
-"KU938901",0,3,1353,1350,1999,"Bats DR_A1.1.9","Bats DR","Peru"
-"KU938902",0,3,1353,1350,2001,"Bats DR_E1","Bats DR","Peru"
-"KU938903",0,3,1353,1350,2001,"Bats DR_E1","Bats DR","Peru"
-"KU938905",0,3,1353,1350,2001,"Bats DR_G1","Bats DR","Peru"
-"KU938906",0,3,1353,1350,2010,"Bats DR_A1.1","Bats DR","Peru"
-"KU938907",0,3,1353,1350,2009,"Bats DR_E1","Bats DR","Peru"
-"KU938908",0,3,1353,1350,2009,"Bats DR_E1.1","Bats DR","Peru"
-"KU938909",0,3,1353,1350,2006,"Bats DR_E1","Bats DR","Peru"
-"KU938910",0,3,1353,1350,2009,"Bats DR_B1.1","Bats DR","Peru"
-"KU938912",0,3,1353,1350,2001,"Bats DR_A1.1.10.1","Bats DR","Peru"
-"KU938913",0,3,1353,1350,2002,"Bats DR_A1.1.9","Bats DR","Peru"
-"KU938914",0,3,1353,1350,2002,"Bats DR_E1","Bats DR","Peru"
-"KU938915",0,3,1353,1350,1999,"Bats DR_B1.1","Bats DR","Peru"
-"KU938916",0,3,1353,1350,1999,"Bats DR_B1","Bats DR","Peru"
-"KU938917",0,3,1353,1350,2001,"Bats DR_A1.1.10.1","Bats DR","Peru"
-"KU938918",0,3,1353,1350,2004,"Bats DR_A1.1.9","Bats DR","Peru"
-"KU938919",0,3,1353,1350,2009,"Bats DR_A1.1.10","Bats DR","Peru"
-"KU938920",0,3,1353,1350,1998,"Bats DR_A1.1.9","Bats DR","Peru"
-"KU938921",0,3,1353,1350,2001,"Bats DR_A1.3.1","Bats DR","Peru"
-"KU938922",0,3,1353,1350,2004,"Bats DR_E1.1","Bats DR","Peru"
-"KU938923",0,3,1353,1350,2004,"Bats DR_C1.1","Bats DR","Peru"
-"KU938924",0,3,1353,1350,2009,"Bats DR_A1.1.9","Bats DR","Peru"
-"KU963509",0,3,1353,1350,2016,"Bats DR_E1.2","Bats DR","-"
-"KX090586",0,42,1353,1311,2016,"Bats DR_F1","Bats DR","Brazil"
-"KX090587",0,39,1353,1314,2016,"Bats DR_F1","Bats DR","Brazil"
-"KX090589",0,39,1353,1314,2016,"Bats DR_F1","Bats DR","Brazil"
-"KX090590",0,39,1353,1314,2016,"Bats DR_F1","Bats DR","Brazil"
-"KX090591",0,39,1353,1314,2016,"Bats DR_F1","Bats DR","Brazil"
-"KX090593",0,39,1353,1314,2016,"Bats DR_F1","Bats DR","Brazil"
-"KX090594",0,39,1353,1314,2016,"Bats DR_I1","Bats DR","Brazil"
-"KX090595",0,39,1353,1314,2016,"Bats DR_I1","Bats DR","Brazil"
-"KX090596",0,39,1353,1314,2016,"Bats DR_I1","Bats DR","Brazil"
-"KX090597",0,39,1353,1314,2016,"Bats DR_I1","Bats DR","Brazil"
-"KX090598",0,39,1353,1314,2016,"Bats DR_I1","Bats DR","Brazil"
-"KX090599",0,39,1353,1314,2016,"Bats DR_I1","Bats DR","Brazil"
-"KX090600",0,39,1353,1314,2016,"Bats DR_A1.1.2","Bats DR","Brazil"
-"KX090601",0,39,1353,1314,2016,"Bats DR_A1.1.2","Bats DR","Brazil"
-"KX090602",0,39,1353,1314,2016,"Bats DR_A1.1.2","Bats DR","Brazil"
-"KX090603",0,39,1353,1314,2016,"Bats DR_F1","Bats DR","Brazil"
-"KX090604",0,39,1353,1314,2016,"Bats DR_F1","Bats DR","Brazil"
-"KX090605",0,39,1353,1314,2016,"Bats DR_A1.1.2","Bats DR","Brazil"
-"KX090606",0,39,1353,1314,2016,"Bats DR_I1","Bats DR","Brazil"
-"KX090607",0,39,1353,1314,2016,"Bats DR_I1","Bats DR","Brazil"
-"KX090608",0,39,1353,1314,2016,"Bats DR_I1","Bats DR","Brazil"
-"KX090609",0,39,1353,1314,2016,"Bats DR_A1.1.2","Bats DR","Brazil"
-"KX090610",0,39,1353,1314,2016,"Bats DR_I1","Bats DR","Brazil"
-"KX090612",0,39,1353,1314,2016,"Bats DR_I1","Bats DR","Brazil"
-"KX090613",0,39,1353,1314,2016,"Bats DR_I1","Bats DR","Brazil"
-"KX090614",0,39,1353,1314,2016,"Bats DR_I1","Bats DR","Brazil"
-"KX090615",0,39,1353,1314,2016,"Bats DR_I1","Bats DR","Brazil"
-"KX090616",0,39,1353,1314,2016,"Bats DR_I1","Bats DR","Brazil"
-"KX090617",0,39,1353,1314,2016,"Bats DR_I1","Bats DR","Brazil"
-"KX090618",0,39,1353,1314,2016,"Bats DR_I1","Bats DR","Brazil"
-"KX090619",0,39,1353,1314,2016,"Bats DR_I1","Bats DR","Brazil"
-"KX090620",0,39,1353,1314,2016,"Bats DR_A1.1.2","Bats DR","Brazil"
-"KX090621",0,39,1353,1314,2016,"Bats DR_I1","Bats DR","Brazil"
-"KX090622",0,39,1353,1314,2016,"Bats DR_I1","Bats DR","Brazil"
-"KX090623",0,39,1353,1314,2016,"Bats DR_I1","Bats DR","Brazil"
-"KX090624",0,39,1353,1314,2016,"Bats DR_I1","Bats DR","Brazil"
-"KX090625",0,39,1353,1314,2016,"Bats DR_I1","Bats DR","Brazil"
-"KX090626",0,39,1353,1314,2016,"Bats DR_I1","Bats DR","Brazil"
-"KX090627",0,39,1353,1314,2016,"Bats DR_I1","Bats DR","Brazil"
-"KX090628",0,39,1353,1314,2016,"Bats DR_I1","Bats DR","Brazil"
-"KX090629",0,39,1353,1314,2016,"Bats DR_I1","Bats DR","Brazil"
-"KX090630",0,39,1353,1314,2016,"Bats DR_I1","Bats DR","Brazil"
-"KX090631",0,39,1353,1314,2016,"Bats DR_A1.1.2","Bats DR","Brazil"
-"KX090632",0,45,1353,1308,2016,"Bats DR_A1.1.2","Bats DR","Brazil"
-"KX090633",0,39,1353,1314,2016,"Bats DR_I1","Bats DR","Brazil"
-"KX090634",0,39,1353,1314,2016,"Bats DR_I1","Bats DR","Brazil"
-"KX090635",0,39,1353,1314,2016,"Bats DR_A1.1.11","Bats DR","Brazil"
-"KX090636",0,39,1353,1314,2016,"Bats DR_I1","Bats DR","Brazil"
-"KX090637",0,39,1353,1314,2016,"Bats DR_A1.1.11","Bats DR","Brazil"
-"KX090638",0,39,1353,1314,2016,"Bats DR_A1.1.11","Bats DR","Brazil"
-"KX090640",0,39,1353,1314,2016,"Bats DR_A1.1.11","Bats DR","Brazil"
-"KX090641",0,39,1353,1314,2016,"Bats DR_A1.1.11","Bats DR","Brazil"
-"KX090642",0,39,1353,1314,2016,"Bats DR_A1.1.11","Bats DR","Brazil"
-"KX090643",0,39,1353,1314,2016,"Bats DR_A1.1.11","Bats DR","Brazil"
-"MF467497",0,0,1353,1353,2011,"Bats DR_A1.1.10","Bats DR","Ecuador"
-"MF467498",0,0,1353,1353,2011,"Bats DR_A1.1.10","Bats DR","Ecuador"
-"MF467499",0,0,1353,1353,2011,"Bats DR_A1.1.10","Bats DR","Ecuador"
-"MF467500",0,0,1353,1353,2011,"Bats DR_A1.1.10","Bats DR","Ecuador"
-"MF467502",0,0,1353,1353,2014,"Bats DR_A1.1.10","Bats DR","Ecuador"
-"MF467503",0,0,1353,1353,2014,"Bats DR_A1.1.10","Bats DR","Ecuador"
-"MF467504",0,0,1353,1353,2016,"Bats DR_A1.1.10","Bats DR","Ecuador"
-"MK766719",0,4,1353,1349,2012,"Bats DR_A1.4","Bats DR","Costa Rica"
-"MK766720",0,4,1353,1349,2012,"Bats DR_A1.4","Bats DR","Costa Rica"
-"MK766722",0,4,1353,1349,2007,"Bats DR_A1.4","Bats DR","Costa Rica"
-"MK766723",0,4,1353,1349,2012,"Bats DR_A1.5","Bats DR","Costa Rica"
-"MK766724",0,4,1353,1349,2005,"Bats DR_A1.5","Bats DR","Costa Rica"
-"MK766725",0,4,1353,1349,2009,"Bats DR_A1.5","Bats DR","Costa Rica"
-"MK766726",0,4,1353,1349,2013,"Bats DR_A1.4","Bats DR","Costa Rica"
-"MK766727",0,4,1353,1349,2013,"Bats DR_A1.4","Bats DR","Costa Rica"
-"MK766728",0,4,1353,1349,2013,"Bats DR_A1.5","Bats DR","Costa Rica"
-"MK766729",0,4,1353,1349,2004,"Bats DR_A1.5","Bats DR","Costa Rica"
-"MK766730",0,4,1353,1349,2012,"Bats DR_A1.5","Bats DR","Costa Rica"
-"MK766731",0,4,1353,1349,2011,"Bats DR_A1.4","Bats DR","Costa Rica"
-"MK766732",0,4,1353,1349,2011,"Bats DR_A1.4","Bats DR","Costa Rica"
-"MK766733",0,4,1353,1349,2012,"Bats DR_A1.5","Bats DR","Costa Rica"
-"MK766734",0,4,1353,1349,2012,"Bats DR_A1.5","Bats DR","Costa Rica"
-"MK766735",0,4,1353,1349,2011,"Bats DR_A1.4","Bats DR","Costa Rica"
-"MK766736",0,4,1353,1349,2013,"Bats DR_A1.5","Bats DR","Costa Rica"
-"MK766737",0,4,1353,1349,2011,"Bats DR_A1.4","Bats DR","Costa Rica"
-"MK766738",0,4,1353,1349,2011,"Bats DR_A1.4","Bats DR","Costa Rica"
-"MK766739",0,4,1353,1349,2014,"Bats DR_A1.4","Bats DR","Costa Rica"
-"MK766740",0,4,1353,1349,2014,"Bats DR_A1.4","Bats DR","Costa Rica"
-"MK766741",0,4,1353,1349,2006,"Bats DR_A1.4","Bats DR","Costa Rica"
-"MN968375",0,0,1353,1353,2018,"Bats DR_A1.2.1","Bats DR","Mexico"
-"MN968376",0,0,1353,1353,2018,"Bats DR_A1.2.1","Bats DR","Mexico"
-"MN968377",0,0,1353,1353,2018,"Bats DR_A1.2.1","Bats DR","Mexico"
-"MN968379",0,0,1353,1353,2018,"Bats DR_A1.2.1","Bats DR","Mexico"
-"MN968380",0,0,1353,1353,2018,"Bats DR_A1.2.1","Bats DR","Mexico"
-"MN968381",0,0,1353,1353,2018,"Bats DR_A1.2.1","Bats DR","Mexico"
-"MN968383",0,0,1353,1353,2018,"Bats DR_A1.2.1","Bats DR","Mexico"
-"MN968384",0,0,1353,1353,2018,"Bats DR_A1.2.1","Bats DR","Mexico"
-"MN968385",0,0,1353,1353,2018,"Bats DR_A1.2.1","Bats DR","Mexico"
-"MN968386",0,0,1353,1353,2018,"Bats DR_A1.2.1","Bats DR","Mexico"
-"MN968387",0,0,1353,1353,2018,"Bats DR_A1.2.1","Bats DR","Mexico"
-"MW055102",0,0,1353,1353,2018,"Bats DR_A1.2.2","Bats DR","Guatemala"
-"MW055103",0,0,1353,1353,2018,"Bats DR_A1.2.2","Bats DR","Guatemala"
-"MW055105",0,0,1353,1353,2018,"Bats DR_A1.2.2","Bats DR","Guatemala"
-"MW055106",0,0,1353,1353,2018,"Bats DR_A1.2.2","Bats DR","Guatemala"
-"MW249020",0,0,1353,1353,2016,"Bats DR_A1.1.10","Bats DR","Peru"
-"U22478",0,0,1353,1353,1995,"Bats DR_A1.1.10","Bats DR","French Guiana"
-"AF351827",0,0,1353,1353,2001,"Bats EF-E1_A1","Bats EF-E1","-"
-"AF351829",0,0,1353,1353,2001,"Bats EF-E1_A1","Bats EF-E1","-"
-"AF351853",0,0,1353,1353,2001,"Bats EF-E1_A1","Bats EF-E1","-"
-"AF351854",0,0,1353,1353,2001,"Bats EF-E1_A1","Bats EF-E1","-"
-"AF351860",0,0,1353,1353,2001,"Bats EF-E1_A1","Bats EF-E1","-"
-"AY039226",0,0,1353,1353,2002,"Bats EF-E1_A1","Bats EF-E1","United States"
-"GU644672",0,0,1353,1353,2005,"Bats EF-E1_A1","Bats EF-E1","United States"
-"GU644674",0,0,1353,1353,2005,"Bats EF-E1_A1","Bats EF-E1","United States"
-"GU644675",0,0,1353,1353,2005,"Bats EF-E1_A1","Bats EF-E1","United States"
-"KY203043",0,6,1353,1347,1993,"Bats EF-E1_A1","Bats EF-E1","Canada"
-"AF351832",0,0,1353,1353,2001,"Bats EF-E2_A1","Bats EF-E2","-"
-"AF351861",0,0,1353,1353,2001,"Bats EF-E2_A1","Bats EF-E2","-"
-"AF351862",0,0,1353,1353,2001,"Bats EF-E2_A1.2","Bats EF-E2","-"
-"AY039227",0,0,1353,1353,2002,"Bats EF-E2_A1","Bats EF-E2","United States"
-"AY039228",0,0,1353,1353,2002,"Bats EF-E2_A1.2","Bats EF-E2","United States"
-"GU644652",0,0,1353,1353,2004,"Bats EF-E2_A1","Bats EF-E2","United States"
-"GU644654",0,0,1353,1353,2005,"Bats EF-E2_A1.2","Bats EF-E2","United States"
-"GU644655",0,0,1353,1353,2005,"Bats EF-E2_A1.2","Bats EF-E2","United States"
-"GU644656",0,0,1353,1353,2005,"Bats EF-E2_A1","Bats EF-E2","United States"
-"GU644657",0,0,1353,1353,2003,"Bats EF-E2_A1.2","Bats EF-E2","United States"
-"GU644660",0,0,1353,1353,2003,"Bats EF-E2_A1.2","Bats EF-E2","United States"
-"GU644661",0,0,1353,1353,2003,"Bats EF-E2_A1","Bats EF-E2","United States"
-"GU644662",0,0,1353,1353,2003,"Bats EF-E2_A1.2","Bats EF-E2","United States"
-"GU644663",0,0,1353,1353,2003,"Bats EF-E2_A1.2","Bats EF-E2","United States"
-"GU644664",0,0,1353,1353,2003,"Bats EF-E2_A1.2","Bats EF-E2","United States"
-"GU644665",0,0,1353,1353,2005,"Bats EF-E2_A1.2","Bats EF-E2","United States"
-"GU644666",0,0,1353,1353,2005,"Bats EF-E2_A1.2","Bats EF-E2","United States"
-"GU644667",0,0,1353,1353,2005,"Bats EF-E2_A1.2","Bats EF-E2","United States"
-"GU644668",0,0,1353,1353,2005,"Bats EF-E2_A1","Bats EF-E2","United States"
-"GU644669",0,0,1353,1353,2005,"Bats EF-E2_A1.2","Bats EF-E2","United States"
-"GU644670",0,0,1353,1353,2005,"Bats EF-E2_A1","Bats EF-E2","United States"
-"GU644676",0,0,1353,1353,2004,"Bats EF-E2_A1","Bats EF-E2","United States"
-"GU644677",0,0,1353,1353,2004,"Bats EF-E2_A1","Bats EF-E2","United States"
-"GU644684",0,0,1353,1353,2003,"Bats EF-E2_A1.2","Bats EF-E2","United States"
-"GU644689",0,0,1353,1353,2004,"Bats EF-E2_A1.2","Bats EF-E2","United States"
-"GU644690",0,0,1353,1353,2004,"Bats EF-E2_A1.2","Bats EF-E2","United States"
-"GU644695",0,0,1353,1353,2005,"Bats EF-E2_A1.2","Bats EF-E2","United States"
-"JQ824886",0,42,1353,1311,2000,"Bats EF-E2_A1.2","Bats EF-E2","United States"
-"JQ824890",0,43,1353,1310,2000,"Bats EF-E2_A1.2","Bats EF-E2","United States"
-"KY203040",0,3,1353,1350,1989,"Bats EF-E2_A1","Bats EF-E2","Canada"
-"KY203044",0,3,1353,1350,1994,"Bats EF-E2_A1.2","Bats EF-E2","Canada"
-"KY203047",0,3,1353,1350,1995,"Bats EF-E2_A1","Bats EF-E2","Canada"
-"KY203071",0,3,1353,1350,2001,"Bats EF-E2_A1","Bats EF-E2","Canada"
-"KY203081",0,3,1353,1350,2003,"Bats EF-E2_A1.2","Bats EF-E2","Canada"
-"KY203090",0,3,1353,1350,2003,"Bats EF-E2_A1","Bats EF-E2","Canada"
-"KY203092",0,3,1353,1350,2003,"Bats EF-E2_A1","Bats EF-E2","Canada"
-"KY203159",0,3,1353,1350,2011,"Bats EF-E2_A1","Bats EF-E2","Canada"
-"KY203176",0,3,1353,1350,2014,"Bats EF-E2_A1.2","Bats EF-E2","Canada"
-"KY203178",0,3,1353,1350,2014,"Bats EF-E2_A1.2","Bats EF-E2","Canada"
-"KY203180",0,3,1353,1350,2014,"Bats EF-E2_A1.2","Bats EF-E2","Canada"
-"KY203185",0,3,1353,1350,2015,"Bats EF-E2_A1.2","Bats EF-E2","Canada"
-"MW055098",0,0,1353,1353,2017,"Bats EF-E2_A1.2","Bats EF-E2","United States"
-"AF394888",0,0,1353,1353,2002,"Bats EF-W1_A1","Bats EF-W1","United States"
-"AY170397",0,0,1353,1353,2003,"Bats EF-W1_A1","Bats EF-W1","United States"
-"AY170398",0,0,1353,1353,2003,"Bats EF-W1_A1","Bats EF-W1","United States"
-"AY170399",0,0,1353,1353,2003,"Bats EF-W1_A1","Bats EF-W1","United States"
-"AY170400",0,0,1353,1353,2003,"Bats EF-W1_A1.2","Bats EF-W1","United States"
-"AY170401",0,0,1353,1353,2003,"Bats EF-W1_A1.2","Bats EF-W1","United States"
-"AY170402",0,0,1353,1353,2003,"Bats EF-W1_A1.2","Bats EF-W1","United States"
-"AY170403",0,0,1353,1353,2003,"Bats EF-W1_A1.2","Bats EF-W1","United States"
-"AY170404",0,0,1353,1353,2003,"Bats EF-W1_A1.2","Bats EF-W1","United States"
-"AY170405",0,0,1353,1353,2003,"Bats EF-W1_A1.2","Bats EF-W1","United States"
-"AY170406",0,0,1353,1353,2003,"Bats EF-W1_A1.2","Bats EF-W1","United States"
-"AY170407",0,0,1353,1353,2003,"Bats EF-W1_A1.2","Bats EF-W1","United States"
-"AY170408",0,0,1353,1353,2003,"Bats EF-W1_A1.2","Bats EF-W1","United States"
-"AY170409",0,0,1353,1353,2003,"Bats EF-W1_A1.2","Bats EF-W1","United States"
-"AY170410",0,0,1353,1353,2003,"Bats EF-W1_A1.2","Bats EF-W1","United States"
-"AY170411",0,0,1353,1353,2003,"Bats EF-W1_A1.2","Bats EF-W1","United States"
-"AY170412",0,0,1353,1353,2003,"Bats EF-W1_A1","Bats EF-W1","United States"
-"AY170413",0,0,1353,1353,2003,"Bats EF-W1_A1","Bats EF-W1","United States"
-"AY170414",0,0,1353,1353,2003,"Bats EF-W1_A1","Bats EF-W1","United States"
-"AY170415",0,0,1353,1353,2003,"Bats EF-W1_A1","Bats EF-W1","United States"
-"AY170416",0,0,1353,1353,2003,"Bats EF-W1_A1","Bats EF-W1","United States"
-"GU644642",0,0,1353,1353,2004,"Bats EF-W1_A1","Bats EF-W1","United States"
-"GU644648",0,0,1353,1353,2003,"Bats EF-W1_A1","Bats EF-W1","United States"
-"GU644651",0,0,1353,1353,2005,"Bats EF-W1_A1","Bats EF-W1","United States"
-"GU991835",0,3,1353,1350,2008,"Bats EF-W1_A1.2","Bats EF-W1","United States"
-"GU991836",0,3,1353,1350,2008,"Bats EF-W1_A1","Bats EF-W1","United States"
-"MW055093",0,0,1353,1353,2017,"Bats EF-W1_A1","Bats EF-W1","United States"
-"MW055094",0,0,1353,1353,2017,"Bats EF-W1_A1","Bats EF-W1","United States"
-"AF352650",0,3,1353,1350,1989,"Bats EF-W2_A1","Bats EF-W2","Canada"
-"AF394887",0,0,1353,1353,2002,"Bats EF-W2_A1.1","Bats EF-W2","United States"
-"GU644644",0,0,1353,1353,2002,"Bats EF-W2_A1.1","Bats EF-W2","United States"
-"GU644645",0,0,1353,1353,2002,"Bats EF-W2_A1.1","Bats EF-W2","United States"
-"GU644649",0,0,1353,1353,2004,"Bats EF-W2_A1.1","Bats EF-W2","United States"
-"GU644650",0,0,1353,1353,2004,"Bats EF-W2_A1","Bats EF-W2","United States"
-"GU644678",0,0,1353,1353,1999,"Bats EF-W2_A1","Bats EF-W2","United States"
-"GU644679",0,0,1353,1353,1999,"Bats EF-W2_A1","Bats EF-W2","United States"
-"GU644681",0,0,1353,1353,2000,"Bats EF-W2_A1","Bats EF-W2","United States"
-"GU644682",0,0,1353,1353,2000,"Bats EF-W2_A1","Bats EF-W2","United States"
-"GU644683",0,0,1353,1353,2003,"Bats EF-W2_A1","Bats EF-W2","United States"
-"GU644685",0,0,1353,1353,2003,"Bats EF-W2_A1","Bats EF-W2","United States"
-"GU644686",0,0,1353,1353,2004,"Bats EF-W2_A1","Bats EF-W2","United States"
-"GU644687",0,0,1353,1353,2004,"Bats EF-W2_A1","Bats EF-W2","United States"
-"GU644688",0,0,1353,1353,2004,"Bats EF-W2_A1","Bats EF-W2","United States"
-"GU644691",0,0,1353,1353,2004,"Bats EF-W2_A1","Bats EF-W2","United States"
-"GU644693",0,0,1353,1353,2005,"Bats EF-W2_A1","Bats EF-W2","United States"
-"GU644694",0,0,1353,1353,2005,"Bats EF-W2_A1","Bats EF-W2","United States"
-"KY203063",0,3,1353,1350,2000,"Bats EF-W2_A1","Bats EF-W2","Canada"
-"MW055092",0,0,1353,1353,2017,"Bats EF-W2_A1","Bats EF-W2","United States"
-"AF351857",0,0,1353,1353,2001,"Bats LB2_A1","Bats LB2","-"
-"AY039224",0,0,1353,1353,2002,"Bats LB2_A1","Bats LB2","United States"
-"GU644696",0,0,1353,1353,2002,"Bats LB2_A1.1","Bats LB2","United States"
-"GU644699",0,0,1353,1353,2003,"Bats LB2_A1","Bats LB2","United States"
-"GU644703",0,0,1353,1353,2004,"Bats LB2_A1","Bats LB2","United States"
-"GU644704",0,0,1353,1353,2004,"Bats LB2_A1","Bats LB2","United States"
-"GU644705",0,0,1353,1353,2004,"Bats LB2_A1.1","Bats LB2","United States"
-"GU644706",0,0,1353,1353,2003,"Bats LB2_A1","Bats LB2","United States"
-"GU644707",0,0,1353,1353,2003,"Bats LB2_A1.1","Bats LB2","United States"
-"GU644708",0,0,1353,1353,2004,"Bats LB2_A1","Bats LB2","United States"
-"GU644709",0,0,1353,1353,2004,"Bats LB2_A1.1","Bats LB2","United States"
-"GU644733",0,0,1353,1353,1998,"Bats LB2_A1","Bats LB2","United States"
-"GU644734",0,0,1353,1353,2000,"Bats LB2_A1.1","Bats LB2","United States"
-"GU644736",0,0,1353,1353,2002,"Bats LB2_A1.1","Bats LB2","United States"
-"GU644750",0,0,1353,1353,2004,"Bats LB2_A1.1","Bats LB2","United States"
-"KU963515",0,3,1353,1350,2016,"Bats LB2_A1","Bats LB2","-"
-"MW055090",0,0,1353,1353,2017,"Bats LB2_A1","Bats LB2","United States"
-"AB297652",0,18,1353,1335,2007,"Bats LC_A1","Bats LC","Brazil"
-"AB297653",0,18,1353,1335,2007,"Bats LC_A1","Bats LC","Brazil"
-"AB297654",0,18,1353,1335,2007,"Bats LC_A1","Bats LC","Brazil"
-"AF351844",0,0,1353,1353,2001,"Bats LC_A1","Bats LC","-"
-"AF351845",0,0,1353,1353,2001,"Bats LC_A1","Bats LC","-"
-"AF351846",0,0,1353,1353,2001,"Bats LC_A1","Bats LC","-"
-"AF394883",0,0,1353,1353,2002,"Bats LC_A1","Bats LC","United States"
-"AF394884",0,0,1353,1353,2002,"Bats LC_A1","Bats LC","United States"
-"GU644712",0,0,1353,1353,2005,"Bats LC_A1","Bats LC","United States"
-"GU644713",0,0,1353,1353,2005,"Bats LC_A1","Bats LC","United States"
-"GU644714",0,0,1353,1353,2005,"Bats LC_A1","Bats LC","United States"
-"GU644715",0,0,1353,1353,2005,"Bats LC_A1","Bats LC","United States"
-"GU644716",0,0,1353,1353,2005,"Bats LC_A1","Bats LC","United States"
-"GU644717",0,0,1353,1353,2004,"Bats LC_A1","Bats LC","United States"
-"GU644718",0,0,1353,1353,2004,"Bats LC_A1","Bats LC","United States"
-"GU644719",0,0,1353,1353,1998,"Bats LC_A1","Bats LC","United States"
-"GU644720",0,0,1353,1353,2004,"Bats LC_A1","Bats LC","United States"
-"GU644721",0,0,1353,1353,2005,"Bats LC_A1","Bats LC","United States"
-"GU644730",0,0,1353,1353,2005,"Bats LC_A1","Bats LC","United States"
-"GU992308",0,0,1353,1353,1991,"Bats LC_A1","Bats LC","United States"
-"HQ341794",0,0,1353,1353,2009,"Bats LC_A1","Bats LC","Chile"
-"HQ341795",0,0,1353,1353,2009,"Bats LC_A1","Bats LC","Chile"
-"HQ341797",0,0,1353,1353,2009,"Bats LC_A1","Bats LC","Chile"
-"KU963508",0,3,1353,1350,2016,"Bats LC_A1","Bats LC","-"
-"KY203128",0,3,1353,1350,2007,"Bats LC_A1","Bats LC","Canada"
-"MW055088",0,0,1353,1353,2017,"Bats LC_A1","Bats LC","United States"
-"AF351834",0,0,1353,1353,2001,"Bats LN_A1","Bats LN","-"
-"AF351840",0,0,1353,1353,2001,"Bats LN_A1","Bats LN","-"
-"AF352641",0,3,1353,1350,1990,"Bats LN_A1","Bats LN","Canada"
-"AF352642",0,3,1353,1350,1994,"Bats LN_A1","Bats LN","Canada"
-"AF394879",0,0,1353,1353,2002,"Bats LN_A1","Bats LN","United States"
-"AF394880",0,0,1353,1353,2002,"Bats LN_A1","Bats LN","United States"
-"GU644748",0,0,1353,1353,2005,"Bats LN_A1","Bats LN","United States"
-"KU963511",0,3,1353,1350,2016,"Bats LN_A1","Bats LN","-"
-"KY203041",0,3,1353,1350,1990,"Bats LN_A1","Bats LN","Canada"
-"KY203046",0,3,1353,1350,1994,"Bats LN_A1","Bats LN","Canada"
-"KY203048",0,3,1353,1350,1995,"Bats LN_A1","Bats LN","Canada"
-"KY203061",0,3,1353,1350,1999,"Bats LN_A1","Bats LN","Canada"
-"KY203070",0,3,1353,1350,2001,"Bats LN_A1","Bats LN","Canada"
-"KY203102",0,3,1353,1350,2005,"Bats LN_A1","Bats LN","Canada"
-"KY203107",0,3,1353,1350,2005,"Bats LN_A1","Bats LN","Canada"
-"KY203141",0,3,1353,1350,2009,"Bats LN_A1","Bats LN","Canada"
-"KY203152",0,3,1353,1350,2010,"Bats LN_A1","Bats LN","Canada"
-"KY203163",0,3,1353,1350,2012,"Bats LN_A1","Bats LN","Canada"
-"KY203171",0,3,1353,1350,2012,"Bats LN_A1","Bats LN","Canada"
-"KY203179",0,3,1353,1350,2014,"Bats LN_A1","Bats LN","Canada"
-"KY203183",0,3,1353,1350,2015,"Bats LN_A1","Bats LN","Canada"
-"MW055091",0,0,1353,1353,2017,"Bats LN_A1","Bats LN","United States"
-"AF351835",0,0,1353,1353,2001,"Bats MYsp_A1","Bats MYsp","-"
-"AF351836",0,0,1353,1353,2001,"Bats MYsp_A1.2","Bats MYsp","-"
-"AF351839",0,0,1353,1353,2001,"Bats MYsp_B1","Bats MYsp","-"
-"AF352651",0,3,1353,1350,1991,"Bats MYsp_A1","Bats MYsp","Canada"
-"AF352652",0,3,1353,1350,1991,"Bats MYsp_A1.3.1","Bats MYsp","Canada"
-"AF394871",0,0,1353,1353,2002,"Bat_B1","Bats MYsp","United States"
-"AF394873",0,0,1353,1353,2002,"Bat_D1","Bats MYsp","United States"
-"AF394874",0,0,1353,1353,2002,"Bat_D1","Bats MYsp","United States"
-"GU644744",0,0,1353,1353,2005,"Bat_D1","Bats MYsp","United States"
-"GU644745",0,0,1353,1353,2004,"Bats MYsp_A1","Bats MYsp","United States"
-"GU644746",0,0,1353,1353,2005,"Bat_D1","Bats MYsp","United States"
-"GU644747",0,0,1353,1353,2005,"Bats MYsp_A1","Bats MYsp","United States"
-"GU644749",0,0,1353,1353,2005,"Bat_D1","Bats MYsp","United States"
-"JQ686012",0,0,1353,1353,2006,"Bat_D1","Bats MYsp","United States"
-"JQ686013",0,0,1353,1353,2000,"Bat_D1","Bats MYsp","United States"
-"KU963512",0,3,1353,1350,2016,"Bats MYsp_A1","Bats MYsp","-"
-"KY203042",0,3,1353,1350,1993,"Bat_D1","Bats MYsp","Canada"
-"KY203052",0,3,1353,1350,1997,"Bat_D1","Bats MYsp","Canada"
-"KY203053",0,3,1353,1350,1997,"Bats MYsp_A1","Bats MYsp","Canada"
-"KY203054",0,3,1353,1350,1997,"Bats MYsp_A1","Bats MYsp","Canada"
-"KY203056",0,3,1353,1350,1998,"Bats MYsp_A1","Bats MYsp","Canada"
-"KY203057",0,3,1353,1350,1998,"Bats MYsp_A1","Bats MYsp","Canada"
-"KY203058",0,3,1353,1350,1999,"Bats MYsp_A1","Bats MYsp","Canada"
-"KY203059",0,3,1353,1350,1999,"Bats MYsp_A1","Bats MYsp","Canada"
-"KY203060",0,3,1353,1350,1999,"Bats MYsp_A1","Bats MYsp","Canada"
-"KY203064",0,3,1353,1350,2000,"Bats MYsp_A1","Bats MYsp","Canada"
-"KY203065",0,3,1353,1350,2000,"Bats MYsp_A1.3.1","Bats MYsp","Canada"
-"KY203068",0,3,1353,1350,2001,"Bats MYsp_A1","Bats MYsp","Canada"
-"KY203074",0,3,1353,1350,2002,"Bat_D1","Bats MYsp","Canada"
-"KY203075",0,3,1353,1350,2002,"Bats MYsp_A1","Bats MYsp","Canada"
-"KY203076",0,3,1353,1350,2002,"Bats MYsp_A1.3","Bats MYsp","Canada"
-"KY203077",0,3,1353,1350,2002,"Bats MYsp_A1","Bats MYsp","Canada"
-"KY203078",0,3,1353,1350,2002,"Bats MYsp_A1","Bats MYsp","Canada"
-"KY203082",0,3,1353,1350,2003,"Bats MYsp_A1","Bats MYsp","Canada"
-"KY203086",0,3,1353,1350,2003,"Bats MYsp_B1","Bats MYsp","Canada"
-"KY203087",0,3,1353,1350,2003,"Bats MYsp_A1","Bats MYsp","Canada"
-"KY203095",0,3,1353,1350,2004,"Bat_D1","Bats MYsp","Canada"
-"KY203096",0,3,1353,1350,2004,"Bat_D1","Bats MYsp","Canada"
-"KY203100",0,3,1353,1350,2005,"Bats MYsp_B1","Bats MYsp","Canada"
-"KY203101",0,3,1353,1350,2005,"Bats MYsp_A1.2","Bats MYsp","Canada"
-"KY203104",0,3,1353,1350,2005,"Bats MYsp_A1","Bats MYsp","Canada"
-"KY203106",0,3,1353,1350,2005,"Bat_D1","Bats MYsp","Canada"
-"KY203110",0,3,1353,1350,2006,"Bats MYsp_B1","Bats MYsp","Canada"
-"KY203111",0,3,1353,1350,2006,"Bats MYsp_B1","Bats MYsp","Canada"
-"KY203112",0,3,1353,1350,2006,"Bats MYsp_A1.3","Bats MYsp","Canada"
-"KY203116",0,3,1353,1350,2006,"Bat_D1","Bats MYsp","Canada"
-"KY203117",0,3,1353,1350,2006,"Bats_A1","Bats MYsp","Canada"
-"KY203124",0,3,1353,1350,2007,"Bats MYsp_A1.3.1","Bats MYsp","Canada"
-"KY203125",0,3,1353,1350,2007,"Bats MYsp_B1","Bats MYsp","Canada"
-"KY203126",0,3,1353,1350,2007,"Bats MYsp_A1.3.1","Bats MYsp","Canada"
-"KY203131",0,3,1353,1350,2007,"Bat_D1","Bats MYsp","Canada"
-"KY203134",0,3,1353,1350,2008,"Bats MYsp_A1.3.1","Bats MYsp","Canada"
-"KY203137",0,3,1353,1350,2008,"Bats MYsp_B1","Bats MYsp","Canada"
-"KY203138",0,3,1353,1350,2008,"Bats MYsp_B1","Bats MYsp","Canada"
-"KY203142",0,3,1353,1350,2009,"Bats MYsp_A1.3.1","Bats MYsp","Canada"
-"KY203143",0,3,1353,1350,2009,"Bats MYsp_A1","Bats MYsp","Canada"
-"KY203147",0,3,1353,1350,2010,"Bats MYsp_A1.3","Bats MYsp","Canada"
-"KY203148",0,3,1353,1350,2010,"Bats MYsp_A1.3.1","Bats MYsp","Canada"
-"KY203155",0,3,1353,1350,2011,"Bats MYsp_B1","Bats MYsp","Canada"
-"KY203156",0,3,1353,1350,2011,"Bats MYsp_A1","Bats MYsp","Canada"
-"KY203160",0,3,1353,1350,2011,"Bats_A1","Bats MYsp","Canada"
-"KY203165",0,3,1353,1350,2012,"Bats MYsp_A1.3.1","Bats MYsp","Canada"
-"KY203169",0,3,1353,1350,2012,"Bats MYsp_A1.3.1","Bats MYsp","Canada"
-"KY203173",0,3,1353,1350,2013,"Bats MYsp_A1.3.1","Bats MYsp","Canada"
-"KY203177",0,3,1353,1350,2014,"Bats MYsp_A1.3.1","Bats MYsp","Canada"
-"KY203181",0,3,1353,1350,2015,"Bat_D1","Bats MYsp","Canada"
-"MW055095",0,0,1353,1353,2017,"Bat_D1","Bats MYsp","United States"
-"MW055096",0,0,1353,1353,2017,"Bats MYsp_A1.3","Bats MYsp","United States"
-"MW055097",0,0,1353,1353,2017,"Bats MYsp_A1.3","Bats MYsp","United States"
-"AF351849",0,0,1353,1353,2001,"Bats TB1_A1.1","Bats TB1","-"
-"AF394875",0,0,1353,1353,2002,"Bats TB1_A1.1","Bats TB1","United States"
-"AF394876",0,0,1353,1353,2002,"Bats TB1_A1.1","Bats TB1","United States"
-"AY854588",0,0,1353,1353,2005,"Bats TB1_A1.1","Bats TB1","Mexico"
-"FJ228486",0,3,1353,1350,2007,"Bats TB1_A1.1","Bats TB1","United States"
-"FJ228487",0,3,1353,1350,2006,"Bats TB1_A1.1","Bats TB1","United States"
-"GU644646",0,0,1353,1353,2002,"Bats TB1_A1.1","Bats TB1","United States"
-"GU644760",0,0,1353,1353,2005,"Bats TB1_A1.1","Bats TB1","United States"
-"GU644761",0,0,1353,1353,2005,"Bats TB1_A1.1","Bats TB1","United States"
-"GU644762",0,0,1353,1353,2005,"Bats TB1_A1.1","Bats TB1","United States"
-"GU644763",0,0,1353,1353,2005,"Bats TB1_A1.1","Bats TB1","United States"
-"GU644764",0,0,1353,1353,2005,"Bats TB1_A1.1","Bats TB1","United States"
-"GU644765",0,0,1353,1353,2002,"Bats TB1_A1.1","Bats TB1","United States"
-"GU644766",0,0,1353,1353,2003,"Bats TB1_A1.1","Bats TB1","United States"
-"GU644767",0,0,1353,1353,2003,"Bats TB1_A1.1","Bats TB1","United States"
-"GU644768",0,0,1353,1353,2003,"Bats TB1_A1.1","Bats TB1","United States"
-"GU644770",0,0,1353,1353,2003,"Bats TB1_A1.1","Bats TB1","United States"
-"GU644771",0,0,1353,1353,2003,"Bats TB1_A1.1","Bats TB1","United States"
-"GU644772",0,0,1353,1353,2003,"Bats TB1_A1.1","Bats TB1","United States"
-"GU644773",0,0,1353,1353,2003,"Bats TB1_A1.1","Bats TB1","United States"
-"GU644774",0,0,1353,1353,2003,"Bats TB1_A1.1","Bats TB1","United States"
-"GU644776",0,0,1353,1353,2004,"Bats TB1_A1.1","Bats TB1","United States"
-"GU644777",0,0,1353,1353,2004,"Bats TB1_A1.1","Bats TB1","United States"
-"GU644778",0,0,1353,1353,2004,"Bats TB1_A1.1","Bats TB1","United States"
-"GU644779",0,0,1353,1353,2004,"Bats TB1_A1.1","Bats TB1","United States"
-"GU644780",0,0,1353,1353,2004,"Bats TB1_A1.1","Bats TB1","United States"
-"GU644781",0,0,1353,1353,2004,"Bats TB1_A1.1","Bats TB1","United States"
-"GU644782",0,0,1353,1353,2004,"Bats TB1_A1.1","Bats TB1","United States"
-"GU644783",0,0,1353,1353,2004,"Bats TB1_A1.1","Bats TB1","United States"
-"GU644784",0,0,1353,1353,2003,"Bats TB1_A1.1","Bats TB1","United States"
-"GU644785",0,0,1353,1353,2003,"Bats TB1_A1.1","Bats TB1","United States"
-"GU644786",0,0,1353,1353,2003,"Bats TB1_A1.1","Bats TB1","United States"
-"GU644787",0,0,1353,1353,2003,"Bats TB1_A1.1","Bats TB1","United States"
-"GU644788",0,0,1353,1353,2004,"Bats TB1_A1.1","Bats TB1","United States"
-"GU991830",0,3,1353,1350,1999,"Bats TB1_A1.1","Bats TB1","Mexico"
-"GU991831",0,3,1353,1350,2007,"Bats TB1_A1.1","Bats TB1","United States"
-"GU991832",0,3,1353,1350,2009,"Bats TB1_A1.1","Bats TB1","United States"
-"GU991833",0,3,1353,1350,2005,"Bats TB1_A1.1","Bats TB1","Mexico"
-"GU991834",0,3,1353,1350,2008,"Bats TB1_A1","Bats TB1","Mexico"
-"KJ001526",0,11,1353,1342,2007,"Bats TB1_A1","Bats TB1","Mexico"
-"MW055099",0,0,1353,1353,2017,"Bats TB1_A1.1","Bats TB1","United States"
-"MW055100",0,0,1353,1353,2017,"Bats TB1_A1.1","Bats TB1","United States"
-"MW055101",0,0,1353,1353,2017,"Bats TB1_A1.1","Bats TB1","United States"
-"KM594023",0,56,NA,NA,2008,"Bat_C1","Bats",NA
-"KM594024",0,53,NA,NA,2012,"Bat_C1","Bats",NA
-"KM594025",0,60,NA,NA,2007,"Bat_C1","Bats",NA
-"KM594030",0,45,NA,NA,2010,"Bat_D1","Bats",NA
-"KM594031",0,47,NA,NA,2010,"Bat_D1","Bats",NA
-"KM594032",0,44,NA,NA,2010,"Bat_D1","Bats",NA
-"JQ685971",0,0,NA,NA,2009,"Bat_D1","Bats AP",NA
-"AB519641",0,23,NA,NA,2011,"Bat_B1.1","Bats DR",NA
-"AB519642",0,25,NA,NA,2011,"Bat_B1.1","Bats DR",NA
-"EU293113",0,24,NA,NA,1990,"Bat_B1.1","Bats DR",NA
-"JQ685936",0,65,NA,NA,2009,"Bat_B1.1","Bats DR",NA
-"JQ685953",0,23,NA,NA,2009,"Bat_B1.1","Bats DR",NA
-"KM594040",0,66,NA,NA,2013,"Bat_B1.1","Bats DR",NA
-"KM594041",0,68,NA,NA,2013,"Bat_B1.1","Bats DR",NA
-"KM594042",0,66,NA,NA,2013,"Bat_B1.1","Bats DR",NA
-"KM594043",0,68,NA,NA,2012,"Bat_B1.1","Bats DR",NA
-"KU523255",0,25,NA,NA,2010,"Bat_B1.1","Bats DR",NA
-"KX148100",0,25,NA,NA,2009,"Bat_B1.1","Bats DR",NA
-"KX148109",0,23,NA,NA,1986,"Bat_B1.1","Bats DR",NA
-"KX148268",0,145,NA,NA,1990,"Bat_B1.1","Bats DR",NA
-"MG458314",0,24,NA,NA,1997,"Bat_B1.1","Bats DR",NA
-"JQ685920",0,0,NA,NA,1984,"Bat_D1","Bats EF-E1",NA
-"JQ685925",0,0,NA,NA,2004,"Bat_D1","Bats EF-E2",NA
-"JQ685892",0,94,NA,NA,2009,"Bats EF-W1_A1.2","Bats EF-W1",NA
-"JQ685893",0,0,NA,NA,2001,"Bats EF-W1_B1","Bats EF-W1",NA
-"JQ685896",0,101,NA,NA,2009,"Bats EF-W1_A1.2","Bats EF-W1",NA
-"JQ685897",0,0,NA,NA,2001,"Bats EF-W1_A1.1","Bats EF-W1",NA
-"JQ685898",0,0,NA,NA,2009,"Bats EF-W1_A1.2","Bats EF-W1",NA
-"JQ685904",0,0,NA,NA,2001,"Bats EF-W1_B1","Bats EF-W1",NA
-"JQ685906",0,101,NA,NA,2001,"Bats EF-W1_B1","Bats EF-W1",NA
-"JQ685907",0,0,NA,NA,1996,"Bats EF-W1_A1","Bats EF-W1",NA
-"JQ685908",0,101,NA,NA,2009,"Bats EF-W1_A1.2","Bats EF-W1",NA
-"JQ685909",0,0,NA,NA,2005,"Bats EF-W1_A1.1","Bats EF-W1",NA
-"JQ685911",0,0,NA,NA,2001,"Bats EF-W1_A1.1.1","Bats EF-W1",NA
-"JQ685912",0,92,NA,NA,2009,"Bats EF-W1_A1.2","Bats EF-W1",NA
-"JQ685913",0,0,NA,NA,1985,"Bats EF-W1_A1","Bats EF-W1",NA
-"JQ685917",0,0,NA,NA,2010,"Bats EF-W1_A1.1","Bats EF-W1",NA
-"JQ685923",0,0,NA,NA,1999,"Bats EF-W1_B1","Bats EF-W1",NA
-"JQ685926",0,98,NA,NA,2005,"Bats EF-W1_A1.1.1","Bats EF-W1",NA
-"JQ685927",0,116,NA,NA,2001,"Bats EF-W1_B1","Bats EF-W1",NA
-"JQ685928",0,101,NA,NA,2009,"Bats EF-W1_A1.2","Bats EF-W1",NA
-"JQ685930",0,114,NA,NA,2001,"Bats EF-W1_A1.1.1","Bats EF-W1",NA
-"JQ685932",0,0,NA,NA,2001,"Bats EF-W1_B1","Bats EF-W1",NA
-"JQ685933",0,0,NA,NA,2004,"Bats EF-W1_A1.1","Bats EF-W1",NA
-"JQ685934",0,0,NA,NA,2009,"Bats EF-W1_A1.2","Bats EF-W1",NA
-"JQ685935",0,101,NA,NA,2001,"Bats EF-W1_B1","Bats EF-W1",NA
-"JQ685937",0,120,NA,NA,2009,"Bats EF-W1_A1.2","Bats EF-W1",NA
-"JQ685939",0,88,NA,NA,2009,"Bats EF-W1_A1.2","Bats EF-W1",NA
-"JQ685940",0,0,NA,NA,2001,"Bats EF-W1_A1.1.1","Bats EF-W1",NA
-"JQ685941",0,0,NA,NA,2005,"Bats EF-W1_A1.2","Bats EF-W1",NA
-"JQ685945",0,0,NA,NA,2005,"Bats EF-W1_A1.1","Bats EF-W1",NA
-"JQ685946",0,0,NA,NA,1999,"Bats EF-W1_A1","Bats EF-W1",NA
-"JQ685949",0,116,NA,NA,2001,"Bats EF-W1_B1","Bats EF-W1",NA
-"JQ685950",0,0,NA,NA,2009,"Bats EF-W1_A1.1","Bats EF-W1",NA
-"JQ685951",0,101,NA,NA,2010,"Bats EF-W1_A1","Bats EF-W1",NA
-"JQ685956",0,0,NA,NA,1975,"Bats EF-W1_A1.1","Bats EF-W1",NA
-"JQ685958",0,0,NA,NA,2001,"Bats EF-W1_B1","Bats EF-W1",NA
-"JQ685959",0,0,NA,NA,2001,"Bats EF-W1_A1.1.1","Bats EF-W1",NA
-"JQ685960",0,0,NA,NA,2001,"Bats EF-W1_A1.1","Bats EF-W1",NA
-"JQ685961",0,0,NA,NA,2010,"Bats EF-W1_A1.1","Bats EF-W1",NA
-"JQ685962",0,0,NA,NA,2001,"Bats EF-W1_A1.1.1","Bats EF-W1",NA
-"JQ685964",0,0,NA,NA,2004,"Bats EF-W1_A1.2","Bats EF-W1",NA
-"JQ685966",0,0,NA,NA,2001,"Bats EF-W1_B1","Bats EF-W1",NA
-"JQ685969",0,0,NA,NA,2001,"Bats EF-W1_A1.1.1","Bats EF-W1",NA
-"JQ685972",0,101,NA,NA,2009,"Bats EF-W1_A1.2","Bats EF-W1",NA
-"JQ685974",0,0,NA,NA,1995,"Bats EF-W1_A1.2","Bats EF-W1",NA
-"JQ685976",0,120,NA,NA,2009,"Bats EF-W1_A1.2","Bats EF-W1",NA
-"MG458304",0,0,NA,NA,1975,"Bats EF-W1_A1.1","Bats EF-W1",NA
-"JQ685903",0,0,NA,NA,2004,"Bat_A1","Bats EF-W2",NA
-"JQ685914",0,105,NA,NA,2010,"Bat_A1","Bats EF-W2",NA
-"JQ685924",0,105,NA,NA,2010,"Bat_A1","Bats EF-W2",NA
-"JQ685931",0,0,NA,NA,2000,"Bat_A1","Bats EF-W2",NA
-"JQ685942",0,0,NA,NA,1981,"Bat_A1","Bats EF-W2",NA
-"JQ685948",0,0,NA,NA,2010,"Bat_A1","Bats EF-W2",NA
-"JQ685973",0,0,NA,NA,2011,"Bat_A1","Bats EF-W2",NA
-"JQ685977",0,104,NA,NA,2010,"Bat_A1","Bats EF-W2",NA
-"JQ685919",0,0,NA,NA,2005,"Bat_C1","Bats LB1",NA
-"JQ685902",0,0,NA,NA,2005,"Bat_C1","Bats LB2",NA
-"AB608731",0,0,NA,NA,2012,"Bat_C1","Bats LC",NA
-"JQ685947",0,0,NA,NA,2004,"Bat_C1","Bats LC",NA
-"JQ685915",0,3,NA,NA,2002,"Bat_C1","Bats LI",NA
-"JQ685916",0,2,NA,NA,2002,"Bat_C1","Bats LI",NA
-"JQ685895",0,1,NA,NA,2003,"Bat_C1","Bats LN",NA
-"JQ685900",0,0,NA,NA,2003,"Bat_C1","Bats LS",NA
-"JQ685910",0,0,NA,NA,2002,"Bat_C1","Bats LX",NA
-"JQ685918",0,0,NA,NA,2010,"Bat_D1","Bats MYsp",NA
-"JQ685957",0,1,NA,NA,2009,"Bat_D1","Bats MYsp",NA
-"JQ685921",0,14,NA,NA,2001,"Bat_D1","Bats PH",NA
-"JQ685952",0,0,NA,NA,2002,"Bat_D1","Bats PH",NA
-"JQ685965",0,0,NA,NA,2002,"Bat_D1","Bats PH",NA
-"AY705373",0,1,NA,NA,2004,"Bat_C1","Bats PS",NA
-"JQ685922",0,1,NA,NA,2005,"Bat_C1","Bats PS",NA
-"JQ685905",0,0,NA,NA,2003,"Bat_B1.1","Bats TB1",NA
-"JQ685963",0,0,NA,NA,2009,"Bat_B1.1","Bats TB1",NA
-"EU293116",0,0,NA,NA,1997,"Bat_B1","Bats TB2",NA
-"KM594037",0,43,NA,NA,2009,"Bat_B1","Bats TB2",NA
-"KM594038",0,43,NA,NA,2010,"Bat_B1","Bats TB2",NA
-"KX148269",0,121,NA,NA,1997,"Bat_B1","Bats TB2",NA
-"MG458305",0,0,NA,NA,2018,"Bat_B1","Bats TB2",NA
+ID,N,gap,Length_before,Length_after,Year,cluster,previous,Country
+AB083803,0,18,1353,1335,2002,Bats DR_A1.1.2,Bats DR,Brazil
+AB083804,0,18,1353,1335,2002,Bats DR_A1.1.13,Bats DR,Brazil
+AB083805,0,18,1353,1335,2002,Bats DR_A1.1.13,Bats DR,Brazil
+AB083806,0,18,1353,1335,2002,Bats DR_A1.1,Bats DR,Brazil
+AB083807,0,18,1353,1335,2002,Bats DR_A1.1,Bats DR,Brazil
+AB083809,0,18,1353,1335,2002,Bats DR_A1.1.7,Bats DR,Brazil
+AB083810,0,18,1353,1335,2002,Bats DR_A1.1.7,Bats DR,Brazil
+AB083811,0,18,1353,1335,2002,Bats DR_A1.1.7,Bats DR,Brazil
+AB083812,0,18,1353,1335,2002,Bats DR_A1.1.13,Bats DR,Brazil
+AB083813,0,18,1353,1335,2002,Bats DR_I1,Bats DR,Brazil
+AB083814,0,18,1353,1335,2002,Bats DR_I1,Bats DR,Brazil
+AB083815,0,18,1353,1335,2002,Bats DR_A1.1.4,Bats DR,Brazil
+AB083816,0,18,1353,1335,2002,Bats DR_A1.1.4,Bats DR,Brazil
+AB083817,0,18,1353,1335,2002,Bats DR_A1.1.13,Bats DR,Brazil
+AB083818,0,18,1353,1335,2002,Bats DR_A1.1.13,Bats DR,Brazil
+AB117969,0,0,1353,1353,2004,Bats DR_A1.1.13,Bats DR,Brazil
+AB117970,0,0,1353,1353,2004,Bats DR_A1.1.13,Bats DR,Brazil
+AB117971,0,0,1353,1353,2004,Bats DR_A1.1.13,Bats DR,Brazil
+AB117972,0,0,1353,1353,2004,Bats DR_A1.1.13,Bats DR,Brazil
+AB201802,0,18,1353,1335,2005,Bat_B1.1,Bats DR,Brazil
+AB201803,0,18,1353,1335,2005,Bats DR_A1.1,Bats DR,Brazil
+AB201804,0,18,1353,1335,2005,Bats DR_A1.1,Bats DR,Brazil
+AB201805,0,18,1353,1335,2005,Bats DR_K1,Bats DR,Brazil
+AB201807,0,18,1353,1335,2005,Bats_A1,Bats,Brazil
+AB201809,0,18,1353,1335,2005,Bats_A1,Bats,Brazil
+AB201810,0,18,1353,1335,2005,Bats DR_A1.1.13,Bats DR,Brazil
+AB201811,0,18,1353,1335,2005,Bats_A1,Bats,Brazil
+AB201812,0,18,1353,1335,2005,Bats_A1,Bats,Brazil
+AB201813,0,18,1353,1335,2005,Bats_A1,Bats,Brazil
+AB201814,0,18,1353,1335,2005,Bats_A1,Bats,Brazil
+AB201817,0,18,1353,1335,2005,Bats DR_A1.1.13,Bats DR,Brazil
+AB201820,0,18,1353,1335,2005,Bats DR_A1.1.7,Bats DR,Brazil
+AB263325,0,21,1353,1332,2007,Bats DR_A1.1.13,Bats DR,Brazil
+AB263333,0,21,1353,1332,2007,Bats DR_A1.1.13,Bats DR,Brazil
+AB297627,0,18,1353,1335,2007,Bats DR_A1.1.13,Bats DR,Brazil
+AB297628,0,18,1353,1335,2007,Bats DR_A1.1.13,Bats DR,Brazil
+AB297629,0,18,1353,1335,2007,Bats DR_A1.1.13,Bats DR,Brazil
+AB297631,0,18,1353,1335,2007,Bats DR_H1,Bats DR,Brazil
+AB297632,0,18,1353,1335,2007,Bats DR_A1.1,Bats DR,Brazil
+AB297633,0,18,1353,1335,2007,Bats DR_H1,Bats DR,Brazil
+AB297635,0,18,1353,1335,2007,Bats DR_A1.1,Bats DR,Brazil
+AB297636,0,18,1353,1335,2007,Bats DR_A1.1.4,Bats DR,Brazil
+AB297639,0,18,1353,1335,2007,Bats DR_A1.1.7,Bats DR,Brazil
+AB297640,0,18,1353,1335,2007,Bats DR_A1.1.7,Bats DR,Brazil
+AB297641,0,18,1353,1335,2007,Bats DR_A1.1.7,Bats DR,Brazil
+AB297642,0,18,1353,1335,2007,Bats DR_A1.1.7,Bats DR,Brazil
+AB297643,0,18,1353,1335,2007,Bats DR_A1.1.7,Bats DR,Brazil
+AB297644,0,18,1353,1335,2007,Bats DR_A1.1.7,Bats DR,Brazil
+AB297646,0,18,1353,1335,2007,Bats DR_A1.1.7,Bats DR,Brazil
+AB297650,0,18,1353,1335,2007,Bats_A1,Bats,Brazil
+AB297652,0,18,1353,1335,2007,Bats LC_A1,Bats LC,Brazil
+AB297653,0,18,1353,1335,2007,Bats LC_A1,Bats LC,Brazil
+AB297654,0,18,1353,1335,2007,Bats LC_A1,Bats LC,Brazil
+AB297655,0,18,1353,1335,2007,Bats_A1,Bats,Brazil
+AB297657,0,18,1353,1335,2007,Bats_A1,Bats,Brazil
+AB297658,0,18,1353,1335,2007,Bats_A1,Bats,Brazil
+AB297659,0,18,1353,1335,2007,Bats_A1,Bats,Brazil
+AB519641,0,23,NA,NA,2011,Bat_B1.1,Bats DR,Brazil
+AB519642,0,25,NA,NA,2011,Bat_B1.1,Bats DR,Brazil
+AB608731,0,0,NA,NA,2012,Bat_C1,Bats LC,Brazil
+AB685222,0,0,1353,1353,2013,Bats DR_A1.1.13,Bats DR,Brazil
+AB685223,0,0,1353,1353,2013,Bats DR_A1.1.13,Bats DR,Brazil
+AB685224,0,0,1353,1353,2013,Bats DR_A1.1.13,Bats DR,Brazil
+AB685225,0,0,1353,1353,2013,Bats DR_A1.1.13,Bats DR,Brazil
+AB685226,0,0,1353,1353,2013,Bats DR_A1.1.13,Bats DR,Brazil
+AB685228,0,0,1353,1353,2013,Bats DR_A1.1.13,Bats DR,Brazil
+AB685229,0,0,1353,1353,2013,Bats DR_A1.1.13,Bats DR,Brazil
+AB685230,0,0,1353,1353,2013,Bats DR_A1.1.13,Bats DR,Brazil
+AB685231,0,0,1353,1353,2013,Bats DR_A1.1.13,Bats DR,Brazil
+AB685232,0,0,1353,1353,2013,Bats DR_A1.1.13,Bats DR,Brazil
+AB685233,0,0,1353,1353,2013,Bats DR_A1.1.13,Bats DR,Brazil
+AB685234,0,0,1353,1353,2013,Bats DR_A1.1.13,Bats DR,Brazil
+AB685235,0,0,1353,1353,2013,Bats DR_A1.1.13,Bats DR,Brazil
+AB685236,0,0,1353,1353,2013,Bats DR_A1.1.13,Bats DR,Brazil
+AB685237,0,0,1353,1353,2013,Bats DR_A1.1.13,Bats DR,Brazil
+AB685238,0,0,1353,1353,2013,Bats DR_A1.1.13,Bats DR,Brazil
+AB685239,0,0,1353,1353,2013,Bats DR_A1.1.13,Bats DR,Brazil
+AB685240,0,0,1353,1353,2013,Bats DR_A1.1.13,Bats DR,Brazil
+AB685241,0,0,1353,1353,2013,Bats DR_A1.1.13,Bats DR,Brazil
+AB685242,0,0,1353,1353,2013,Bats DR_A1.1.13,Bats DR,Brazil
+AB685243,0,0,1353,1353,2013,Bats DR_A1.1.13,Bats DR,Brazil
+AB685244,0,0,1353,1353,2013,Bats DR_A1.1.13,Bats DR,Brazil
+AB685245,0,0,1353,1353,2013,Bats DR_A1.1.13,Bats DR,Brazil
+AB685246,0,0,1353,1353,2013,Bats DR_A1.1.13,Bats DR,Brazil
+AB685247,0,0,1353,1353,2013,Bats DR_A1.1.13,Bats DR,Brazil
+AF045166,0,0,1353,1353,2000,Bats DR_A1.1.13,Bats DR,Peru
+AF070449,0,0,1353,1353,2000,Bats DR_A1.1.13,Bats DR,Brazil
+AF351827,0,0,1353,1353,2001,Bats EF-E1_A1,Bats EF-E1,-
+AF351829,0,0,1353,1353,2001,Bats EF-E1_A1,Bats EF-E1,-
+AF351832,0,0,1353,1353,2001,Bats EF-E2_A1,Bats EF-E2,-
+AF351834,0,0,1353,1353,2001,Bats LN_A1,Bats LN,-
+AF351835,0,0,1353,1353,2001,Bats MYsp_A1,Bats MYsp,-
+AF351836,0,0,1353,1353,2001,Bats MYsp_A1.2,Bats MYsp,-
+AF351837,0,0,1353,1353,2001,Bats LN_A1,Bats,-
+AF351839,0,0,1353,1353,2001,Bats MYsp_A1,Bats MYsp,-
+AF351840,0,0,1353,1353,2001,Bats LN_A1,Bats LN,-
+AF351841,0,0,1353,1353,2001,Bats LN_A1,Bats,-
+AF351844,0,0,1353,1353,2001,Bats LC_A1,Bats LC,-
+AF351845,0,0,1353,1353,2001,Bats LC_A1,Bats LC,-
+AF351846,0,0,1353,1353,2001,Bats LC_A1,Bats LC,-
+AF351849,0,0,1353,1353,2001,Bats TB1_A1.1,Bats TB1,-
+AF351852,0,0,1353,1353,2001,Bats DR_A1.1.10,Bats DR,-
+AF351853,0,0,1353,1353,2001,Bats EF-E1_A1,Bats EF-E1,-
+AF351854,0,0,1353,1353,2001,Bats EF-E1_A1,Bats EF-E1,-
+AF351857,0,0,1353,1353,2001,Bats LB2_A1,Bats LB2,-
+AF351860,0,0,1353,1353,2001,Bats EF-E1_A1,Bats EF-E1,-
+AF351861,0,0,1353,1353,2001,Bats EF-E2_A1,Bats EF-E2,-
+AF351862,0,0,1353,1353,2001,Bats EF-E2_A1.2,Bats EF-E2,-
+AF352641,0,3,1353,1350,1990,Bats LN_A1,Bats LN,Canada
+AF352642,0,3,1353,1350,1994,Bats LN_A1,Bats LN,Canada
+AF352650,0,3,1353,1350,1989,Bats EF-W2_A1,Bats EF-W2,Canada
+AF352651,0,3,1353,1350,1991,Bats MYsp_A1,Bats MYsp,Canada
+AF352652,0,3,1353,1350,1991,Bats MYsp_A1.3.1,Bats MYsp,Canada
+AF394868,0,0,1353,1353,2002,Bat_B1,Bats,United States
+AF394871,0,0,1353,1353,2002,Bat_B1,Bats MYsp,United States
+AF394873,0,0,1353,1353,2002,Bat_D1,Bats MYsp,United States
+AF394874,0,0,1353,1353,2002,Bat_D1,Bats MYsp,United States
+AF394875,0,0,1353,1353,2002,Bats TB1_A1.1,Bats TB1,United States
+AF394876,0,0,1353,1353,2002,Bats TB1_A1.1,Bats TB1,United States
+AF394879,0,0,1353,1353,2002,Bats LN_A1,Bats LN,United States
+AF394880,0,0,1353,1353,2002,Bats LN_A1,Bats LN,United States
+AF394883,0,0,1353,1353,2002,Bats LC_A1,Bats LC,United States
+AF394884,0,0,1353,1353,2002,Bats LC_A1,Bats LC,United States
+AF394887,0,0,1353,1353,2002,Bats EF-W2_A1.1,Bats EF-W2,United States
+AF394888,0,0,1353,1353,2002,Bats EF-W1_A1,Bats EF-W1,United States
+AY039224,0,0,1353,1353,2002,Bats LB2_A1,Bats LB2,United States
+AY039226,0,0,1353,1353,2002,Bats EF-E1_A1,Bats EF-E1,United States
+AY039227,0,0,1353,1353,2002,Bats EF-E2_A1,Bats EF-E2,United States
+AY039228,0,0,1353,1353,2002,Bats EF-E2_A1.2,Bats EF-E2,United States
+AY170397,0,0,1353,1353,2003,Bats EF-W1_A1,Bats EF-W1,United States
+AY170398,0,0,1353,1353,2003,Bats EF-W1_A1,Bats EF-W1,United States
+AY170399,0,0,1353,1353,2003,Bats EF-W1_A1,Bats EF-W1,United States
+AY170400,0,0,1353,1353,2003,Bats EF-W1_A1.2,Bats EF-W1,United States
+AY170401,0,0,1353,1353,2003,Bats EF-W1_A1.2,Bats EF-W1,United States
+AY170402,0,0,1353,1353,2003,Bats EF-W1_A1.2,Bats EF-W1,United States
+AY170403,0,0,1353,1353,2003,Bats EF-W1_A1.2,Bats EF-W1,United States
+AY170404,0,0,1353,1353,2003,Bats EF-W1_A1.2,Bats EF-W1,United States
+AY170405,0,0,1353,1353,2003,Bats EF-W1_A1.2,Bats EF-W1,United States
+AY170406,0,0,1353,1353,2003,Bats EF-W1_A1.2,Bats EF-W1,United States
+AY170407,0,0,1353,1353,2003,Bats EF-W1_A1.2,Bats EF-W1,United States
+AY170408,0,0,1353,1353,2003,Bats EF-W1_A1.2,Bats EF-W1,United States
+AY170409,0,0,1353,1353,2003,Bats EF-W1_A1.2,Bats EF-W1,United States
+AY170410,0,0,1353,1353,2003,Bats EF-W1_A1.2,Bats EF-W1,United States
+AY170411,0,0,1353,1353,2003,Bats EF-W1_A1.2,Bats EF-W1,United States
+AY170412,0,0,1353,1353,2003,Bats EF-W1_A1,Bats EF-W1,United States
+AY170413,0,0,1353,1353,2003,Bats EF-W1_A1,Bats EF-W1,United States
+AY170414,0,0,1353,1353,2003,Bats EF-W1_A1,Bats EF-W1,United States
+AY170415,0,0,1353,1353,2003,Bats EF-W1_A1,Bats EF-W1,United States
+AY170416,0,0,1353,1353,2003,Bats EF-W1_A1,Bats EF-W1,United States
+AY705373,0,1,NA,NA,2004,Bat_C1,Bats PS,-
+AY854587,0,0,1353,1353,2005,Bats DR_A1,Bats DR,Mexico
+AY854588,0,0,1353,1353,2005,Bats TB1_A1.1,Bats TB1,Mexico
+AY854592,0,0,1353,1353,2005,Bats DR_A1.2,Bats DR,Mexico
+AY854594,0,0,1353,1353,2005,Bats DR_A1.2,Bats DR,Mexico
+AY854595,2,0,1353,1351,2005,Bats DR_A1.2,Bats DR,Mexico
+AY877435,0,0,1353,1353,2005,Bats DR_A1.2,Bats DR,-
+EF363727,0,34,1353,1319,2007,Bats DR_A1.1.10,Bats DR,Ecuador
+EF363728,0,34,1353,1319,2007,Bats DR_A1.1.10,Bats DR,Ecuador
+EF363732,0,34,1353,1319,2007,Bats DR_A1.1.12,Bats DR,Brazil
+EF363733,0,34,1353,1319,2007,Bats DR_A1.1.12,Bats DR,Brazil
+EF363734,0,34,1353,1319,2007,Bats DR_A1.1.12,Bats DR,Brazil
+EF363736,0,34,1353,1319,2007,Bats DR_A1.1.12,Bats DR,Brazil
+EF363737,0,34,1353,1319,2007,Bats DR_A1.1.12,Bats DR,Brazil
+EF363739,0,34,1353,1319,2007,Bats DR_A1.1.12,Bats DR,Brazil
+EF363741,0,34,1353,1319,2007,Bats DR_A1.1.12,Bats DR,Brazil
+EF363745,0,34,1353,1319,2007,Bats DR_A1.1.1,Bats DR,Brazil
+EF363749,0,34,1353,1319,2007,Bats DR_A1.1.12,Bats DR,Brazil
+EF363750,0,34,1353,1319,2007,Bats DR_A1.1.12,Bats DR,Brazil
+EF363751,0,34,1353,1319,2007,Bats DR_A1.1.12,Bats DR,Brazil
+EF363752,0,34,1353,1319,2007,Bats DR_A1.1.12,Bats DR,Brazil
+EF363753,0,34,1353,1319,2007,Bats DR_A1.1.12,Bats DR,Brazil
+EF363754,0,34,1353,1319,2007,Bats DR_A1.1.12,Bats DR,Brazil
+EF363755,0,34,1353,1319,2007,Bats DR_A1.1.12,Bats DR,Brazil
+EF363756,0,34,1353,1319,2007,Bats DR_A1.1.12,Bats DR,Brazil
+EF363757,0,34,1353,1319,2007,Bats DR_A1.1.12,Bats DR,Brazil
+EF428576,0,30,1353,1323,2007,Bats DR_H1,Bats DR,Brazil
+EF428577,0,30,1353,1323,2007,Bats DR_H1,Bats DR,Brazil
+EF428578,0,30,1353,1323,2007,Bats DR_H1,Bats DR,Brazil
+EF428579,0,30,1353,1323,2007,Bats DR_H1,Bats DR,Brazil
+EF428580,0,30,1353,1323,2007,Bats DR_H1,Bats DR,Brazil
+EF428581,0,30,1353,1323,2007,Bats DR_H1,Bats DR,Brazil
+EF428582,0,30,1353,1323,2007,Bats DR_H1,Bats DR,Brazil
+EU293113,0,24,NA,NA,1990,Bat_B1.1,Bats DR,Guyana
+EU293116,0,0,NA,NA,1997,Bat_B1,Bats TB2,Argentina
+EU981917,0,35,1353,1318,2008,Bats DR_A1.1.2,Bats DR,Uruguay
+EU981918,0,35,1353,1318,2008,Bats DR_A1.1.2,Bats DR,Uruguay
+EU981919,0,35,1353,1318,2008,Bats DR_A1.1.2,Bats DR,Uruguay
+EU981921,0,35,1353,1318,2008,Bats DR_A1.1.2,Bats DR,Uruguay
+EU981922,0,36,1353,1317,2008,Bats_A1,Bats,Uruguay
+EU981923,0,35,1353,1318,2008,Bats DR_A1.1.2,Bats DR,Uruguay
+EU981925,0,35,1353,1318,2008,Bats DR_A1.1.2,Bats DR,Uruguay
+EU981926,0,35,1353,1318,2008,Bats DR_A1.1.2,Bats DR,Uruguay
+EU981927,0,35,1353,1318,2008,Bats DR_A1.1.2,Bats DR,Uruguay
+EU981928,0,35,1353,1318,2008,Bats DR_A1.1.2,Bats DR,Uruguay
+EU981930,0,35,1353,1318,2007,Bats DR_A1.1.2,Bats DR,Uruguay
+EU981931,0,35,1353,1318,2007,Bats DR_A1.1.2,Bats DR,Uruguay
+FJ228486,0,3,1353,1350,2007,Bats TB1_A1.1,Bats TB1,United States
+FJ228487,0,3,1353,1350,2006,Bats TB1_A1.1,Bats TB1,United States
+FJ228488,0,3,1353,1350,2004,Bats DR_A1.2.1,Bats DR,Mexico
+FJ228490,0,3,1353,1350,2003,Bats DR_A1.2,Bats DR,Mexico
+FJ649043,0,33,1353,1320,2009,Bats DR_A1.1.11,Bats DR,Brazil
+FJ649044,0,33,1353,1320,2009,Bats DR_A1.1.11,Bats DR,Brazil
+FJ649046,0,33,1353,1320,2009,Bats DR_A1.1.13,Bats DR,Brazil
+FJ649047,0,33,1353,1320,2009,Bats DR_A1.1,Bats DR,Brazil
+FJ649049,0,33,1353,1320,2009,Bats DR_A1.1,Bats DR,Brazil
+FJ649051,0,33,1353,1320,2009,Bats DR_A1.1,Bats DR,Brazil
+FJ649054,0,33,1353,1320,2009,Bats DR_A1.1,Bats DR,Brazil
+FJ649055,0,33,1353,1320,2009,Bats DR_A1.1,Bats DR,Brazil
+FJ649056,0,33,1353,1320,2009,Bats DR_A1.1,Bats DR,Brazil
+FJ649057,0,33,1353,1320,2009,Bats DR_A1.1,Bats DR,Brazil
+FJ649058,0,33,1353,1320,2009,Bats DR_A1.1,Bats DR,Brazil
+FJ649059,0,33,1353,1320,2009,Bats DR_A1.1.13,Bats DR,Brazil
+FJ649060,0,33,1353,1320,2009,Bats DR_A1.1,Bats DR,Brazil
+FJ649061,0,33,1353,1320,2009,Bats DR_A1.1,Bats DR,Brazil
+FJ649062,0,33,1353,1320,2009,Bats DR_A1.1.13,Bats DR,Brazil
+FJ649063,0,33,1353,1320,2009,Bats DR_A1.1,Bats DR,Brazil
+FJ649064,0,33,1353,1320,2009,Bats DR_A1.1.13,Bats DR,Brazil
+FJ649065,0,33,1353,1320,2009,Bats DR_A1.1,Bats DR,Brazil
+FJ649067,0,33,1353,1320,2009,Bats DR_A1.1,Bats DR,Brazil
+FJ649068,0,33,1353,1320,2009,Bats DR_A1.1,Bats DR,Brazil
+FJ649069,0,33,1353,1320,2009,Bats DR_A1.1,Bats DR,Brazil
+FJ649070,0,33,1353,1320,2009,Bats DR_A1.1,Bats DR,Brazil
+FJ649071,0,33,1353,1320,2009,Bats DR_A1.1,Bats DR,Brazil
+FJ649073,0,33,1353,1320,2009,Bats DR_A1.1,Bats DR,Brazil
+FJ649074,0,33,1353,1320,2009,Bats DR_A1.1.13,Bats DR,Brazil
+FJ649075,0,33,1353,1320,2009,Bats DR_A1.1.13,Bats DR,Brazil
+FJ649076,0,33,1353,1320,2009,Bats DR_A1.1,Bats DR,Brazil
+FJ649077,0,33,1353,1320,2009,Bats DR_A1.1,Bats DR,Brazil
+FJ649078,0,33,1353,1320,2009,Bats DR_A1.1,Bats DR,Brazil
+FJ649079,0,33,1353,1320,2009,Bats DR_A1.1.13,Bats DR,Brazil
+FJ649080,0,33,1353,1320,2009,Bats DR_A1.1,Bats DR,Brazil
+FJ649081,0,33,1353,1320,2009,Bats DR_A1.1,Bats DR,Brazil
+FJ649082,0,33,1353,1320,2009,Bats DR_A1.1,Bats DR,Brazil
+FJ649083,0,33,1353,1320,2009,Bats DR_A1.1,Bats DR,Brazil
+FJ649084,0,33,1353,1320,2009,Bats DR_A1.1,Bats DR,Brazil
+FJ649085,0,33,1353,1320,2009,Bats DR_A1.1,Bats DR,Brazil
+FJ649086,0,33,1353,1320,2009,Bats DR_A1.1,Bats DR,Brazil
+FJ649087,0,33,1353,1320,2009,Bats DR_A1.1,Bats DR,Brazil
+FJ649088,0,33,1353,1320,2009,Bats DR_A1.1,Bats DR,Brazil
+FJ649089,0,33,1353,1320,2009,Bats DR_A1.1,Bats DR,Brazil
+FJ649091,0,33,1353,1320,2009,Bats DR_A1.1,Bats DR,Brazil
+FJ649092,0,33,1353,1320,2009,Bats DR_A1.1,Bats DR,Brazil
+FJ649093,0,33,1353,1320,2009,Bats DR_A1.1,Bats DR,Brazil
+FJ649094,0,33,1353,1320,2009,Bats DR_A1.1,Bats DR,Brazil
+FJ649095,0,33,1353,1320,2009,Bats DR_A1.1,Bats DR,Brazil
+FJ649096,0,33,1353,1320,2009,Bats DR_A1.1,Bats DR,Brazil
+FJ649097,0,33,1353,1320,2009,Bats DR_A1.1,Bats DR,Brazil
+FJ649098,0,33,1353,1320,2009,Bats DR_A1.1,Bats DR,Brazil
+FJ649099,0,33,1353,1320,2009,Bats DR_A1.1,Bats DR,Brazil
+FJ649100,0,35,1353,1318,2009,Bats DR_A1.1,Bats DR,Brazil
+FJ649101,0,33,1353,1320,2009,Bats DR_A1.1,Bats DR,Brazil
+FJ649102,0,33,1353,1320,2009,Bats DR_A1.1,Bats DR,Brazil
+FJ649103,0,33,1353,1320,2009,Bats DR_A1.1,Bats DR,Brazil
+FJ649104,0,33,1353,1320,2009,Bats DR_A1.1,Bats DR,Brazil
+FJ649105,0,33,1353,1320,2009,Bats DR_A1.1,Bats DR,Brazil
+FJ649106,0,33,1353,1320,2009,Bats DR_A1.1,Bats DR,Brazil
+FJ649107,0,33,1353,1320,2009,Bats DR_A1.1,Bats DR,Brazil
+FJ649108,0,33,1353,1320,2009,Bats DR_A1.1,Bats DR,Brazil
+FJ649109,0,33,1353,1320,2009,Bats DR_A1.1,Bats DR,Brazil
+FJ649110,0,33,1353,1320,2009,Bats DR_A1.1,Bats DR,Brazil
+FJ649111,0,33,1353,1320,2009,Bats DR_A1.1,Bats DR,Brazil
+FJ649112,0,33,1353,1320,2009,Bats DR_A1.1,Bats DR,Brazil
+FJ649113,0,33,1353,1320,2009,Bats DR_A1.1,Bats DR,Brazil
+FJ649114,0,33,1353,1320,2009,Bats DR_A1.1,Bats DR,Brazil
+FJ649115,0,33,1353,1320,2009,Bats DR_A1.1,Bats DR,Brazil
+FJ649116,0,33,1353,1320,2009,Bats DR_A1.1,Bats DR,Brazil
+FJ649117,0,33,1353,1320,2009,Bats DR_A1.1,Bats DR,Brazil
+FJ649118,0,33,1353,1320,2009,Bats DR_A1.1,Bats DR,Brazil
+FJ649119,0,33,1353,1320,2009,Bats DR_A1.1,Bats DR,Brazil
+FJ649120,0,33,1353,1320,2009,Bats DR_A1.1,Bats DR,Brazil
+FJ649121,0,33,1353,1320,2009,Bats DR_A1.1,Bats DR,Brazil
+FJ649122,0,33,1353,1320,2009,Bats DR_A1.1,Bats DR,Brazil
+FJ649123,0,33,1353,1320,2009,Bats DR_A1.1,Bats DR,Brazil
+FJ649124,0,33,1353,1320,2009,Bats DR_A1.1,Bats DR,Brazil
+FJ649125,0,33,1353,1320,2009,Bats DR_A1.1,Bats DR,Brazil
+FJ649126,0,33,1353,1320,2009,Bats DR_A1.1,Bats DR,Brazil
+FJ649127,0,35,1353,1318,2009,Bats DR_A1.1,Bats DR,Brazil
+FJ649128,0,33,1353,1320,2009,Bats DR_A1.1,Bats DR,Brazil
+FJ649129,0,33,1353,1320,2009,Bats DR_A1.1,Bats DR,Brazil
+FJ649130,0,33,1353,1320,2009,Bats DR_A1.1,Bats DR,Brazil
+FJ649131,0,33,1353,1320,2009,Bats DR_A1.1,Bats DR,Brazil
+FJ649132,0,33,1353,1320,2009,Bats DR_A1.1,Bats DR,Brazil
+FJ649133,0,33,1353,1320,2009,Bats DR_A1.1,Bats DR,Brazil
+FJ649134,0,33,1353,1320,2009,Bats DR_A1.1,Bats DR,Brazil
+FJ649135,0,33,1353,1320,2009,Bats DR_A1.1,Bats DR,Brazil
+FJ649136,0,33,1353,1320,2009,Bats DR_A1.1,Bats DR,Brazil
+FJ649137,0,33,1353,1320,2009,Bats DR_A1.1,Bats DR,Brazil
+FJ649138,0,33,1353,1320,2009,Bats DR_A1.1,Bats DR,Brazil
+FJ649139,0,33,1353,1320,2009,Bats DR_A1.1,Bats DR,Brazil
+FJ649140,0,33,1353,1320,2009,Bats DR_A1.1,Bats DR,Brazil
+FJ649141,0,33,1353,1320,2009,Bats DR_A1.1,Bats DR,Brazil
+FJ649142,0,33,1353,1320,2009,Bats DR_A1.1,Bats DR,Brazil
+FJ649143,0,33,1353,1320,2009,Bats DR_A1.1,Bats DR,Brazil
+FJ649144,0,35,1353,1318,2009,Bats DR_A1.1,Bats DR,Brazil
+FJ649145,0,33,1353,1320,2009,Bats DR_A1.1,Bats DR,Brazil
+FJ649146,0,33,1353,1320,2009,Bats DR_A1.1,Bats DR,Brazil
+FJ649147,0,33,1353,1320,2009,Bats DR_A1.1,Bats DR,Brazil
+FJ649148,0,33,1353,1320,2009,Bats DR_A1.1,Bats DR,Brazil
+FJ649149,0,33,1353,1320,2009,Bats DR_A1.1,Bats DR,Brazil
+FJ649150,0,33,1353,1320,2009,Bats DR_A1.1,Bats DR,Brazil
+FJ649151,0,33,1353,1320,2009,Bats DR_A1.1,Bats DR,Brazil
+FJ649152,0,33,1353,1320,2009,Bats DR_A1.1,Bats DR,Brazil
+FJ649153,0,33,1353,1320,2009,Bats DR_A1.1,Bats DR,Brazil
+FJ649154,0,33,1353,1320,2009,Bats DR_A1.1,Bats DR,Brazil
+FJ649155,0,33,1353,1320,2009,Bats DR_A1.1,Bats DR,Brazil
+FJ649156,0,35,1353,1318,2009,Bats DR_A1.1,Bats DR,Brazil
+FJ649157,0,35,1353,1318,2009,Bats DR_A1.1,Bats DR,Brazil
+FJ649158,0,35,1353,1318,2009,Bats DR_A1.1,Bats DR,Brazil
+FJ649159,0,35,1353,1318,2009,Bats DR_A1.1,Bats DR,Brazil
+FJ649160,0,33,1353,1320,2009,Bats DR_A1.1,Bats DR,Brazil
+FJ649161,0,33,1353,1320,2009,Bats DR_A1.1,Bats DR,Brazil
+FJ649162,0,33,1353,1320,2009,Bats DR_A1.1,Bats DR,Brazil
+FJ649163,0,33,1353,1320,2009,Bats DR_A1.1,Bats DR,Brazil
+FJ649164,0,33,1353,1320,2009,Bats DR_A1.1,Bats DR,Brazil
+FJ649165,0,35,1353,1318,2009,Bats DR_A1.1,Bats DR,Brazil
+FJ649166,0,35,1353,1318,2009,Bats DR_A1.1,Bats DR,Brazil
+FJ649167,0,33,1353,1320,2009,Bats DR_A1.1,Bats DR,Brazil
+FJ649168,0,33,1353,1320,2009,Bats DR_A1.1,Bats DR,Brazil
+FJ649169,0,35,1353,1318,2009,Bats DR_A1.1,Bats DR,Brazil
+FJ649170,0,33,1353,1320,2009,Bats DR_A1.1,Bats DR,Brazil
+FJ649171,0,35,1353,1318,2009,Bats DR_A1.1,Bats DR,Brazil
+FJ649172,0,35,1353,1318,2009,Bats DR_A1.1,Bats DR,Brazil
+FJ649175,0,33,1353,1320,2009,Bats DR_A1.1,Bats DR,Brazil
+FJ649176,0,33,1353,1320,2009,Bats DR_A1.1,Bats DR,Brazil
+FJ649177,0,33,1353,1320,2009,Bats DR_A1.1,Bats DR,Brazil
+FJ649178,0,33,1353,1320,2009,Bats DR_A1.1,Bats DR,Brazil
+FJ649179,0,33,1353,1320,2009,Bats DR_A1.1,Bats DR,Brazil
+FJ649180,0,33,1353,1320,2009,Bats DR_A1.1,Bats DR,Brazil
+FJ649181,0,35,1353,1318,2009,Bats DR_A1.1,Bats DR,Brazil
+FJ649182,0,33,1353,1320,2009,Bats DR_A1.1,Bats DR,Brazil
+FJ649183,0,33,1353,1320,2009,Bats DR_A1.1,Bats DR,Brazil
+FJ649184,0,33,1353,1320,2009,Bats DR_A1.1,Bats DR,Brazil
+FJ649185,0,35,1353,1318,2009,Bats DR_A1.1,Bats DR,Brazil
+FJ649186,0,35,1353,1318,2009,Bats DR_A1.1,Bats DR,Brazil
+GQ160910,0,33,1353,1320,2009,Bats DR_A1.1,Bats DR,Brazil
+GQ160912,0,33,1353,1320,2009,Bats DR_A1.1,Bats DR,Brazil
+GQ160914,0,33,1353,1320,2009,Bats DR_A1.1.13,Bats DR,Brazil
+GQ160915,0,33,1353,1320,2009,Bats DR_A1.1,Bats DR,Brazil
+GQ160916,0,33,1353,1320,2009,Bats DR_A1.1,Bats DR,Brazil
+GQ160918,0,33,1353,1320,2009,Bats DR_A1.1.8,Bats DR,Brazil
+GQ160919,0,33,1353,1320,2009,Bats DR_A1.1,Bats DR,Brazil
+GQ160920,0,33,1353,1320,2009,Bats DR_A1.1,Bats DR,Brazil
+GQ160921,0,33,1353,1320,2009,Bats DR_A1.1,Bats DR,Brazil
+GQ160922,0,33,1353,1320,2009,Bats DR_A1.1,Bats DR,Brazil
+GQ160923,0,33,1353,1320,2009,Bats DR_A1.1.8,Bats DR,Brazil
+GQ160924,0,33,1353,1320,2009,Bats DR_A1.1,Bats DR,Brazil
+GQ160927,0,33,1353,1320,2009,Bats DR_A1.1,Bats DR,Brazil
+GQ160928,0,33,1353,1320,2009,Bats DR_A1.1,Bats DR,Brazil
+GQ160929,0,33,1353,1320,2009,Bats DR_A1.1,Bats DR,Brazil
+GQ160930,0,33,1353,1320,2009,Bats DR_A1.1,Bats DR,Brazil
+GQ160931,0,33,1353,1320,2009,Bats DR_A1.1,Bats DR,Brazil
+GQ160932,0,33,1353,1320,2009,Bats DR_A1.1,Bats DR,Brazil
+GQ160933,0,33,1353,1320,2009,Bats DR_A1.1.2,Bats DR,Brazil
+GQ160934,0,33,1353,1320,2009,Bats DR_A1.1.2,Bats DR,Brazil
+GQ160935,0,33,1353,1320,2009,Bats DR_A1.1,Bats DR,Brazil
+GQ160936,0,33,1353,1320,2009,Bats DR_A1.1,Bats DR,Brazil
+GQ160937,0,33,1353,1320,2009,Bats DR_A1.1,Bats DR,Brazil
+GQ160938,0,33,1353,1320,2009,Bats DR_A1.1.2,Bats DR,Brazil
+GQ160939,0,33,1353,1320,2009,Bats DR_A1.1,Bats DR,Brazil
+GQ160941,0,33,1353,1320,2009,Bats DR_A1.1,Bats DR,Brazil
+GQ160942,0,33,1353,1320,2009,Bats DR_A1.1,Bats DR,Brazil
+GQ160944,0,33,1353,1320,2009,Bats DR_A1.1.8,Bats DR,Brazil
+GQ160945,0,33,1353,1320,2009,Bats DR_A1.1.8,Bats DR,Brazil
+GQ160946,0,33,1353,1320,2009,Bats DR_A1.1.8,Bats DR,Brazil
+GQ160947,0,33,1353,1320,2009,Bats DR_A1.1.8,Bats DR,Brazil
+GQ160948,0,33,1353,1320,2009,Bats DR_A1.1.8,Bats DR,Brazil
+GQ160949,0,33,1353,1320,2009,Bats DR_A1.1.8,Bats DR,Brazil
+GQ160950,0,33,1353,1320,2009,Bats DR_A1.1.8,Bats DR,Brazil
+GQ160951,0,33,1353,1320,2009,Bats DR_A1.1.8,Bats DR,Brazil
+GQ160952,0,33,1353,1320,2009,Bats DR_A1.1,Bats DR,Brazil
+GQ160953,0,33,1353,1320,2009,Bats DR_A1.1,Bats DR,Brazil
+GQ160954,0,33,1353,1320,2009,Bats DR_A1.1,Bats DR,Brazil
+GQ160955,0,33,1353,1320,2009,Bats DR_A1.1,Bats DR,Brazil
+GQ160956,0,33,1353,1320,2009,Bats DR_A1.1,Bats DR,Brazil
+GQ160958,0,33,1353,1320,2009,Bats DR_A1.1,Bats DR,Brazil
+GQ160959,0,33,1353,1320,2009,Bats DR_A1.1,Bats DR,Brazil
+GQ915402,0,32,1353,1321,2009,Bat,Bats DR,Brazil
+GQ915403,0,34,1353,1319,2009,Bat,Bats DR,Brazil
+GQ915404,0,32,1353,1321,2009,Bat,Bats DR,Brazil
+GQ915406,0,39,1353,1314,2009,Bats DR_A1.1,Bats DR,Brazil
+GQ915407,0,51,1353,1302,2009,Bats DR_K1,Bats DR,Brazil
+GQ915408,0,27,1353,1326,2009,Bats DR_A1.1,Bats DR,Brazil
+GQ915409,0,18,1353,1335,2009,Bat,Bats DR,Brazil
+GQ915410,0,35,1353,1318,2009,Bats DR_A1.1,Bats DR,Brazil
+GQ915411,0,32,1353,1321,2009,Bat,Bats DR,Brazil
+GQ915413,0,33,1353,1320,2009,Bats DR_A1.1,Bats DR,Brazil
+GQ915414,0,32,1353,1321,2009,Bats DR_K1,Bats DR,Brazil
+GQ915416,0,27,1353,1326,2009,Bats DR_H1,Bats DR,Brazil
+GQ915417,0,32,1353,1321,2009,Bats DR_K1,Bats DR,Brazil
+GQ915418,0,32,1353,1321,2009,Bats DR_K1,Bats DR,Brazil
+GQ915420,0,34,1353,1319,2009,Bat,Bats DR,Brazil
+GQ915421,1,30,1353,1322,2009,Bats DR_H1,Bats DR,Brazil
+GQ915422,0,27,1353,1326,2009,Bats DR_H1,Bats DR,Brazil
+GQ915423,0,38,1353,1315,2009,Bats DR_H1,Bats DR,Brazil
+GQ915424,0,34,1353,1319,2009,Bats DR_H1,Bats DR,Brazil
+GQ915430,0,35,1353,1318,2009,Bat,Bats DR,Brazil
+GQ915431,0,32,1353,1321,2009,Bats DR_A1.1.13,Bats DR,Brazil
+GQ915432,0,32,1353,1321,2009,Bats DR_A1.1,Bats DR,Brazil
+GQ915433,0,33,1353,1320,2009,Bats DR_H1,Bats DR,Brazil
+GU204250,0,23,1353,1330,2006,Bats DR_K1,Bats DR,Brazil
+GU592648,0,0,1353,1353,2010,Bats DR_A1.1,Bats DR,Brazil
+GU592649,0,0,1353,1353,2010,Bats DR_A1.1.7,Bats DR,Brazil
+GU644642,0,0,1353,1353,2004,Bats EF-W1_A1,Bats EF-W1,United States
+GU644644,0,0,1353,1353,2002,Bats EF-W2_A1.1,Bats EF-W2,United States
+GU644645,0,0,1353,1353,2002,Bats EF-W2_A1.1,Bats EF-W2,United States
+GU644646,0,0,1353,1353,2002,Bats TB1_A1.1,Bats TB1,United States
+GU644648,0,0,1353,1353,2003,Bats EF-W1_A1,Bats EF-W1,United States
+GU644649,0,0,1353,1353,2004,Bats EF-W2_A1.1,Bats EF-W2,United States
+GU644650,0,0,1353,1353,2004,Bats EF-W2_A1,Bats EF-W2,United States
+GU644651,0,0,1353,1353,2005,Bats EF-W1_A1,Bats EF-W1,United States
+GU644652,0,0,1353,1353,2004,Bats EF-E2_A1,Bats EF-E2,United States
+GU644654,0,0,1353,1353,2005,Bats EF-E2_A1.2,Bats EF-E2,United States
+GU644655,0,0,1353,1353,2005,Bats EF-E2_A1.2,Bats EF-E2,United States
+GU644656,0,0,1353,1353,2005,Bats EF-E2_A1,Bats EF-E2,United States
+GU644657,0,0,1353,1353,2003,Bats EF-E2_A1.2,Bats EF-E2,United States
+GU644660,0,0,1353,1353,2003,Bats EF-E2_A1.2,Bats EF-E2,United States
+GU644661,0,0,1353,1353,2003,Bats EF-E2_A1,Bats EF-E2,United States
+GU644662,0,0,1353,1353,2003,Bats EF-E2_A1.2,Bats EF-E2,United States
+GU644663,0,0,1353,1353,2003,Bats EF-E2_A1.2,Bats EF-E2,United States
+GU644664,0,0,1353,1353,2003,Bats EF-E2_A1.2,Bats EF-E2,United States
+GU644665,0,0,1353,1353,2005,Bats EF-E2_A1.2,Bats EF-E2,United States
+GU644666,0,0,1353,1353,2005,Bats EF-E2_A1.2,Bats EF-E2,United States
+GU644667,0,0,1353,1353,2005,Bats EF-E2_A1.2,Bats EF-E2,United States
+GU644668,0,0,1353,1353,2005,Bats EF-E2_A1,Bats EF-E2,United States
+GU644669,0,0,1353,1353,2005,Bats EF-E2_A1.2,Bats EF-E2,United States
+GU644670,0,0,1353,1353,2005,Bats EF-E2_A1,Bats EF-E2,United States
+GU644672,0,0,1353,1353,2005,Bats EF-E1_A1,Bats EF-E1,United States
+GU644674,0,0,1353,1353,2005,Bats EF-E1_A1,Bats EF-E1,United States
+GU644675,0,0,1353,1353,2005,Bats EF-E1_A1,Bats EF-E1,United States
+GU644676,0,0,1353,1353,2004,Bats EF-E2_A1,Bats EF-E2,United States
+GU644677,0,0,1353,1353,2004,Bats EF-E2_A1,Bats EF-E2,United States
+GU644678,0,0,1353,1353,1999,Bats EF-W2_A1,Bats EF-W2,United States
+GU644679,0,0,1353,1353,1999,Bats EF-W2_A1,Bats EF-W2,United States
+GU644681,0,0,1353,1353,2000,Bats EF-W2_A1,Bats EF-W2,United States
+GU644682,0,0,1353,1353,2000,Bats EF-W2_A1,Bats EF-W2,United States
+GU644683,0,0,1353,1353,2003,Bats EF-W2_A1,Bats EF-W2,United States
+GU644684,0,0,1353,1353,2003,Bats EF-E2_A1.2,Bats EF-E2,United States
+GU644685,0,0,1353,1353,2003,Bats EF-W2_A1,Bats EF-W2,United States
+GU644686,0,0,1353,1353,2004,Bats EF-W2_A1,Bats EF-W2,United States
+GU644687,0,0,1353,1353,2004,Bats EF-W2_A1,Bats EF-W2,United States
+GU644688,0,0,1353,1353,2004,Bats EF-W2_A1,Bats EF-W2,United States
+GU644689,0,0,1353,1353,2004,Bats EF-E2_A1.2,Bats EF-E2,United States
+GU644690,0,0,1353,1353,2004,Bats EF-E2_A1.2,Bats EF-E2,United States
+GU644691,0,0,1353,1353,2004,Bats EF-W2_A1,Bats EF-W2,United States
+GU644693,0,0,1353,1353,2005,Bats EF-W2_A1,Bats EF-W2,United States
+GU644694,0,0,1353,1353,2005,Bats EF-W2_A1,Bats EF-W2,United States
+GU644695,0,0,1353,1353,2005,Bats EF-E2_A1.2,Bats EF-E2,United States
+GU644696,0,0,1353,1353,2002,Bats LB2_A1,Bats LB2,United States
+GU644699,0,0,1353,1353,2003,Bats LB2_A1,Bats LB2,United States
+GU644703,0,0,1353,1353,2004,Bats LB2_A1,Bats LB2,United States
+GU644704,0,0,1353,1353,2004,Bats LB2_A1,Bats LB2,United States
+GU644705,0,0,1353,1353,2004,Bats LB2_A1,Bats LB2,United States
+GU644706,0,0,1353,1353,2003,Bats LB2_A1,Bats LB2,United States
+GU644707,0,0,1353,1353,2003,Bats LB2_A1,Bats LB2,United States
+GU644708,0,0,1353,1353,2004,Bats LB2_A1,Bats LB2,United States
+GU644709,0,0,1353,1353,2004,Bats LB2_A1,Bats LB2,United States
+GU644712,0,0,1353,1353,2005,Bats LC_A1,Bats LC,United States
+GU644713,0,0,1353,1353,2005,Bats LC_A1,Bats LC,United States
+GU644714,0,0,1353,1353,2005,Bats LC_A1,Bats LC,United States
+GU644715,0,0,1353,1353,2005,Bats LC_A1,Bats LC,United States
+GU644716,0,0,1353,1353,2005,Bats LC_A1,Bats LC,United States
+GU644717,0,0,1353,1353,2004,Bats LC_A1,Bats LC,United States
+GU644718,0,0,1353,1353,2004,Bats LC_A1,Bats LC,United States
+GU644719,0,0,1353,1353,1998,Bats LC_A1,Bats LC,United States
+GU644720,0,0,1353,1353,2004,Bats LC_A1,Bats LC,United States
+GU644721,0,0,1353,1353,2005,Bats LC_A1,Bats LC,United States
+GU644730,0,0,1353,1353,2005,Bats LC_A1,Bats LC,United States
+GU644733,0,0,1353,1353,1998,Bats LB2_A1,Bats LB2,United States
+GU644734,0,0,1353,1353,2000,Bats LB2_A1,Bats LB2,United States
+GU644736,0,0,1353,1353,2002,Bats LB2_A1,Bats LB2,United States
+GU644744,0,0,1353,1353,2005,Bat_D1,Bats MYsp,United States
+GU644745,0,0,1353,1353,2004,Bats MYsp_A1,Bats MYsp,United States
+GU644746,0,0,1353,1353,2005,Bat_D1,Bats MYsp,United States
+GU644747,0,0,1353,1353,2005,Bats MYsp_A1,Bats MYsp,United States
+GU644748,0,0,1353,1353,2005,Bats LN_A1,Bats LN,United States
+GU644749,0,0,1353,1353,2005,Bat_D1,Bats MYsp,United States
+GU644750,0,0,1353,1353,2004,Bats LB2_A1,Bats LB2,United States
+GU644760,0,0,1353,1353,2005,Bats TB1_A1.1,Bats TB1,United States
+GU644761,0,0,1353,1353,2005,Bats TB1_A1.1,Bats TB1,United States
+GU644762,0,0,1353,1353,2005,Bats TB1_A1.1,Bats TB1,United States
+GU644763,0,0,1353,1353,2005,Bats TB1_A1.1,Bats TB1,United States
+GU644764,0,0,1353,1353,2005,Bats TB1_A1.1,Bats TB1,United States
+GU644765,0,0,1353,1353,2002,Bats TB1_A1.1,Bats TB1,United States
+GU644766,0,0,1353,1353,2003,Bats TB1_A1.1,Bats TB1,United States
+GU644767,0,0,1353,1353,2003,Bats TB1_A1.1,Bats TB1,United States
+GU644768,0,0,1353,1353,2003,Bats TB1_A1.1,Bats TB1,United States
+GU644770,0,0,1353,1353,2003,Bats TB1_A1.1,Bats TB1,United States
+GU644771,0,0,1353,1353,2003,Bats TB1_A1.1,Bats TB1,United States
+GU644772,0,0,1353,1353,2003,Bats TB1_A1.1,Bats TB1,United States
+GU644773,0,0,1353,1353,2003,Bats TB1_A1.1,Bats TB1,United States
+GU644774,0,0,1353,1353,2003,Bats TB1_A1.1,Bats TB1,United States
+GU644776,0,0,1353,1353,2004,Bats TB1_A1.1,Bats TB1,United States
+GU644777,0,0,1353,1353,2004,Bats TB1_A1.1,Bats TB1,United States
+GU644778,0,0,1353,1353,2004,Bats TB1_A1.1,Bats TB1,United States
+GU644779,0,0,1353,1353,2004,Bats TB1_A1.1,Bats TB1,United States
+GU644780,0,0,1353,1353,2004,Bats TB1_A1.1,Bats TB1,United States
+GU644781,0,0,1353,1353,2004,Bats TB1_A1.1,Bats TB1,United States
+GU644782,0,0,1353,1353,2004,Bats TB1_A1.1,Bats TB1,United States
+GU644783,0,0,1353,1353,2004,Bats TB1_A1.1,Bats TB1,United States
+GU644784,0,0,1353,1353,2003,Bats TB1_A1.1,Bats TB1,United States
+GU644785,0,0,1353,1353,2003,Bats TB1_A1.1,Bats TB1,United States
+GU644786,0,0,1353,1353,2003,Bats TB1_A1.1,Bats TB1,United States
+GU644787,0,0,1353,1353,2003,Bats TB1_A1.1,Bats TB1,United States
+GU644788,0,0,1353,1353,2004,Bats TB1_A1.1,Bats TB1,United States
+GU991823,0,3,1353,1350,2003,Bats DR_A1.2,Bats DR,Mexico
+GU991824,0,3,1353,1350,2002,Bats DR_A1.2,Bats DR,Mexico
+GU991825,0,3,1353,1350,2004,Bats DR_A1.2,Bats DR,Mexico
+GU991826,0,3,1353,1350,1999,Bats DR_A1.5,Bats DR,Mexico
+GU991830,0,3,1353,1350,1999,Bats TB1_A1.1,Bats TB1,Mexico
+GU991831,0,3,1353,1350,2007,Bats TB1_A1.1,Bats TB1,United States
+GU991832,0,3,1353,1350,2009,Bats TB1_A1.1,Bats TB1,United States
+GU991833,0,3,1353,1350,2005,Bats TB1_A1.1,Bats TB1,Mexico
+GU991834,0,3,1353,1350,2008,Bats TB1_A1,Bats TB1,Mexico
+GU991835,0,3,1353,1350,2008,Bats EF-W1_A1.2,Bats EF-W1,United States
+GU991836,0,3,1353,1350,2008,Bats EF-W1_A1,Bats EF-W1,United States
+GU992308,0,0,1353,1353,1991,Bats LC_A1,Bats LC,United States
+HM368176,0,34,1353,1319,2007,Bats DR_A1,Bats DR,Ecuador
+HM368179,0,34,1353,1319,2007,Bats DR_A1.1.14,Bats DR,Ecuador
+HM368180,1,34,1353,1318,2007,Bats DR_A1.1.14,Bats DR,Ecuador
+HM585149,0,54,1353,1299,2003,Bats DR_A1.1.7,Bats DR,Brazil
+HM585151,0,52,1353,1301,2003,Bats DR_A1.1,Bats DR,Brazil
+HM585152,0,52,1353,1301,2006,Bats DR_K1,Bats DR,Brazil
+HM585153,0,52,1353,1301,2004,Bats DR_A1.1,Bats DR,Brazil
+HM585154,0,54,1353,1299,2004,Bats DR_A1.1.7,Bats DR,Brazil
+HM585155,0,52,1353,1301,2004,Bats DR_A1.1,Bats DR,Brazil
+HM585156,0,54,1353,1299,2004,Bats DR_A1.1.7,Bats DR,Brazil
+HM585158,0,52,1353,1301,2004,Bats DR_A1.1,Bats DR,Brazil
+HM585159,0,52,1353,1301,2001,Bats DR_K1,Bats DR,Brazil
+HM585161,0,52,1353,1301,2006,Bats DR_H1,Bats DR,Brazil
+HM585162,0,52,1353,1301,2006,Bats DR_K1,Bats DR,Brazil
+HM585163,0,52,1353,1301,2006,Bats DR_K1,Bats DR,Brazil
+HM585165,0,54,1353,1299,2006,Bats DR_A1.1.7,Bats DR,Brazil
+HM585166,0,52,1353,1301,2006,Bats DR_H1,Bats DR,Brazil
+HM585167,0,52,1353,1301,2006,Bats DR_H1,Bats DR,Brazil
+HM585169,0,52,1353,1301,2006,Bats DR_H1,Bats DR,Brazil
+HM585170,0,52,1353,1301,2001,Bats DR_A1.1.4,Bats DR,Brazil
+HM585175,0,54,1353,1299,2002,Bats DR_A1.1.7,Bats DR,Brazil
+HM585176,0,52,1353,1301,2002,Bats DR_A1.1.13,Bats DR,Brazil
+HM585177,0,52,1353,1301,2002,Bats DR_A1.1,Bats DR,Brazil
+HM585178,0,52,1353,1301,2004,Bats DR_H1,Bats DR,Brazil
+HM585179,0,54,1353,1299,2003,Bats DR_A1.1.7,Bats DR,Brazil
+HM585180,0,57,1353,1296,2003,Bats DR_A1.1.7,Bats DR,Brazil
+HQ341794,0,0,1353,1353,2009,Bats LC_A1,Bats LC,Chile
+HQ341795,0,0,1353,1353,2009,Bats LC_A1,Bats LC,Chile
+HQ341796,0,0,1353,1353,2009,Bats_A1,Bats,Chile
+HQ341797,0,0,1353,1353,2009,Bats LC_A1,Bats LC,Chile
+JF693456,0,3,1353,1350,2008,Bats DR_A1.4,Bats DR,Colombia
+JF693457,0,3,1353,1350,2008,Bats DR_A1.4,Bats DR,Colombia
+JF693458,0,3,1353,1350,2006,Bats DR_A1.4,Bats DR,Colombia
+JF693459,0,3,1353,1350,2007,Bats DR_A1.4,Bats DR,Colombia
+JF693460,0,3,1353,1350,2008,Bats DR_A1.4,Bats DR,Colombia
+JF693462,0,3,1353,1350,1996,Bats DR_A1.4,Bats DR,Colombia
+JF693463,0,3,1353,1350,1997,Bats DR_A1.4,Bats DR,Colombia
+JF693464,0,3,1353,1350,1997,Bats DR_A1.1.10,Bats DR,Colombia
+JF693466,0,3,1353,1350,2006,Bats DR_A1.1.14,Bats DR,Colombia
+JF693467,0,3,1353,1350,1997,Bats DR_A1.5,Bats DR,Colombia
+JF693468,0,3,1353,1350,2003,Bats DR_A1.5,Bats DR,Colombia
+JF693469,0,3,1353,1350,2002,Bats DR_A1.5,Bats DR,Colombia
+JF693470,0,3,1353,1350,2007,Bats DR_A1.5,Bats DR,Colombia
+JF693471,0,3,1353,1350,1994,Bats DR_E1,Bats DR,Colombia
+JF693472,0,3,1353,1350,1996,Bats DR_E1,Bats DR,Colombia
+JF693473,0,3,1353,1350,1996,Bats DR_A1.3,Bats DR,Colombia
+JF693474,0,3,1353,1350,2006,Bats DR_A1.3,Bats DR,Colombia
+JF693478,0,3,1353,1350,2008,Bats DR_A1.3,Bats DR,Colombia
+JF693483,0,3,1353,1350,2003,Bats_A1,Bats,Colombia
+JQ685892,0,94,NA,NA,2009,Bats EF-W1_A1.2,Bats EF-W1,United States
+JQ685893,0,0,NA,NA,2001,Bats EF-W1_B1,Bats EF-W1,United States
+JQ685895,0,1,NA,NA,2003,Bat_C1,Bats LN,United States
+JQ685896,0,101,NA,NA,2009,Bats EF-W1_A1.2,Bats EF-W1,United States
+JQ685897,0,0,NA,NA,2001,Bats EF-W1_A1.1,Bats EF-W1,United States
+JQ685898,0,0,NA,NA,2009,Bats EF-W1_A1.2,Bats EF-W1,United States
+JQ685900,0,0,NA,NA,2003,Bat_C1,Bats LS,United States
+JQ685902,0,0,NA,NA,2005,Bat_C1,Bats LB2,United States
+JQ685903,0,0,NA,NA,2004,Bat_A1,Bats EF-W2,United States
+JQ685904,0,0,NA,NA,2001,Bats EF-W1_B1,Bats EF-W1,United States
+JQ685905,0,0,NA,NA,2003,Bat_B1.1,Bats TB1,United States
+JQ685906,0,101,NA,NA,2001,Bats EF-W1_B1,Bats EF-W1,United States
+JQ685907,0,0,NA,NA,1996,Bats EF-W1_A1,Bats EF-W1,United States
+JQ685908,0,101,NA,NA,2009,Bats EF-W1_A1.2,Bats EF-W1,United States
+JQ685909,0,0,NA,NA,2005,Bats EF-W1_A1.1,Bats EF-W1,United States
+JQ685910,0,0,NA,NA,2002,Bat_C1,Bats LX,United States
+JQ685911,0,0,NA,NA,2001,Bats EF-W1_A1.1.1,Bats EF-W1,United States
+JQ685912,0,92,NA,NA,2009,Bats EF-W1_A1.2,Bats EF-W1,United States
+JQ685913,0,0,NA,NA,1985,Bats EF-W1_A1,Bats EF-W1,United States
+JQ685914,0,105,NA,NA,2010,Bat_A1,Bats EF-W2,United States
+JQ685915,0,3,NA,NA,2002,Bat_C1,Bats LI,United States
+JQ685916,0,2,NA,NA,2002,Bat_C1,Bats LI,United States
+JQ685917,0,0,NA,NA,2010,Bats EF-W1_A1.1,Bats EF-W1,United States
+JQ685918,0,0,NA,NA,2010,Bat_D1,Bats MYsp,United States
+JQ685919,0,0,NA,NA,2005,Bat_C1,Bats LB1,United States
+JQ685920,0,0,NA,NA,1984,Bat_D1,Bats EF-E1,United States
+JQ685921,0,14,NA,NA,2001,Bat_D1,Bats PH,United States
+JQ685922,0,1,NA,NA,2005,Bat_C1,Bats PS,United States
+JQ685923,0,0,NA,NA,1999,Bats EF-W1_B1,Bats EF-W1,United States
+JQ685924,0,105,NA,NA,2010,Bat_A1,Bats EF-W2,United States
+JQ685925,0,0,NA,NA,2004,Bat_D1,Bats EF-E2,United States
+JQ685926,0,98,NA,NA,2005,Bats EF-W1_A1.1.1,Bats EF-W1,United States
+JQ685927,0,116,NA,NA,2001,Bats EF-W1_B1,Bats EF-W1,United States
+JQ685928,0,101,NA,NA,2009,Bats EF-W1_A1.2,Bats EF-W1,United States
+JQ685930,0,114,NA,NA,2001,Bats EF-W1_A1.1.1,Bats EF-W1,United States
+JQ685931,0,0,NA,NA,2000,Bat_A1,Bats EF-W2,United States
+JQ685932,0,0,NA,NA,2001,Bats EF-W1_B1,Bats EF-W1,United States
+JQ685933,0,0,NA,NA,2004,Bats EF-W1_A1.1,Bats EF-W1,United States
+JQ685934,0,0,NA,NA,2009,Bats EF-W1_A1.2,Bats EF-W1,United States
+JQ685935,0,101,NA,NA,2001,Bats EF-W1_B1,Bats EF-W1,United States
+JQ685936,0,65,NA,NA,2009,Bat_B1.1,Bats DR,Mexico
+JQ685937,0,120,NA,NA,2009,Bats EF-W1_A1.2,Bats EF-W1,United States
+JQ685939,0,88,NA,NA,2009,Bats EF-W1_A1.2,Bats EF-W1,United States
+JQ685940,0,0,NA,NA,2001,Bats EF-W1_A1.1.1,Bats EF-W1,United States
+JQ685941,0,0,NA,NA,2005,Bats EF-W1_A1.2,Bats EF-W1,United States
+JQ685942,0,0,NA,NA,1981,Bat_A1,Bats EF-W2,United States
+JQ685945,0,0,NA,NA,2005,Bats EF-W1_A1.1,Bats EF-W1,United States
+JQ685946,0,0,NA,NA,1999,Bats EF-W1_A1,Bats EF-W1,United States
+JQ685947,0,0,NA,NA,2004,Bat_C1,Bats LC,United States
+JQ685948,0,0,NA,NA,2010,Bat_A1,Bats EF-W2,United States
+JQ685949,0,116,NA,NA,2001,Bats EF-W1_B1,Bats EF-W1,United States
+JQ685950,0,0,NA,NA,2009,Bats EF-W1_A1.1,Bats EF-W1,United States
+JQ685951,0,101,NA,NA,2010,Bats EF-W1_A1,Bats EF-W1,United States
+JQ685952,0,0,NA,NA,2002,Bat_D1,Bats PH,United States
+JQ685953,0,23,NA,NA,2009,Bat_B1.1,Bats DR,Mexico
+JQ685956,0,0,NA,NA,1975,Bats EF-W1_A1.1,Bats EF-W1,United States
+JQ685957,0,1,NA,NA,2009,Bat_D1,Bats MYsp,United States
+JQ685958,0,0,NA,NA,2001,Bats EF-W1_B1,Bats EF-W1,United States
+JQ685959,0,0,NA,NA,2001,Bats EF-W1_A1.1.1,Bats EF-W1,United States
+JQ685960,0,0,NA,NA,2001,Bats EF-W1_A1.1,Bats EF-W1,United States
+JQ685961,0,0,NA,NA,2010,Bats EF-W1_A1.1,Bats EF-W1,United States
+JQ685962,0,0,NA,NA,2001,Bats EF-W1_A1.1.1,Bats EF-W1,United States
+JQ685963,0,0,NA,NA,2009,Bat_B1.1,Bats TB1,Mexico
+JQ685964,0,0,NA,NA,2004,Bats EF-W1_A1.2,Bats EF-W1,United States
+JQ685965,0,0,NA,NA,2002,Bat_D1,Bats PH,United States
+JQ685966,0,0,NA,NA,2001,Bats EF-W1_B1,Bats EF-W1,United States
+JQ685969,0,0,NA,NA,2001,Bats EF-W1_A1.1.1,Bats EF-W1,United States
+JQ685971,0,0,NA,NA,2009,Bat_D1,Bats AP,United States
+JQ685972,0,101,NA,NA,2009,Bats EF-W1_A1.2,Bats EF-W1,United States
+JQ685973,0,0,NA,NA,2011,Bat_A1,Bats EF-W2,United States
+JQ685974,0,0,NA,NA,1995,Bats EF-W1_A1.2,Bats EF-W1,United States
+JQ685976,0,120,NA,NA,2009,Bats EF-W1_A1.2,Bats EF-W1,United States
+JQ685977,0,104,NA,NA,2010,Bat_A1,Bats EF-W2,United States
+JQ686012,0,0,1353,1353,2006,Bat_D1,Bats MYsp,United States
+JQ686013,0,0,1353,1353,2000,Bat_D1,Bats MYsp,United States
+JQ824886,0,42,1353,1311,2000,Bats EF-E2_A1.2,Bats EF-E2,United States
+JQ824890,0,43,1353,1310,2000,Bats EF-E2_A1.2,Bats EF-E2,United States
+JX648391,0,3,1353,1350,2007,Bats DR_A1.1.9,Bats DR,Peru
+JX648392,0,3,1353,1350,2007,Bats DR_A1.1.9,Bats DR,Peru
+JX648393,0,3,1353,1350,2004,Bats DR_A1.1.9,Bats DR,Peru
+JX648394,0,3,1353,1350,2005,Bats DR_A1.1.9,Bats DR,Peru
+JX648395,0,3,1353,1350,2005,Bats DR_A1.1.9,Bats DR,Peru
+JX648396,0,3,1353,1350,2007,Bats DR_A1.1.9,Bats DR,Peru
+JX648397,0,3,1353,1350,2007,Bats DR_A1.1.9,Bats DR,Peru
+JX648398,0,3,1353,1350,2006,Bats DR_A1.1.9,Bats DR,Peru
+JX648399,0,3,1353,1350,2006,Bats DR_A1.1.10,Bats DR,Peru
+JX648400,0,3,1353,1350,2002,Bats DR_A1.1.10,Bats DR,Peru
+JX648401,0,3,1353,1350,2004,Bats DR_A1.1.9,Bats DR,Peru
+JX648402,0,3,1353,1350,2002,Bats DR_A1.1.9,Bats DR,Peru
+JX648403,0,3,1353,1350,2005,Bats DR_A1.1.9,Bats DR,Peru
+JX648404,0,3,1353,1350,2004,Bats DR_A1.1.9,Bats DR,Peru
+JX648405,0,3,1353,1350,2005,Bats DR_A1.1.10,Bats DR,Peru
+JX648406,0,3,1353,1350,2005,Bats DR_A1.1.9,Bats DR,Peru
+JX648407,0,3,1353,1350,2006,Bats DR_A1.1.9,Bats DR,Peru
+JX648408,0,3,1353,1350,2005,Bats DR_A1.1.9,Bats DR,Peru
+JX648409,0,3,1353,1350,2005,Bats DR_A1.1.9,Bats DR,Peru
+JX648410,0,3,1353,1350,2007,Bats DR_A1.1.9,Bats DR,Peru
+JX648412,0,3,1353,1350,2002,Bats DR_A1.1.9,Bats DR,Peru
+JX648413,0,3,1353,1350,2002,Bats DR_A1.1.9,Bats DR,Peru
+JX648414,0,3,1353,1350,2003,Bats DR_A1.1.10,Bats DR,Peru
+JX648415,0,3,1353,1350,2003,Bats DR_A1.1.10,Bats DR,Peru
+JX648417,0,3,1353,1350,2003,Bats DR_A1,Bats DR,Peru
+JX648418,0,3,1353,1350,2003,Bats DR_A1,Bats DR,Peru
+JX648419,0,3,1353,1350,2003,Bat,Bats DR,Peru
+JX648420,0,3,1353,1350,2005,Bats DR_A1,Bats DR,Peru
+JX648422,0,3,1353,1350,2005,Bat,Bats DR,Peru
+JX648423,0,3,1353,1350,2007,Bat,Bats DR,Peru
+JX648424,0,3,1353,1350,2002,Bat,Bats DR,Peru
+JX648425,0,3,1353,1350,2007,Bat,Bats DR,Peru
+JX648426,0,3,1353,1350,2002,Bats DR_A1.1.14,Bats DR,Peru
+JX648427,0,3,1353,1350,2002,Bats DR_A1.1.14,Bats DR,Peru
+JX648428,0,3,1353,1350,2004,Bats DR_A1.1.14,Bats DR,Peru
+JX648429,0,3,1353,1350,2004,Bats DR_A1.1.14,Bats DR,Peru
+JX648430,0,3,1353,1350,2006,Bats DR_A1.1.14,Bats DR,Peru
+JX648431,0,3,1353,1350,2004,Bats DR_A1.1.14,Bats DR,Peru
+JX648432,0,3,1353,1350,2007,Bats DR_A1.1.14,Bats DR,Peru
+JX648434,0,3,1353,1350,2007,Bats DR_M1,Bats DR,Peru
+JX648435,0,3,1353,1350,2007,Bats DR_M1,Bats DR,Peru
+JX648436,0,3,1353,1350,2007,Bats DR_M1,Bats DR,Peru
+JX648437,0,3,1353,1350,2007,Bats DR_M1,Bats DR,Peru
+JX648441,0,3,1353,1350,2007,Bats DR_A1.1.1,Bats DR,Peru
+JX648443,0,3,1353,1350,2007,Bats DR_M1,Bats DR,Peru
+JX648445,0,3,1353,1350,2007,Bats DR_E1,Bats DR,Peru
+JX648446,0,3,1353,1350,2007,Bats DR_E1,Bats DR,Peru
+JX648447,0,3,1353,1350,2004,Bats DR_E1,Bats DR,Peru
+JX648448,0,3,1353,1350,2005,Bats DR_E1,Bats DR,Peru
+JX648449,0,3,1353,1350,2007,Bats DR_E1,Bats DR,Peru
+JX648450,0,3,1353,1350,2005,Bats DR_E1,Bats DR,Peru
+JX648451,0,3,1353,1350,2007,Bats DR_E1,Bats DR,Peru
+JX648452,0,3,1353,1350,2006,Bats DR_E1,Bats DR,Peru
+JX648453,0,3,1353,1350,2006,Bats DR_E1,Bats DR,Peru
+JX648454,0,3,1353,1350,2007,Bats DR_E1,Bats DR,Peru
+JX648455,0,3,1353,1350,2007,Bats DR_B1.1,Bats DR,Peru
+JX648456,0,3,1353,1350,2002,Bats DR_E1,Bats DR,Peru
+JX648457,0,3,1353,1350,2002,Bats DR_E1,Bats DR,Peru
+JX648458,0,3,1353,1350,2002,Bats DR_E1.1,Bats DR,Peru
+JX648459,0,3,1353,1350,2004,Bats DR_E1,Bats DR,Peru
+JX648460,0,3,1353,1350,2002,Bats DR_E1,Bats DR,Peru
+JX648461,0,3,1353,1350,2006,Bats DR_E1,Bats DR,Peru
+JX648462,0,3,1353,1350,2006,Bats DR_E1,Bats DR,Peru
+JX648463,0,3,1353,1350,2002,Bats DR_E1,Bats DR,Peru
+JX648464,0,3,1353,1350,2007,Bats DR_E1,Bats DR,Peru
+JX648465,0,3,1353,1350,2002,Bats DR_E1,Bats DR,Peru
+JX648466,0,3,1353,1350,2003,Bats DR_E1,Bats DR,Peru
+JX648467,0,3,1353,1350,2003,Bats DR_E1,Bats DR,Peru
+JX648468,0,3,1353,1350,2002,Bats DR_E1,Bats DR,Peru
+JX648469,0,3,1353,1350,2006,Bats DR_E1,Bats DR,Peru
+JX648470,0,3,1353,1350,2006,Bats DR_E1,Bats DR,Peru
+JX648471,0,3,1353,1350,2002,Bats DR_E1,Bats DR,Peru
+JX648473,0,3,1353,1350,2006,Bats DR_E1,Bats DR,Peru
+JX648474,0,3,1353,1350,2003,Bats DR_E1,Bats DR,Peru
+JX648475,0,3,1353,1350,2002,Bats DR_E1,Bats DR,Peru
+JX648476,0,3,1353,1350,2007,Bats DR_A1,Bats DR,Peru
+JX648477,0,3,1353,1350,2007,Bats DR_A1,Bats DR,Peru
+JX648478,0,3,1353,1350,2007,Bats DR_A1,Bats DR,Peru
+JX648479,0,3,1353,1350,2007,Bats DR_A1,Bats DR,Peru
+JX648480,0,3,1353,1350,2006,Bats DR_E1.1.1,Bats DR,Peru
+JX648481,0,3,1353,1350,2006,Bats DR_E1.1.1,Bats DR,Peru
+JX648482,0,3,1353,1350,2006,Bats DR_E1.1.1,Bats DR,Peru
+JX648483,0,3,1353,1350,2006,Bats DR_E1.1.1,Bats DR,Peru
+JX648484,0,3,1353,1350,2006,Bats DR_E1.1.1,Bats DR,Peru
+JX648485,0,3,1353,1350,2007,Bats DR_E1.1.1,Bats DR,Peru
+JX648488,0,3,1353,1350,2006,Bats DR_E1.1.1,Bats DR,Peru
+JX648489,0,3,1353,1350,2004,Bats DR_E1.1.1,Bats DR,Peru
+JX648490,0,3,1353,1350,2006,Bats DR_E1.1.1,Bats DR,Peru
+JX648491,0,3,1353,1350,2006,Bats DR_E1.1.1,Bats DR,Peru
+JX648492,0,3,1353,1350,2006,Bats DR_E1.1.1,Bats DR,Peru
+JX648493,0,3,1353,1350,2006,Bats DR_E1.1.1,Bats DR,Peru
+JX648494,0,3,1353,1350,2006,Bats DR_E1.1.1,Bats DR,Peru
+JX648495,0,3,1353,1350,2004,Bats DR_E1.1.1,Bats DR,Peru
+JX648496,0,3,1353,1350,2006,Bats DR_E1.1.1,Bats DR,Peru
+JX648497,0,3,1353,1350,2002,Bats DR_E1.1.1,Bats DR,Peru
+JX648498,0,3,1353,1350,2002,Bats DR_E1.1.1,Bats DR,Peru
+JX648499,0,3,1353,1350,2004,Bats DR_E1.1.1,Bats DR,Peru
+JX648500,0,3,1353,1350,2003,Bats DR_E1.1.1,Bats DR,Peru
+JX648501,0,3,1353,1350,2002,Bats DR_E1.1.1,Bats DR,Peru
+JX648502,0,3,1353,1350,2004,Bats DR_E1.1.1,Bats DR,Peru
+JX648503,0,3,1353,1350,2004,Bats DR_E1.1.1,Bats DR,Peru
+JX648504,0,3,1353,1350,2003,Bats DR_E1.1.1,Bats DR,Peru
+JX648505,0,3,1353,1350,2002,Bats DR_E1.1.1,Bats DR,Peru
+JX648506,0,3,1353,1350,2004,Bats DR_E1.1.1,Bats DR,Peru
+JX648507,0,3,1353,1350,2003,Bats DR_E1.1.1,Bats DR,Peru
+JX648508,0,3,1353,1350,2003,Bats DR_E1.1.1,Bats DR,Peru
+JX648509,0,3,1353,1350,2007,Bats DR_B1.1,Bats DR,Peru
+JX648510,0,3,1353,1350,2006,Bats DR_B1.1,Bats DR,Peru
+JX648511,0,3,1353,1350,2007,Bats DR_B1.1,Bats DR,Peru
+JX648512,0,3,1353,1350,2006,Bats DR_B1.1,Bats DR,Peru
+JX648513,0,3,1353,1350,2007,Bats DR_B1.1,Bats DR,Peru
+JX648514,0,3,1353,1350,2006,Bats DR_B1.1,Bats DR,Peru
+JX648515,0,3,1353,1350,2006,Bats DR_B1.1,Bats DR,Peru
+JX648516,0,3,1353,1350,2007,Bats DR_B1.1,Bats DR,Peru
+JX648517,0,3,1353,1350,2007,Bats DR_B1,Bats DR,Peru
+JX648518,0,3,1353,1350,2002,Bats DR_B1,Bats DR,Peru
+JX648519,0,3,1353,1350,2006,Bats DR_B1,Bats DR,Peru
+JX648520,0,3,1353,1350,2006,Bats DR_B1,Bats DR,Peru
+JX648521,0,3,1353,1350,2006,Bats DR_B1,Bats DR,Peru
+JX648522,0,3,1353,1350,2002,Bats DR_B1,Bats DR,Peru
+JX648523,0,3,1353,1350,2006,Bats DR_B1,Bats DR,Peru
+JX648524,0,3,1353,1350,2006,Bats DR_B1.1,Bats DR,Peru
+JX648525,0,3,1353,1350,2002,Bats DR_A1.3.1,Bats DR,Peru
+JX648527,0,3,1353,1350,2005,Bats DR_E1,Bats DR,Peru
+JX648529,0,3,1353,1350,2002,Bats DR_A1.3.1,Bats DR,Peru
+JX648530,0,3,1353,1350,2003,Bats DR_A1.3.1,Bats DR,Peru
+JX648531,0,3,1353,1350,2003,Bats DR_A1.3.1,Bats DR,Peru
+JX648532,0,3,1353,1350,2002,Bats DR_A1.3.1,Bats DR,Peru
+JX648533,0,3,1353,1350,2002,Bats DR_A1.3.1,Bats DR,Peru
+JX648534,0,3,1353,1350,2004,Bats DR_A1.3.1,Bats DR,Peru
+JX648535,0,3,1353,1350,2003,Bats DR_A1.3.1,Bats DR,Peru
+JX648536,0,3,1353,1350,2003,Bats DR_A1.3.1,Bats DR,Peru
+JX648537,0,3,1353,1350,2002,Bats DR_A1.3.1,Bats DR,Peru
+JX648538,0,3,1353,1350,2002,Bats DR_E1,Bats DR,Peru
+JX648539,0,3,1353,1350,2002,Bats DR_E1,Bats DR,Peru
+JX648540,0,3,1353,1350,2002,Bats DR_E1,Bats DR,Peru
+JX648541,0,3,1353,1350,2002,Bats DR_E1,Bats DR,Peru
+JX648544,0,3,1353,1350,2006,Bats DR_A1.3,Bats DR,Peru
+KC758860,0,3,1353,1350,1996,Bats DR_I1,Bats DR,Argentina
+KC758861,0,3,1353,1350,2001,Bats DR_I1,Bats DR,Argentina
+KC758862,0,3,1353,1350,2007,Bats DR_I1,Bats DR,Argentina
+KC758863,0,3,1353,1350,1999,Bats DR_A1.1.11,Bats DR,Argentina
+KF864233,0,0,1353,1353,1991,Bats DR_A1.1.2,Bats DR,Argentina
+KF864234,0,0,1353,1353,1994,Bats DR_I1,Bats DR,Argentina
+KF864235,0,0,1353,1353,1996,Bats DR_I1,Bats DR,Argentina
+KF864236,0,0,1353,1353,1996,Bats DR_I1,Bats DR,Argentina
+KF864237,0,0,1353,1353,1997,Bats DR_I1,Bats DR,Argentina
+KF864238,0,0,1353,1353,1999,Bats DR_A1.1.11,Bats DR,Argentina
+KF864239,0,0,1353,1353,1999,Bats DR_I1,Bats DR,Argentina
+KF864240,0,0,1353,1353,1999,Bats DR_I1,Bats DR,Argentina
+KF864241,0,0,1353,1353,1999,Bats DR_I1,Bats DR,Argentina
+KF864242,0,0,1353,1353,1999,Bats DR_I1,Bats DR,Argentina
+KF864243,0,0,1353,1353,1999,Bats DR_A1.1.4,Bats DR,Argentina
+KF864244,0,0,1353,1353,1999,Bats DR_I1,Bats DR,Argentina
+KF864245,0,0,1353,1353,2001,Bats DR_A1.1.3,Bats DR,Argentina
+KF864246,0,0,1353,1353,2001,Bats DR_A1.1.3,Bats DR,Argentina
+KF864247,0,0,1353,1353,2001,Bats DR_A1.1.3,Bats DR,Argentina
+KF864248,0,0,1353,1353,2001,Bats DR_A1.1.3,Bats DR,Argentina
+KF864249,0,0,1353,1353,2001,Bats DR_I1,Bats DR,Argentina
+KF864250,0,0,1353,1353,2001,Bats DR_I1,Bats DR,Argentina
+KF864251,0,0,1353,1353,2001,Bats DR_I1,Bats DR,Argentina
+KF864253,0,0,1353,1353,2001,Bats DR_I1,Bats DR,Argentina
+KF864254,0,0,1353,1353,2001,Bats DR_I1,Bats DR,Argentina
+KF864255,0,0,1353,1353,2002,Bats DR_I1,Bats DR,Argentina
+KF864256,0,0,1353,1353,2002,Bats DR_I1,Bats DR,Argentina
+KF864257,0,0,1353,1353,2002,Bats DR_I1,Bats DR,Argentina
+KF864258,0,0,1353,1353,2002,Bats DR_I1,Bats DR,Argentina
+KF864259,0,0,1353,1353,2002,Bats DR_A1.1.3,Bats DR,Argentina
+KF864260,0,0,1353,1353,2003,Bats DR_I1,Bats DR,Argentina
+KF864261,0,0,1353,1353,2003,Bats DR_I1,Bats DR,Argentina
+KF864262,0,0,1353,1353,2003,Bats DR_A1.1.3,Bats DR,Argentina
+KF864263,0,0,1353,1353,2003,Bats DR_A1.1.4,Bats DR,Argentina
+KF864264,0,0,1353,1353,2003,Bats DR_A1.1.3,Bats DR,Argentina
+KF864265,0,0,1353,1353,2003,Bats DR_A1.1.3,Bats DR,Argentina
+KF864266,0,0,1353,1353,2003,Bats DR_A1.1.3,Bats DR,Argentina
+KF864267,0,0,1353,1353,2003,Bats DR_I1,Bats DR,Argentina
+KF864268,0,0,1353,1353,2003,Bats DR_A1.1.3,Bats DR,Argentina
+KF864269,0,0,1353,1353,2003,Bats DR_I1,Bats DR,Argentina
+KF864270,0,0,1353,1353,2003,Bats DR_A1.1.3,Bats DR,Argentina
+KF864271,0,0,1353,1353,2003,Bats DR_I1,Bats DR,Argentina
+KF864272,0,0,1353,1353,2000,Bats DR_A1.1.3,Bats DR,Argentina
+KF864273,0,0,1353,1353,2000,Bats DR_I1,Bats DR,Argentina
+KF864274,0,0,1353,1353,2000,Bats DR_A1.1.3,Bats DR,Argentina
+KF864275,0,0,1353,1353,2000,Bats DR_I1,Bats DR,Argentina
+KF864276,0,0,1353,1353,2000,Bats DR_A1.1.3,Bats DR,Argentina
+KF864277,0,0,1353,1353,2003,Bats DR_A1.1.3,Bats DR,Argentina
+KF864278,0,0,1353,1353,2003,Bats DR_A1.1.3,Bats DR,Argentina
+KF864279,0,0,1353,1353,2003,Bats DR_A1.1.3,Bats DR,Argentina
+KF864280,0,0,1353,1353,2004,Bats DR_I1,Bats DR,Argentina
+KF864281,0,0,1353,1353,2004,Bats DR_A1.1.4,Bats DR,Argentina
+KF864282,0,0,1353,1353,2004,Bats DR_I1,Bats DR,Argentina
+KF864283,0,0,1353,1353,2004,Bats DR_I1,Bats DR,Argentina
+KF864284,0,0,1353,1353,2004,Bats DR_A1.1.3,Bats DR,Argentina
+KF864285,0,0,1353,1353,2004,Bats DR_A1.1.11,Bats DR,Argentina
+KF864286,0,0,1353,1353,2005,Bats DR_I1,Bats DR,Argentina
+KF864287,0,0,1353,1353,2005,Bats DR_I1,Bats DR,Argentina
+KF864288,0,0,1353,1353,2006,Bats DR_A1.1.4,Bats DR,Argentina
+KF864289,0,0,1353,1353,2005,Bats DR_A1.1.4,Bats DR,Argentina
+KF864290,0,0,1353,1353,2005,Bats DR_I1,Bats DR,Argentina
+KF864291,0,0,1353,1353,2005,Bats DR_I1,Bats DR,Argentina
+KF864292,0,0,1353,1353,2005,Bats DR_I1,Bats DR,Argentina
+KF864293,0,0,1353,1353,2005,Bats DR_I1,Bats DR,Argentina
+KF864294,0,0,1353,1353,2005,Bats DR_I1,Bats DR,Argentina
+KF864295,0,0,1353,1353,2005,Bats DR_I1,Bats DR,Argentina
+KF864296,0,0,1353,1353,2005,Bats DR_A1.1.13,Bats DR,Argentina
+KF864297,0,0,1353,1353,2005,Bats DR_A1.1.11,Bats DR,Argentina
+KF864298,0,0,1353,1353,2000,Bats DR_A1.1.3,Bats DR,Argentina
+KF864299,0,0,1353,1353,2005,Bats DR_I1,Bats DR,Argentina
+KF864300,0,0,1353,1353,2005,Bats DR_A1.1.4,Bats DR,Argentina
+KF864301,0,0,1353,1353,2006,Bats DR_I1,Bats DR,Argentina
+KF864302,0,0,1353,1353,2000,Bats DR_A1.1.3,Bats DR,Argentina
+KF864303,0,0,1353,1353,2005,Bats DR_A1.1.4,Bats DR,Argentina
+KF864304,0,0,1353,1353,2000,Bats DR_I1,Bats DR,Argentina
+KF864305,0,0,1353,1353,2006,Bats DR_A1.1.4,Bats DR,Argentina
+KF864306,0,0,1353,1353,2006,Bats DR_A1.1.11,Bats DR,Argentina
+KF864307,0,0,1353,1353,2000,Bats DR_I1,Bats DR,Argentina
+KF864308,0,0,1353,1353,2006,Bats DR_I1,Bats DR,Argentina
+KF864309,0,0,1353,1353,2006,Bats DR_I1,Bats DR,Argentina
+KF864310,0,0,1353,1353,2006,Bats DR_I1,Bats DR,Argentina
+KF864311,0,0,1353,1353,2006,Bats DR_I1,Bats DR,Argentina
+KF864313,0,0,1353,1353,2006,Bats DR_A1.1.3,Bats DR,Argentina
+KF864314,0,0,1353,1353,2006,Bats DR_A1.1.3,Bats DR,Argentina
+KF864315,0,0,1353,1353,2006,Bats DR_A1.1.4,Bats DR,Argentina
+KF864316,0,0,1353,1353,2006,Bats DR_A1.1.4,Bats DR,Argentina
+KF864317,0,0,1353,1353,2006,Bats DR_A1.1.3,Bats DR,Argentina
+KF864318,0,0,1353,1353,2006,Bats DR_A1.1.4,Bats DR,Argentina
+KF864319,0,0,1353,1353,2006,Bats DR_A1.1.4,Bats DR,Argentina
+KF864320,0,0,1353,1353,2006,Bats DR_I1,Bats DR,Argentina
+KF864321,0,0,1353,1353,2006,Bats DR_I1,Bats DR,Argentina
+KF864322,0,0,1353,1353,2006,Bats DR_A1.1.4,Bats DR,Argentina
+KF864323,0,0,1353,1353,2000,Bats DR_A1.1.3,Bats DR,Argentina
+KF864324,0,0,1353,1353,2006,Bats DR_A1.1.4,Bats DR,Argentina
+KF864325,0,0,1353,1353,2006,Bats DR_I1,Bats DR,Argentina
+KF864326,0,0,1353,1353,2006,Bats DR_A1.1.11,Bats DR,Argentina
+KF864327,0,0,1353,1353,2006,Bats DR_A1.1.2,Bats DR,Argentina
+KF864328,0,0,1353,1353,2006,Bats DR_A1.1.4,Bats DR,Argentina
+KF864329,0,0,1353,1353,2006,Bats DR_A1.1.2,Bats DR,Argentina
+KF864330,0,0,1353,1353,2006,Bats DR_I1,Bats DR,Argentina
+KF864331,0,0,1353,1353,2006,Bats DR_I1,Bats DR,Argentina
+KF864332,0,0,1353,1353,2006,Bats DR_A1.1.4,Bats DR,Argentina
+KF864333,0,0,1353,1353,2006,Bats DR_I1,Bats DR,Argentina
+KF864334,0,0,1353,1353,2006,Bats DR_A1.1.11,Bats DR,Argentina
+KF864335,0,0,1353,1353,2006,Bats DR_I1,Bats DR,Argentina
+KF864336,0,0,1353,1353,2006,Bats DR_I1,Bats DR,Argentina
+KF864337,0,0,1353,1353,2006,Bats DR_A1.1.11,Bats DR,Argentina
+KF864339,0,0,1353,1353,2006,Bats DR_I1,Bats DR,Argentina
+KF864340,0,0,1353,1353,2006,Bats DR_I1,Bats DR,Argentina
+KF864341,0,0,1353,1353,2006,Bats DR_I1,Bats DR,Argentina
+KF864342,0,0,1353,1353,2006,Bats DR_I1,Bats DR,Argentina
+KF864343,0,0,1353,1353,2006,Bats DR_I1,Bats DR,Argentina
+KF864344,0,0,1353,1353,2006,Bats DR_I1,Bats DR,Argentina
+KF864346,0,0,1353,1353,2006,Bats DR_I1,Bats DR,Argentina
+KF864347,0,0,1353,1353,2007,Bats DR_A1.1.11,Bats DR,Argentina
+KF864348,0,0,1353,1353,2006,Bats DR_A1.1.11,Bats DR,Argentina
+KF864349,0,0,1353,1353,2007,Bats DR_I1,Bats DR,Argentina
+KF864350,0,0,1353,1353,2007,Bats DR_A1.1.11,Bats DR,Argentina
+KF864351,0,0,1353,1353,2007,Bats DR_A1.1.3,Bats DR,Argentina
+KF864352,0,0,1353,1353,2007,Bats DR_I1,Bats DR,Argentina
+KF864353,0,0,1353,1353,2007,Bats DR_I1,Bats DR,Argentina
+KF864354,0,0,1353,1353,2007,Bats DR_I1,Bats DR,Argentina
+KF864355,0,0,1353,1353,2007,Bats DR_I1,Bats DR,Argentina
+KF864356,0,0,1353,1353,2007,Bats DR_I1,Bats DR,Argentina
+KF864357,0,0,1353,1353,2007,Bats DR_A1.1.4,Bats DR,Argentina
+KF864358,0,0,1353,1353,2007,Bats DR_I1,Bats DR,Argentina
+KF864359,0,0,1353,1353,2007,Bats DR_I1,Bats DR,Argentina
+KF864360,0,0,1353,1353,2007,Bats DR_I1,Bats DR,Argentina
+KF864361,0,0,1353,1353,2007,Bats DR_A1.1.4,Bats DR,Argentina
+KF864362,0,0,1353,1353,2007,Bats DR_I1,Bats DR,Argentina
+KF864363,0,0,1353,1353,2007,Bats DR_I1,Bats DR,Argentina
+KF864365,0,0,1353,1353,2007,Bats DR_I1,Bats DR,Argentina
+KF864366,0,0,1353,1353,2007,Bats DR_A1.1.3,Bats DR,Argentina
+KF864367,0,0,1353,1353,2007,Bats DR_I1,Bats DR,Argentina
+KF864368,0,0,1353,1353,2007,Bats DR_A1.1.4,Bats DR,Argentina
+KF864369,0,0,1353,1353,2007,Bats DR_I1,Bats DR,Argentina
+KF864371,0,0,1353,1353,2007,Bats DR_I1,Bats DR,Argentina
+KF864372,0,0,1353,1353,2007,Bats DR_I1,Bats DR,Argentina
+KF864373,0,0,1353,1353,2007,Bats DR_I1,Bats DR,Argentina
+KF864374,0,0,1353,1353,2007,Bats DR_A1.1.11,Bats DR,Argentina
+KF864375,0,0,1353,1353,2007,Bats DR_A1.1.11,Bats DR,Argentina
+KF864376,0,0,1353,1353,2007,Bats DR_I1,Bats DR,Argentina
+KF864377,0,0,1353,1353,2001,Bats DR_A1.1.3,Bats DR,Argentina
+KF864378,0,0,1353,1353,2007,Bats DR_I1,Bats DR,Argentina
+KF864379,0,0,1353,1353,2007,Bats DR_I1,Bats DR,Argentina
+KF864380,0,0,1353,1353,2007,Bats DR_I1,Bats DR,Argentina
+KF864381,0,0,1353,1353,2008,Bats DR_I1,Bats DR,Argentina
+KF864382,0,0,1353,1353,2008,Bats DR_I1,Bats DR,Argentina
+KF864383,0,0,1353,1353,2008,Bats DR_I1,Bats DR,Argentina
+KF864384,0,0,1353,1353,2008,Bats DR_I1,Bats DR,Argentina
+KF864385,0,0,1353,1353,2008,Bats DR_A1.1.3,Bats DR,Argentina
+KF864386,0,0,1353,1353,2008,Bats DR_A1.1.4,Bats DR,Argentina
+KF864387,0,0,1353,1353,2008,Bats DR_I1,Bats DR,Argentina
+KF864388,0,0,1353,1353,2008,Bats DR_A1.1.4,Bats DR,Argentina
+KF864389,0,0,1353,1353,2008,Bats DR_A1.1.3,Bats DR,Argentina
+KF864390,0,0,1353,1353,2008,Bats DR_I1,Bats DR,Argentina
+KF864391,0,0,1353,1353,2008,Bats DR_I1,Bats DR,Argentina
+KF864392,0,0,1353,1353,2001,Bats DR_I1,Bats DR,Argentina
+KF864393,0,0,1353,1353,2008,Bats DR_A1.1.11,Bats DR,Argentina
+KF864394,0,0,1353,1353,2008,Bats DR_I1,Bats DR,Argentina
+KF864395,0,0,1353,1353,2001,Bats DR_A1.1.3,Bats DR,Argentina
+KF864396,0,0,1353,1353,2008,Bats DR_A1.1.11,Bats DR,Argentina
+KF864397,0,0,1353,1353,2008,Bats DR_A1.1.11,Bats DR,Argentina
+KF864398,0,0,1353,1353,2008,Bats DR_A1.1.11,Bats DR,Argentina
+KF864399,0,0,1353,1353,2001,Bats DR_A1.1.3,Bats DR,Argentina
+KF864400,0,0,1353,1353,2008,Bats DR_A1.1.11,Bats DR,Argentina
+KF864401,0,0,1353,1353,2008,Bats DR_I1,Bats DR,Argentina
+KF864402,0,0,1353,1353,2009,Bats DR_I1,Bats DR,Argentina
+KF864403,0,0,1353,1353,2009,Bats DR_A1.1.11,Bats DR,Argentina
+KF864405,0,0,1353,1353,2009,Bats DR_A1.1.3,Bats DR,Argentina
+KF864407,0,0,1353,1353,2009,Bats DR_I1,Bats DR,Argentina
+KF864408,0,0,1353,1353,2001,Bats DR_I1,Bats DR,Argentina
+KF864411,0,0,1353,1353,2009,Bats DR_A1.1.11,Bats DR,Argentina
+KF864412,0,0,1353,1353,2001,Bats DR_I1,Bats DR,Argentina
+KF864414,0,0,1353,1353,2009,Bats DR_A1.1.3,Bats DR,Argentina
+KF864415,0,0,1353,1353,2001,Bats DR_A1.1.3,Bats DR,Argentina
+KJ001526,0,11,1353,1342,2007,Bats TB1_A1,Bats TB1,Mexico
+KM594023,0,56,NA,NA,2008,Bat_C1,Bats,Brazil
+KM594024,0,53,NA,NA,2012,Bat_C1,Bats,Brazil
+KM594025,0,60,NA,NA,2007,Bat_C1,Bats,Brazil
+KM594030,0,45,NA,NA,2010,Bat_D1,Bats,Brazil
+KM594031,0,47,NA,NA,2010,Bat_D1,Bats,Brazil
+KM594032,0,44,NA,NA,2010,Bat_D1,Bats,Brazil
+KM594037,0,43,NA,NA,2009,Bat_B1,Bats TB2,Brazil
+KM594038,0,43,NA,NA,2010,Bat_B1,Bats TB2,Brazil
+KM594040,0,66,NA,NA,2013,Bat_B1.1,Bats DR,Brazil
+KM594041,0,68,NA,NA,2013,Bat_B1.1,Bats DR,Brazil
+KM594042,0,66,NA,NA,2013,Bat_B1.1,Bats DR,Brazil
+KM594043,0,68,NA,NA,2012,Bat_B1.1,Bats DR,Brazil
+KP202393,0,0,1353,1353,1988,Bats DR_A1.2,Bats DR,Mexico
+KR781537,0,45,1353,1308,2009,Bats DR_A1.1.7,Bats DR,Brazil
+KT276358,0,0,1353,1353,2003,Bats DR_A1.1.10,Bats DR,French Guiana
+KT276359,0,0,1353,1353,2009,Bat_B1.1,Bats DR,French Guiana
+KT276360,0,0,1353,1353,1989,Bats DR_A1.1.10,Bats DR,French Guiana
+KT276361,0,0,1353,1353,1989,Bat_B1.1,Bats DR,French Guiana
+KT276362,0,0,1353,1353,1991,Bat_B1.1,Bats DR,French Guiana
+KT276363,0,0,1353,1353,1991,Bat_B1.1,Bats DR,French Guiana
+KT276364,0,0,1353,1353,1997,Bats DR_A1.1.1,Bats DR,French Guiana
+KT276365,0,0,1353,1353,1997,Bats DR_A1.1.1,Bats DR,French Guiana
+KT276366,0,0,1353,1353,1997,Bats DR_A1.1.1,Bats DR,French Guiana
+KT276367,0,0,1353,1353,1999,Bats DR_A1.1.1,Bats DR,French Guiana
+KU523255,0,25,NA,NA,2010,Bat_B1.1,Bats DR,French Guiana
+KU550099,0,0,1353,1353,2014,Bats DR_A1.4,Bats DR,Costa Rica
+KU550100,0,0,1353,1353,2014,Bats DR_A1.4,Bats DR,Costa Rica
+KU550102,0,0,1353,1353,2014,Bats DR_A1.5,Bats DR,Costa Rica
+KU938660,0,3,1353,1350,2001,Bats DR_A1.3.1,Bats DR,Peru
+KU938661,0,3,1353,1350,2001,Bats DR_A1.3.1,Bats DR,Peru
+KU938662,0,3,1353,1350,2000,Bats DR_A1.3.1,Bats DR,Peru
+KU938663,0,3,1353,1350,2001,Bats DR_E1.1,Bats DR,Peru
+KU938664,0,3,1353,1350,2001,Bats DR_E1.1.1,Bats DR,Peru
+KU938665,0,3,1353,1350,2000,Bats DR_A1.3.1,Bats DR,Peru
+KU938666,0,3,1353,1350,2010,Bats DR_A1.1,Bats DR,Peru
+KU938667,0,3,1353,1350,1998,Bats DR_A1.3.1,Bats DR,Peru
+KU938668,0,3,1353,1350,2001,Bats DR_E1,Bats DR,Peru
+KU938669,0,3,1353,1350,2010,Bats DR_B1.1,Bats DR,Peru
+KU938670,0,3,1353,1350,2001,Bats DR_E1,Bats DR,Peru
+KU938671,0,3,1353,1350,2001,Bats DR_A1.1.9,Bats DR,Peru
+KU938672,0,3,1353,1350,2010,Bats DR_E1.1,Bats DR,Peru
+KU938673,0,3,1353,1350,1999,Bats DR_A1.1.14,Bats DR,Peru
+KU938674,0,3,1353,1350,2010,Bats DR_A1.1,Bats DR,Peru
+KU938676,0,3,1353,1350,2010,Bats DR_B1.1,Bats DR,Peru
+KU938677,0,3,1353,1350,2010,Bats DR_A1.1,Bats DR,Peru
+KU938678,0,3,1353,1350,1998,Bats DR_A1.3.1,Bats DR,Peru
+KU938679,0,3,1353,1350,2009,Bats DR_E1,Bats DR,Peru
+KU938680,0,3,1353,1350,2009,Bats DR_A1.1.7,Bats DR,Peru
+KU938681,0,3,1353,1350,2004,Bats DR_A1.1.9,Bats DR,Peru
+KU938682,0,3,1353,1350,2010,Bats DR_A1.1.10,Bats DR,Peru
+KU938683,0,3,1353,1350,2010,Bats DR_B1.1,Bats DR,Peru
+KU938684,0,3,1353,1350,2004,Bats DR_A1.1.9,Bats DR,Peru
+KU938685,0,3,1353,1350,2001,Bats DR_A1.1.10,Bats DR,Peru
+KU938686,0,5,1353,1348,2004,Bats DR_A1.1.10,Bats DR,Peru
+KU938687,0,3,1353,1350,2004,Bats DR_A1.1.9,Bats DR,Peru
+KU938689,0,3,1353,1350,2004,Bats DR_E1.1,Bats DR,Peru
+KU938690,0,3,1353,1350,2000,Bats DR_A1.1.9,Bats DR,Peru
+KU938691,0,3,1353,1350,2004,Bats DR_E1,Bats DR,Peru
+KU938692,0,3,1353,1350,2004,Bats DR_A1.1.10,Bats DR,Peru
+KU938693,0,3,1353,1350,2009,Bats DR_A1.1.10,Bats DR,Peru
+KU938694,0,3,1353,1350,2004,Bats DR_E1,Bats DR,Peru
+KU938696,0,3,1353,1350,2001,Bats DR_A1.3.1,Bats DR,Peru
+KU938697,0,3,1353,1350,2001,Bats DR_A1.3.1,Bats DR,Peru
+KU938699,0,3,1353,1350,2004,Bats DR_E1,Bats DR,Peru
+KU938700,0,3,1353,1350,2005,Bats DR_A1.1.14,Bats DR,Peru
+KU938701,0,3,1353,1350,2000,Bat,Bats DR,Peru
+KU938702,0,3,1353,1350,2004,Bats DR_A1.1.5,Bats DR,Peru
+KU938704,0,3,1353,1350,2010,Bats DR_A1.1,Bats DR,Peru
+KU938705,0,3,1353,1350,2001,Bats DR_E1,Bats DR,Peru
+KU938706,0,3,1353,1350,2004,Bats DR_E1,Bats DR,Peru
+KU938707,0,3,1353,1350,2004,Bats DR_E1,Bats DR,Peru
+KU938708,0,3,1353,1350,2001,Bats DR_E1,Bats DR,Peru
+KU938709,0,3,1353,1350,2004,Bats DR_E1.1,Bats DR,Peru
+KU938710,0,3,1353,1350,2010,Bats DR_E1.1.1,Bats DR,Peru
+KU938711,0,3,1353,1350,2010,Bats DR_E1,Bats DR,Peru
+KU938712,0,3,1353,1350,2004,Bats DR_A1.1.9,Bats DR,Peru
+KU938713,0,3,1353,1350,2004,Bats DR_B1.1,Bats DR,Peru
+KU938714,0,3,1353,1350,2004,Bats DR_A1.1.9,Bats DR,Peru
+KU938715,0,3,1353,1350,2004,Bats DR_A1.1.9,Bats DR,Peru
+KU938716,0,3,1353,1350,2009,Bats DR_A1,Bats DR,Peru
+KU938717,0,3,1353,1350,2004,Bats DR_A1.1.10,Bats DR,Peru
+KU938719,0,3,1353,1350,2010,Bats DR_B1.1,Bats DR,Peru
+KU938720,0,3,1353,1350,2010,Bats DR_B1,Bats DR,Peru
+KU938721,0,3,1353,1350,2010,Bats DR_B1.1,Bats DR,Peru
+KU938722,0,3,1353,1350,2010,Bats DR_E1,Bats DR,Peru
+KU938723,0,3,1353,1350,2005,Bats DR_E1,Bats DR,Peru
+KU938724,0,3,1353,1350,2010,Bats DR_B1.1,Bats DR,Peru
+KU938725,0,3,1353,1350,2009,Bats DR_E1,Bats DR,Peru
+KU938726,0,3,1353,1350,2010,Bats DR_E1.1,Bats DR,Peru
+KU938727,0,3,1353,1350,2010,Bats DR_A1.1.10,Bats DR,Peru
+KU938728,0,3,1353,1350,2010,Bats DR_A1.1.10,Bats DR,Peru
+KU938729,0,3,1353,1350,2010,Bats DR_A1.1.10,Bats DR,Peru
+KU938731,0,3,1353,1350,2011,Bats DR_B1,Bats DR,Peru
+KU938732,0,3,1353,1350,2011,Bats DR_B1.1,Bats DR,Peru
+KU938735,0,3,1353,1350,2011,Bats DR_B1,Bats DR,Peru
+KU938736,0,3,1353,1350,2011,Bats DR_E1.1.1,Bats DR,Peru
+KU938737,0,3,1353,1350,2011,Bats DR_A1.1.9,Bats DR,Peru
+KU938738,0,3,1353,1350,2009,Bats DR_B1.1,Bats DR,Peru
+KU938739,0,3,1353,1350,2011,Bats DR_E1,Bats DR,Peru
+KU938740,0,3,1353,1350,2011,Bat,Bats DR,Peru
+KU938741,0,3,1353,1350,2011,Bats DR_A1.1,Bats DR,Peru
+KU938742,0,3,1353,1350,2011,Bats DR_A1.1,Bats DR,Peru
+KU938743,0,3,1353,1350,2011,Bats DR_A1.1,Bats DR,Peru
+KU938745,0,3,1353,1350,2011,Bats DR_A1.1,Bats DR,Peru
+KU938747,0,3,1353,1350,2011,Bats DR_E1.1,Bats DR,Peru
+KU938748,0,3,1353,1350,2011,Bats DR_A1.1.9,Bats DR,Peru
+KU938749,0,3,1353,1350,2011,Bats DR_A1.1,Bats DR,Peru
+KU938750,0,3,1353,1350,2011,Bats DR_A1.1,Bats DR,Peru
+KU938751,0,3,1353,1350,2011,Bats DR_A1.1,Bats DR,Peru
+KU938755,0,3,1353,1350,2011,Bats DR_A1.1,Bats DR,Peru
+KU938756,0,3,1353,1350,2011,Bats DR_A1.1.9,Bats DR,Peru
+KU938757,0,3,1353,1350,2011,Bats DR_E1.1,Bats DR,Peru
+KU938759,0,3,1353,1350,2011,Bats DR_E1.1,Bats DR,Peru
+KU938760,0,3,1353,1350,2011,Bats DR_A1.1,Bats DR,Peru
+KU938761,0,3,1353,1350,2011,Bats DR_B1.1,Bats DR,Peru
+KU938763,0,3,1353,1350,2011,Bats DR_E1.1,Bats DR,Peru
+KU938764,0,3,1353,1350,2011,Bats DR_E1.1,Bats DR,Peru
+KU938766,0,3,1353,1350,2011,Bats DR_B1.1,Bats DR,Peru
+KU938768,0,3,1353,1350,2011,Bats DR_A1.1,Bats DR,Peru
+KU938769,0,3,1353,1350,2011,Bats DR_A1.1.9,Bats DR,Peru
+KU938770,0,3,1353,1350,2011,Bats DR_A1.1.9,Bats DR,Peru
+KU938771,0,3,1353,1350,2011,Bats DR_A1.1.10,Bats DR,Peru
+KU938772,0,3,1353,1350,2012,Bats DR_A1.1.10,Bats DR,Peru
+KU938774,0,3,1353,1350,2012,Bats DR_A1.1.10,Bats DR,Peru
+KU938775,0,3,1353,1350,2012,Bats DR_A1.1.10,Bats DR,Peru
+KU938776,0,3,1353,1350,2012,Bats DR_E1.1,Bats DR,Peru
+KU938777,0,3,1353,1350,2012,Bats DR_B1,Bats DR,Peru
+KU938778,0,3,1353,1350,2012,Bats DR_A1.1.10,Bats DR,Peru
+KU938779,0,3,1353,1350,2012,Bats DR_A1,Bats DR,Peru
+KU938780,0,3,1353,1350,2012,Bats DR_B1,Bats DR,Peru
+KU938781,0,3,1353,1350,2012,Bats DR_B1.1,Bats DR,Peru
+KU938782,0,3,1353,1350,2012,Bats DR_B1,Bats DR,Peru
+KU938783,0,3,1353,1350,2012,Bats DR_A1.1,Bats DR,Peru
+KU938784,0,3,1353,1350,2012,Bats DR_A1.1,Bats DR,Peru
+KU938786,0,3,1353,1350,2012,Bats DR_E1.1,Bats DR,Peru
+KU938787,0,3,1353,1350,2012,Bats DR_A1.1.10,Bats DR,Peru
+KU938788,0,3,1353,1350,2012,Bats DR_A1.1.10,Bats DR,Peru
+KU938789,0,3,1353,1350,2012,Bats DR_A1.1.10,Bats DR,Peru
+KU938790,0,3,1353,1350,2012,Bats DR_B1.1,Bats DR,Peru
+KU938791,0,3,1353,1350,2012,Bats DR_B1,Bats DR,Peru
+KU938792,0,3,1353,1350,2012,Bats DR_B1,Bats DR,Peru
+KU938793,0,3,1353,1350,2012,Bats DR_B1.1,Bats DR,Peru
+KU938794,0,3,1353,1350,2012,Bats DR_B1,Bats DR,Peru
+KU938798,0,3,1353,1350,2012,Bats DR_B1.1,Bats DR,Peru
+KU938800,0,3,1353,1350,2012,Bats DR_B1.1,Bats DR,Peru
+KU938801,0,3,1353,1350,2012,Bats DR_A1.1,Bats DR,Peru
+KU938803,0,3,1353,1350,2012,Bats DR_A1.1.10,Bats DR,Peru
+KU938804,0,3,1353,1350,2012,Bats DR_B1.1,Bats DR,Peru
+KU938805,0,3,1353,1350,2012,Bats DR_B1,Bats DR,Peru
+KU938806,0,3,1353,1350,2012,Bats DR_A1.1.14,Bats DR,Peru
+KU938808,0,3,1353,1350,2012,Bats DR_A1.1.10,Bats DR,Peru
+KU938809,0,3,1353,1350,2012,Bats DR_A1.1,Bats DR,Peru
+KU938811,0,3,1353,1350,2012,Bats DR_A1.1,Bats DR,Peru
+KU938812,0,3,1353,1350,2012,Bats DR_A1.1,Bats DR,Peru
+KU938813,0,3,1353,1350,2012,Bats DR_A1.1,Bats DR,Peru
+KU938814,0,3,1353,1350,2012,Bats DR_B1,Bats DR,Peru
+KU938815,0,3,1353,1350,2012,Bats DR_A1.1.10,Bats DR,Peru
+KU938816,0,3,1353,1350,2012,Bats DR_A1.1.9,Bats DR,Peru
+KU938819,0,3,1353,1350,2012,Bats DR_A1.1,Bats DR,Peru
+KU938820,0,3,1353,1350,2012,Bats DR_A1.1.10,Bats DR,Peru
+KU938821,0,3,1353,1350,2012,Bats DR_B1,Bats DR,Peru
+KU938822,0,3,1353,1350,2012,Bats DR_A1.1.10,Bats DR,Peru
+KU938823,0,3,1353,1350,2012,Bats DR_A1.1,Bats DR,Peru
+KU938825,0,3,1353,1350,2012,Bats DR_B1.1,Bats DR,Peru
+KU938826,0,3,1353,1350,2012,Bats DR_A1.1.10,Bats DR,Peru
+KU938827,0,3,1353,1350,2012,Bats DR_E1.1,Bats DR,Peru
+KU938830,0,3,1353,1350,2012,Bats DR_A1.1,Bats DR,Peru
+KU938831,0,3,1353,1350,2012,Bats DR_A1.1.10,Bats DR,Peru
+KU938832,0,3,1353,1350,2012,Bats DR_A1.1.10,Bats DR,Peru
+KU938833,0,3,1353,1350,2012,Bats DR_E1,Bats DR,Peru
+KU938834,0,3,1353,1350,2012,Bats DR_A1.1.10,Bats DR,Peru
+KU938836,0,3,1353,1350,2012,Bats DR_A1.1.10,Bats DR,Peru
+KU938837,0,3,1353,1350,2012,Bats DR_A1.1.10,Bats DR,Peru
+KU938838,0,3,1353,1350,2012,Bats DR_A1.1,Bats DR,Peru
+KU938839,0,3,1353,1350,2012,Bats DR_A1.1,Bats DR,Peru
+KU938842,0,3,1353,1350,2011,Bats DR_A1,Bats DR,Peru
+KU938843,0,3,1353,1350,2010,Bats DR_A1.1.10,Bats DR,Peru
+KU938844,0,3,1353,1350,2011,Bats DR_A1.1,Bats DR,Peru
+KU938845,0,3,1353,1350,2010,Bats DR_E1.1,Bats DR,Peru
+KU938846,0,3,1353,1350,2010,Bats DR_B1.1,Bats DR,Peru
+KU938847,0,3,1353,1350,2005,Bats DR_E1,Bats DR,Peru
+KU938849,0,3,1353,1350,2005,Bats DR_A1.1.10,Bats DR,Peru
+KU938851,0,3,1353,1350,2011,Bats DR_A1.1,Bats DR,Peru
+KU938852,0,3,1353,1350,2011,Bats DR_A1.1.10,Bats DR,Peru
+KU938855,0,3,1353,1350,2001,Bats DR_E1,Bats DR,Peru
+KU938856,0,3,1353,1350,2010,Bats DR_E1.1,Bats DR,Peru
+KU938858,0,3,1353,1350,2011,Bats DR_B1.1,Bats DR,Peru
+KU938859,0,3,1353,1350,2010,Bats DR_E1.1,Bats DR,Peru
+KU938861,0,3,1353,1350,2008,Bats DR_B1.1,Bats DR,Peru
+KU938862,0,3,1353,1350,2010,Bats DR_A1.1,Bats DR,Peru
+KU938863,0,3,1353,1350,2008,Bats DR_A1.1.14,Bats DR,Peru
+KU938864,0,3,1353,1350,2008,Bats DR_B1.1,Bats DR,Peru
+KU938865,0,3,1353,1350,2001,Bats DR_E1,Bats DR,Peru
+KU938867,0,3,1353,1350,2009,Bats DR_A1.1.10,Bats DR,Peru
+KU938869,0,3,1353,1350,2010,Bats DR_B1.1,Bats DR,Peru
+KU938871,0,3,1353,1350,2009,Bat,Bats DR,Peru
+KU938872,0,3,1353,1350,2011,Bats DR_B1.1,Bats DR,Peru
+KU938873,0,3,1353,1350,2009,Bats DR_E1,Bats DR,Peru
+KU938874,0,3,1353,1350,2009,Bats DR_B1.1,Bats DR,Peru
+KU938875,0,3,1353,1350,2011,Bats DR_A1.1,Bats DR,Peru
+KU938877,0,3,1353,1350,2001,Bats DR_B1.1,Bats DR,Peru
+KU938878,0,3,1353,1350,2009,Bats DR_B1.1,Bats DR,Peru
+KU938879,0,3,1353,1350,2009,Bats DR_B1,Bats DR,Peru
+KU938880,0,3,1353,1350,2009,Bats DR_B1,Bats DR,Peru
+KU938882,0,3,1353,1350,2011,Bats DR_E1,Bats DR,Peru
+KU938883,0,3,1353,1350,2010,Bats DR_A1.1.10,Bats DR,Peru
+KU938885,0,3,1353,1350,2009,Bats DR_B1,Bats DR,Peru
+KU938886,0,3,1353,1350,2009,Bats DR_E1.1.1,Bats DR,Peru
+KU938889,0,3,1353,1350,2010,Bats DR_B1.1,Bats DR,Peru
+KU938890,0,3,1353,1350,2009,Bats DR_A1,Bats DR,Peru
+KU938892,0,3,1353,1350,2009,Bats DR_E1.1.1,Bats DR,Peru
+KU938893,0,3,1353,1350,2001,Bats DR_A1.3.1,Bats DR,Peru
+KU938894,0,3,1353,1350,2009,Bats DR_A1,Bats DR,Peru
+KU938895,6,3,1353,1344,2009,Bats DR_E1,Bats DR,Peru
+KU938896,0,3,1353,1350,2010,Bats DR_A1.1,Bats DR,Peru
+KU938897,0,3,1353,1350,2010,Bats DR_A1.1,Bats DR,Peru
+KU938898,0,3,1353,1350,2010,Bats DR_A1.1,Bats DR,Peru
+KU938899,0,3,1353,1350,2009,Bats DR_A1.1.14,Bats DR,Peru
+KU938900,0,3,1353,1350,2009,Bats DR_E1,Bats DR,Peru
+KU938901,0,3,1353,1350,1999,Bats DR_A1.1.9,Bats DR,Peru
+KU938902,0,3,1353,1350,2001,Bats DR_E1,Bats DR,Peru
+KU938903,0,3,1353,1350,2001,Bats DR_E1,Bats DR,Peru
+KU938905,0,3,1353,1350,2001,Bat,Bats DR,Peru
+KU938906,0,3,1353,1350,2010,Bats DR_A1.1,Bats DR,Peru
+KU938907,0,3,1353,1350,2009,Bats DR_E1,Bats DR,Peru
+KU938908,0,3,1353,1350,2009,Bats DR_E1.1,Bats DR,Peru
+KU938909,0,3,1353,1350,2006,Bats DR_E1,Bats DR,Peru
+KU938910,0,3,1353,1350,2009,Bats DR_B1.1,Bats DR,Peru
+KU938912,0,3,1353,1350,2001,Bats DR_A1.1.14,Bats DR,Peru
+KU938913,0,3,1353,1350,2002,Bats DR_A1.1.9,Bats DR,Peru
+KU938914,0,3,1353,1350,2002,Bats DR_E1,Bats DR,Peru
+KU938915,0,3,1353,1350,1999,Bats DR_B1.1,Bats DR,Peru
+KU938916,0,3,1353,1350,1999,Bats DR_B1,Bats DR,Peru
+KU938917,0,3,1353,1350,2001,Bats DR_A1.1.14,Bats DR,Peru
+KU938918,0,3,1353,1350,2004,Bats DR_A1.1.9,Bats DR,Peru
+KU938919,0,3,1353,1350,2009,Bats DR_A1.1.10,Bats DR,Peru
+KU938920,0,3,1353,1350,1998,Bats DR_A1.1.9,Bats DR,Peru
+KU938921,0,3,1353,1350,2001,Bats DR_A1.3.1,Bats DR,Peru
+KU938922,0,3,1353,1350,2004,Bats DR_E1.1,Bats DR,Peru
+KU938923,0,3,1353,1350,2004,Bats DR_A1.1.1,Bats DR,Peru
+KU938924,0,3,1353,1350,2009,Bats DR_A1.1.9,Bats DR,Peru
+KU963508,0,3,1353,1350,2016,Bats LC_A1,Bats LC,United States
+KU963509,0,3,1353,1350,2016,Bats DR_E1,Bats DR,Peru
+KU963511,0,3,1353,1350,2016,Bats LN_A1,Bats LN,United States
+KU963512,0,3,1353,1350,2016,Bats MYsp_A1,Bats MYsp,United States
+KU963515,0,3,1353,1350,2016,Bats LB2_A1,Bats LB2,United States
+KX090586,0,42,1353,1311,2016,Bat,Bats DR,Brazil
+KX090587,0,39,1353,1314,2016,Bat,Bats DR,Brazil
+KX090589,0,39,1353,1314,2016,Bat,Bats DR,Brazil
+KX090590,0,39,1353,1314,2016,Bat,Bats DR,Brazil
+KX090591,0,39,1353,1314,2016,Bat,Bats DR,Brazil
+KX090593,0,39,1353,1314,2016,Bat,Bats DR,Brazil
+KX090594,0,39,1353,1314,2016,Bats DR_I1,Bats DR,Brazil
+KX090595,0,39,1353,1314,2016,Bats DR_I1,Bats DR,Brazil
+KX090596,0,39,1353,1314,2016,Bats DR_I1,Bats DR,Brazil
+KX090597,0,39,1353,1314,2016,Bats DR_I1,Bats DR,Brazil
+KX090598,0,39,1353,1314,2016,Bats DR_I1,Bats DR,Brazil
+KX090599,0,39,1353,1314,2016,Bats DR_I1,Bats DR,Brazil
+KX090600,0,39,1353,1314,2016,Bats DR_A1.1.2,Bats DR,Brazil
+KX090601,0,39,1353,1314,2016,Bats DR_A1.1.2,Bats DR,Brazil
+KX090602,0,39,1353,1314,2016,Bats DR_A1.1.2,Bats DR,Brazil
+KX090603,0,39,1353,1314,2016,Bat,Bats DR,Brazil
+KX090604,0,39,1353,1314,2016,Bat,Bats DR,Brazil
+KX090605,0,39,1353,1314,2016,Bats DR_A1.1.2,Bats DR,Brazil
+KX090606,0,39,1353,1314,2016,Bats DR_I1,Bats DR,Brazil
+KX090607,0,39,1353,1314,2016,Bats DR_I1,Bats DR,Brazil
+KX090608,0,39,1353,1314,2016,Bats DR_I1,Bats DR,Brazil
+KX090609,0,39,1353,1314,2016,Bats DR_A1.1.2,Bats DR,Brazil
+KX090610,0,39,1353,1314,2016,Bats DR_I1,Bats DR,Brazil
+KX090612,0,39,1353,1314,2016,Bats DR_I1,Bats DR,Brazil
+KX090613,0,39,1353,1314,2016,Bats DR_I1,Bats DR,Brazil
+KX090614,0,39,1353,1314,2016,Bats DR_I1,Bats DR,Brazil
+KX090615,0,39,1353,1314,2016,Bats DR_I1,Bats DR,Brazil
+KX090616,0,39,1353,1314,2016,Bats DR_I1,Bats DR,Brazil
+KX090617,0,39,1353,1314,2016,Bats DR_I1,Bats DR,Brazil
+KX090618,0,39,1353,1314,2016,Bats DR_I1,Bats DR,Brazil
+KX090619,0,39,1353,1314,2016,Bats DR_I1,Bats DR,Brazil
+KX090620,0,39,1353,1314,2016,Bats DR_A1.1.2,Bats DR,Brazil
+KX090621,0,39,1353,1314,2016,Bats DR_I1,Bats DR,Brazil
+KX090622,0,39,1353,1314,2016,Bats DR_I1,Bats DR,Brazil
+KX090623,0,39,1353,1314,2016,Bats DR_I1,Bats DR,Brazil
+KX090624,0,39,1353,1314,2016,Bats DR_I1,Bats DR,Brazil
+KX090625,0,39,1353,1314,2016,Bats DR_I1,Bats DR,Brazil
+KX090626,0,39,1353,1314,2016,Bats DR_I1,Bats DR,Brazil
+KX090627,0,39,1353,1314,2016,Bats DR_I1,Bats DR,Brazil
+KX090628,0,39,1353,1314,2016,Bats DR_I1,Bats DR,Brazil
+KX090629,0,39,1353,1314,2016,Bats DR_I1,Bats DR,Brazil
+KX090630,0,39,1353,1314,2016,Bats DR_I1,Bats DR,Brazil
+KX090631,0,39,1353,1314,2016,Bats DR_A1.1.2,Bats DR,Brazil
+KX090632,0,45,1353,1308,2016,Bats DR_A1.1.2,Bats DR,Brazil
+KX090633,0,39,1353,1314,2016,Bats DR_I1,Bats DR,Brazil
+KX090634,0,39,1353,1314,2016,Bats DR_I1,Bats DR,Brazil
+KX090635,0,39,1353,1314,2016,Bats DR_A1.1.11,Bats DR,Brazil
+KX090636,0,39,1353,1314,2016,Bats DR_I1,Bats DR,Brazil
+KX090637,0,39,1353,1314,2016,Bats DR_A1.1.11,Bats DR,Brazil
+KX090638,0,39,1353,1314,2016,Bats DR_A1.1.11,Bats DR,Brazil
+KX090640,0,39,1353,1314,2016,Bats DR_A1.1.11,Bats DR,Brazil
+KX090641,0,39,1353,1314,2016,Bats DR_A1.1.11,Bats DR,Brazil
+KX090642,0,39,1353,1314,2016,Bats DR_A1.1.11,Bats DR,Brazil
+KX090643,0,39,1353,1314,2016,Bats DR_A1.1.11,Bats DR,Brazil
+KX148100,0,25,NA,NA,2009,Bat_B1.1,Bats DR,French Guiana
+KX148109,0,23,NA,NA,1986,Bat_B1.1,Bats DR,Brazil
+KX148268,0,145,NA,NA,1990,Bat_B1.1,Bats DR,French Guiana
+KX148269,0,121,NA,NA,1997,Bat_B1,Bats TB2,Argentina
+KY203040,0,3,1353,1350,1989,Bats EF-E2_A1,Bats EF-E2,Canada
+KY203041,0,3,1353,1350,1990,Bats LN_A1,Bats LN,Canada
+KY203042,0,3,1353,1350,1993,Bat_D1,Bats MYsp,Canada
+KY203043,0,6,1353,1347,1993,Bats EF-E1_A1,Bats EF-E1,Canada
+KY203044,0,3,1353,1350,1994,Bats EF-E2_A1.2,Bats EF-E2,Canada
+KY203046,0,3,1353,1350,1994,Bats LN_A1,Bats LN,Canada
+KY203047,0,3,1353,1350,1995,Bats EF-E2_A1,Bats EF-E2,Canada
+KY203048,0,3,1353,1350,1995,Bats LN_A1,Bats LN,Canada
+KY203052,0,3,1353,1350,1997,Bat_D1,Bats MYsp,Canada
+KY203053,0,3,1353,1350,1997,Bats MYsp_A1,Bats MYsp,Canada
+KY203054,0,3,1353,1350,1997,Bats MYsp_A1,Bats MYsp,Canada
+KY203056,0,3,1353,1350,1998,Bats MYsp_A1,Bats MYsp,Canada
+KY203057,0,3,1353,1350,1998,Bats MYsp_A1,Bats MYsp,Canada
+KY203058,0,3,1353,1350,1999,Bats MYsp_A1,Bats MYsp,Canada
+KY203059,0,3,1353,1350,1999,Bats MYsp_A1,Bats MYsp,Canada
+KY203060,0,3,1353,1350,1999,Bats MYsp_A1,Bats MYsp,Canada
+KY203061,0,3,1353,1350,1999,Bats LN_A1,Bats LN,Canada
+KY203063,0,3,1353,1350,2000,Bats EF-W2_A1,Bats EF-W2,Canada
+KY203064,0,3,1353,1350,2000,Bats MYsp_A1,Bats MYsp,Canada
+KY203065,0,3,1353,1350,2000,Bats MYsp_A1.3.1,Bats MYsp,Canada
+KY203068,0,3,1353,1350,2001,Bats MYsp_A1,Bats MYsp,Canada
+KY203070,0,3,1353,1350,2001,Bats LN_A1,Bats LN,Canada
+KY203071,0,3,1353,1350,2001,Bats EF-E2_A1,Bats EF-E2,Canada
+KY203074,0,3,1353,1350,2002,Bat_D1,Bats MYsp,Canada
+KY203075,0,3,1353,1350,2002,Bats MYsp_A1,Bats MYsp,Canada
+KY203076,0,3,1353,1350,2002,Bats MYsp_A1.3,Bats MYsp,Canada
+KY203077,0,3,1353,1350,2002,Bats MYsp_A1,Bats MYsp,Canada
+KY203078,0,3,1353,1350,2002,Bats MYsp_A1,Bats MYsp,Canada
+KY203081,0,3,1353,1350,2003,Bats EF-E2_A1.2,Bats EF-E2,Canada
+KY203082,0,3,1353,1350,2003,Bats MYsp_A1,Bats MYsp,Canada
+KY203086,0,3,1353,1350,2003,Bats MYsp_A1,Bats MYsp,Canada
+KY203087,0,3,1353,1350,2003,Bats MYsp_A1,Bats MYsp,Canada
+KY203090,0,3,1353,1350,2003,Bats EF-E2_A1,Bats EF-E2,Canada
+KY203092,0,3,1353,1350,2003,Bats EF-E2_A1,Bats EF-E2,Canada
+KY203095,0,3,1353,1350,2004,Bat_D1,Bats MYsp,Canada
+KY203096,0,3,1353,1350,2004,Bat_D1,Bats MYsp,Canada
+KY203100,0,3,1353,1350,2005,Bats MYsp_A1,Bats MYsp,Canada
+KY203101,0,3,1353,1350,2005,Bats MYsp_A1.2,Bats MYsp,Canada
+KY203102,0,3,1353,1350,2005,Bats LN_A1,Bats LN,Canada
+KY203104,0,3,1353,1350,2005,Bats MYsp_A1,Bats MYsp,Canada
+KY203106,0,3,1353,1350,2005,Bat_D1,Bats MYsp,Canada
+KY203107,0,3,1353,1350,2005,Bats LN_A1,Bats LN,Canada
+KY203110,0,3,1353,1350,2006,Bats MYsp_A1,Bats MYsp,Canada
+KY203111,0,3,1353,1350,2006,Bats MYsp_A1,Bats MYsp,Canada
+KY203112,0,3,1353,1350,2006,Bats MYsp_A1.3,Bats MYsp,Canada
+KY203116,0,3,1353,1350,2006,Bat_D1,Bats MYsp,Canada
+KY203117,0,3,1353,1350,2006,Bats_A1,Bats MYsp,Canada
+KY203124,0,3,1353,1350,2007,Bats MYsp_A1.3.1,Bats MYsp,Canada
+KY203125,0,3,1353,1350,2007,Bats MYsp_A1,Bats MYsp,Canada
+KY203126,0,3,1353,1350,2007,Bats MYsp_A1.3.1,Bats MYsp,Canada
+KY203128,0,3,1353,1350,2007,Bats LC_A1,Bats LC,Canada
+KY203131,0,3,1353,1350,2007,Bat_D1,Bats MYsp,Canada
+KY203134,0,3,1353,1350,2008,Bats MYsp_A1.3.1,Bats MYsp,Canada
+KY203137,0,3,1353,1350,2008,Bats MYsp_A1,Bats MYsp,Canada
+KY203138,0,3,1353,1350,2008,Bats MYsp_A1,Bats MYsp,Canada
+KY203141,0,3,1353,1350,2009,Bats LN_A1,Bats LN,Canada
+KY203142,0,3,1353,1350,2009,Bats MYsp_A1.3.1,Bats MYsp,Canada
+KY203143,0,3,1353,1350,2009,Bats MYsp_A1,Bats MYsp,Canada
+KY203147,0,3,1353,1350,2010,Bats MYsp_A1.3,Bats MYsp,Canada
+KY203148,0,3,1353,1350,2010,Bats MYsp_A1.3.1,Bats MYsp,Canada
+KY203152,0,3,1353,1350,2010,Bats LN_A1,Bats LN,Canada
+KY203155,0,3,1353,1350,2011,Bats MYsp_A1,Bats MYsp,Canada
+KY203156,0,3,1353,1350,2011,Bats MYsp_A1,Bats MYsp,Canada
+KY203159,0,3,1353,1350,2011,Bats EF-E2_A1,Bats EF-E2,Canada
+KY203160,0,3,1353,1350,2011,Bats_A1,Bats MYsp,Canada
+KY203163,0,3,1353,1350,2012,Bats LN_A1,Bats LN,Canada
+KY203165,0,3,1353,1350,2012,Bats MYsp_A1.3.1,Bats MYsp,Canada
+KY203169,0,3,1353,1350,2012,Bats MYsp_A1.3.1,Bats MYsp,Canada
+KY203171,0,3,1353,1350,2012,Bats LN_A1,Bats LN,Canada
+KY203173,0,3,1353,1350,2013,Bats MYsp_A1.3.1,Bats MYsp,Canada
+KY203176,0,3,1353,1350,2014,Bats EF-E2_A1.2,Bats EF-E2,Canada
+KY203177,0,3,1353,1350,2014,Bats MYsp_A1.3.1,Bats MYsp,Canada
+KY203178,0,3,1353,1350,2014,Bats EF-E2_A1.2,Bats EF-E2,Canada
+KY203179,0,3,1353,1350,2014,Bats LN_A1,Bats LN,Canada
+KY203180,0,3,1353,1350,2014,Bats EF-E2_A1.2,Bats EF-E2,Canada
+KY203181,0,3,1353,1350,2015,Bat_D1,Bats MYsp,Canada
+KY203183,0,3,1353,1350,2015,Bats LN_A1,Bats LN,Canada
+KY203185,0,3,1353,1350,2015,Bats EF-E2_A1.2,Bats EF-E2,Canada
+MF467497,0,0,1353,1353,2011,Bats DR_A1.1.10,Bats DR,Ecuador
+MF467498,0,0,1353,1353,2011,Bats DR_A1.1.10,Bats DR,Ecuador
+MF467499,0,0,1353,1353,2011,Bats DR_A1.1.10,Bats DR,Ecuador
+MF467500,0,0,1353,1353,2011,Bats DR_A1.1.10,Bats DR,Ecuador
+MF467502,0,0,1353,1353,2014,Bats DR_A1.1.10,Bats DR,Ecuador
+MF467503,0,0,1353,1353,2014,Bats DR_A1.1.10,Bats DR,Ecuador
+MF467504,0,0,1353,1353,2016,Bats DR_A1.1.10,Bats DR,Ecuador
+MG458304,0,0,NA,NA,1975,Bats EF-W1_A1.1,Bats EF-W1,United States
+MG458305,0,0,NA,NA,2018,Bat_B1,Bats TB2,Chile
+MG458314,0,24,NA,NA,1997,Bat_B1.1,Bats DR,-
+MK766719,0,4,1353,1349,2012,Bats DR_A1.4,Bats DR,Costa Rica
+MK766720,0,4,1353,1349,2012,Bats DR_A1.4,Bats DR,Costa Rica
+MK766722,0,4,1353,1349,2007,Bats DR_A1.4,Bats DR,Costa Rica
+MK766723,0,4,1353,1349,2012,Bats DR_A1.5,Bats DR,Costa Rica
+MK766724,0,4,1353,1349,2005,Bats DR_A1.5,Bats DR,Costa Rica
+MK766725,0,4,1353,1349,2009,Bats DR_A1.5,Bats DR,Costa Rica
+MK766726,0,4,1353,1349,2013,Bats DR_A1.4,Bats DR,Costa Rica
+MK766727,0,4,1353,1349,2013,Bats DR_A1.4,Bats DR,Costa Rica
+MK766728,0,4,1353,1349,2013,Bats DR_A1.5,Bats DR,Costa Rica
+MK766729,0,4,1353,1349,2004,Bats DR_A1.5,Bats DR,Costa Rica
+MK766730,0,4,1353,1349,2012,Bats DR_A1.5,Bats DR,Costa Rica
+MK766731,0,4,1353,1349,2011,Bats DR_A1.4,Bats DR,Costa Rica
+MK766732,0,4,1353,1349,2011,Bats DR_A1.4,Bats DR,Costa Rica
+MK766733,0,4,1353,1349,2012,Bats DR_A1.5,Bats DR,Costa Rica
+MK766734,0,4,1353,1349,2012,Bats DR_A1.5,Bats DR,Costa Rica
+MK766735,0,4,1353,1349,2011,Bats DR_A1.4,Bats DR,Costa Rica
+MK766736,0,4,1353,1349,2013,Bats DR_A1.5,Bats DR,Costa Rica
+MK766737,0,4,1353,1349,2011,Bats DR_A1.4,Bats DR,Costa Rica
+MK766738,0,4,1353,1349,2011,Bats DR_A1.4,Bats DR,Costa Rica
+MK766739,0,4,1353,1349,2014,Bats DR_A1.4,Bats DR,Costa Rica
+MK766740,0,4,1353,1349,2014,Bats DR_A1.4,Bats DR,Costa Rica
+MK766741,0,4,1353,1349,2006,Bats DR_A1.4,Bats DR,Costa Rica
+MN968375,0,0,1353,1353,2018,Bats DR_A1.2.1,Bats DR,Mexico
+MN968376,0,0,1353,1353,2018,Bats DR_A1.2.1,Bats DR,Mexico
+MN968377,0,0,1353,1353,2018,Bats DR_A1.2.1,Bats DR,Mexico
+MN968379,0,0,1353,1353,2018,Bats DR_A1.2.1,Bats DR,Mexico
+MN968380,0,0,1353,1353,2018,Bats DR_A1.2.1,Bats DR,Mexico
+MN968381,0,0,1353,1353,2018,Bats DR_A1.2.1,Bats DR,Mexico
+MN968383,0,0,1353,1353,2018,Bats DR_A1.2.1,Bats DR,Mexico
+MN968384,0,0,1353,1353,2018,Bats DR_A1.2.1,Bats DR,Mexico
+MN968385,0,0,1353,1353,2018,Bats DR_A1.2.1,Bats DR,Mexico
+MN968386,0,0,1353,1353,2018,Bats DR_A1.2.1,Bats DR,Mexico
+MN968387,0,0,1353,1353,2018,Bats DR_A1.2.1,Bats DR,Mexico
+MW055088,0,0,1353,1353,2017,Bats LC_A1,Bats LC,United States
+MW055090,0,0,1353,1353,2017,Bats LB2_A1,Bats LB2,United States
+MW055091,0,0,1353,1353,2017,Bats LN_A1,Bats LN,United States
+MW055092,0,0,1353,1353,2017,Bats EF-W2_A1,Bats EF-W2,United States
+MW055093,0,0,1353,1353,2017,Bats EF-W1_A1,Bats EF-W1,United States
+MW055094,0,0,1353,1353,2017,Bats EF-W1_A1,Bats EF-W1,United States
+MW055095,0,0,1353,1353,2017,Bat_D1,Bats MYsp,United States
+MW055096,0,0,1353,1353,2017,Bats MYsp_A1.3,Bats MYsp,United States
+MW055097,0,0,1353,1353,2017,Bats MYsp_A1.3,Bats MYsp,United States
+MW055098,0,0,1353,1353,2017,Bats EF-E2_A1.2,Bats EF-E2,United States
+MW055099,0,0,1353,1353,2017,Bats TB1_A1.1,Bats TB1,United States
+MW055100,0,0,1353,1353,2017,Bats TB1_A1.1,Bats TB1,United States
+MW055101,0,0,1353,1353,2017,Bats TB1_A1.1,Bats TB1,United States
+MW055102,0,0,1353,1353,2018,Bats DR_A1.2,Bats DR,Guatemala
+MW055103,0,0,1353,1353,2018,Bats DR_A1.2,Bats DR,Guatemala
+MW055105,0,0,1353,1353,2018,Bats DR_A1.2,Bats DR,Guatemala
+MW055106,0,0,1353,1353,2018,Bats DR_A1.2,Bats DR,Guatemala
+MW249020,0,0,1353,1353,2016,Bats DR_A1.1.10,Bats DR,Peru
+U22478,0,0,1353,1353,1995,Bats DR_A1.1.10,Bats DR,French Guiana
+GU644751,0,10603,,1353,2004,Bat_A1,Bats MYu,United States
+GU644752,0,10603,,1353,2004,Bat_A1,Bats MYu,United States
+GU644753,0,10603,,1353,2004,Bat_A1,Bats MYu,United States
+JQ685955,0,34,,11922,2005,Bat_A1,Bats MYu,United States
+AB201806,0,10562,,1394,2005,Bat_A1,Bats,Brazil
+AB201808,0,10562,,1394,2005,Bat_A1,Bats,Brazil
+AB206414,0,10562,,1394,2005,Bat_A1,Bats,Brazil
+AB206415,0,10562,,1394,2005,Bat_A1,Bats,Brazil
+AB206416,0,10562,,1394,2005,Bat_A1,Bats,Brazil
+AB206417,0,10562,,1394,2005,Bat_A1,Bats,Brazil
+AB297647,0,10562,,1394,2007,Bat_A1,Bats,Brazil
+AB297648,0,10562,,1394,2007,Bat_A1,Bats,Brazil
+AB297649,0,10562,,1394,2007,Bat_A1,Bats,Brazil
+AF394877,0,10542,,1414,2002,Bat_A1,Bats,United States
+GU644759,0,10603,,1353,2003,Bat_A1,Bats,United States
+HQ341793,0,10603,,1353,2007,Bat_A1,Bats,Chile
+JF693479,0,10606,,1350,2008,Bat_A1,Bats,Colombia
+JF693480,0,10606,,1350,2008,Bat_A1,Bats,Colombia
+JF693481,0,10606,,1350,2004,Bat_A1,Bats,Colombia
+JX648545,0,10606,,1350,2007,Bat_A1,Bats,Peru
+KM594029,0,89,,11867,2006,Bat_A1,Bats,Brazil
+KM594033,0,86,,11870,2010,Bat_A1,Bats,Brazil
+KM594034,0,87,,11869,2010,Bat_A1,Bats,Brazil
+KM594035,0,86,,11870,2010,Bat_A1,Bats,Brazil
+KM594036,0,87,,11869,2010,Bat_A1,Bats,Brazil
+KY203085,0,10606,,1350,2003,Bat_A1,Bats,Canada
+KY203168,0,10606,,1350,2012,Bat_A1,Bats,Canada
+AF070450,0,10542,,1414,2000,Bat_A1,Bats TB2,Chile
+AF351850,0,10603,,1353,2001,Bat_A1,Bats TB2,-
+EU981920,0,10579,,1377,2008,Bat_A1,Bats TB2,Uruguay
+JF826130,0,10603,,1353,2009,Bat_A1,Bats TB2,Chile
+EF363743,0,10580,,1376,2007,Bat_B1.1,Bats DR,Brazil
+EF363744,0,10580,,1376,2007,Bat_B1.1,Bats DR,Brazil
+EF363746,0,10580,,1376,2007,Bat_B1.1,Bats DR,Brazil
+EF363747,0,10580,,1376,2007,Bat_B1.1,Bats DR,Brazil
+EF363748,0,10580,,1376,2007,Bat_B1.1,Bats DR,Brazil
+AF351856,0,10603,,1353,2001,Bat_C1,Bats LB1,-
+AF394885,0,10542,,1414,2002,Bat_C1,Bats LB1,United States
+AF394886,0,10542,,1414,2002,Bat_C1,Bats LB1,United States
+GU644701,0,10603,,1353,2005,Bat_C1,Bats LB1,United States
+GU644702,0,10603,,1353,2005,Bat_C1,Bats LB1,United States
+GU644710,0,10603,,1353,2004,Bat_C1,Bats LB1,United States
+GU644737,0,10603,,1353,2003,Bat_C1,Bats LB1,United States
+GU644731,0,10603,,1353,2003,Bat_C1,Bats LS,United States
+GU644732,0,10603,,1353,2003,Bat_C1,Bats LS,United States
+KY203114,0,10606,,1350,2006,Bat_C1,Bats LS,Canada
+GU644643,0,10603,,1353,2005,Bat_C1,Bats LX,United States
+GU644728,0,10603,,1353,2003,Bat_C1,Bats LX,United States
+GU644738,0,10603,,1353,2004,Bat_C1,Bats LX,United States
+GU644740,0,10603,,1353,2004,Bat_C1,Bats LX,United States
+AF351843,0,10603,,1353,2001,Bat_C1,Bats,-
+GU644729,0,10603,,1353,2004,Bat_C1,Bats,United States
+KU963513,0,10606,,1350,2016,Bat_C1,Bats,-
+GU644697,0,10603,,1353,2003,Bat_C1,Bats LB2,United States
+GU644735,0,10603,,1353,2002,Bat_C1,Bats LB2,United States
+MW055089,0,10603,,1353,2017,Bat_C1,Bats LB2,United States
+AB201815,0,10562,,1394,2005,Bat_D1,Bats,Brazil
+AB201816,0,10562,,1394,2005,Bat_D1,Bats,Brazil
+AB201818,0,10562,,1394,2005,Bat_D1,Bats,Brazil
+AB297651,0,10563,,1393,2007,Bat_D1,Bats,Brazil
+AB297656,0,10563,,1393,2007,Bat_D1,Bats,Brazil
+GU552790,0,10584,,1372,2005,Bat_D1,Bats,Brazil
+GU552792,0,10535,,1421,2005,Bat_D1,Bats,Brazil
+JX648546,0,10606,,1350,2007,Bat_D1,Bats,Peru
+JX648547,0,10606,,1350,2008,Bat_D1,Bats,Peru
+AB618037,0,7201,,4755,2007,Bats DR_A1,Bats DR,Brazil
+FJ649045,0,10636,,1320,2009,Bats DR_A1.1.1,Bats DR,Brazil
+FJ649050,0,10636,,1320,2009,Bats DR_A1.1.1,Bats DR,Brazil
+FJ649052,0,10636,,1320,2009,Bats DR_A1.1.1,Bats DR,Brazil
+FJ649053,0,10636,,1320,2009,Bats DR_A1.1.1,Bats DR,Brazil
+FJ649173,0,10636,,1320,2009,Bats DR_A1.1.1,Bats DR,Brazil
+FJ649174,0,10636,,1320,2009,Bats DR_A1.1.1,Bats DR,Brazil
+KU938675,0,10606,,1350,2010,Bats DR_A1.1.14,Bats DR,Peru
+KU938744,0,10606,,1350,2011,Bats DR_A1.1.14,Bats DR,Peru
+KU938795,0,10606,,1350,2012,Bats DR_A1.1.14,Bats DR,Peru
+KU938817,0,10606,,1350,2012,Bats DR_A1.1.14,Bats DR,Peru
+KU938850,0,10606,,1350,2011,Bats DR_A1.1.14,Bats DR,Peru
+MF467501,0,10603,,1353,2014,Bats DR_A1.1.14,Bats DR,Ecuador
+MT891038,0,10472,,1484,2016,Bats DR_A1.1.14,Bats DR,Peru
+MW249021,0,10603,,1353,2016,Bats DR_A1.1.14,Bats DR,Peru
+EF363742,0,10580,,1376,2007,Bats DR_A1.1.2,Bats DR,Brazil
+KX090588,0,10642,,1314,2016,Bats DR_A1.1.2,Bats DR,Brazil
+KX090592,0,10642,,1314,2016,Bats DR_A1.1.2,Bats DR,Brazil
+KX090611,0,10642,,1314,2016,Bats DR_A1.1.2,Bats DR,Brazil
+GQ915412,0,10637,,1319,2009,Bats DR_A1.1.7,Bats DR,Brazil
+GQ915426,0,10625,,1331,2009,Bats DR_A1.1.7,Bats DR,Brazil
+HM585157,0,10657,,1299,2004,Bats DR_A1.1.7,Bats DR,Brazil
+HM585171,0,10657,,1299,2002,Bats DR_A1.1.7,Bats DR,Brazil
+JX648416,0,10606,,1350,2003,Bats DR_A1.1.9,Bats DR,Peru
+KU938758,0,10606,,1350,2011,Bats DR_A1.1.9,Bats DR,Peru
+KU938860,0,10606,,1350,2011,Bats DR_A1.1.9,Bats DR,Peru
+KF656696,0,10603,,1353,2012,Bats DR_A1.2.1,Bats DR,Guatemala
+KF656697,0,10603,,1353,2012,Bats DR_A1.2.1,Bats DR,Guatemala
+MW055104,0,10603,,1353,2018,Bats DR_A1.2.1,Bats DR,Guatemala
+FJ649048,0,10636,,1320,2009,Bats DR_A1.3,Bats DR,Brazil
+JX648526,0,10606,,1350,2005,Bats DR_A1.3.1,Bats DR,Peru
+KU938695,0,10606,,1350,2001,Bats DR_A1.3.1,Bats DR,Peru
+KU938818,0,10606,,1350,2012,Bats DR_A1.3.1,Bats DR,Peru
+KU938824,0,10606,,1350,2012,Bats DR_A1.3.1,Bats DR,Peru
+AB297637,0,10562,,1394,2007,Bats DR_A1.5,Bats DR,Brazil
+AB297638,0,10562,,1394,2007,Bats DR_A1.5,Bats DR,Brazil
+AB297645,0,10562,,1394,2007,Bats DR_A1.5,Bats DR,Brazil
+GQ160913,0,10636,,1320,2009,Bats DR_A1.5,Bats DR,Brazil
+GQ160940,0,10636,,1320,2009,Bats DR_A1.5,Bats DR,Brazil
+KU938762,0,10606,,1350,2011,Bats DR_B1,Bats DR,Peru
+KU938796,0,10606,,1350,2012,Bats DR_B1,Bats DR,Peru
+KU938799,0,10606,,1350,2012,Bats DR_B1,Bats DR,Peru
+KU938841,0,10606,,1350,2013,Bats DR_B1,Bats DR,Peru
+KU938753,0,10606,,1350,2011,Bats DR_B1.1,Bats DR,Peru
+KU938754,0,10606,,1350,2011,Bats DR_B1.1,Bats DR,Peru
+KU938773,0,10606,,1350,2012,Bats DR_B1.1,Bats DR,Peru
+KU938807,0,10606,,1350,2012,Bats DR_B1.1,Bats DR,Peru
+KU938840,0,10606,,1350,2012,Bats DR_B1.1,Bats DR,Peru
+KU938876,0,10606,,1350,2011,Bats DR_B1.1,Bats DR,Peru
+KU938746,0,10606,,1350,2011,Bats DR_E1,Bats DR,Peru
+KF864252,0,10603,,1353,2001,Bats DR_I1,Bats DR,Argentina
+KF864404,0,10603,,1353,2001,Bats DR_I1,Bats DR,Argentina
+JX648440,0,10606,,1350,2007,Bats DR_M1,Bats DR,Peru
+KT023101,0,10603,,1353,2010,Bats DR_M1,Bats DR,French Guiana
+KU938703,0,10606,,1350,2009,Bats DR_M1,Bats DR,Peru
+KU938891,0,10606,,1350,2009,Bats DR_M1,Bats DR,Peru
+OP221410,0,10603,,1353,2019,Bats EF-E1_A1,Bats EF-E1,United States
+AF351828,0,10603,,1353,2001,Bats EF-E2_A1,Bats EF-E2,-
+GU644658,0,10603,,1353,2003,Bats EF-E2_A1,Bats EF-E2,United States
+GU644659,0,10603,,1353,2003,Bats EF-E2_A1,Bats EF-E2,United States
+KY203083,0,10606,,1350,2003,Bats EF-W2_A1,Bats,Canada
+GU644698,0,10603,,1353,2003,Bats LC_A1,Bats LS,United States
+AF394878,0,10543,,1413,2002,Bats LN_A1,Bats LI,United States
+GU644722,0,10603,,1353,2001,Bats LN_A1,Bats LI,United States
+GU644723,0,10603,,1353,2001,Bats LN_A1,Bats LI,United States
+GU644724,0,10603,,1353,2001,Bats LN_A1,Bats LI,United States
+GU644725,0,10603,,1353,2001,Bats LN_A1,Bats LI,United States
+GU644726,0,10603,,1353,2004,Bats LN_A1,Bats LI,United States
+GU644727,0,10603,,1353,2002,Bats LN_A1,Bats LI,United States
+AF394881,0,10542,,1414,2002,Bats LN_A1,Bats PS,United States
+AF394882,0,10542,,1414,2002,Bats LN_A1,Bats PS,United States
+GU644653,0,10603,,1353,2004,Bats LN_A1,Bats PS,United States
+GU644757,0,10603,,1353,2004,Bats LN_A1,Bats PS,United States
+GU644758,0,10603,,1353,2004,Bats LN_A1,Bats PS,United States
+JF693484,0,10606,,1350,2002,Bats LN_A1,Bats,Colombia
+AF351838,0,10603,,1353,2001,Bats MYsp_A1,Bats MYsp,-
+AF351848,0,10603,,1353,2001,Bats MYsp_A1,Bats MYsp,-
+AF351851,0,10603,,1353,2001,Bats MYsp_A1,Bats MYsp,-
+AF352653,0,10606,,1350,1996,Bats MYsp_A1,Bats MYsp,Canada
+AF352654,0,10606,,1350,1997,Bats MYsp_A1,Bats MYsp,Canada
+KY203049,0,10606,,1350,1995,Bats MYsp_A1,Bats MYsp,Canada
+KY203066,0,10606,,1350,2000,Bats MYsp_A1,Bats MYsp,Canada
+KY203069,0,10606,,1350,2001,Bats MYsp_A1,Bats MYsp,Canada
+KY203072,0,10606,,1350,2001,Bats MYsp_A1,Bats MYsp,Canada
+KY203079,0,10606,,1350,2002,Bats MYsp_A1,Bats MYsp,Canada
+KY203080,0,10606,,1350,2002,Bats MYsp_A1,Bats MYsp,Canada
+KY203089,0,10606,,1350,2003,Bats MYsp_A1,Bats MYsp,Canada
+KY203091,0,10606,,1350,2003,Bats MYsp_A1,Bats MYsp,Canada
+KY203093,0,10606,,1350,2003,Bats MYsp_A1,Bats MYsp,Canada
+KY203094,0,10606,,1350,2003,Bats MYsp_A1,Bats MYsp,Canada
+KY203097,0,10606,,1350,2004,Bats MYsp_A1,Bats MYsp,Canada
+KY203098,0,10606,,1350,2004,Bats MYsp_A1,Bats MYsp,Canada
+KY203099,0,10606,,1350,2004,Bats MYsp_A1,Bats MYsp,Canada
+KY203108,0,10606,,1350,2005,Bats MYsp_A1,Bats MYsp,Canada
+KY203109,0,10606,,1350,2006,Bats MYsp_A1,Bats MYsp,Canada
+KY203115,0,10606,,1350,2006,Bats MYsp_A1,Bats MYsp,Canada
+KY203118,0,10606,,1350,2006,Bats MYsp_A1,Bats MYsp,Canada
+KY203119,0,10606,,1350,2006,Bats MYsp_A1,Bats MYsp,Canada
+KY203129,0,10606,,1350,2007,Bats MYsp_A1,Bats MYsp,Canada
+KY203130,0,10606,,1350,2007,Bats MYsp_A1,Bats MYsp,Canada
+KY203132,0,10606,,1350,2007,Bats MYsp_A1,Bats MYsp,Canada
+KY203133,0,10606,,1350,2007,Bats MYsp_A1,Bats MYsp,Canada
+KY203140,0,10606,,1350,2008,Bats MYsp_A1,Bats MYsp,Canada
+KY203144,0,10606,,1350,2009,Bats MYsp_A1,Bats MYsp,Canada
+KY203145,0,10606,,1350,2009,Bats MYsp_A1,Bats MYsp,Canada
+KY203151,0,10606,,1350,2010,Bats MYsp_A1,Bats MYsp,Canada
+KY203153,0,10606,,1350,2010,Bats MYsp_A1,Bats MYsp,Canada
+KY203154,0,10606,,1350,2010,Bats MYsp_A1,Bats MYsp,Canada
+KY203161,0,10606,,1350,2011,Bats MYsp_A1,Bats MYsp,Canada
+KY203170,0,10606,,1350,2012,Bats MYsp_A1,Bats MYsp,Canada
+KY203172,0,10606,,1350,2013,Bats MYsp_A1,Bats MYsp,Canada
+KY203182,0,10606,,1350,2015,Bats MYsp_A1,Bats MYsp,Canada
+KY203186,0,10606,,1350,2015,Bats MYsp_A1,Bats MYsp,Canada
+AY039225,0,10542,,1414,2002,Bats MYsp_A1,Bats,United States
+GU644754,0,10603,,1353,2001,Bats MYsp_A1,Bats,United States
+AF394869,0,10542,,1414,2002,Bats MYsp_A1.1,Bats AP,United States
+GU644641,0,10603,,1353,2005,Bats MYsp_A1.1,Bats AP,United States
+GU644743,0,10603,,1353,2005,Bats MYsp_A1.1,Bats MYsp,United States
+AF394870,0,10542,,1414,2002,Bats MYsp_A1.1,Bats PH,United States
+GU644755,0,10603,,1353,2004,Bats MYsp_A1.1,Bats PH,United States
+GU644756,0,10603,,1353,2003,Bats MYsp_A1.1,Bats,United States
+GU644741,0,10603,,1353,2001,Bats MYsp_A1.1.1,Bats PH,United States
+GU644742,0,10603,,1353,2001,Bats MYsp_A1.1.1,Bats PH,United States
+AF352643,0,10606,,1350,1993,Bats MYsp_A1.2,Bats MYsp,Canada
+AF352649,0,10606,,1350,1993,Bats MYsp_A1.2,Bats MYsp,Canada
+KY203051,0,10606,,1350,1996,Bats MYsp_A1.2,Bats MYsp,Canada
+KY203113,0,10606,,1350,2006,Bats MYsp_A1.2,Bats MYsp,Canada
+KY203120,0,10606,,1350,2007,Bats MYsp_A1.2,Bats MYsp,Canada
+KY203136,0,10606,,1350,2008,Bats MYsp_A1.2,Bats MYsp,Canada
+KY203150,0,10606,,1350,2010,Bats MYsp_A1.2,Bats MYsp,Canada
+KY203174,0,10606,,1350,2013,Bats MYsp_A1.2,Bats MYsp,Canada
+AF394872,0,10542,,1414,2002,Bats MYsp_B1.1,Bats MYsp,United States
+KY203045,0,10606,,1350,1994,Bats MYsp_B1.1,Bats MYsp,Canada
+KY203055,0,10606,,1350,1998,Bats MYsp_B1.1,Bats MYsp,Canada
+KY203084,0,10606,,1350,2003,Bats MYsp_B1.1,Bats MYsp,Canada
+KY203103,0,10606,,1350,2005,Bats MYsp_B1.1,Bats MYsp,Canada
+KY203105,0,10606,,1350,2005,Bats MYsp_B1.1,Bats MYsp,Canada
+KY203122,0,10606,,1350,2007,Bats MYsp_B1.1,Bats MYsp,Canada
+KY203062,0,10606,,1350,2000,Bats MYsp_B1.1,Bats MYsp,Canada
+KY203123,0,10606,,1350,2007,Bats MYsp_B1.1,Bats MYsp,Canada
+KY203127,0,10606,,1350,2007,Bats MYsp_B1.1,Bats MYsp,Canada
+KY203135,0,10606,,1350,2008,Bats MYsp_B1.1,Bats MYsp,Canada
+KY203139,0,10606,,1350,2008,Bats MYsp_B1.1,Bats MYsp,Canada
+KY203158,0,10606,,1350,2011,Bats MYsp_B1.1,Bats MYsp,Canada
+OM971001,0,179,,11777,2007,Bats TB1_A1,Bats TB1,Mexico
+OM971002,0,173,,11783,2008,Bats TB1_A1,Bats TB1,Mexico
+AB810256,0,126,,11830,2013,Bats_A1,Bats,Brazil
+MK920923,0,101,,11855,2010,Bats_A1,Bats,Brazil
