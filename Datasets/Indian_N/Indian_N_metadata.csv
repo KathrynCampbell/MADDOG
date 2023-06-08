@@ -1,43 +1,91 @@
-"ID","alignment.name","assignment","sequence.m49_country.id","country","sequence.gb_place_sampled","sequence.collection_year","sequence.earliest_collection_year","year","sequence.gb_length","sequence.gb_create_date","sequence.gb_update_date","sequence.host","sequence.gb_pubmed_id","sequence.isolate"
-"AB569299","AL_Indian-Sub","Indian-Sub","LKA","Sri Lanka","Gampaha","2008","2008",2008,11926,"25-Dec-10","31-Mar-11","Homo sapiens","21298456","H-08-1320"
-"AB638768","AL_Indian-Sub","Indian-Sub","LKA","Sri Lanka","Matara","2008","2008",2008,1353,"14-Oct-11","14-Jun-13","Homo sapiens","22172202","H-1218-08"
-"AB638770","AL_Indian-Sub","Indian-Sub","LKA","Sri Lanka","Matale","2009","2009",2009,1353,"14-Oct-11","14-Jun-13","Homo sapiens","22172202","H-15-09"
-"AB638771","AL_Indian-Sub","Indian-Sub","LKA","Sri Lanka","Kegalle","2009","2009",2009,1353,"14-Oct-11","14-Jun-13","Homo sapiens","22172202","H-156-09"
-"AB817085","AL_Indian-Sub","Indian-Sub","LKA","Sri Lanka","Anuradhapura","2009","2009",2009,1353,"13-Jun-13","13-Jun-13","Homo sapiens","23722023","H-1227-09"
-"AB817089","AL_Indian-Sub","Indian-Sub","LKA","Sri Lanka","Colombo","2009","2009",2009,1353,"13-Jun-13","13-Jun-13","Homo sapiens","23722023","H-224-09"
-"AB817090","AL_Indian-Sub","Indian-Sub","LKA","Sri Lanka","Puttalam","2009","2009",2009,1353,"13-Jun-13","13-Jun-13","Homo sapiens","23722023","H-36-09"
-"AB817091","AL_Indian-Sub","Indian-Sub","LKA","Sri Lanka","Matara","2009","2009",2009,1353,"13-Jun-13","13-Jun-13","Homo sapiens","23722023","H-425-09"
-"EU086191","AL_Indian-Sub","Indian-Sub","IND","India","-","1997","1997",1997,1353,"30-Aug-08","20-Oct-08","Homo sapiens","18931062","9702INDI"
-"JX944569","AL_Indian-Sub","Indian-Sub","NPL","Nepal","-","2009","2009",2009,1353,"31-Oct-13","04-Dec-13","Felis catus","24278494","3878-73(11003NEP)"
-"JX944595","AL_Indian-Sub","Indian-Sub","NPL","Nepal","-","2008","2008",2008,1353,"31-Oct-13","04-Dec-13","Canis familiaris","24278494","4403-14"
-"JX944597","AL_Indian-Sub","Indian-Sub","NPL","Nepal","-","2009","2009",2009,1353,"31-Oct-13","04-Dec-13","Canis familiaris","24278494","4403-17"
-"JX987737","AL_Indian-Sub","Indian-Sub","NPL","Nepal","Pokhara region","2003","2003",2003,1353,"31-Oct-13","04-Dec-13","buffalo","24278494","09029NEP"
-"JX987740","AL_Indian-Sub","Indian-Sub","NPL","Nepal","Lalitpur region","2009","2009",2009,1353,"31-Oct-13","04-Dec-13","Felis catus","24278494","11001NEP"
-"KU963505","AL_Indian-Sub","Indian-Sub","-","-","-","2004","2004",2004,1350,"06-Nov-16","06-Nov-16","Canis familiaris","-","SN18-57-CanineIND2004"
-"KU963507","AL_Indian-Sub","Indian-Sub","-","-","-","1997","1997",1997,1350,"06-Nov-16","06-Nov-16","Canis familiaris","-","SN20-61-CanineIND1997"
-"KX148108","AL_Indian-Sub","Indian-Sub","NPL","Nepal","-","2011","2011",2011,11925,"28-Nov-16","28-Nov-16","Felis catus","-","11001NEP"
-"KX148245","AL_Indian-Sub","Indian-Sub","NPL","Nepal","-","2009","2009",2009,11803,"28-Nov-16","28-Nov-16","buffalo","-","09029NEP"
-"KX148246","AL_Indian-Sub","Indian-Sub","IND","India","-","1997","1997",1997,11803,"28-Nov-16","28-Nov-16","Homo sapiens","-","97002IND"
-"KX434506","AL_Indian-Sub","Indian-Sub","IND","India","-","2005","2005",2005,1353,"24-Apr-17","24-Apr-17","Canis familiaris","-","ITN-R148"
-"KX434507","AL_Indian-Sub","Indian-Sub","IND","India","-","2005","2005",2005,1353,"24-Apr-17","24-Apr-17","elephant","-","IKE-R154"
-"KX434508","AL_Indian-Sub","Indian-Sub","IND","India","-","2005","2005",2005,1353,"24-Apr-17","24-Apr-17","Bos taurus","-","IKE-R155"
-"LC110290","AL_Indian-Sub","Indian-Sub","LKA","Sri Lanka","Gampaha","2011","2011",2011,1353,"07-Jul-16","07-Jul-16","Bat","-","H-528-11"
-"LC110292","AL_Indian-Sub","Indian-Sub","LKA","Sri Lanka","Puttalam","2012","2012",2012,1353,"07-Jul-16","07-Jul-16","Homo sapiens","-","H-964-12"
-"LC110293","AL_Indian-Sub","Indian-Sub","LKA","Sri Lanka","Colombo","2010","2010",2010,1353,"07-Jul-16","07-Jul-16","Civet","-","H-1351-10"
-"LC110295","AL_Indian-Sub","Indian-Sub","LKA","Sri Lanka","Kalutara","2011","2011",2011,1353,"07-Jul-16","07-Jul-16","Mongoose","-","H-807-11"
-"LC110296","AL_Indian-Sub","Indian-Sub","LKA","Sri Lanka","Gampaha","2011","2011",2011,1353,"07-Jul-16","07-Jul-16","Monkey","-","H-784-11"
-"LC110297","AL_Indian-Sub","Indian-Sub","LKA","Sri Lanka","Colombo","2010","2010",2010,1353,"07-Jul-16","07-Jul-16","Mongoose","-","H-1322-10"
-"LC110298","AL_Indian-Sub","Indian-Sub","LKA","Sri Lanka","Kegalle","2010","2010",2010,1353,"07-Jul-16","07-Jul-16","Squirrel","-","H-939-10"
-"LC110299","AL_Indian-Sub","Indian-Sub","LKA","Sri Lanka","Colombo","2010","2010",2010,1353,"07-Jul-16","07-Jul-16","Squirrel","-","H-1485-10"
-"LC110300","AL_Indian-Sub","Indian-Sub","LKA","Sri Lanka","Colombo","2011","2011",2011,1353,"07-Jul-16","07-Jul-16","Mongoose","-","H-74-11"
-"LC110301","AL_Indian-Sub","Indian-Sub","LKA","Sri Lanka","Gampaha","2010","2010",2010,1353,"07-Jul-16","07-Jul-16","Felis catus","-","H-1525-10"
-"LC110304","AL_Indian-Sub","Indian-Sub","LKA","Sri Lanka","Kalutara","2010","2010",2010,1353,"07-Jul-16","07-Jul-16","Felis catus","-","H-24-10"
-"LC110306","AL_Indian-Sub","Indian-Sub","LKA","Sri Lanka","Colombo","2009","2009",2009,1353,"07-Jul-16","07-Jul-16","Felis catus","-","H-1468-09"
-"LC110308","AL_Indian-Sub","Indian-Sub","LKA","Sri Lanka","Matale","2012","2012",2012,1353,"07-Jul-16","07-Jul-16","Homo sapiens","-","H-1454-12"
-"MH258837","AL_Indian-Sub","Indian-Sub","IND","India","Goa","2014","2014",2014,1353,"28-Jul-18","28-Jul-18","Canis familiaris","-","India/dog/MVC-21/2014"
-"MH258838","AL_Indian-Sub","Indian-Sub","IND","India","Chennai","2014","2014",2014,1353,"28-Jul-18","28-Jul-18","Canis familiaris","-","India/dog/MVC-10/2014"
-"MH258840","AL_Indian-Sub","Indian-Sub","IND","India","Chennai","2014","2014",2014,1353,"28-Jul-18","28-Jul-18","Canis familiaris","-","India/dog/MVC-34/2014"
-"MH258841","AL_Indian-Sub","Indian-Sub","IND","India","Chennai","2014","2014",2014,1353,"28-Jul-18","28-Jul-18","Capra hircus","-","India/goat/MVC-53/2014"
-"MH671332","AL_Indian-Sub","Indian-Sub","CHN","China","-","2017","2017",2017,11925,"02-Jan-20","02-Jan-20","Homo sapiens","30640911","CXZ1704H"
-"MN534894","AL_Indian-Sub","Indian-Sub","NPL","Nepal","-","2018","2018",2018,11802,"18-Apr-20","18-Apr-20","Homo sapiens","-","RABV_Nepal_2018"
-"MT826966","AL_Indian-Sub","Indian-Sub","IND","India","-","2011","2011",2011,1308,"17-Apr-21","17-Apr-21","Canis lupus","-","TN/CHEN/Dog/PMS3"
+ID,assignment,country,year
+AB569299,Indian-Sub,Sri Lanka,2008
+AB638768,Indian-Sub,Sri Lanka,2008
+AB638770,Indian-Sub,Sri Lanka,2009
+AB638771,Indian-Sub,Sri Lanka,2009
+AB817085,Indian-Sub,Sri Lanka,2009
+AB817089,Indian-Sub,Sri Lanka,2009
+AB817090,Indian-Sub,Sri Lanka,2009
+AB817091,Indian-Sub,Sri Lanka,2009
+EU086191,Indian-Sub,India,1997
+JX944569,Indian-Sub,Nepal,2009
+JX944595,Indian-Sub,Nepal,2008
+JX944597,Indian-Sub,Nepal,2009
+JX987737,Indian-Sub,Nepal,2003
+JX987740,Indian-Sub,Nepal,2009
+KU963505,Indian-Sub,India,2004
+KU963507,Indian-Sub,India,1997
+KX148108,Indian-Sub,Nepal,2011
+KX148245,Indian-Sub,Nepal,2009
+KX148246,Indian-Sub,India,1997
+KX434506,Indian-Sub,India,2005
+KX434507,Indian-Sub,India,2005
+KX434508,Indian-Sub,India,2005
+LC110290,Indian-Sub,Sri Lanka,2011
+LC110292,Indian-Sub,Sri Lanka,2012
+LC110293,Indian-Sub,Sri Lanka,2010
+LC110295,Indian-Sub,Sri Lanka,2011
+LC110296,Indian-Sub,Sri Lanka,2011
+LC110297,Indian-Sub,Sri Lanka,2010
+LC110298,Indian-Sub,Sri Lanka,2010
+LC110299,Indian-Sub,Sri Lanka,2010
+LC110300,Indian-Sub,Sri Lanka,2011
+LC110301,Indian-Sub,Sri Lanka,2010
+LC110304,Indian-Sub,Sri Lanka,2010
+LC110306,Indian-Sub,Sri Lanka,2009
+LC110308,Indian-Sub,Sri Lanka,2012
+MH258837,Indian-Sub,India,2014
+MH258838,Indian-Sub,India,2014
+MH258840,Indian-Sub,India,2014
+MH258841,Indian-Sub,India,2014
+MH671332,Indian-Sub,China,2017
+MN534894,Indian-Sub,Nepal,2018
+MT826966,Indian-Sub,India,2011
+AB041964,Indian-Sub,Sri Lanka,2003
+AB041965,Indian-Sub,Sri Lanka,2003
+AB041966,Indian-Sub,Sri Lanka,2003
+AB041967,Indian-Sub,Sri Lanka,2003
+AB041968,Indian-Sub,Sri Lanka,2003
+AB041969,Indian-Sub,Sri Lanka,2003
+AB635373,Indian-Sub,Sri Lanka,2009
+AB638767,Indian-Sub,Sri Lanka,2008
+AB638769,Indian-Sub,Sri Lanka,2008
+AB638772,Indian-Sub,Sri Lanka,2009
+AB817080,Indian-Sub,Sri Lanka,2008
+AB817081,Indian-Sub,Sri Lanka,2009
+AB817082,Indian-Sub,Sri Lanka,2008
+AB817083,Indian-Sub,Sri Lanka,2008
+AB817084,Indian-Sub,Sri Lanka,2009
+AB817086,Indian-Sub,Sri Lanka,2009
+AB817087,Indian-Sub,Sri Lanka,2009
+AB817088,Indian-Sub,Sri Lanka,2008
+AB817092,Indian-Sub,Sri Lanka,2010
+AB817093,Indian-Sub,Sri Lanka,2010
+AB817094,Indian-Sub,Sri Lanka,2010
+AB817095,Indian-Sub,Sri Lanka,2009
+AB817096,Indian-Sub,Sri Lanka,2009
+AB817097,Indian-Sub,Sri Lanka,2009
+AB817098,Indian-Sub,Sri Lanka,2009
+AY138549,Indian-Sub,Sri Lanka,2003
+AY138550,Indian-Sub,Sri Lanka,2001
+KF154999,Indian-Sub,United Kingdom,2008
+KU963500,Indian-Sub,-,2001
+LC110291,Indian-Sub,Sri Lanka,2012
+LC110294,Indian-Sub,Sri Lanka,2011
+LC110302,Indian-Sub,Sri Lanka,2012
+LC110303,Indian-Sub,Sri Lanka,2012
+LC110305,Indian-Sub,Sri Lanka,2009
+LC110307,Indian-Sub,Sri Lanka,2010
+LC110309,Indian-Sub,Sri Lanka,2012
+LC110310,Indian-Sub,Sri Lanka,2012
+LC110311,Indian-Sub,Sri Lanka,2012
+LC110312,Indian-Sub,Sri Lanka,2012
+LC110313,Indian-Sub,Sri Lanka,2012
+LC110314,Indian-Sub,Sri Lanka,2012
+LC110315,Indian-Sub,Sri Lanka,2012
+LC110316,Indian-Sub,Sri Lanka,2012
+LC110317,Indian-Sub,Sri Lanka,2012
+LC110318,Indian-Sub,Sri Lanka,2012
+LC110319,Indian-Sub,Sri Lanka,2012
+LC110320,Indian-Sub,Sri Lanka,2012
+LC110321,Indian-Sub,Sri Lanka,2012
