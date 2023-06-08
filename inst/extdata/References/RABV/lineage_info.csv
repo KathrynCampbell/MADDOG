@@ -244,7 +244,7 @@
 "Indian-Sub","",NA,NA,0,"RABV"
 "Indian-Sub_A1","c(""China"", ""Nepal"")",2003,2018,9,"Indian-Sub"
 "Indian-Sub_A1.1","India",1997,2014,12,"Indian-Sub_A1"
-"Indian-Sub_B1","Sri Lanka",2008,2012,21,"Indian-Sub"
+"Indian-Sub_B1","c(""Sri Lanka"", ""United Kingdom"")",2001,2012,51,"Indian-Sub"
 "RAC-SK_A1","c(""Canada"", ""United States"")",1995,2011,6,"RAC-SK"
 "RAC-SK_A1.1","United States",2004,2011,6,"RAC-SK_A1"
 "RAC-SK_A1.1.1","United States",2004,2011,5,"RAC-SK_A1.1"
@@ -303,3 +303,4 @@
 "Vac_A1.2","c(""China"", ""Mexico"")",1993,2018,13,"Vac_A1"
 "Vac_B1","character(0)",2007,2015,45,"Vac"
 "Vac_B1.1","character(0)",2015,2015,13,"Vac_B1"
+"Indian-Sub_B1.1","Sri Lanka",2003,2012,18,"Indian-Sub_B1"
