@@ -521,82 +521,17 @@ KR906750,Cosmopolitan AF1b_C1
 KR906754,Cosmopolitan AF1b_C1
 MN726804,Cosmopolitan AF1b_C1
 MN726827,Cosmopolitan AF1b_C1
-DQ837463,Cosmopolitan AF4_A1
-MK760770,Cosmopolitan AF4_A1
-U22627,Cosmopolitan AF4_A1
 GU991842,Cosmopolitan AM1_A1
 GU991843,Cosmopolitan AM1_A1
 JX855996,Cosmopolitan AM1_A1
 JX856031,Cosmopolitan AM1_A1
-JQ513533,Cosmopolitan AM1_A1.1
-JQ513536,Cosmopolitan AM1_A1.1
-KU963502,Cosmopolitan AM1_A1.1
-FJ228497,Cosmopolitan AM1_A1.1.1
-JQ513528,Cosmopolitan AM1_A1.1.1
-JQ513529,Cosmopolitan AM1_A1.1.1
-JQ513535,Cosmopolitan AM1_A1.1.1
 KX148102,Cosmopolitan AM2a_A1
 KX148112,Cosmopolitan AM2a_A1
 KX708502,Cosmopolitan AM2a_A1
 KX708504,Cosmopolitan AM2a_A1
-EF152266,Cosmopolitan AM3a_A1
-EF152275,Cosmopolitan AM3a_A1
-KR781554,Cosmopolitan AM3a_A1
-AB263299,Cosmopolitan AM3a_A1.1
-KX148216,Cosmopolitan AM3a_A1.1
-AB083793,Cosmopolitan AM3a_A1.1.1
-AB083794,Cosmopolitan AM3a_A1.1.1
-AB083795,Cosmopolitan AM3a_A1.1.1
-AB263292,Cosmopolitan AM3a_A1.1.1
-EF152276,Cosmopolitan AM3a_A1.2
-EF194166,Cosmopolitan AM3a_A1.2
-KR781567,Cosmopolitan AM3a_A1.2
-AB263328,Cosmopolitan AM3a_A1.2.1
-AB263341,Cosmopolitan AM3a_A1.2.1
-KR781561,Cosmopolitan AM3a_A1.3
-KR781563,Cosmopolitan AM3a_A1.3
-KR781565,Cosmopolitan AM3a_A1.3
-EF152279,Cosmopolitan AM3a_A1.4
-EF194167,Cosmopolitan AM3a_A1.4
-KR781544,Cosmopolitan AM3a_A1.4
-KR781568,Cosmopolitan AM3a_A1.4
-AB083801,Cosmopolitan AM3a_B1
-AB263306,Cosmopolitan AM3a_B1
-AB263313,Cosmopolitan AM3a_B1
-AB263294,Cosmopolitan AM3a_B1.1
-AB263295,Cosmopolitan AM3a_B1.1
-AB263300,Cosmopolitan AM3a_B1.1
-AB263315,Cosmopolitan AM3a_B1.1
-AB263296,Cosmopolitan AM3a_B1.2
-AB263301,Cosmopolitan AM3a_B1.2
-AB263307,Cosmopolitan AM3a_B1.2
-KR781539,Cosmopolitan AM3a_C1
-KR781546,Cosmopolitan AM3a_C1
-KR781549,Cosmopolitan AM3a_C1
-AB263330,Cosmopolitan AM3a_D1
-AB263332,Cosmopolitan AM3a_D1
-EF152260,Cosmopolitan AM3a_D1
-EF152262,Cosmopolitan AM3a_D1
-KR781545,Cosmopolitan AM3a_E1
-KR781547,Cosmopolitan AM3a_E1
 EF152274,Cosmopolitan AM3b_A1
 EF194160,Cosmopolitan AM3b_A1
 KR781591,Cosmopolitan AM3b_A1
-EF152231,Cosmopolitan AM3b_A1.1
-EF152259,Cosmopolitan AM3b_A1.1
-KR781577,Cosmopolitan AM3b_A1.1
-EF152248,Cosmopolitan AM3b_A1.1.1
-EF152251,Cosmopolitan AM3b_A1.1.1
-KR781585,Cosmopolitan AM3b_A1.1.1
-EF152271,Cosmopolitan AM3b_B1
-KR781556,Cosmopolitan AM3b_B1
-KR781557,Cosmopolitan AM3b_B1
-EF152235,Cosmopolitan AM3b_B1.1
-EF152252,Cosmopolitan AM3b_B1.1
-KR781600,Cosmopolitan AM3b_B1.1
-EF152234,Cosmopolitan AM3b_B1.1.1
-KR781601,Cosmopolitan AM3b_B1.1.1
-KR781606,Cosmopolitan AM3b_B1.1.1
 JQ513543,Cosmopolitan AM4_A1
 JQ513545,Cosmopolitan AM4_A1
 JQ513550,Cosmopolitan AM4_A1
@@ -619,19 +554,6 @@ MN642579,Cosmopolitan CA1_B1.1
 JQ944706,Cosmopolitan CA2_A1
 MK760756,Cosmopolitan CA2_A1
 MK760766,Cosmopolitan CA2_A1
-MK598338,Cosmopolitan CA3_A1
-MK598339,Cosmopolitan CA3_A1
-MK598341,Cosmopolitan CA3_A1
-U43025,Cosmopolitan CA3_A1
-KY382830,Cosmopolitan CA3_A1.1
-MF572308,Cosmopolitan CA3_A1.1
-MG996461,Cosmopolitan CA3_A1.1
-MF572300,Cosmopolitan CA3_A1.1.1
-MF572307,Cosmopolitan CA3_A1.1.1
-MF572309,Cosmopolitan CA3_A1.1.1
-MF572305,Cosmopolitan CA3_B1
-MF574183,Cosmopolitan CA3_B1
-MF574199,Cosmopolitan CA3_B1
 KX148118,Cosmopolitan CE_A1
 KX148122,Cosmopolitan CE_A1
 MF197742,Cosmopolitan CE_A1
@@ -659,12 +581,6 @@ MK760730,Cosmopolitan ME2_A1.1
 KY860587,Cosmopolitan ME2_A1.1.1
 KY860603,Cosmopolitan ME2_A1.1.1
 KY860608,Cosmopolitan ME2_A1.1.1
-AF033905,Cosmopolitan ME2_A1.2
-U22474,Cosmopolitan ME2_A1.2
-U43432,Cosmopolitan ME2_A1.2
-AY352456,Cosmopolitan ME2_A1.2.1
-MT079935,Cosmopolitan ME2_A1.2.1
-MT079949,Cosmopolitan ME2_A1.2.1
 KY860593,Cosmopolitan ME2_B1
 KY860598,Cosmopolitan ME2_B1
 KY860599,Cosmopolitan ME2_B1
@@ -785,18 +701,6 @@ DQ837385,Cosmopolitan_H1
 DQ837410,Cosmopolitan_H1
 DQ837418,Cosmopolitan_H1
 DQ837482,Cosmopolitan_H1
-DQ837409,Cosmopolitan_H1.1
-DQ837428,Cosmopolitan_H1.1
-DQ837449,Cosmopolitan_H1.1
-DQ837460,Cosmopolitan_H1.1
-FJ228512,Cosmopolitan_H1.1.1
-KJ001489,Cosmopolitan_H1.1.1
-KJ001523,Cosmopolitan_H1.1.1
-KJ001534,Cosmopolitan_H1.1.1
-FJ228506,Cosmopolitan_H1.2
-FJ228511,Cosmopolitan_H1.2
-FJ228514,Cosmopolitan_H1.2
-FJ228515,Cosmopolitan_H1.2
 JX944595,Indian-Sub_A1
 KX148245,Indian-Sub_A1
 MN534894,Indian-Sub_A1
@@ -1018,3 +922,59 @@ GU644742,Bats MYsp_A1.1.1
 KY203105,Bats MYsp_B1.1
 AF394872,Bats MYsp_B1.1
 KY203122,Bats MYsp_B1.1
+AB206411,Cosmopolitan AM3b_A1.2
+KR781584,Cosmopolitan AM3b_A1.2
+KR781578,Cosmopolitan AM3b_A1.2
+EF152234,Cosmopolitan AM3b_A1.2.1
+KR781601,Cosmopolitan AM3b_A1.2.1
+KR781606,Cosmopolitan AM3b_A1.2.1
+DQ837393,Cosmopolitan ME2_C1
+DQ837447,Cosmopolitan ME2_C1
+DQ837464,Cosmopolitan ME2_C1
+DQ837437,Cosmopolitan ME2_C1
+JF973793,Cosmopolitan NEE_A1.2.1
+JF973798,Cosmopolitan NEE_A1.2.1
+JF973799,Cosmopolitan NEE_A1.2.1
+JF973797,Cosmopolitan NEE_A1.2.1
+JF973808,Cosmopolitan NEE_D1
+JF973780,Cosmopolitan NEE_D1.1
+JF973809,Cosmopolitan NEE_D1.1
+JF973795,Cosmopolitan NEE_D1.1.1
+JF973801,Cosmopolitan NEE_D1.1.1
+JF973806,Cosmopolitan NEE_D1.1.1
+DQ837428,Cosmopolitan_H1.4
+DQ837460,Cosmopolitan_H1.4
+DQ837449,Cosmopolitan_H1.4
+DQ837409,Cosmopolitan_H1.4
+AF461045,Cosmopolitan AM1_A1.1
+MW055128,Cosmopolitan AM1_A1.1
+JQ513559,Cosmopolitan AM1_A1.1.1
+MW055127,Cosmopolitan AM1_A1.1.1
+JX856030,Cosmopolitan AM1_A1.1.1
+JQ513560,Cosmopolitan AM1_B1
+MW055124,Cosmopolitan AM1_B1
+JQ513557,Cosmopolitan AM1_B1
+OL515141,Cosmopolitan NEE_C1.1
+OL515142,Cosmopolitan NEE_C1.1
+OL515134,Cosmopolitan NEE_C1.1.1
+OL515140,Cosmopolitan NEE_C1.1.1
+OL515144,Cosmopolitan NEE_C1.1.1
+OL515136,Cosmopolitan NEE_C1.1.1
+MF572308,Cosmopolitan_B1.2
+KY382830,Cosmopolitan_B1.2
+MF572298,Cosmopolitan_B1.2
+MF574196,Cosmopolitan_B1.2
+MF572309,Cosmopolitan_B1.2.1
+MF572304,Cosmopolitan_B1.2.1
+MF574188,Cosmopolitan_B1.2.1
+MF574190,Cosmopolitan_B1.2.1
+EF152275,Cosmopolitan_I1
+AB263324,Cosmopolitan_I1
+KR781568,Cosmopolitan_I1.1
+KR781567,Cosmopolitan_I1.1
+KR781544,Cosmopolitan_I1.1
+KR781539,Cosmopolitan_I1.1.1
+EF363731,Cosmopolitan_I1.1.1
+KR781545,Cosmopolitan_J1
+KR781549,Cosmopolitan_J1
+KR781547,Cosmopolitan_J1
