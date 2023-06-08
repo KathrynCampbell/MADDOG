@@ -113,8 +113,8 @@ AY854586,0,1,1354,1353,2005,Cosmopolitan_B1.1,Cosmopolitan CA1,Iran
 AY854589,0,1,1354,1353,2005,Cosmopolitan_A1,Cosmopolitan AM2a,Mexico
 AY854591,0,1,1354,1353,2005,Cosmopolitan AM2a_A1,Cosmopolitan AM2a,Mexico
 AY854593,0,1,1354,1353,2005,Cosmopolitan_A1,Cosmopolitan,Mexico
-DQ099524,0,230,NA,NA,2005,Cosmopolitan_A1.3.1,Cosmopolitan,NA
-DQ099525,0,218,NA,NA,2005,Cosmopolitan_A1.3.1,Cosmopolitan,NA
+DQ099524,0,230,NA,NA,2005,Cosmopolitan_A1.3.1,Cosmopolitan,-
+DQ099525,0,218,NA,NA,2005,Cosmopolitan_A1.3.1,Cosmopolitan,-
 DQ149104,0,19,1354,1335,2005,Cosmopolitan AM3b_A1,Cosmopolitan,Brazil
 DQ666322,0,1,1354,1353,2006,Cosmopolitan_A1.2.2,Cosmopolitan,China
 DQ837382,0,4,1354,1350,1997,Cosmopolitan_F1,Cosmopolitan ME1a,Israel
@@ -1832,3 +1832,422 @@ U43432,0,1,1354,1353,1999,Cosmopolitan ME2_A1,Cosmopolitan NEE,-
 U43433,0,1,1354,1353,1999,Cosmopolitan_A1.1.1,Cosmopolitan WE,-
 U43434,0,1,1354,1353,1999,Cosmopolitan_A1.1.1,Cosmopolitan WE,-
 U43435,0,4,1354,1350,1999,Cosmopolitan WE_A1,Cosmopolitan WE,-
+MW055118,0,10584,,1353,2018,Cosmopolitan AF1a_A1.1,Cosmopolitan AF1a,Kenya
+MW055119,0,10584,,1353,2018,Cosmopolitan AF1a_A1.1,Cosmopolitan AF1a,Kenya
+MW055120,0,10584,,1353,2018,Cosmopolitan AF1a_A1.1,Cosmopolitan AF1a,Kenya
+MW055121,0,10584,,1353,2018,Cosmopolitan AF1a_A1.1,Cosmopolitan AF1a,Kenya
+MW055122,0,10584,,1353,2018,Cosmopolitan AF1a_A1.1,Cosmopolitan AF1a,Kenya
+MW055123,0,10584,,1353,2018,Cosmopolitan AF1a_A1.1,Cosmopolitan AF1a,Kenya
+JX855994,0,10587,,1350,2009,Cosmopolitan AM1_A1,Cosmopolitan AM1,United States
+AF461045,0,10523,,1414,1998,Cosmopolitan AM1_A1.1,Cosmopolitan AM1,United States
+MW055128,0,10584,,1353,2018,Cosmopolitan AM1_A1.1,Cosmopolitan AM1,United States
+JQ513554,0,10584,,1353,2004,Cosmopolitan AM1_A1.1.1,Cosmopolitan AM1,Canada
+JQ513559,0,10584,,1353,2000,Cosmopolitan AM1_A1.1.1,Cosmopolitan AM1,Canada
+JX855997,0,10587,,1350,2009,Cosmopolitan AM1_A1.1.1,Cosmopolitan AM1,United States
+JX855998,0,10587,,1350,2009,Cosmopolitan AM1_A1.1.1,Cosmopolitan AM1,United States
+JX856027,0,10587,,1350,2009,Cosmopolitan AM1_A1.1.1,Cosmopolitan AM1,United States
+JX856028,0,10587,,1350,2009,Cosmopolitan AM1_A1.1.1,Cosmopolitan AM1,United States
+JX856029,0,10587,,1350,2009,Cosmopolitan AM1_A1.1.1,Cosmopolitan AM1,United States
+JX856030,0,10587,,1350,2009,Cosmopolitan AM1_A1.1.1,Cosmopolitan AM1,United States
+MW055127,0,10584,,1353,2017,Cosmopolitan AM1_A1.1.1,Cosmopolitan AM1,United States
+AF344304,0,10582,,1355,1992,Cosmopolitan AM1_B1,Cosmopolitan AM1,-
+AF344306,0,10582,,1355,2001,Cosmopolitan AM1_B1,Cosmopolitan AM1,-
+JQ513555,0,10584,,1353,2005,Cosmopolitan AM1_B1,Cosmopolitan AM1,Canada
+JQ513556,0,10584,,1353,2005,Cosmopolitan AM1_B1,Cosmopolitan AM1,Canada
+JQ513557,0,10584,,1353,2000,Cosmopolitan AM1_B1,Cosmopolitan AM1,Canada
+JQ513558,0,10584,,1353,2000,Cosmopolitan AM1_B1,Cosmopolitan AM1,Canada
+JQ513560,0,10584,,1353,2000,Cosmopolitan AM1_B1,Cosmopolitan AM1,Canada
+MW055124,0,10584,,1353,2017,Cosmopolitan AM1_B1,Cosmopolitan AM1,United States
+MW055125,0,10584,,1353,2017,Cosmopolitan AM1_B1,Cosmopolitan AM1,United States
+MW055126,0,10584,,1353,2017,Cosmopolitan AM1_B1,Cosmopolitan AM1,United States
+JQ037819,0,10649,,1288,2005,Cosmopolitan AM2a_A1,Cosmopolitan AM2a,Mexico
+JQ037820,0,10649,,1288,2005,Cosmopolitan AM2a_A1,Cosmopolitan AM2a,Mexico
+JQ037821,0,10649,,1288,2005,Cosmopolitan AM2a_A1,Cosmopolitan AM2a,Mexico
+JQ037822,0,10649,,1288,2005,Cosmopolitan AM2a_A1,Cosmopolitan AM2a,Mexico
+JQ037823,0,10649,,1288,2005,Cosmopolitan AM2a_A1,Cosmopolitan AM2a,Mexico
+JQ037824,0,10649,,1288,2005,Cosmopolitan AM2a_A1,Cosmopolitan AM2a,Mexico
+KJ001511,0,10639,,1298,2010,Cosmopolitan AM2a_A1,Cosmopolitan AM2a,Mexico
+KJ001514,0,10639,,1298,2011,Cosmopolitan AM2a_A1,Cosmopolitan AM2a,Mexico
+KJ001533,0,10642,,1295,2008,Cosmopolitan AM2a_A1,Cosmopolitan AM2a,Mexico
+MW055107,0,10584,,1353,2018,Cosmopolitan AM2a_A1,Cosmopolitan AM2a,Guatemala
+EF152232,0,10543,,1394,2004,Cosmopolitan AM3b_A1,Cosmopolitan AM3b,Brazil
+EF152235,0,10543,,1394,2002,Cosmopolitan AM3b_A1,Cosmopolitan AM3b,Brazil
+EF152272,0,10543,,1394,2005,Cosmopolitan AM3b_A1,Cosmopolitan AM3b,Brazil
+EF152273,0,10543,,1394,2005,Cosmopolitan AM3b_A1,Cosmopolitan AM3b,Brazil
+KR781592,0,10570,,1367,2007,Cosmopolitan AM3b_A1,Cosmopolitan AM3b,Brazil
+KJ001501,0,10644,,1293,2006,Cosmopolitan AM3b_A1.2,Cosmopolitan AM2a,Mexico
+AB206407,0,10605,,1332,2005,Cosmopolitan AM3b_A1.2,Cosmopolitan AM3b,Brazil
+AB206408,0,10605,,1332,2005,Cosmopolitan AM3b_A1.2,Cosmopolitan AM3b,Brazil
+AB206412,0,10605,,1332,2005,Cosmopolitan AM3b_A1.2,Cosmopolitan AM3b,Brazil
+AB206413,0,10605,,1332,2005,Cosmopolitan AM3b_A1.2,Cosmopolitan AM3b,Brazil
+AB207884,0,10605,,1332,2005,Cosmopolitan AM3b_A1.2,Cosmopolitan AM3b,Brazil
+AB263327,0,10605,,1332,2003,Cosmopolitan AM3b_A1.2,Cosmopolitan AM3b,Brazil
+AB263329,1,10605,,1331,2003,Cosmopolitan AM3b_A1.2,Cosmopolitan AM3b,Brazil
+AB263331,0,10605,,1332,2007,Cosmopolitan AM3b_A1.2,Cosmopolitan AM3b,Brazil
+AB263335,0,10605,,1332,2004,Cosmopolitan AM3b_A1.2,Cosmopolitan AM3b,Brazil
+AB263336,0,10605,,1332,2004,Cosmopolitan AM3b_A1.2,Cosmopolitan AM3b,Brazil
+AB263337,0,10605,,1332,2004,Cosmopolitan AM3b_A1.2,Cosmopolitan AM3b,Brazil
+AB263338,0,10605,,1332,2004,Cosmopolitan AM3b_A1.2,Cosmopolitan AM3b,Brazil
+AB263339,0,10605,,1332,2004,Cosmopolitan AM3b_A1.2,Cosmopolitan AM3b,Brazil
+AB263340,0,10605,,1332,2005,Cosmopolitan AM3b_A1.2,Cosmopolitan AM3b,Brazil
+AB263343,0,10605,,1332,2005,Cosmopolitan AM3b_A1.2,Cosmopolitan AM3b,Brazil
+AB263344,0,10605,,1332,2005,Cosmopolitan AM3b_A1.2,Cosmopolitan AM3b,Brazil
+AB263345,0,10605,,1332,2005,Cosmopolitan AM3b_A1.2,Cosmopolitan AM3b,Brazil
+EF152236,0,10543,,1394,2005,Cosmopolitan AM3b_A1.2,Cosmopolitan AM3b,Brazil
+EF152241,0,10543,,1394,2005,Cosmopolitan AM3b_A1.2,Cosmopolitan AM3b,Brazil
+EF152242,0,10543,,1394,2005,Cosmopolitan AM3b_A1.2,Cosmopolitan AM3b,Brazil
+EF152243,0,10543,,1394,2005,Cosmopolitan AM3b_A1.2,Cosmopolitan AM3b,Brazil
+EF152244,0,10543,,1394,2005,Cosmopolitan AM3b_A1.2,Cosmopolitan AM3b,Brazil
+EF152246,0,10543,,1394,2005,Cosmopolitan AM3b_A1.2,Cosmopolitan AM3b,Brazil
+EF152247,0,10543,,1394,2004,Cosmopolitan AM3b_A1.2,Cosmopolitan AM3b,Brazil
+EF152252,0,10543,,1394,2005,Cosmopolitan AM3b_A1.2,Cosmopolitan AM3b,Brazil
+EF152253,0,10543,,1394,2005,Cosmopolitan AM3b_A1.2,Cosmopolitan AM3b,Brazil
+EF152254,0,10543,,1394,2005,Cosmopolitan AM3b_A1.2,Cosmopolitan AM3b,Brazil
+EF152256,0,10543,,1394,2005,Cosmopolitan AM3b_A1.2,Cosmopolitan AM3b,Brazil
+EF152270,0,10543,,1394,2005,Cosmopolitan AM3b_A1.2,Cosmopolitan AM3b,Brazil
+EF194159,0,10543,,1394,2003,Cosmopolitan AM3b_A1.2,Cosmopolitan AM3b,Brazil
+EF194162,0,10543,,1394,2005,Cosmopolitan AM3b_A1.2,Cosmopolitan AM3b,Brazil
+EF194164,0,10543,,1394,2005,Cosmopolitan AM3b_A1.2,Cosmopolitan AM3b,Brazil
+EF194165,0,10543,,1394,2005,Cosmopolitan AM3b_A1.2,Cosmopolitan AM3b,Brazil
+KR781533,0,10570,,1367,2009,Cosmopolitan AM3b_A1.2,Cosmopolitan AM3b,Brazil
+KR781540,0,10570,,1367,2007,Cosmopolitan AM3b_A1.2,Cosmopolitan AM3b,Brazil
+KR781556,0,10570,,1367,2009,Cosmopolitan AM3b_A1.2,Cosmopolitan AM3b,Brazil
+KR781557,0,10570,,1367,2009,Cosmopolitan AM3b_A1.2,Cosmopolitan AM3b,Brazil
+KR781558,0,10570,,1367,2010,Cosmopolitan AM3b_A1.2,Cosmopolitan AM3b,Brazil
+KR781571,0,10570,,1367,2006,Cosmopolitan AM3b_A1.2,Cosmopolitan AM3b,Brazil
+KR781572,0,10570,,1367,2006,Cosmopolitan AM3b_A1.2,Cosmopolitan AM3b,Brazil
+KR781580,0,10570,,1367,2008,Cosmopolitan AM3b_A1.2,Cosmopolitan AM3b,Brazil
+KR781583,0,10570,,1367,2009,Cosmopolitan AM3b_A1.2,Cosmopolitan AM3b,Brazil
+KR781589,0,10570,,1367,2010,Cosmopolitan AM3b_A1.2,Cosmopolitan AM3b,Brazil
+KR781596,0,10570,,1367,2007,Cosmopolitan AM3b_A1.2,Cosmopolitan AM3b,Brazil
+KR781598,0,10570,,1367,2009,Cosmopolitan AM3b_A1.2,Cosmopolitan AM3b,Brazil
+KR781600,0,10570,,1367,2010,Cosmopolitan AM3b_A1.2,Cosmopolitan AM3b,Brazil
+KR781603,0,10570,,1367,2008,Cosmopolitan AM3b_A1.2,Cosmopolitan AM3b,Brazil
+KR781605,0,10570,,1367,2009,Cosmopolitan AM3b_A1.2,Cosmopolitan AM3b,Brazil
+KR781526,0,10570,,1367,2009,Cosmopolitan AM3b_A1.2,Cosmopolitan,Brazil
+KR781532,0,10570,,1367,2009,Cosmopolitan AM3b_A1.2,Cosmopolitan,Brazil
+AY854590,0,10563,,1374,1991,Cosmopolitan AM3b_A1.2.1,Cosmopolitan AM2b,Mexico
+LC717409,0,62,,11875,1958,Cosmopolitan AM3b_A1.2.1,Cosmopolitan,United States
+LC717410,0,46,,11891,1962,Cosmopolitan AM3b_A1.2.1,Cosmopolitan,Japan
+LC717411,0,46,,11891,1969,Cosmopolitan AM3b_A1.2.1,Cosmopolitan,Japan
+LC717412,0,46,,11891,1969,Cosmopolitan AM3b_A1.2.1,Cosmopolitan,Japan
+LC717413,0,35,,11902,1956,Cosmopolitan AM3b_A1.2.1,Cosmopolitan,United States
+LC717414,0,45,,11892,1956,Cosmopolitan AM3b_A1.2.1,Cosmopolitan,Japan
+MW055108,0,10584,,1353,2016,Cosmopolitan AM3b_A1.2.1,Cosmopolitan,Georgia
+LC717421,0,32,,11905,1965,Cosmopolitan AM4_A1,Cosmopolitan AM4,United States
+OM650816,0,10584,,1353,2021,Cosmopolitan CA1_A1.1,Cosmopolitan CA1,Russia
+OM650818,0,10584,,1353,2021,Cosmopolitan CA1_A1.1,Cosmopolitan CA1,Russia
+OM650819,0,10584,,1353,2021,Cosmopolitan CA1_A1.1,Cosmopolitan CA1,Russia
+OM650820,0,10584,,1353,2021,Cosmopolitan CA1_A1.1,Cosmopolitan CA1,Russia
+OM650821,0,10584,,1353,2021,Cosmopolitan CA1_A1.1,Cosmopolitan CA1,Russia
+OM650823,0,10584,,1353,2021,Cosmopolitan CA1_A1.1,Cosmopolitan CA1,Russia
+OM650824,0,10584,,1353,2021,Cosmopolitan CA1_A1.1,Cosmopolitan CA1,Russia
+MW055109,0,10584,,1353,2016,Cosmopolitan CA2_A1,Cosmopolitan CA2,Georgia
+MZ391106,0,10502,,1435,2020,Cosmopolitan CA2_A1,Cosmopolitan CA2,Turkey
+OM542187,0,137,,11800,2020,Cosmopolitan CE_A1,Cosmopolitan CE,Poland
+OM542193,0,137,,11800,2021,Cosmopolitan CE_A1,Cosmopolitan CE,Poland
+OM542194,1,137,,11799,2021,Cosmopolitan CE_A1,Cosmopolitan CE,Poland
+OM542195,1,137,,11799,2021,Cosmopolitan CE_A1,Cosmopolitan CE,Poland
+OM542199,0,137,,11800,2021,Cosmopolitan CE_A1,Cosmopolitan CE,Poland
+OM542200,0,137,,11800,2021,Cosmopolitan CE_A1,Cosmopolitan CE,Poland
+OM542201,0,136,,11801,2021,Cosmopolitan CE_A1,Cosmopolitan CE,Poland
+OM542202,0,137,,11800,2021,Cosmopolitan CE_A1,Cosmopolitan CE,Poland
+OM542203,0,137,,11800,2021,Cosmopolitan CE_A1,Cosmopolitan CE,Poland
+OM542206,0,137,,11800,2021,Cosmopolitan CE_A1,Cosmopolitan CE,Poland
+AF033905,0,10584,,1353,1996,Cosmopolitan CE_A1,Cosmopolitan WE,-
+U42605,0,10495,,1442,1984,Cosmopolitan CE_A1,Cosmopolitan WE,-
+MZ391103,0,10505,,1432,2020,Cosmopolitan ME2_B1,Cosmopolitan ME2,Turkey
+MZ391104,0,10510,,1427,2020,Cosmopolitan ME2_B1,Cosmopolitan ME2,Turkey
+MZ391105,0,10503,,1434,2020,Cosmopolitan ME2_B1,Cosmopolitan ME2,Turkey
+MZ391112,0,10516,,1421,2020,Cosmopolitan ME2_B1,Cosmopolitan ME2,Turkey
+MZ391102,0,10554,,1383,2020,Cosmopolitan ME2_B1,Cosmopolitan,Turkey
+OM650815,0,10584,,1353,2021,Cosmopolitan ME2_C1,Cosmopolitan CA1,Russia
+OM650817,0,10584,,1353,2021,Cosmopolitan ME2_C1,Cosmopolitan CA1,Russia
+OM650822,0,10584,,1353,2021,Cosmopolitan ME2_C1,Cosmopolitan CA1,Russia
+MW055110,0,10584,,1353,2016,Cosmopolitan ME2_C1,Cosmopolitan CA2,Georgia
+MW055111,0,10584,,1353,2016,Cosmopolitan ME2_C1,Cosmopolitan CA2,Georgia
+MZ391107,0,10519,,1418,2020,Cosmopolitan ME2_C1,Cosmopolitan CA2,Turkey
+MZ391108,0,10509,,1428,2020,Cosmopolitan ME2_C1,Cosmopolitan CA2,Turkey
+MZ391110,0,10584,,1353,2014,Cosmopolitan ME2_C1,Cosmopolitan CA2,Turkey
+MZ391113,0,10584,,1353,2014,Cosmopolitan ME2_C1,Cosmopolitan CA2,Turkey
+ON402517,0,10587,,1350,2018,Cosmopolitan ME2_C1,Cosmopolitan CA2,Israel
+ON402518,0,10584,,1353,2017,Cosmopolitan ME2_C1,Cosmopolitan CA2,Israel
+JF973781,0,10584,,1353,1978,Cosmopolitan ME2_C1,Cosmopolitan YUGCOW,Montenegro
+U42705,0,10494,,1443,1999,Cosmopolitan ME2_C1,Cosmopolitan YUGCOW,-
+OL449092,0,136,,11801,2014,Cosmopolitan NEE_A1,Cosmopolitan NEE,Romania
+OM021441,56,140,,11741,2016,Cosmopolitan NEE_A1,Cosmopolitan NEE,Romania
+OM203136,0,10584,,1353,2016,Cosmopolitan NEE_A1,Cosmopolitan NEE,Moldova
+OM203137,0,10584,,1353,2016,Cosmopolitan NEE_A1,Cosmopolitan NEE,Moldova
+OM203138,23,136,,11778,2017,Cosmopolitan NEE_A1,Cosmopolitan NEE,Moldova
+OM542196,0,136,,11801,2001,Cosmopolitan NEE_A1,Cosmopolitan NEE,Poland
+OM542197,0,136,,11801,2000,Cosmopolitan NEE_A1,Cosmopolitan NEE,Poland
+OM542198,0,136,,11801,2004,Cosmopolitan NEE_A1,Cosmopolitan NEE,Poland
+MW177594,32,136,,11769,2016,Cosmopolitan NEE_C1,Cosmopolitan NEE,Moldova
+OL440112,0,136,,11801,2015,Cosmopolitan NEE_C1,Cosmopolitan NEE,Romania
+OL449090,0,10604,,1333,2013,Cosmopolitan NEE_C1,Cosmopolitan NEE,Romania
+OL449091,0,10604,,1333,2013,Cosmopolitan NEE_C1,Cosmopolitan NEE,Romania
+OL515143,0,10584,,1353,2016,Cosmopolitan NEE_C1,Cosmopolitan NEE,Romania
+OL515145,5,136,,11796,2016,Cosmopolitan NEE_C1,Cosmopolitan NEE,Romania
+OL515146,0,10584,,1353,2016,Cosmopolitan NEE_C1,Cosmopolitan NEE,Moldova
+OL515147,0,10584,,1353,2016,Cosmopolitan NEE_C1,Cosmopolitan NEE,Moldova
+OL515148,0,10584,,1353,2016,Cosmopolitan NEE_C1,Cosmopolitan NEE,Moldova
+OL515149,0,10584,,1353,2016,Cosmopolitan NEE_C1,Cosmopolitan NEE,Moldova
+OL515150,5,136,,11796,2016,Cosmopolitan NEE_C1,Cosmopolitan NEE,Moldova
+OM021440,0,136,,11801,2016,Cosmopolitan NEE_C1,Cosmopolitan NEE,Moldova
+OM203139,0,10584,,1353,2016,Cosmopolitan NEE_C1,Cosmopolitan NEE,Moldova
+OM203140,0,10584,,1353,2016,Cosmopolitan NEE_C1,Cosmopolitan NEE,Romania
+OM203141,0,136,,11801,2016,Cosmopolitan NEE_C1,Cosmopolitan NEE,Moldova
+OM203142,0,10584,,1353,2016,Cosmopolitan NEE_C1,Cosmopolitan NEE,Moldova
+OM542185,0,136,,11801,2018,Cosmopolitan NEE_C1,Cosmopolitan NEE,Poland
+OM542186,0,136,,11801,2019,Cosmopolitan NEE_C1,Cosmopolitan NEE,Poland
+OM542188,0,136,,11801,2020,Cosmopolitan NEE_C1,Cosmopolitan NEE,Poland
+OM542189,0,136,,11801,2020,Cosmopolitan NEE_C1,Cosmopolitan NEE,Poland
+OM542190,0,136,,11801,2020,Cosmopolitan NEE_C1,Cosmopolitan NEE,Poland
+OM542191,0,136,,11801,2020,Cosmopolitan NEE_C1,Cosmopolitan NEE,Poland
+OM542192,0,136,,11801,2020,Cosmopolitan NEE_C1,Cosmopolitan NEE,Poland
+OM542204,0,136,,11801,2021,Cosmopolitan NEE_C1,Cosmopolitan NEE,Poland
+OM542205,1,136,,11800,2021,Cosmopolitan NEE_C1,Cosmopolitan NEE,Poland
+OL515141,38,136,,11763,2016,Cosmopolitan NEE_C1.1,Cosmopolitan NEE,Romania
+OL515142,0,10584,,1353,2016,Cosmopolitan NEE_C1.1,Cosmopolitan NEE,Romania
+OL515133,0,10604,,1333,2013,Cosmopolitan NEE_C1.1.1,Cosmopolitan NEE,Romania
+OL515134,381,136,,11420,2013,Cosmopolitan NEE_C1.1.1,Cosmopolitan NEE,Romania
+OL515135,48,136,,11753,2013,Cosmopolitan NEE_C1.1.1,Cosmopolitan NEE,Romania
+OL515136,0,10604,,1333,2012,Cosmopolitan NEE_C1.1.1,Cosmopolitan NEE,Romania
+OL515139,0,136,,11801,2012,Cosmopolitan NEE_C1.1.1,Cosmopolitan NEE,Romania
+OL515140,99,136,,11702,2012,Cosmopolitan NEE_C1.1.1,Cosmopolitan NEE,Romania
+MW055113,0,10584,,1353,2018,Cosmopolitan NEE_D1.1.1,Cosmopolitan AF1b,Kenya
+OL449093,0,136,,11801,2014,Cosmopolitan NEE_C1.1.1,Cosmopolitan NEE,Romania
+OL449094,0,10604,,1333,2013,Cosmopolitan NEE_C1.1.1,Cosmopolitan NEE,Romania
+OL449095,19,136,,11782,2012,Cosmopolitan NEE_C1.1.1,Cosmopolitan NEE,Romania
+OL515137,0,136,,11801,2012,Cosmopolitan NEE_C1.1.1,Cosmopolitan NEE,Romania
+OL515138,5,136,,11796,2012,Cosmopolitan NEE_C1.1.1,Cosmopolitan NEE,Romania
+OL515144,107,136,,11694,2014,Cosmopolitan NEE_C1.1.1,Cosmopolitan NEE,Romania
+JF973784,0,10584,,1353,1986,Cosmopolitan WE_A1,Cosmopolitan YUGFOX,Serbia
+AB010494,0,10513,,1424,1998,Cosmopolitan_A1,Cosmopolitan,-
+AB044824,0,17,,11920,2000,Cosmopolitan_A1,Cosmopolitan,-
+AB128149,0,17,,11920,2003,Cosmopolitan_A1,Cosmopolitan,-
+AB178891,0,10584,,1353,2004,Cosmopolitan_A1,Cosmopolitan,Japan
+AF155039,0,10584,,1353,1999,Cosmopolitan_A1,Cosmopolitan,China
+D16331,0,10533,,1404,1993,Cosmopolitan_A1,Cosmopolitan,-
+FJ561729,0,10584,,1353,2008,Cosmopolitan_A1,Cosmopolitan,China
+FJ561730,0,10584,,1353,2008,Cosmopolitan_A1,Cosmopolitan,China
+FJ561731,0,10584,,1353,2008,Cosmopolitan_A1,Cosmopolitan,China
+FJ561732,0,10584,,1353,2008,Cosmopolitan_A1,Cosmopolitan,China
+GU992318,0,10584,,1353,1997,Cosmopolitan_A1,Cosmopolitan,China
+LC717415,0,64,,11873,1981,Cosmopolitan_A1,Cosmopolitan,Japan
+LC717416,0,45,,11892,1965,Cosmopolitan_A1,Cosmopolitan,Japan
+LC717419,0,46,,11891,1948,Cosmopolitan_A1,Cosmopolitan,Japan
+OM971005,0,147,,11790,2020,Cosmopolitan_A1,Cosmopolitan,Mexico
+DQ420623,0,10584,,1353,2004,Cosmopolitan_A1.1,Cosmopolitan AF1c,Madagascar
+JF973774,0,10584,,1353,1972,Cosmopolitan_A1.1.1,Cosmopolitan YUGFOX,Serbia
+JF973775,0,10584,,1353,1972,Cosmopolitan_A1.1.1,Cosmopolitan YUGFOX,Serbia
+JF973776,0,10584,,1353,1976,Cosmopolitan_A1.1.1,Cosmopolitan YUGFOX,Serbia
+JF973779,0,10584,,1353,1977,Cosmopolitan_A1.1.1,Cosmopolitan YUGFOX,Serbia
+U22839,0,10587,,1350,1995,Cosmopolitan_A1.1.1,Cosmopolitan YUGFOX,-
+U42703,0,10494,,1443,1999,Cosmopolitan_A1.1.1,Cosmopolitan YUGFOX,-
+DQ837430,0,10587,,1350,1997,Cosmopolitan_A1.1.2,Cosmopolitan ME1b,Israel
+DQ837441,0,10587,,1350,1997,Cosmopolitan_A1.1.2,Cosmopolitan ME1b,Israel
+DQ837443,0,10587,,1350,2000,Cosmopolitan_A1.1.2,Cosmopolitan ME1b,Israel
+DQ837431,0,10587,,1350,1950,Cosmopolitan_A1.3,Cosmopolitan AF4,Israel
+DQ837462,0,10587,,1350,1999,Cosmopolitan_A1.3,Cosmopolitan AF4,Egypt
+DQ837463,0,10587,,1350,1999,Cosmopolitan_A1.3,Cosmopolitan AF4,Egypt
+MW055131,0,10584,,1353,2017,Cosmopolitan_A1.3,Cosmopolitan AF4,Egypt
+U22627,0,10587,,1350,1995,Cosmopolitan_A1.3,Cosmopolitan AF4,-
+KU938904,0,10590,,1347,1999,Cosmopolitan_A1.3,Cosmopolitan AM3a,Peru
+OM971003,0,153,,11784,2015,Cosmopolitan_A1.3,Cosmopolitan,Mexico
+OM971004,0,149,,11788,2017,Cosmopolitan_A1.3,Cosmopolitan,Mexico
+DQ837461,0,10587,,1350,1998,Cosmopolitan_A1.3.1,Cosmopolitan AF4,Egypt
+FJ228540,0,10587,,1350,2002,Cosmopolitan_A1.3.1,Cosmopolitan AM2b,Mexico
+FJ228541,0,10587,,1350,1986,Cosmopolitan_A1.3.1,Cosmopolitan AM2b,United States
+FJ228542,0,10587,,1350,1994,Cosmopolitan_A1.3.1,Cosmopolitan AM2b,Mexico
+KU963496,0,10587,,1350,1994,Cosmopolitan_A1.3.1,Cosmopolitan AM2b,-
+MW055132,0,10584,,1353,2018,Cosmopolitan_A1.3.1,Cosmopolitan AM2b,United States
+AB069973,0,10584,,1353,2002,Cosmopolitan_A1.3.1,Cosmopolitan,-
+AB085828,0,384,,11553,2003,Cosmopolitan_A1.3.1,Cosmopolitan,-
+D42112,0,10489,,1448,1994,Cosmopolitan_A1.3.1,Cosmopolitan,-
+DQ286762,0,9521,,2416,2005,Cosmopolitan_A1.3.1,Cosmopolitan,India
+GU992321,0,10584,,1353,1988,Cosmopolitan_A1.3.1,Cosmopolitan,France
+KF733451,0,10584,,1353,2013,Cosmopolitan_A1.3.1,Cosmopolitan,France
+KR105374,0,10584,,1353,2014,Cosmopolitan_A1.3.1,Cosmopolitan,India
+KR105375,0,10584,,1353,2014,Cosmopolitan_A1.3.1,Cosmopolitan,India
+LC717417,0,15,,11922,1949,Cosmopolitan_A1.3.1,Cosmopolitan,United States
+LC717418,0,44,,11893,1956,Cosmopolitan_A1.3.1,Cosmopolitan,Japan
+LC717420,0,50,,11887,1949,Cosmopolitan_A1.3.1,Cosmopolitan,United States
+M61047,0,10540,,1397,1993,Cosmopolitan_A1.3.1,Cosmopolitan,-
+X13357,0,8557,,3380,1990,Cosmopolitan_A1.3.1,Cosmopolitan,-
+AB083792,0,10543,,1394,1999,Cosmopolitan_A1.3.2,Cosmopolitan AM3a,Brazil
+AB083793,0,10543,,1394,1999,Cosmopolitan_A1.3.2,Cosmopolitan AM3a,Brazil
+AB083794,0,10543,,1394,1998,Cosmopolitan_A1.3.2,Cosmopolitan AM3a,Brazil
+AB083795,0,10543,,1394,1999,Cosmopolitan_A1.3.2,Cosmopolitan AM3a,Brazil
+AB083796,0,10543,,1394,1987,Cosmopolitan_A1.3.2,Cosmopolitan AM3a,Brazil
+AB083797,0,10543,,1394,1989,Cosmopolitan_A1.3.2,Cosmopolitan AM3a,Brazil
+AB083798,0,10543,,1394,1999,Cosmopolitan_A1.3.2,Cosmopolitan AM3a,Brazil
+AB083799,0,10543,,1394,1998,Cosmopolitan_A1.3.2,Cosmopolitan AM3a,Brazil
+AB083800,0,10543,,1394,1999,Cosmopolitan_A1.3.2,Cosmopolitan AM3a,Brazil
+AB083801,0,10543,,1394,1999,Cosmopolitan_A1.3.2,Cosmopolitan AM3a,Brazil
+AB083802,0,10543,,1394,1998,Cosmopolitan_A1.3.2,Cosmopolitan AM3a,Brazil
+AB263292,0,10605,,1332,1998,Cosmopolitan_A1.3.2,Cosmopolitan AM3a,Brazil
+AB263293,0,10605,,1332,1999,Cosmopolitan_A1.3.2,Cosmopolitan AM3a,Brazil
+AB263294,0,10605,,1332,1999,Cosmopolitan_A1.3.2,Cosmopolitan AM3a,Brazil
+AB263295,0,10605,,1332,1999,Cosmopolitan_A1.3.2,Cosmopolitan AM3a,Brazil
+AB263296,0,10605,,1332,1998,Cosmopolitan_A1.3.2,Cosmopolitan AM3a,Brazil
+AB263297,0,10605,,1332,1987,Cosmopolitan_A1.3.2,Cosmopolitan AM3a,Brazil
+AB263298,0,10605,,1332,1989,Cosmopolitan_A1.3.2,Cosmopolitan AM3a,Brazil
+AB263299,0,10605,,1332,1989,Cosmopolitan_A1.3.2,Cosmopolitan AM3a,Brazil
+AB263300,0,10605,,1332,1999,Cosmopolitan_A1.3.2,Cosmopolitan AM3a,Brazil
+AB263301,0,10605,,1332,1999,Cosmopolitan_A1.3.2,Cosmopolitan AM3a,Brazil
+AB263302,0,10605,,1332,1999,Cosmopolitan_A1.3.2,Cosmopolitan AM3a,Brazil
+AB263303,0,10605,,1332,1998,Cosmopolitan_A1.3.2,Cosmopolitan AM3a,Brazil
+AB263304,0,10605,,1332,1999,Cosmopolitan_A1.3.2,Cosmopolitan AM3a,Brazil
+AB263305,0,10605,,1332,1999,Cosmopolitan_A1.3.2,Cosmopolitan AM3a,Brazil
+AB263306,0,10605,,1332,1999,Cosmopolitan_A1.3.2,Cosmopolitan AM3a,Brazil
+AB263307,0,10605,,1332,1999,Cosmopolitan_A1.3.2,Cosmopolitan AM3a,Brazil
+AB263308,0,10605,,1332,1999,Cosmopolitan_A1.3.2,Cosmopolitan AM3a,Brazil
+AB263309,0,10605,,1332,1992,Cosmopolitan_A1.3.2,Cosmopolitan AM3a,Brazil
+AB263310,0,10605,,1332,2001,Cosmopolitan_A1.3.2,Cosmopolitan AM3a,Brazil
+AB263311,0,10605,,1332,2001,Cosmopolitan_A1.3.2,Cosmopolitan AM3a,Brazil
+AB263312,0,10605,,1332,2001,Cosmopolitan_A1.3.2,Cosmopolitan AM3a,Brazil
+AB263313,0,10605,,1332,2001,Cosmopolitan_A1.3.2,Cosmopolitan AM3a,Brazil
+AB263314,0,10605,,1332,2001,Cosmopolitan_A1.3.2,Cosmopolitan AM3a,Brazil
+AB263315,0,10605,,1332,1999,Cosmopolitan_A1.3.2,Cosmopolitan AM3a,Brazil
+AB263316,0,10605,,1332,1999,Cosmopolitan_A1.3.2,Cosmopolitan AM3a,Brazil
+AB263317,0,10605,,1332,1998,Cosmopolitan_A1.3.2,Cosmopolitan AM3a,Brazil
+AB263318,0,10605,,1332,2000,Cosmopolitan_A1.3.2,Cosmopolitan AM3a,Brazil
+AB263319,0,10605,,1332,2000,Cosmopolitan_A1.3.2,Cosmopolitan AM3a,Brazil
+AB263320,0,10605,,1332,2000,Cosmopolitan_A1.3.2,Cosmopolitan AM3a,Brazil
+AB263321,0,10605,,1332,2000,Cosmopolitan_A1.3.2,Cosmopolitan AM3a,Brazil
+AB263322,0,10605,,1332,2000,Cosmopolitan_A1.3.2,Cosmopolitan AM3a,Brazil
+AB263323,0,10605,,1332,2000,Cosmopolitan_A1.3.2,Cosmopolitan AM3a,Brazil
+AB263328,0,10608,,1329,2003,Cosmopolitan_A1.3.2,Cosmopolitan AM3a,Brazil
+AB263330,0,10608,,1329,2003,Cosmopolitan_A1.3.2,Cosmopolitan AM3a,Brazil
+AB263332,0,10608,,1329,2003,Cosmopolitan_A1.3.2,Cosmopolitan AM3a,Brazil
+AB263334,0,10608,,1329,2002,Cosmopolitan_A1.3.2,Cosmopolitan AM3a,Brazil
+AB263341,0,10608,,1329,2005,Cosmopolitan_A1.3.2,Cosmopolitan AM3a,Brazil
+AB263342,0,10608,,1329,2005,Cosmopolitan_A1.3.2,Cosmopolitan AM3a,Brazil
+EF152237,0,10543,,1394,2003,Cosmopolitan_A1.3.2,Cosmopolitan AM3a,Brazil
+EF152238,0,10543,,1394,2003,Cosmopolitan_A1.3.2,Cosmopolitan AM3a,Brazil
+EF152239,0,10543,,1394,2003,Cosmopolitan_A1.3.2,Cosmopolitan AM3a,Brazil
+EF152240,0,10543,,1394,2003,Cosmopolitan_A1.3.2,Cosmopolitan AM3a,Brazil
+EF152260,0,10543,,1394,2005,Cosmopolitan_A1.3.2,Cosmopolitan AM3a,Brazil
+EF152261,0,10543,,1394,2005,Cosmopolitan_A1.3.2,Cosmopolitan AM3a,Brazil
+EF152262,0,10543,,1394,2005,Cosmopolitan_A1.3.2,Cosmopolitan AM3a,Brazil
+EF152263,0,10543,,1394,2005,Cosmopolitan_A1.3.2,Cosmopolitan AM3a,Brazil
+EF152264,0,10543,,1394,2003,Cosmopolitan_A1.3.2,Cosmopolitan AM3a,Brazil
+EF152265,0,10543,,1394,2003,Cosmopolitan_A1.3.2,Cosmopolitan AM3a,Brazil
+EF152266,0,10543,,1394,2003,Cosmopolitan_A1.3.2,Cosmopolitan AM3a,Brazil
+EF152268,0,10543,,1394,2005,Cosmopolitan_A1.3.2,Cosmopolitan AM3a,Brazil
+EF152269,0,10543,,1394,2005,Cosmopolitan_A1.3.2,Cosmopolitan AM3a,Brazil
+EF152280,0,10543,,1394,2005,Cosmopolitan_A1.3.2,Cosmopolitan AM3a,Brazil
+EF194163,0,10543,,1394,2005,Cosmopolitan_A1.3.2,Cosmopolitan AM3a,Brazil
+KR781522,0,10570,,1367,2006,Cosmopolitan_A1.3.2,Cosmopolitan AM3a,Brazil
+KR781524,0,10570,,1367,2011,Cosmopolitan_A1.3.2,Cosmopolitan AM3a,Brazil
+KR781525,0,10570,,1367,2011,Cosmopolitan_A1.3.2,Cosmopolitan AM3a,Brazil
+KR781527,0,10570,,1367,2006,Cosmopolitan_A1.3.2,Cosmopolitan AM3a,Brazil
+KR781528,0,10570,,1367,2008,Cosmopolitan_A1.3.2,Cosmopolitan AM3a,Brazil
+KR781529,0,10570,,1367,2008,Cosmopolitan_A1.3.2,Cosmopolitan AM3a,Brazil
+KR781530,0,10570,,1367,2008,Cosmopolitan_A1.3.2,Cosmopolitan AM3a,Brazil
+KR781531,0,10570,,1367,2009,Cosmopolitan_A1.3.2,Cosmopolitan AM3a,Brazil
+KR781534,0,10570,,1367,2009,Cosmopolitan_A1.3.2,Cosmopolitan AM3a,Brazil
+KR781536,0,10570,,1367,2006,Cosmopolitan_A1.3.2,Cosmopolitan AM3a,Brazil
+KR781554,0,10570,,1367,2009,Cosmopolitan_A1.3.2,Cosmopolitan AM3a,Brazil
+KR781559,0,10570,,1367,2007,Cosmopolitan_A1.3.2,Cosmopolitan AM3a,Brazil
+KR781560,0,10570,,1367,2007,Cosmopolitan_A1.3.2,Cosmopolitan AM3a,Brazil
+KR781561,0,10570,,1367,2007,Cosmopolitan_A1.3.2,Cosmopolitan AM3a,Brazil
+KR781562,0,10570,,1367,2007,Cosmopolitan_A1.3.2,Cosmopolitan AM3a,Brazil
+KR781563,0,10570,,1367,2007,Cosmopolitan_A1.3.2,Cosmopolitan AM3a,Brazil
+KR781564,0,10570,,1367,2007,Cosmopolitan_A1.3.2,Cosmopolitan AM3a,Brazil
+KR781565,0,10570,,1367,2007,Cosmopolitan_A1.3.2,Cosmopolitan AM3a,Brazil
+KR781569,0,10570,,1367,2007,Cosmopolitan_A1.3.2,Cosmopolitan AM3a,Brazil
+KR781602,0,10570,,1367,2008,Cosmopolitan_A1.3.2,Cosmopolitan AM3a,Brazil
+KR781604,0,10570,,1367,2009,Cosmopolitan_A1.3.2,Cosmopolitan AM3a,Brazil
+AB206409,0,10605,,1332,2005,Cosmopolitan_A1.3.2,Cosmopolitan AM3b,Brazil
+AB206410,0,10605,,1332,2005,Cosmopolitan_A1.3.2,Cosmopolitan AM3b,Brazil
+EF152231,0,10543,,1394,2002,Cosmopolitan_A1.3.2,Cosmopolitan AM3b,Brazil
+EF152233,0,10543,,1394,2002,Cosmopolitan_A1.3.2,Cosmopolitan AM3b,Brazil
+EF152245,0,10543,,1394,2005,Cosmopolitan_A1.3.2,Cosmopolitan AM3b,Brazil
+EF152248,0,10543,,1394,2005,Cosmopolitan_A1.3.2,Cosmopolitan AM3b,Brazil
+EF152250,0,10543,,1394,2005,Cosmopolitan_A1.3.2,Cosmopolitan AM3b,Brazil
+EF152251,0,10543,,1394,2005,Cosmopolitan_A1.3.2,Cosmopolitan AM3b,Brazil
+EF152255,0,10543,,1394,2005,Cosmopolitan_A1.3.2,Cosmopolitan AM3b,Brazil
+EF152258,0,10543,,1394,2005,Cosmopolitan_A1.3.2,Cosmopolitan AM3b,Brazil
+EF152259,0,10543,,1394,2005,Cosmopolitan_A1.3.2,Cosmopolitan AM3b,Brazil
+KR781573,0,10570,,1367,2006,Cosmopolitan_A1.3.2,Cosmopolitan AM3b,Brazil
+KR781575,0,10570,,1367,2006,Cosmopolitan_A1.3.2,Cosmopolitan AM3b,Brazil
+KR781577,0,10570,,1367,2006,Cosmopolitan_A1.3.2,Cosmopolitan AM3b,Brazil
+KR781579,0,10570,,1367,2006,Cosmopolitan_A1.3.2,Cosmopolitan AM3b,Brazil
+KR781585,0,10570,,1367,2009,Cosmopolitan_A1.3.2,Cosmopolitan AM3b,Brazil
+U43025,0,10494,,1443,1999,Cosmopolitan_B1,Cosmopolitan CA3,-
+ON366706,0,215,,11722,2021,Cosmopolitan_B1.1,Cosmopolitan CA1,Kazakhstan
+ON366707,0,215,,11722,2021,Cosmopolitan_B1.1,Cosmopolitan CA1,Kazakhstan
+ON366708,0,215,,11722,2021,Cosmopolitan_B1.1,Cosmopolitan CA1,Kazakhstan
+ON366709,0,215,,11722,2021,Cosmopolitan_B1.1,Cosmopolitan CA1,Kazakhstan
+ON366710,0,215,,11722,2021,Cosmopolitan_B1.1,Cosmopolitan CA1,Kazakhstan
+AB009663,0,17,,11920,1997,Cosmopolitan_B1.1.1,Cosmopolitan,-
+AY352457,0,10523,,1414,2004,Cosmopolitan_B1.2,Cosmopolitan CA3,-
+AY352476,0,10523,,1414,2004,Cosmopolitan_B1.2,Cosmopolitan CA3,-
+AY352479,0,10523,,1414,2004,Cosmopolitan_B1.2,Cosmopolitan CA3,-
+KY382830,0,10628,,1309,2011,Cosmopolitan_B1.2,Cosmopolitan CA3,Romania
+MF463001,0,10584,,1353,2009,Cosmopolitan_B1.2,Cosmopolitan CA3,Russia
+MF503298,0,10584,,1353,2009,Cosmopolitan_B1.2,Cosmopolitan CA3,Russia
+MF503299,0,10584,,1353,2014,Cosmopolitan_B1.2,Cosmopolitan CA3,Russia
+MF572298,0,10611,,1326,2014,Cosmopolitan_B1.2,Cosmopolitan CA3,Russia
+MF572299,0,10584,,1353,2014,Cosmopolitan_B1.2,Cosmopolitan CA3,Russia
+MF572308,0,10584,,1353,2014,Cosmopolitan_B1.2,Cosmopolitan CA3,Russia
+MF574192,0,10584,,1353,2012,Cosmopolitan_B1.2,Cosmopolitan CA3,Russia
+MF574193,0,10584,,1353,2012,Cosmopolitan_B1.2,Cosmopolitan CA3,Russia
+MF574195,0,10584,,1353,2013,Cosmopolitan_B1.2,Cosmopolitan CA3,Russia
+MF574196,0,10584,,1353,2014,Cosmopolitan_B1.2,Cosmopolitan CA3,Russia
+MF574197,0,10584,,1353,2014,Cosmopolitan_B1.2,Cosmopolitan CA3,Russia
+MG996460,0,10584,,1353,2016,Cosmopolitan_B1.2,Cosmopolitan CA3,Russia
+MG996461,0,10584,,1353,2016,Cosmopolitan_B1.2,Cosmopolitan CA3,Russia
+MG996462,0,10584,,1353,2016,Cosmopolitan_B1.2,Cosmopolitan CA3,Russia
+MF572300,0,10584,,1353,2014,Cosmopolitan_B1.2.1,Cosmopolitan CA3,Russia
+MF572304,0,10584,,1353,2014,Cosmopolitan_B1.2.1,Cosmopolitan CA3,Russia
+MF572305,0,10584,,1353,2014,Cosmopolitan_B1.2.1,Cosmopolitan CA3,Russia
+MF572306,0,10584,,1353,2014,Cosmopolitan_B1.2.1,Cosmopolitan CA3,Russia
+MF572307,0,10584,,1353,2014,Cosmopolitan_B1.2.1,Cosmopolitan CA3,Russia
+MF572309,0,10584,,1353,2014,Cosmopolitan_B1.2.1,Cosmopolitan CA3,Russia
+MF574183,0,10584,,1353,2012,Cosmopolitan_B1.2.1,Cosmopolitan CA3,Russia
+MF574186,0,10584,,1353,2012,Cosmopolitan_B1.2.1,Cosmopolitan CA3,Russia
+MF574187,0,10584,,1353,2012,Cosmopolitan_B1.2.1,Cosmopolitan CA3,Russia
+MF574188,0,10584,,1353,2012,Cosmopolitan_B1.2.1,Cosmopolitan CA3,Russia
+MF574189,0,10584,,1353,2012,Cosmopolitan_B1.2.1,Cosmopolitan CA3,Russia
+MF574190,0,10584,,1353,2012,Cosmopolitan_B1.2.1,Cosmopolitan CA3,Russia
+MF574198,0,10584,,1353,2014,Cosmopolitan_B1.2.1,Cosmopolitan CA3,Russia
+MF574199,0,10584,,1353,2014,Cosmopolitan_B1.2.1,Cosmopolitan CA3,Russia
+MF574200,0,10584,,1353,2014,Cosmopolitan_B1.2.1,Cosmopolitan CA3,Russia
+MG996463,0,10584,,1353,2016,Cosmopolitan_B1.2.1,Cosmopolitan CA3,Russia
+DQ837423,0,10587,,1350,1999,Cosmopolitan_D1,Cosmopolitan ME1b,Jordan
+MZ391109,0,10510,,1427,2020,Cosmopolitan_F1,Cosmopolitan ME1a,Turkey
+MW055115,0,10584,,1353,2018,Cosmopolitan_G1,Cosmopolitan AF1b,Kenya
+MW055116,0,10584,,1353,2018,Cosmopolitan_G1,Cosmopolitan AF1b,Kenya
+MW055117,0,10584,,1353,2018,Cosmopolitan_G1,Cosmopolitan AF1b,Kenya
+AB263324,0,10608,,1329,1985,Cosmopolitan_I1,Cosmopolitan AM3a,Brazil
+EF152249,0,10543,,1394,2005,Cosmopolitan_I1,Cosmopolitan AM3a,Brazil
+EF152275,0,10543,,1394,2005,Cosmopolitan_I1,Cosmopolitan AM3a,Brazil
+EF152276,0,10543,,1394,2005,Cosmopolitan_I1.1,Cosmopolitan AM3a,Brazil
+EF152277,0,10543,,1394,2005,Cosmopolitan_I1.1,Cosmopolitan AM3a,Brazil
+EF152278,0,10543,,1394,2005,Cosmopolitan_I1.1,Cosmopolitan AM3a,Brazil
+EF152279,0,10543,,1394,2005,Cosmopolitan_I1.1,Cosmopolitan AM3a,Brazil
+EF194166,0,10543,,1394,2005,Cosmopolitan_I1.1,Cosmopolitan AM3a,Brazil
+EF194167,0,10543,,1394,2005,Cosmopolitan_I1.1,Cosmopolitan AM3a,Brazil
+KR781544,0,10570,,1367,2007,Cosmopolitan_I1.1,Cosmopolitan AM3a,Brazil
+KR781567,0,10570,,1367,2007,Cosmopolitan_I1.1,Cosmopolitan AM3a,Brazil
+KR781568,0,10570,,1367,2007,Cosmopolitan_I1.1,Cosmopolitan AM3a,Brazil
+AB263326,0,10608,,1329,2007,Cosmopolitan_I1.1.1,Cosmopolitan AM3a,Brazil
+EF363731,0,10561,,1376,2006,Cosmopolitan_I1.1.1,Cosmopolitan AM3a,Brazil
+KR781538,0,10570,,1367,2006,Cosmopolitan_I1.1.1,Cosmopolitan AM3a,Brazil
+KR781539,0,10570,,1367,2007,Cosmopolitan_I1.1.1,Cosmopolitan AM3a,Brazil
+KR781543,0,10570,,1367,2007,Cosmopolitan_I1.1.1,Cosmopolitan AM3a,Brazil
+KR781541,0,10570,,1367,2007,Cosmopolitan_J1,Cosmopolitan AM3a,Brazil
+KR781542,0,10570,,1367,2007,Cosmopolitan_J1,Cosmopolitan AM3a,Brazil
+KR781545,0,10570,,1367,2007,Cosmopolitan_J1,Cosmopolitan AM3a,Brazil
+KR781546,0,10570,,1367,2012,Cosmopolitan_J1,Cosmopolitan AM3a,Brazil
+KR781547,0,10570,,1367,2012,Cosmopolitan_J1,Cosmopolitan AM3a,Brazil
+KR781548,0,10570,,1367,2012,Cosmopolitan_J1,Cosmopolitan AM3a,Brazil
+KR781549,0,10570,,1367,2012,Cosmopolitan_J1,Cosmopolitan AM3a,Brazil
+KR781550,0,10570,,1367,2012,Cosmopolitan_J1,Cosmopolitan AM3a,Brazil
+KR781551,0,10570,,1367,2012,Cosmopolitan_J1,Cosmopolitan AM3a,Brazil
+KR781552,0,10570,,1367,2012,Cosmopolitan_J1,Cosmopolitan AM3a,Brazil
+KR781553,0,10570,,1367,2012,Cosmopolitan_J1,Cosmopolitan AM3a,Brazil
+KR781566,0,10570,,1367,2007,Cosmopolitan_J1,Cosmopolitan AM3a,Brazil
