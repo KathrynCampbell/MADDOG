@@ -1,233 +1,233 @@
-"ID","N","gap","Length_before","Length_after","Year","cluster","previous","Country"
-"AF406695",0,0,1353,1353,2003,"Cosmopolitan Vac_A1","Cosmopolitan Vac","-"
-"AF406696",0,0,1353,1353,2003,"Cosmopolitan Vac_A1","Cosmopolitan Vac","-"
-"DQ666288",0,0,1353,1353,2006,"Cosmopolitan Vac_A1","Cosmopolitan Vac","China"
-"DQ666292",0,0,1353,1353,2006,"Cosmopolitan Vac_A1","Cosmopolitan Vac","China"
-"DQ666293",0,0,1353,1353,2006,"Cosmopolitan Vac_A1","Cosmopolitan Vac","China"
-"DQ666301",0,0,1353,1353,2006,"Cosmopolitan Vac_A1","Cosmopolitan Vac","China"
-"DQ666303",0,0,1353,1353,2006,"Cosmopolitan Vac_A1","Cosmopolitan Vac","China"
-"DQ666305",0,0,1353,1353,2006,"Cosmopolitan Vac_A1","Cosmopolitan Vac","China"
-"DQ666310",0,0,1353,1353,2006,"Cosmopolitan Vac_A1","Cosmopolitan Vac","China"
-"DQ666313",0,0,1353,1353,2006,"Cosmopolitan Vac_A1","Cosmopolitan Vac","China"
-"DQ666320",0,0,1353,1353,2006,"Cosmopolitan Vac_A1","Cosmopolitan Vac","China"
-"GQ406343",0,0,1353,1353,2005,"Cosmopolitan Vac_A1","Cosmopolitan Vac","China"
-"GU992309",0,0,1353,1353,1995,"Cosmopolitan Vac_A1","Cosmopolitan Vac","Czechia"
-"GU992311",0,0,1353,1353,1995,"Cosmopolitan Vac_A1","Cosmopolitan Vac","Czechia"
-"GU992319",0,0,1353,1353,1995,"Vac_A1.2.2","Cosmopolitan Vac","Czechia"
-"GU992320",0,0,1353,1353,1993,"Vac_A1.2.2","Cosmopolitan Vac","France"
-"GU992322",0,0,1353,1353,1993,"Vac_A1.2.2","Cosmopolitan Vac","Morocco"
-"JX944594",0,0,1353,1353,2013,"Vac_A1.2.2","Cosmopolitan Vac","Nepal"
-"KC178555",0,0,1353,1353,2013,"Cosmopolitan Vac_A1","Cosmopolitan Vac","-"
-"KC178556",0,0,1353,1353,2013,"Cosmopolitan Vac_A1","Cosmopolitan Vac","-"
-"KC522613",0,0,1353,1353,2012,"Cosmopolitan Vac_A1","Cosmopolitan Vac","Slovenia"
-"MK420470",0,0,1353,1353,2019,"Vac_A1.2.2","Cosmopolitan Vac","-"
-"GU991844",0,3,1353,1350,2003,"Cosmopolitan Vac2_A1","Cosmopolitan Vac2","Mexico"
-"KJ001521",0,3,1353,1350,2008,"Cosmopolitan Vac2_A1","Cosmopolitan Vac2","Mexico"
-"KJ001522",0,3,1353,1350,2009,"Cosmopolitan Vac2_A1","Cosmopolitan Vac2","Mexico"
-"KJ001529",0,11,1353,1342,2009,"Cosmopolitan Vac2_A1","Cosmopolitan Vac2","Mexico"
-"KJ001530",0,11,1353,1342,2009,"Cosmopolitan Vac2_A1","Cosmopolitan Vac2","Mexico"
-"AF499686",0,4,NA,NA,2002,"Cosmopolitan Vac_A1.1","Cosmopolitan Vac",NA
-"CS614408",0,1,NA,NA,2007,"Vac_A1.1","Cosmopolitan Vac",NA
-"DD161903",0,4,NA,NA,2005,"Cosmopolitan Vac_A1.1","Cosmopolitan Vac",NA
-"DD161904",0,4,NA,NA,2005,"Cosmopolitan Vac_A1.1","Cosmopolitan Vac",NA
-"DD161905",0,4,NA,NA,2005,"Cosmopolitan Vac_A1.1","Cosmopolitan Vac",NA
-"DD161906",0,4,NA,NA,2005,"Cosmopolitan Vac_A1.1","Cosmopolitan Vac",NA
-"DI035301",0,4,NA,NA,2008,"Cosmopolitan Vac_A1.1","Cosmopolitan Vac",NA
-"DI043469",0,4,NA,NA,2008,"Cosmopolitan Vac_A1.1","Cosmopolitan Vac",NA
-"DI046747",0,4,NA,NA,2008,"Cosmopolitan Vac_A1.1","Cosmopolitan Vac",NA
-"DI084725",0,4,NA,NA,2008,"Cosmopolitan Vac_A1.1","Cosmopolitan Vac",NA
-"EF206707",0,1,NA,NA,2007,"Vac_A1.1","Cosmopolitan Vac",NA
-"EF206708",0,4,NA,NA,2007,"Vac_B1","Cosmopolitan Vac",NA
-"EF206709",0,4,NA,NA,2007,"Cosmopolitan Vac_A1.1","Cosmopolitan Vac",NA
-"EF206710",0,2,NA,NA,2007,"Vac_B1","Cosmopolitan Vac",NA
-"EF206711",0,2,NA,NA,2007,"Vac_B1","Cosmopolitan Vac",NA
-"EF206712",0,4,NA,NA,2007,"Vac_B1","Cosmopolitan Vac",NA
-"EF206713",0,4,NA,NA,2007,"Vac_B1","Cosmopolitan Vac",NA
-"EF206714",0,4,NA,NA,2007,"Vac_B1","Cosmopolitan Vac",NA
-"EF206715",0,4,NA,NA,2007,"Cosmopolitan Vac_A1","Cosmopolitan Vac",NA
-"EF206716",0,4,NA,NA,2007,"Cosmopolitan Vac_A1.1","Cosmopolitan Vac",NA
-"EF206717",0,1,NA,NA,2007,"Vac_A1.2","Cosmopolitan Vac",NA
-"EF206718",0,0,NA,NA,2007,"Vac_A1.2","Cosmopolitan Vac",NA
-"EF206719",0,4,NA,NA,2007,"Cosmopolitan Vac_A1.1.1","Cosmopolitan Vac",NA
-"EF206720",0,4,NA,NA,2007,"Vac_B1","Cosmopolitan Vac",NA
-"EU182346",0,1,NA,NA,2007,"Vac_A1","Cosmopolitan Vac",NA
-"EU182347",0,1,NA,NA,2007,"Vac_A1","Cosmopolitan Vac",NA
-"EU877067",0,46,NA,NA,2008,"Cosmopolitan Vac_A1.1","Cosmopolitan Vac",NA
-"EU877068",0,46,NA,NA,2008,"Cosmopolitan Vac_A1.1","Cosmopolitan Vac",NA
-"EU877069",0,46,NA,NA,2008,"Cosmopolitan Vac_A1.1","Cosmopolitan Vac",NA
-"EU877070",0,46,NA,NA,2008,"Cosmopolitan Vac_A1.1","Cosmopolitan Vac",NA
-"EU877071",0,46,NA,NA,2008,"Cosmopolitan Vac_A1.1","Cosmopolitan Vac",NA
-"EU886631",0,25,NA,NA,2001,"Cosmopolitan Vac_A1","Cosmopolitan Vac",NA
-"EU886632",0,25,NA,NA,2002,"Cosmopolitan Vac_A1.1","Cosmopolitan Vac",NA
-"EU886633",0,25,NA,NA,2004,"Cosmopolitan Vac_A1.1","Cosmopolitan Vac",NA
-"EU886634",0,25,NA,NA,2004,"Cosmopolitan Vac_A1.1","Cosmopolitan Vac",NA
-"EU886635",0,25,NA,NA,2005,"Cosmopolitan Vac_A1.1","Cosmopolitan Vac",NA
-"EU886636",0,25,NA,NA,2006,"Cosmopolitan Vac_A1","Cosmopolitan Vac",NA
-"FJ913470",0,0,NA,NA,2007,"Vac_A1","Cosmopolitan Vac",NA
-"JX276550",0,0,NA,NA,2012,"Vac_A1.2","Cosmopolitan Vac",NA
-"LN713542",0,6,NA,NA,2015,"Cosmopolitan Vac_A1.1","Cosmopolitan Vac",NA
-"LN713543",0,4,NA,NA,2015,"Cosmopolitan Vac_A1.1","Cosmopolitan Vac",NA
-"LN713544",0,26,NA,NA,2015,"Cosmopolitan Vac_A1.1","Cosmopolitan Vac",NA
-"LN713545",0,4,NA,NA,2015,"Cosmopolitan Vac_A1.1","Cosmopolitan Vac",NA
-"LN713546",0,15,NA,NA,2015,"Cosmopolitan Vac_A1.1","Cosmopolitan Vac",NA
-"LN713547",0,62,NA,NA,2015,"Vac_B1.1","Cosmopolitan Vac",NA
-"LN713548",0,91,NA,NA,2015,"Vac_B1.1","Cosmopolitan Vac",NA
-"LN713549",0,76,NA,NA,2015,"Vac_B1.1","Cosmopolitan Vac",NA
-"LN713550",0,62,NA,NA,2015,"Vac_B1.1","Cosmopolitan Vac",NA
-"LN713551",0,41,NA,NA,2015,"Vac_B1.1","Cosmopolitan Vac",NA
-"LN713552",0,7,NA,NA,2015,"Vac_B1","Cosmopolitan Vac",NA
-"LN713553",0,7,NA,NA,2015,"Cosmopolitan Vac_A1.2","Cosmopolitan Vac",NA
-"LN713554",0,7,NA,NA,2015,"Vac_B1","Cosmopolitan Vac",NA
-"LN713555",0,7,NA,NA,2015,"Cosmopolitan Vac_A1.2","Cosmopolitan Vac",NA
-"LN713556",0,8,NA,NA,2015,"Cosmopolitan Vac_A1.2","Cosmopolitan Vac",NA
-"LN713557",0,8,NA,NA,2015,"Vac_B1.1","Cosmopolitan Vac",NA
-"LN713558",0,8,NA,NA,2015,"Cosmopolitan Vac_A1.2","Cosmopolitan Vac",NA
-"LN713559",0,8,NA,NA,2015,"Vac_B1","Cosmopolitan Vac",NA
-"LN713560",0,8,NA,NA,2015,"Cosmopolitan Vac_A1.2","Cosmopolitan Vac",NA
-"LN713561",0,19,NA,NA,2015,"Cosmopolitan Vac_A1","Cosmopolitan Vac",NA
-"LN713562",0,19,NA,NA,2015,"Vac_B1","Cosmopolitan Vac",NA
-"LN713563",0,19,NA,NA,2015,"Vac_B1","Cosmopolitan Vac",NA
-"LN713564",0,19,NA,NA,2015,"Cosmopolitan Vac_A1.2","Cosmopolitan Vac",NA
-"LN713565",0,19,NA,NA,2015,"Vac_B1","Cosmopolitan Vac",NA
-"LN713566",0,19,NA,NA,2015,"Vac_B1","Cosmopolitan Vac",NA
-"LN713567",0,4,NA,NA,2015,"Vac_B1","Cosmopolitan Vac",NA
-"LN713568",0,4,NA,NA,2015,"Vac_B1","Cosmopolitan Vac",NA
-"LN713569",0,5,NA,NA,2015,"Cosmopolitan Vac_A1.2","Cosmopolitan Vac",NA
-"LN713570",0,5,NA,NA,2015,"Cosmopolitan Vac_A1","Cosmopolitan Vac",NA
-"LN713571",0,5,NA,NA,2015,"Cosmopolitan Vac_A1.1","Cosmopolitan Vac",NA
-"LN713572",0,34,NA,NA,2015,"Cosmopolitan Vac_A1","Cosmopolitan Vac",NA
-"LN713573",0,34,NA,NA,2015,"Vac_B1","Cosmopolitan Vac",NA
-"LN713574",0,33,NA,NA,2015,"Cosmopolitan Vac_A1.1","Cosmopolitan Vac",NA
-"LN713575",0,33,NA,NA,2015,"Vac_B1","Cosmopolitan Vac",NA
-"LN713576",0,4,NA,NA,2015,"Cosmopolitan Vac_A1","Cosmopolitan Vac",NA
-"LN713577",0,4,NA,NA,2015,"Vac_B1","Cosmopolitan Vac",NA
-"LN713578",0,4,NA,NA,2015,"Cosmopolitan Vac_A1","Cosmopolitan Vac",NA
-"LN713579",0,4,NA,NA,2015,"Vac_B1","Cosmopolitan Vac",NA
-"LN713580",0,4,NA,NA,2015,"Vac_B1","Cosmopolitan Vac",NA
-"LN713581",0,4,NA,NA,2015,"Vac_B1","Cosmopolitan Vac",NA
-"LN713582",0,4,NA,NA,2015,"Cosmopolitan Vac_A1.1","Cosmopolitan Vac",NA
-"LN713583",0,4,NA,NA,2015,"Cosmopolitan Vac_A1","Cosmopolitan Vac",NA
-"LN713584",0,4,NA,NA,2015,"Vac_B1","Cosmopolitan Vac",NA
-"LN713585",0,4,NA,NA,2015,"Vac_B1","Cosmopolitan Vac",NA
-"LN713586",0,4,NA,NA,2015,"Cosmopolitan Vac_A1","Cosmopolitan Vac",NA
-"LN713587",0,4,NA,NA,2015,"Vac_B1.1","Cosmopolitan Vac",NA
-"LN713588",0,4,NA,NA,2015,"Vac_B1.1","Cosmopolitan Vac",NA
-"LN713589",0,4,NA,NA,2015,"Vac_B1.1","Cosmopolitan Vac",NA
-"LN713590",0,4,NA,NA,2015,"Vac_B1.1","Cosmopolitan Vac",NA
-"LN713591",0,7,NA,NA,2015,"Vac_B1","Cosmopolitan Vac",NA
-"LN713592",0,7,NA,NA,2015,"Cosmopolitan Vac_A1.2","Cosmopolitan Vac",NA
-"LN713593",0,7,NA,NA,2015,"Cosmopolitan Vac_A1.2","Cosmopolitan Vac",NA
-"LN713594",0,7,NA,NA,2015,"Vac_B1","Cosmopolitan Vac",NA
-"LN713595",0,7,NA,NA,2015,"Cosmopolitan Vac_A1.2","Cosmopolitan Vac",NA
-"LN713596",0,7,NA,NA,2015,"Cosmopolitan Vac_A1.2","Cosmopolitan Vac",NA
-"LN713597",0,6,NA,NA,2015,"Vac_B1.1","Cosmopolitan Vac",NA
-"LN713598",0,6,NA,NA,2015,"Cosmopolitan Vac_A1.2","Cosmopolitan Vac",NA
-"LN713599",0,6,NA,NA,2015,"Cosmopolitan Vac_A1.2","Cosmopolitan Vac",NA
-"LN713600",0,5,NA,NA,2015,"Cosmopolitan Vac_A1.2","Cosmopolitan Vac",NA
-"LN713601",0,4,NA,NA,2015,"Vac_B1","Cosmopolitan Vac",NA
-"LN713602",0,6,NA,NA,2015,"Vac_B1.1","Cosmopolitan Vac",NA
-"LN713603",0,7,NA,NA,2015,"Cosmopolitan Vac_A1.2","Cosmopolitan Vac",NA
-"LN713604",0,7,NA,NA,2015,"Cosmopolitan Vac_A1.2","Cosmopolitan Vac",NA
-"LN713605",0,6,NA,NA,2015,"Vac_B1.1","Cosmopolitan Vac",NA
-"LN713606",0,7,NA,NA,2015,"Cosmopolitan Vac_A1.2","Cosmopolitan Vac",NA
-"LN713607",0,7,NA,NA,2015,"Cosmopolitan Vac_A1.2","Cosmopolitan Vac",NA
-"LN713608",0,4,NA,NA,2015,"Cosmopolitan Vac_A1","Cosmopolitan Vac",NA
-"LN713609",0,4,NA,NA,2015,"Vac_B1","Cosmopolitan Vac",NA
-"LN713610",0,4,NA,NA,2015,"Cosmopolitan Vac_A1","Cosmopolitan Vac",NA
-"LN713611",0,4,NA,NA,2015,"Vac_B1","Cosmopolitan Vac",NA
-"LN713612",0,14,NA,NA,2015,"Cosmopolitan Vac_A1","Cosmopolitan Vac",NA
-"LN713613",0,14,NA,NA,2015,"Cosmopolitan Vac_A1","Cosmopolitan Vac",NA
-"LN713614",0,14,NA,NA,2015,"Vac_B1","Cosmopolitan Vac",NA
-"LN713615",0,4,NA,NA,2015,"Vac_B1","Cosmopolitan Vac",NA
-"LN713616",0,4,NA,NA,2015,"Vac_B1","Cosmopolitan Vac",NA
-"LN713617",0,4,NA,NA,2015,"Cosmopolitan Vac_A1","Cosmopolitan Vac",NA
-"LN713618",0,4,NA,NA,2015,"Cosmopolitan Vac_A1","Cosmopolitan Vac",NA
-"LN713619",0,4,NA,NA,2015,"Vac_B1","Cosmopolitan Vac",NA
-"LN713620",0,4,NA,NA,2015,"Vac_B1","Cosmopolitan Vac",NA
-"LN713621",0,4,NA,NA,2015,"Cosmopolitan Vac_A1","Cosmopolitan Vac",NA
-"LN713622",0,4,NA,NA,2015,"Cosmopolitan Vac_A1","Cosmopolitan Vac",NA
-"LN713623",0,4,NA,NA,2015,"Cosmopolitan Vac_A1","Cosmopolitan Vac",NA
-"LN713624",0,4,NA,NA,2015,"Vac_B1","Cosmopolitan Vac",NA
-"LN713625",0,4,NA,NA,2015,"Vac_B1","Cosmopolitan Vac",NA
-"LN713626",0,5,NA,NA,2015,"Cosmopolitan Vac_A1","Cosmopolitan Vac",NA
-"LN713627",0,5,NA,NA,2015,"Vac_B1","Cosmopolitan Vac",NA
-"LN713628",0,5,NA,NA,2015,"Cosmopolitan Vac_A1","Cosmopolitan Vac",NA
-"LN713629",0,5,NA,NA,2015,"Vac_B1","Cosmopolitan Vac",NA
-"LN713630",0,18,NA,NA,2015,"Vac_A1.1","Cosmopolitan Vac",NA
-"LN713631",0,14,NA,NA,2015,"Vac_A1.1","Cosmopolitan Vac",NA
-"LN713632",0,14,NA,NA,2015,"Vac_A1.1","Cosmopolitan Vac",NA
-"LN713633",0,12,NA,NA,2015,"Vac_A1.1","Cosmopolitan Vac",NA
-"LN713634",0,10,NA,NA,2015,"Vac_A1.1","Cosmopolitan Vac",NA
-"LN713635",0,8,NA,NA,2015,"Vac_B1","Cosmopolitan Vac",NA
-"LN713636",0,8,NA,NA,2015,"Cosmopolitan Vac_A1.1","Cosmopolitan Vac",NA
-"LN713637",0,35,NA,NA,2015,"Vac_B1","Cosmopolitan Vac",NA
-"LN713638",0,36,NA,NA,2015,"Cosmopolitan Vac_A1.1","Cosmopolitan Vac",NA
-"LN713639",0,39,NA,NA,2015,"Vac_B1","Cosmopolitan Vac",NA
-"LN713640",0,39,NA,NA,2015,"Vac_B1","Cosmopolitan Vac",NA
-"LN713641",0,39,NA,NA,2015,"Cosmopolitan Vac_A1.1","Cosmopolitan Vac",NA
-"LN713642",0,39,NA,NA,2015,"Cosmopolitan Vac_A1.1","Cosmopolitan Vac",NA
-"LN713643",0,58,NA,NA,2015,"Vac_B1","Cosmopolitan Vac",NA
-"LN713644",0,58,NA,NA,2015,"Vac_B1","Cosmopolitan Vac",NA
-"LN713645",0,26,NA,NA,2015,"Cosmopolitan Vac_A1.1","Cosmopolitan Vac",NA
-"LN713646",0,26,NA,NA,2015,"Vac_B1","Cosmopolitan Vac",NA
-"LN713647",0,20,NA,NA,2015,"Cosmopolitan Vac_A1","Cosmopolitan Vac",NA
-"LN713648",0,4,NA,NA,2015,"Cosmopolitan Vac_A1","Cosmopolitan Vac",NA
-"LN713649",0,15,NA,NA,2015,"Cosmopolitan Vac_A1","Cosmopolitan Vac",NA
-"LN713650",0,26,NA,NA,2015,"Cosmopolitan Vac_A1","Cosmopolitan Vac",NA
-"LN713651",0,16,NA,NA,2015,"Cosmopolitan Vac_A1","Cosmopolitan Vac",NA
-"LN713652",0,5,NA,NA,2015,"Cosmopolitan Vac_A1.1","Cosmopolitan Vac",NA
-"LN713653",0,5,NA,NA,2015,"Cosmopolitan Vac_A1.1","Cosmopolitan Vac",NA
-"LN713654",0,5,NA,NA,2015,"Cosmopolitan Vac_A1.1","Cosmopolitan Vac",NA
-"LN713655",0,5,NA,NA,2015,"Cosmopolitan Vac_A1.1","Cosmopolitan Vac",NA
-"LN713656",0,5,NA,NA,2015,"Cosmopolitan Vac_A1.1","Cosmopolitan Vac",NA
-"LN713657",0,47,NA,NA,2015,"Vac_A1.2","Cosmopolitan Vac",NA
-"LN713658",0,43,NA,NA,2015,"Vac_A1.2","Cosmopolitan Vac",NA
-"LN713659",0,9,NA,NA,2015,"Vac_A1.2","Cosmopolitan Vac",NA
-"LN713660",0,59,NA,NA,2015,"Vac_A1.2","Cosmopolitan Vac",NA
-"LN713661",0,9,NA,NA,2015,"Vac_A1.2","Cosmopolitan Vac",NA
-"LN713662",0,23,NA,NA,2015,"Cosmopolitan Vac_A1.1.1","Cosmopolitan Vac",NA
-"LN713663",0,23,NA,NA,2015,"Cosmopolitan Vac_A1.1.1","Cosmopolitan Vac",NA
-"LN713664",0,24,NA,NA,2015,"Cosmopolitan Vac_A1.1.1","Cosmopolitan Vac",NA
-"LN713665",0,5,NA,NA,2015,"Cosmopolitan Vac_A1.1.1","Cosmopolitan Vac",NA
-"LN713666",0,5,NA,NA,2015,"Cosmopolitan Vac_A1.1.1","Cosmopolitan Vac",NA
-"LN713667",0,13,NA,NA,2015,"Cosmopolitan Vac_A1.1.1","Cosmopolitan Vac",NA
-"LN713668",0,13,NA,NA,2015,"Cosmopolitan Vac_A1.1.1","Cosmopolitan Vac",NA
-"LN713669",0,7,NA,NA,2015,"Cosmopolitan Vac_A1.1.1","Cosmopolitan Vac",NA
-"LN713670",0,7,NA,NA,2015,"Cosmopolitan Vac_A1.1.1","Cosmopolitan Vac",NA
-"LR812025",0,6,NA,NA,2020,"Vac_A1","Cosmopolitan Vac",NA
-"LR812027",0,4,NA,NA,2020,"Vac_A1","Cosmopolitan Vac",NA
-"LR812028",0,5,NA,NA,2020,"Vac_A1.1","Cosmopolitan Vac",NA
-"LR812029",0,9,NA,NA,2020,"Vac_A1","Cosmopolitan Vac",NA
-"LR812030",0,8,NA,NA,2020,"Vac_A1.1","Cosmopolitan Vac",NA
-"LR812031",0,8,NA,NA,2020,"Vac_A1.1","Cosmopolitan Vac",NA
-"LR812032",0,4,NA,NA,2020,"Vac_A1.1","Cosmopolitan Vac",NA
-"LR812033",0,13,NA,NA,2020,"Cosmopolitan Vac_A1.1","Cosmopolitan Vac",NA
-"LR812034",0,5,NA,NA,2020,"Vac_A1","Cosmopolitan Vac",NA
-"LT909527",0,3,NA,NA,2018,"Vac_A1.2","Cosmopolitan Vac",NA
-"LT909549",0,3,NA,NA,2018,"Vac_A1.2","Cosmopolitan Vac",NA
-"LT993233",0,31,NA,NA,2018,"Cosmopolitan Vac_A1","Cosmopolitan Vac",NA
-"LT993234",5,23,NA,NA,2018,"Cosmopolitan Vac_A1.1","Cosmopolitan Vac",NA
-"LT993235",0,24,NA,NA,2018,"Cosmopolitan Vac_A1.1","Cosmopolitan Vac",NA
-"LT993236",0,4,NA,NA,2018,"Cosmopolitan Vac_A1.1","Cosmopolitan Vac",NA
-"LT993237",0,7,NA,NA,2018,"Cosmopolitan Vac_A1.1","Cosmopolitan Vac",NA
-"LT993238",0,4,NA,NA,2018,"Cosmopolitan Vac_A1.1","Cosmopolitan Vac",NA
-"LT993239",0,4,NA,NA,2018,"Cosmopolitan Vac_A1.1","Cosmopolitan Vac",NA
-"LT993240",0,1,NA,NA,2018,"Vac_A1","Cosmopolitan Vac",NA
-"LT993241",0,18,NA,NA,2018,"Vac_A1.1","Cosmopolitan Vac",NA
-"LT993242",0,28,NA,NA,2018,"Vac_A1","Cosmopolitan Vac",NA
-"LT993243",0,4,NA,NA,2018,"Cosmopolitan Vac_A1.1","Cosmopolitan Vac",NA
-"LT993244",0,4,NA,NA,2018,"Cosmopolitan Vac_A1.1","Cosmopolitan Vac",NA
-"LT993245",0,4,NA,NA,2018,"Cosmopolitan Vac_A1.1","Cosmopolitan Vac",NA
-"LT993246",0,80,NA,NA,2018,"Cosmopolitan Vac_A1.1","Cosmopolitan Vac",NA
-"M13215",0,0,NA,NA,1993,"Vac_A1.2","Cosmopolitan Vac",NA
-"M31046",0,4,NA,NA,1993,"Cosmopolitan Vac_A1.1","Cosmopolitan Vac",NA
-"MF630920",0,49,NA,NA,2016,"Vac_A1","Cosmopolitan Vac",NA
-"MH660455",0,395,NA,NA,2017,"Cosmopolitan Vac_A1.1","Cosmopolitan Vac",NA
-"MK111075",0,58,NA,NA,2015,"Cosmopolitan Vac_A1","Cosmopolitan Vac",NA
-"MK111076",0,58,NA,NA,2019,"Cosmopolitan Vac_A1","Cosmopolitan Vac",NA
-"MK111077",0,58,NA,NA,2019,"Cosmopolitan Vac_A1","Cosmopolitan Vac",NA
-"MK111078",0,58,NA,NA,2019,"Cosmopolitan Vac_A1","Cosmopolitan Vac",NA
-"MK111079",0,58,NA,NA,2019,"Cosmopolitan Vac_A1","Cosmopolitan Vac",NA
-"MK111080",0,58,NA,NA,2019,"Cosmopolitan Vac_A1","Cosmopolitan Vac",NA
-"NC_001542",0,0,NA,NA,1993,"Vac_A1.2","Cosmopolitan Vac",NA
-"JQ685975",0,8,NA,NA,2009,"Vac_A1.2","Cosmopolitan Vac2",NA
+ID,N,gap,Length_before,Length_after,Year,cluster,previous,Country
+AF406695,0,0,1353,1353,2003,Cosmopolitan Vac_A1,Cosmopolitan Vac,-
+AF406696,0,0,1353,1353,2003,Cosmopolitan Vac_A1,Cosmopolitan Vac,-
+AF499686,0,4,NA,NA,2002,Cosmopolitan Vac_A1.1,Cosmopolitan Vac,-
+CS614408,0,1,NA,NA,2007,Vac_A1.1,Cosmopolitan Vac,-
+DD161903,0,4,NA,NA,2005,Cosmopolitan Vac_A1.1,Cosmopolitan Vac,-
+DD161904,0,4,NA,NA,2005,Cosmopolitan Vac_A1.1,Cosmopolitan Vac,-
+DD161905,0,4,NA,NA,2005,Cosmopolitan Vac_A1.1,Cosmopolitan Vac,-
+DD161906,0,4,NA,NA,2005,Cosmopolitan Vac_A1.1,Cosmopolitan Vac,-
+DI035301,0,4,NA,NA,2008,Cosmopolitan Vac_A1.1,Cosmopolitan Vac,-
+DI043469,0,4,NA,NA,2008,Cosmopolitan Vac_A1.1,Cosmopolitan Vac,-
+DI046747,0,4,NA,NA,2008,Cosmopolitan Vac_A1.1,Cosmopolitan Vac,-
+DI084725,0,4,NA,NA,2008,Cosmopolitan Vac_A1.1,Cosmopolitan Vac,-
+DQ666288,0,0,1353,1353,2006,Cosmopolitan Vac_A1,Cosmopolitan Vac,China
+DQ666292,0,0,1353,1353,2006,Cosmopolitan Vac_A1,Cosmopolitan Vac,China
+DQ666293,0,0,1353,1353,2006,Cosmopolitan Vac_A1,Cosmopolitan Vac,China
+DQ666301,0,0,1353,1353,2006,Cosmopolitan Vac_A1,Cosmopolitan Vac,China
+DQ666303,0,0,1353,1353,2006,Cosmopolitan Vac_A1,Cosmopolitan Vac,China
+DQ666305,0,0,1353,1353,2006,Cosmopolitan Vac_A1,Cosmopolitan Vac,China
+DQ666310,0,0,1353,1353,2006,Cosmopolitan Vac_A1,Cosmopolitan Vac,China
+DQ666313,0,0,1353,1353,2006,Cosmopolitan Vac_A1,Cosmopolitan Vac,China
+DQ666320,0,0,1353,1353,2006,Cosmopolitan Vac_A1,Cosmopolitan Vac,China
+EF206707,0,1,NA,NA,2007,Vac_A1.1,Cosmopolitan Vac,-
+EF206708,0,4,NA,NA,2007,Vac_B1,Cosmopolitan Vac,-
+EF206709,0,4,NA,NA,2007,Cosmopolitan Vac_A1.1,Cosmopolitan Vac,-
+EF206710,0,2,NA,NA,2007,Vac_B1,Cosmopolitan Vac,-
+EF206711,0,2,NA,NA,2007,Vac_B1,Cosmopolitan Vac,-
+EF206712,0,4,NA,NA,2007,Vac_B1,Cosmopolitan Vac,-
+EF206713,0,4,NA,NA,2007,Vac_B1,Cosmopolitan Vac,-
+EF206714,0,4,NA,NA,2007,Vac_B1,Cosmopolitan Vac,-
+EF206715,0,4,NA,NA,2007,Cosmopolitan Vac_A1,Cosmopolitan Vac,-
+EF206716,0,4,NA,NA,2007,Cosmopolitan Vac_A1.1,Cosmopolitan Vac,-
+EF206717,0,1,NA,NA,2007,Vac_A1.2,Cosmopolitan Vac,-
+EF206718,0,0,NA,NA,2007,Vac_A1.2,Cosmopolitan Vac,-
+EF206719,0,4,NA,NA,2007,Cosmopolitan Vac_A1.1.1,Cosmopolitan Vac,-
+EF206720,0,4,NA,NA,2007,Vac_B1,Cosmopolitan Vac,-
+EU182346,0,1,NA,NA,2007,Vac_A1,Cosmopolitan Vac,-
+EU182347,0,1,NA,NA,2007,Vac_A1,Cosmopolitan Vac,-
+EU877067,0,46,NA,NA,2008,Cosmopolitan Vac_A1.1,Cosmopolitan Vac,-
+EU877068,0,46,NA,NA,2008,Cosmopolitan Vac_A1.1,Cosmopolitan Vac,-
+EU877069,0,46,NA,NA,2008,Cosmopolitan Vac_A1.1,Cosmopolitan Vac,-
+EU877070,0,46,NA,NA,2008,Cosmopolitan Vac_A1.1,Cosmopolitan Vac,-
+EU877071,0,46,NA,NA,2008,Cosmopolitan Vac_A1.1,Cosmopolitan Vac,-
+EU886631,0,25,NA,NA,2001,Cosmopolitan Vac_A1,Cosmopolitan Vac,Germany
+EU886632,0,25,NA,NA,2002,Cosmopolitan Vac_A1.1,Cosmopolitan Vac,Germany
+EU886633,0,25,NA,NA,2004,Cosmopolitan Vac_A1.1,Cosmopolitan Vac,Austria
+EU886634,0,25,NA,NA,2004,Cosmopolitan Vac_A1.1,Cosmopolitan Vac,Germany
+EU886635,0,25,NA,NA,2005,Cosmopolitan Vac_A1.1,Cosmopolitan Vac,Germany
+EU886636,0,25,NA,NA,2006,Cosmopolitan Vac_A1,Cosmopolitan Vac,Austria
+FJ913470,0,0,NA,NA,2007,Vac_A1,Cosmopolitan Vac,China
+GQ406343,0,0,1353,1353,2005,Cosmopolitan Vac_A1,Cosmopolitan Vac,China
+GU991844,0,3,1353,1350,2003,Vac,Cosmopolitan Vac2,Mexico
+GU992309,0,0,1353,1353,1995,Cosmopolitan Vac_A1,Cosmopolitan Vac,Czechia
+GU992311,0,0,1353,1353,1995,Cosmopolitan Vac_A1,Cosmopolitan Vac,Czechia
+GU992319,0,0,1353,1353,1995,Vac_A1.2,Cosmopolitan Vac,Czechia
+GU992320,0,0,1353,1353,1993,Vac_A1.2,Cosmopolitan Vac,France
+GU992322,0,0,1353,1353,1993,Vac_A1.2,Cosmopolitan Vac,Morocco
+JQ685975,0,8,NA,NA,2009,Vac_A1.2,Cosmopolitan Vac2,Mexico
+JX276550,0,0,NA,NA,2012,Vac_A1.2,Cosmopolitan Vac,China
+JX944594,0,0,1353,1353,2013,Vac_A1.2,Cosmopolitan Vac,Nepal
+KC178555,0,0,1353,1353,2013,Cosmopolitan Vac_A1,Cosmopolitan Vac,-
+KC178556,0,0,1353,1353,2013,Cosmopolitan Vac_A1,Cosmopolitan Vac,-
+KC522613,0,0,1353,1353,2012,Cosmopolitan Vac_A1,Cosmopolitan Vac,Slovenia
+KJ001521,0,3,1353,1350,2008,Vac,Cosmopolitan Vac2,Mexico
+KJ001522,0,3,1353,1350,2009,Vac,Cosmopolitan Vac2,Mexico
+KJ001529,0,11,1353,1342,2009,Vac,Cosmopolitan Vac2,Mexico
+KJ001530,0,11,1353,1342,2009,Vac,Cosmopolitan Vac2,Mexico
+LN713542,0,6,NA,NA,2015,Cosmopolitan Vac_A1.1,Cosmopolitan Vac,-
+LN713543,0,4,NA,NA,2015,Cosmopolitan Vac_A1.1,Cosmopolitan Vac,-
+LN713544,0,26,NA,NA,2015,Cosmopolitan Vac_A1.1,Cosmopolitan Vac,-
+LN713545,0,4,NA,NA,2015,Cosmopolitan Vac_A1.1,Cosmopolitan Vac,-
+LN713546,0,15,NA,NA,2015,Cosmopolitan Vac_A1.1,Cosmopolitan Vac,-
+LN713547,0,62,NA,NA,2015,Vac_B1.1,Cosmopolitan Vac,-
+LN713548,0,91,NA,NA,2015,Vac_B1.1,Cosmopolitan Vac,-
+LN713549,0,76,NA,NA,2015,Vac_B1.1,Cosmopolitan Vac,-
+LN713550,0,62,NA,NA,2015,Vac_B1.1,Cosmopolitan Vac,-
+LN713551,0,41,NA,NA,2015,Vac_B1.1,Cosmopolitan Vac,-
+LN713552,0,7,NA,NA,2015,Vac_B1,Cosmopolitan Vac,-
+LN713553,0,7,NA,NA,2015,Cosmopolitan Vac_A1.2,Cosmopolitan Vac,-
+LN713554,0,7,NA,NA,2015,Vac_B1,Cosmopolitan Vac,-
+LN713555,0,7,NA,NA,2015,Cosmopolitan Vac_A1.2,Cosmopolitan Vac,-
+LN713556,0,8,NA,NA,2015,Cosmopolitan Vac_A1.2,Cosmopolitan Vac,-
+LN713557,0,8,NA,NA,2015,Vac_B1.1,Cosmopolitan Vac,-
+LN713558,0,8,NA,NA,2015,Cosmopolitan Vac_A1.2,Cosmopolitan Vac,-
+LN713559,0,8,NA,NA,2015,Vac_B1,Cosmopolitan Vac,-
+LN713560,0,8,NA,NA,2015,Cosmopolitan Vac_A1.2,Cosmopolitan Vac,-
+LN713561,0,19,NA,NA,2015,Cosmopolitan Vac_A1,Cosmopolitan Vac,-
+LN713562,0,19,NA,NA,2015,Vac_B1,Cosmopolitan Vac,-
+LN713563,0,19,NA,NA,2015,Vac_B1,Cosmopolitan Vac,-
+LN713564,0,19,NA,NA,2015,Cosmopolitan Vac_A1.2,Cosmopolitan Vac,-
+LN713565,0,19,NA,NA,2015,Vac_B1,Cosmopolitan Vac,-
+LN713566,0,19,NA,NA,2015,Vac_B1,Cosmopolitan Vac,-
+LN713567,0,4,NA,NA,2015,Vac_B1,Cosmopolitan Vac,-
+LN713568,0,4,NA,NA,2015,Vac_B1,Cosmopolitan Vac,-
+LN713569,0,5,NA,NA,2015,Cosmopolitan Vac_A1.2,Cosmopolitan Vac,-
+LN713570,0,5,NA,NA,2015,Cosmopolitan Vac_A1,Cosmopolitan Vac,-
+LN713571,0,5,NA,NA,2015,Cosmopolitan Vac_A1.1,Cosmopolitan Vac,-
+LN713572,0,34,NA,NA,2015,Cosmopolitan Vac_A1,Cosmopolitan Vac,-
+LN713573,0,34,NA,NA,2015,Vac_B1,Cosmopolitan Vac,-
+LN713574,0,33,NA,NA,2015,Cosmopolitan Vac_A1.1,Cosmopolitan Vac,-
+LN713575,0,33,NA,NA,2015,Vac_B1,Cosmopolitan Vac,-
+LN713576,0,4,NA,NA,2015,Cosmopolitan Vac_A1,Cosmopolitan Vac,-
+LN713577,0,4,NA,NA,2015,Vac_B1,Cosmopolitan Vac,-
+LN713578,0,4,NA,NA,2015,Cosmopolitan Vac_A1,Cosmopolitan Vac,-
+LN713579,0,4,NA,NA,2015,Vac_B1,Cosmopolitan Vac,-
+LN713580,0,4,NA,NA,2015,Vac_B1,Cosmopolitan Vac,-
+LN713581,0,4,NA,NA,2015,Vac_B1,Cosmopolitan Vac,-
+LN713582,0,4,NA,NA,2015,Cosmopolitan Vac_A1.1,Cosmopolitan Vac,-
+LN713583,0,4,NA,NA,2015,Cosmopolitan Vac_A1,Cosmopolitan Vac,-
+LN713584,0,4,NA,NA,2015,Vac_B1,Cosmopolitan Vac,-
+LN713585,0,4,NA,NA,2015,Vac_B1,Cosmopolitan Vac,-
+LN713586,0,4,NA,NA,2015,Cosmopolitan Vac_A1,Cosmopolitan Vac,-
+LN713587,0,4,NA,NA,2015,Vac_B1.1,Cosmopolitan Vac,-
+LN713588,0,4,NA,NA,2015,Vac_B1.1,Cosmopolitan Vac,-
+LN713589,0,4,NA,NA,2015,Vac_B1.1,Cosmopolitan Vac,-
+LN713590,0,4,NA,NA,2015,Vac_B1.1,Cosmopolitan Vac,-
+LN713591,0,7,NA,NA,2015,Vac_B1,Cosmopolitan Vac,-
+LN713592,0,7,NA,NA,2015,Cosmopolitan Vac_A1.2,Cosmopolitan Vac,-
+LN713593,0,7,NA,NA,2015,Cosmopolitan Vac_A1.2,Cosmopolitan Vac,-
+LN713594,0,7,NA,NA,2015,Vac_B1,Cosmopolitan Vac,-
+LN713595,0,7,NA,NA,2015,Cosmopolitan Vac_A1.2,Cosmopolitan Vac,-
+LN713596,0,7,NA,NA,2015,Cosmopolitan Vac_A1.2,Cosmopolitan Vac,-
+LN713597,0,6,NA,NA,2015,Vac_B1.1,Cosmopolitan Vac,-
+LN713598,0,6,NA,NA,2015,Cosmopolitan Vac_A1.2,Cosmopolitan Vac,-
+LN713599,0,6,NA,NA,2015,Cosmopolitan Vac_A1.2,Cosmopolitan Vac,-
+LN713600,0,5,NA,NA,2015,Cosmopolitan Vac_A1.2,Cosmopolitan Vac,-
+LN713601,0,4,NA,NA,2015,Vac_B1,Cosmopolitan Vac,-
+LN713602,0,6,NA,NA,2015,Vac_B1.1,Cosmopolitan Vac,-
+LN713603,0,7,NA,NA,2015,Cosmopolitan Vac_A1.2,Cosmopolitan Vac,-
+LN713604,0,7,NA,NA,2015,Cosmopolitan Vac_A1.2,Cosmopolitan Vac,-
+LN713605,0,6,NA,NA,2015,Vac_B1.1,Cosmopolitan Vac,-
+LN713606,0,7,NA,NA,2015,Cosmopolitan Vac_A1.2,Cosmopolitan Vac,-
+LN713607,0,7,NA,NA,2015,Cosmopolitan Vac_A1.2,Cosmopolitan Vac,-
+LN713608,0,4,NA,NA,2015,Cosmopolitan Vac_A1,Cosmopolitan Vac,-
+LN713609,0,4,NA,NA,2015,Vac_B1,Cosmopolitan Vac,-
+LN713610,0,4,NA,NA,2015,Cosmopolitan Vac_A1,Cosmopolitan Vac,-
+LN713611,0,4,NA,NA,2015,Vac_B1,Cosmopolitan Vac,-
+LN713612,0,14,NA,NA,2015,Cosmopolitan Vac_A1,Cosmopolitan Vac,-
+LN713613,0,14,NA,NA,2015,Cosmopolitan Vac_A1,Cosmopolitan Vac,-
+LN713614,0,14,NA,NA,2015,Vac_B1,Cosmopolitan Vac,-
+LN713615,0,4,NA,NA,2015,Vac_B1,Cosmopolitan Vac,-
+LN713616,0,4,NA,NA,2015,Vac_B1,Cosmopolitan Vac,-
+LN713617,0,4,NA,NA,2015,Cosmopolitan Vac_A1,Cosmopolitan Vac,-
+LN713618,0,4,NA,NA,2015,Cosmopolitan Vac_A1,Cosmopolitan Vac,-
+LN713619,0,4,NA,NA,2015,Vac_B1,Cosmopolitan Vac,-
+LN713620,0,4,NA,NA,2015,Vac_B1,Cosmopolitan Vac,-
+LN713621,0,4,NA,NA,2015,Cosmopolitan Vac_A1,Cosmopolitan Vac,-
+LN713622,0,4,NA,NA,2015,Cosmopolitan Vac_A1,Cosmopolitan Vac,-
+LN713623,0,4,NA,NA,2015,Cosmopolitan Vac_A1,Cosmopolitan Vac,-
+LN713624,0,4,NA,NA,2015,Vac_B1,Cosmopolitan Vac,-
+LN713625,0,4,NA,NA,2015,Vac_B1,Cosmopolitan Vac,-
+LN713626,0,5,NA,NA,2015,Cosmopolitan Vac_A1,Cosmopolitan Vac,-
+LN713627,0,5,NA,NA,2015,Vac_B1,Cosmopolitan Vac,-
+LN713628,0,5,NA,NA,2015,Cosmopolitan Vac_A1,Cosmopolitan Vac,-
+LN713629,0,5,NA,NA,2015,Vac_B1,Cosmopolitan Vac,-
+LN713630,0,18,NA,NA,2015,Vac_A1.1,Cosmopolitan Vac,-
+LN713631,0,14,NA,NA,2015,Vac_A1.1,Cosmopolitan Vac,-
+LN713632,0,14,NA,NA,2015,Vac_A1.1,Cosmopolitan Vac,-
+LN713633,0,12,NA,NA,2015,Vac_A1.1,Cosmopolitan Vac,-
+LN713634,0,10,NA,NA,2015,Vac_A1.1,Cosmopolitan Vac,-
+LN713635,0,8,NA,NA,2015,Vac_B1,Cosmopolitan Vac,-
+LN713636,0,8,NA,NA,2015,Cosmopolitan Vac_A1.1,Cosmopolitan Vac,-
+LN713637,0,35,NA,NA,2015,Vac_B1,Cosmopolitan Vac,-
+LN713638,0,36,NA,NA,2015,Cosmopolitan Vac_A1.1,Cosmopolitan Vac,-
+LN713639,0,39,NA,NA,2015,Vac_B1,Cosmopolitan Vac,-
+LN713640,0,39,NA,NA,2015,Vac_B1,Cosmopolitan Vac,-
+LN713641,0,39,NA,NA,2015,Cosmopolitan Vac_A1.1,Cosmopolitan Vac,-
+LN713642,0,39,NA,NA,2015,Cosmopolitan Vac_A1.1,Cosmopolitan Vac,-
+LN713643,0,58,NA,NA,2015,Vac_B1,Cosmopolitan Vac,-
+LN713644,0,58,NA,NA,2015,Vac_B1,Cosmopolitan Vac,-
+LN713645,0,26,NA,NA,2015,Cosmopolitan Vac_A1.1,Cosmopolitan Vac,-
+LN713646,0,26,NA,NA,2015,Vac_B1,Cosmopolitan Vac,-
+LN713647,0,20,NA,NA,2015,Cosmopolitan Vac_A1,Cosmopolitan Vac,-
+LN713648,0,4,NA,NA,2015,Cosmopolitan Vac_A1,Cosmopolitan Vac,-
+LN713649,0,15,NA,NA,2015,Cosmopolitan Vac_A1,Cosmopolitan Vac,-
+LN713650,0,26,NA,NA,2015,Cosmopolitan Vac_A1,Cosmopolitan Vac,-
+LN713651,0,16,NA,NA,2015,Cosmopolitan Vac_A1,Cosmopolitan Vac,-
+LN713652,0,5,NA,NA,2015,Cosmopolitan Vac_A1.1,Cosmopolitan Vac,-
+LN713653,0,5,NA,NA,2015,Cosmopolitan Vac_A1.1,Cosmopolitan Vac,-
+LN713654,0,5,NA,NA,2015,Cosmopolitan Vac_A1.1,Cosmopolitan Vac,-
+LN713655,0,5,NA,NA,2015,Cosmopolitan Vac_A1.1,Cosmopolitan Vac,-
+LN713656,0,5,NA,NA,2015,Cosmopolitan Vac_A1.1,Cosmopolitan Vac,-
+LN713657,0,47,NA,NA,2015,Vac_A1.2,Cosmopolitan Vac,-
+LN713658,0,43,NA,NA,2015,Vac_A1.2,Cosmopolitan Vac,-
+LN713659,0,9,NA,NA,2015,Vac_A1.2,Cosmopolitan Vac,-
+LN713660,0,59,NA,NA,2015,Vac_A1.2,Cosmopolitan Vac,-
+LN713661,0,9,NA,NA,2015,Vac_A1.2,Cosmopolitan Vac,-
+LN713662,0,23,NA,NA,2015,Cosmopolitan Vac_A1.1.1,Cosmopolitan Vac,-
+LN713663,0,23,NA,NA,2015,Cosmopolitan Vac_A1.1.1,Cosmopolitan Vac,-
+LN713664,0,24,NA,NA,2015,Cosmopolitan Vac_A1.1.1,Cosmopolitan Vac,-
+LN713665,0,5,NA,NA,2015,Cosmopolitan Vac_A1.1.1,Cosmopolitan Vac,-
+LN713666,0,5,NA,NA,2015,Cosmopolitan Vac_A1.1.1,Cosmopolitan Vac,-
+LN713667,0,13,NA,NA,2015,Cosmopolitan Vac_A1.1.1,Cosmopolitan Vac,-
+LN713668,0,13,NA,NA,2015,Cosmopolitan Vac_A1.1.1,Cosmopolitan Vac,-
+LN713669,0,7,NA,NA,2015,Cosmopolitan Vac_A1.1.1,Cosmopolitan Vac,-
+LN713670,0,7,NA,NA,2015,Cosmopolitan Vac_A1.1.1,Cosmopolitan Vac,-
+LR812025,0,6,NA,NA,2020,Vac_A1,Cosmopolitan Vac,-
+LR812027,0,4,NA,NA,2020,Vac_A1,Cosmopolitan Vac,-
+LR812028,0,5,NA,NA,2020,Vac_A1.1,Cosmopolitan Vac,-
+LR812029,0,9,NA,NA,2020,Vac_A1,Cosmopolitan Vac,Austria
+LR812030,0,8,NA,NA,2020,Vac_A1.1,Cosmopolitan Vac,Austria
+LR812031,0,8,NA,NA,2020,Vac_A1.1,Cosmopolitan Vac,China
+LR812032,0,4,NA,NA,2020,Vac_A1.1,Cosmopolitan Vac,China
+LR812033,0,13,NA,NA,2020,Cosmopolitan Vac_A1.1,Cosmopolitan Vac,China
+LR812034,0,5,NA,NA,2020,Vac_A1,Cosmopolitan Vac,China
+LT909527,0,3,NA,NA,2018,Vac_A1.2,Cosmopolitan Vac,China
+LT909549,0,3,NA,NA,2018,Vac_A1.2,Cosmopolitan Vac,China
+LT993233,0,31,NA,NA,2018,Cosmopolitan Vac_A1,Cosmopolitan Vac,China
+LT993234,5,23,NA,NA,2018,Cosmopolitan Vac_A1.1,Cosmopolitan Vac,China
+LT993235,0,24,NA,NA,2018,Cosmopolitan Vac_A1.1,Cosmopolitan Vac,China
+LT993236,0,4,NA,NA,2018,Cosmopolitan Vac_A1.1,Cosmopolitan Vac,China
+LT993237,0,7,NA,NA,2018,Cosmopolitan Vac_A1.1,Cosmopolitan Vac,China
+LT993238,0,4,NA,NA,2018,Cosmopolitan Vac_A1.1,Cosmopolitan Vac,China
+LT993239,0,4,NA,NA,2018,Cosmopolitan Vac_A1.1,Cosmopolitan Vac,Czechia
+LT993240,0,1,NA,NA,2018,Vac_A1,Cosmopolitan Vac,Czechia
+LT993241,0,18,NA,NA,2018,Vac_A1.1,Cosmopolitan Vac,Czechia
+LT993242,0,28,NA,NA,2018,Vac_A1,Cosmopolitan Vac,France
+LT993243,0,4,NA,NA,2018,Cosmopolitan Vac_A1.1,Cosmopolitan Vac,Germany
+LT993244,0,4,NA,NA,2018,Cosmopolitan Vac_A1.1,Cosmopolitan Vac,Germany
+LT993245,0,4,NA,NA,2018,Cosmopolitan Vac_A1.1,Cosmopolitan Vac,Germany
+LT993246,0,80,NA,NA,2018,Cosmopolitan Vac_A1.1,Cosmopolitan Vac,Germany
+M13215,0,0,NA,NA,1993,Vac_A1.2,Cosmopolitan Vac,Germany
+M31046,0,4,NA,NA,1993,Cosmopolitan Vac_A1.1,Cosmopolitan Vac,Hungary
+MF630920,0,49,NA,NA,2016,Vac_A1,Cosmopolitan Vac,Mexico
+MH660455,0,395,NA,NA,2017,Cosmopolitan Vac_A1.1,Cosmopolitan Vac,Mexico
+MK111075,0,58,NA,NA,2015,Cosmopolitan Vac_A1,Cosmopolitan Vac,Mexico
+MK111076,0,58,NA,NA,2019,Cosmopolitan Vac_A1,Cosmopolitan Vac,Mexico
+MK111077,0,58,NA,NA,2019,Cosmopolitan Vac_A1,Cosmopolitan Vac,Mexico
+MK111078,0,58,NA,NA,2019,Cosmopolitan Vac_A1,Cosmopolitan Vac,Mexico
+MK111079,0,58,NA,NA,2019,Cosmopolitan Vac_A1,Cosmopolitan Vac,Morocco
+MK111080,0,58,NA,NA,2019,Cosmopolitan Vac_A1,Cosmopolitan Vac,Nepal
+MK420470,0,0,1353,1353,2019,Vac_A1.2,Cosmopolitan Vac,Russia
+NC_001542,0,0,NA,NA,1993,Vac_A1.2,Cosmopolitan Vac,Slovenia

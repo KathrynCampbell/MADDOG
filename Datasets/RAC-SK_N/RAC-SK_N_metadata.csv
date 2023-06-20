@@ -1,749 +1,901 @@
-"ID","alignment.name","assignment","sequence.m49_country.id","country","sequence.gb_place_sampled","sequence.collection_year","sequence.earliest_collection_year","year","sequence.gb_length","sequence.gb_create_date","sequence.gb_update_date","sequence.host","sequence.gb_pubmed_id","sequence.isolate"
-"AF483524","AL_RAC-SK","RAC-SK","USA","United States","Arizona, Sierra Vista","-","-",2002,1414,"21-Mar-02","21-Mar-02","skunk","-","5422"
-"EU345002","AL_RAC-SK","RAC-SK","USA","United States","Texas","-","-",2008,1460,"12-Jan-08","12-Jan-08","skunk","-","V211"
-"EU345003","AL_RAC-SK","RAC-SK","USA","United States","Texas","-","-",2008,1450,"12-Jan-08","12-Jan-08","skunk","-","V212"
-"EU345004","AL_RAC-SK","RAC-SK","USA","United States","Texas","-","-",2008,1459,"12-Jan-08","12-Jan-08","skunk","-","V216"
-"FJ228483","AL_RAC-SK","RAC-SK","MEX","Mexico","Zacatecas","2001","2001",2001,1350,"08-Mar-09","23-Jul-16","Spilogale putorius","-","2311Mxzacsk01"
-"FJ228484","AL_RAC-SK","RAC-SK","MEX","Mexico","San Luis Potosi","2002","2002",2002,1350,"08-Mar-09","23-Jul-16","Spilogale putorius","-","2818Mxslpsk02"
-"FJ228485","AL_RAC-SK","RAC-SK","MEX","Mexico","Chihuahua","1999","1999",1999,1350,"08-Mar-09","23-Jul-16","Bos taurus","-","Mxchihbv1999"
-"GU991837","AL_RAC-SK","RAC-SK","USA","United States","south central","1968","1968",1968,1350,"27-Apr-10","24-Jul-16","Mephitis mephitis (skunk)","-","TXdg1968"
-"GU991838","AL_RAC-SK","RAC-SK","USA","United States","south central","2007","2007",2007,1350,"27-Apr-10","24-Jul-16","Mephitis mephitis (skunk)","-","NMsk2007"
-"GU991839","AL_RAC-SK","RAC-SK","USA","United States","Eastern","2009","2009",2009,1350,"27-Apr-10","24-Jul-16","Procyon lotor (racoon)","-","A09_102AL2009"
-"GU991840","AL_RAC-SK","RAC-SK","USA","United States","Eastern","2008","2008",2008,1350,"27-Apr-10","24-Jul-16","Procyon lotor (racoon)","-","A08_1127NC2008"
-"GU991841","AL_RAC-SK","RAC-SK","USA","United States","Eastern","2008","2008",2008,1350,"27-Apr-10","24-Jul-16","Procyon lotor (racoon)","-","A08_581GA2008"
-"JQ513553","AL_RAC-SK","RAC-SK","MEX","Mexico","San Luis Potosi","2002","2002",2002,1353,"01-Jan-13","02-May-13","skunk","23524137","V854"
-"JQ685901","AL_RAC-SK","RAC-SK","USA","United States","-","2003","2003",2003,11924,"10-Jul-12","10-Jul-12","Procyon lotor","22737076","RAC"
-"JQ685929","AL_RAC-SK","RAC-SK","MEX","Mexico","-","2009","2009",2009,11923,"10-Jul-12","10-Jul-12","Spilogale putorius","22737076","MEXSK3644"
-"JQ685938","AL_RAC-SK","RAC-SK","USA","United States","-","2009","2009",2009,11923,"10-Jul-12","10-Jul-12","Mephitis mephitis","22737076","A10-0514"
-"JQ685954","AL_RAC-SK","RAC-SK","MEX","Mexico","-","2007","2007",2007,11923,"10-Jul-12","10-Jul-12","Spilogale putorius","22737076","MEXSK13938"
-"JQ685968","AL_RAC-SK","RAC-SK","USA","United States","-","2009","2009",2009,11923,"10-Jul-12","10-Jul-12","Mephitis mephitis","22737076","A10-0512"
-"JX855962","AL_RAC-SK","RAC-SK","USA","United States","-","2009","2009",2009,1350,"10-Feb-13","02-May-13","Mephitis mephitis","23524137","KSSK090001"
-"JX855963","AL_RAC-SK","RAC-SK","USA","United States","-","2009","2009",2009,1350,"10-Feb-13","02-May-13","Mephitis mephitis","23524137","KSSK090002"
-"JX855964","AL_RAC-SK","RAC-SK","USA","United States","-","2009","2009",2009,1350,"10-Feb-13","02-May-13","Mephitis mephitis","23524137","KSSK090003"
-"JX855965","AL_RAC-SK","RAC-SK","USA","United States","-","2009","2009",2009,1350,"10-Feb-13","02-May-13","Equus caballus","23524137","NEEQ090004"
-"JX855966","AL_RAC-SK","RAC-SK","USA","United States","-","2009","2009",2009,1350,"10-Feb-13","02-May-13","Mephitis mephitis","23524137","COSK090005"
-"JX855967","AL_RAC-SK","RAC-SK","USA","United States","-","2009","2009",2009,1350,"10-Feb-13","02-May-13","Mephitis mephitis","23524137","KSSK090006"
-"JX855968","AL_RAC-SK","RAC-SK","USA","United States","-","2009","2009",2009,1350,"10-Feb-13","02-May-13","Mephitis mephitis","23524137","KSSK090007"
-"JX855969","AL_RAC-SK","RAC-SK","USA","United States","-","2009","2009",2009,1350,"10-Feb-13","02-May-13","Vulpes vulpes","23524137","NERF090008"
-"JX855970","AL_RAC-SK","RAC-SK","USA","United States","-","2009","2009",2009,1350,"10-Feb-13","02-May-13","Mephitis mephitis","23524137","KSSK090009"
-"JX855971","AL_RAC-SK","RAC-SK","USA","United States","-","2009","2009",2009,1350,"10-Feb-13","02-May-13","Procyon lotor","23524137","KSRC090010"
-"JX855972","AL_RAC-SK","RAC-SK","USA","United States","-","2009","2009",2009,1350,"10-Feb-13","02-May-13","Felis catus","23524137","KSBC090011"
-"JX855973","AL_RAC-SK","RAC-SK","USA","United States","-","2009","2009",2009,1350,"10-Feb-13","02-May-13","Mephitis mephitis","23524137","KSSK090012"
-"JX855974","AL_RAC-SK","RAC-SK","USA","United States","-","2009","2009",2009,1350,"10-Feb-13","02-May-13","Mephitis mephitis","23524137","KSSK090013"
-"JX855975","AL_RAC-SK","RAC-SK","USA","United States","-","2009","2009",2009,1350,"10-Feb-13","02-May-13","Mephitis mephitis","23524137","KSSK090014"
-"JX855976","AL_RAC-SK","RAC-SK","USA","United States","-","2009","2009",2009,1350,"10-Feb-13","02-May-13","Canis familiaris","23524137","KSDG090015"
-"JX855977","AL_RAC-SK","RAC-SK","USA","United States","-","2009","2009",2009,1350,"10-Feb-13","02-May-13","Mephitis mephitis","23524137","KSSK090016"
-"JX855978","AL_RAC-SK","RAC-SK","USA","United States","-","2009","2009",2009,1350,"10-Feb-13","02-May-13","Mephitis mephitis","23524137","KSSK090017"
-"JX855979","AL_RAC-SK","RAC-SK","USA","United States","-","2009","2009",2009,1350,"10-Feb-13","02-May-13","Felis catus","23524137","NEFE090018"
-"JX855980","AL_RAC-SK","RAC-SK","USA","United States","-","2009","2009",2009,1350,"10-Feb-13","02-May-13","Felis catus","23524137","NEFE090019"
-"JX855981","AL_RAC-SK","RAC-SK","USA","United States","-","2009","2009",2009,1350,"10-Feb-13","02-May-13","Mephitis mephitis","23524137","KSSK090020"
-"JX855982","AL_RAC-SK","RAC-SK","USA","United States","-","2009","2009",2009,1350,"10-Feb-13","02-May-13","Mephitis mephitis","23524137","KSSK090021"
-"JX855983","AL_RAC-SK","RAC-SK","USA","United States","-","2009","2009",2009,1350,"10-Feb-13","02-May-13","Vulpes vulpes","23524137","KSRF090022"
-"JX855984","AL_RAC-SK","RAC-SK","USA","United States","-","2009","2009",2009,1350,"10-Feb-13","02-May-13","Mephitis mephitis","23524137","NESK090023"
-"JX855985","AL_RAC-SK","RAC-SK","USA","United States","-","2009","2009",2009,1350,"10-Feb-13","02-May-13","Mephitis mephitis","23524137","KSSK090025"
-"JX855986","AL_RAC-SK","RAC-SK","USA","United States","-","2009","2009",2009,1350,"10-Feb-13","02-May-13","Mephitis mephitis","23524137","KSSK090027"
-"JX855987","AL_RAC-SK","RAC-SK","USA","United States","-","2009","2009",2009,1350,"10-Feb-13","02-May-13","Mephitis mephitis","23524137","KSSK090028"
-"JX855988","AL_RAC-SK","RAC-SK","USA","United States","-","2009","2009",2009,1350,"10-Feb-13","02-May-13","Mephitis mephitis","23524137","KSSK090030"
-"JX855989","AL_RAC-SK","RAC-SK","USA","United States","-","2009","2009",2009,1350,"10-Feb-13","02-May-13","Felis catus","23524137","NEFE090033"
-"JX855990","AL_RAC-SK","RAC-SK","USA","United States","-","2009","2009",2009,1350,"10-Feb-13","02-May-13","Mephitis mephitis","23524137","KSSK090035"
-"JX855991","AL_RAC-SK","RAC-SK","USA","United States","-","2009","2009",2009,1350,"10-Feb-13","02-May-13","Mephitis mephitis","23524137","NESK090036"
-"JX855992","AL_RAC-SK","RAC-SK","USA","United States","-","2009","2009",2009,1350,"10-Feb-13","02-May-13","Mephitis mephitis","23524137","MOSK090038"
-"JX855993","AL_RAC-SK","RAC-SK","USA","United States","-","2009","2009",2009,1350,"10-Feb-13","02-May-13","Mephitis mephitis","23524137","MOSK090041"
-"JX855995","AL_RAC-SK","RAC-SK","USA","United States","-","2009","2009",2009,1350,"10-Feb-13","02-May-13","Mephitis mephitis","23524137","MOSK090043"
-"JX855999","AL_RAC-SK","RAC-SK","USA","United States","-","2009","2009",2009,1350,"10-Feb-13","02-May-13","Mephitis mephitis","23524137","KSSK090049"
-"JX856000","AL_RAC-SK","RAC-SK","USA","United States","-","2009","2009",2009,1350,"10-Feb-13","02-May-13","Mephitis mephitis","23524137","KSSK090050"
-"JX856001","AL_RAC-SK","RAC-SK","USA","United States","-","2009","2009",2009,1350,"10-Feb-13","02-May-13","Mephitis mephitis","23524137","KSSK090051"
-"JX856002","AL_RAC-SK","RAC-SK","USA","United States","-","2009","2009",2009,1350,"10-Feb-13","02-May-13","Mephitis mephitis","23524137","KSSK090053"
-"JX856003","AL_RAC-SK","RAC-SK","USA","United States","-","2009","2009",2009,1350,"10-Feb-13","02-May-13","Mephitis mephitis","23524137","KSSK090054"
-"JX856004","AL_RAC-SK","RAC-SK","USA","United States","-","2009","2009",2009,1350,"10-Feb-13","02-May-13","Mephitis mephitis","23524137","KSSK090055"
-"JX856005","AL_RAC-SK","RAC-SK","USA","United States","-","2009","2009",2009,1350,"10-Feb-13","02-May-13","Mephitis mephitis","23524137","ARSK090056"
-"JX856006","AL_RAC-SK","RAC-SK","USA","United States","-","2009","2009",2009,1350,"10-Feb-13","02-May-13","Mephitis mephitis","23524137","ARSK090057"
-"JX856007","AL_RAC-SK","RAC-SK","USA","United States","-","2009","2009",2009,1350,"10-Feb-13","02-May-13","Mephitis mephitis","23524137","ARSK090058"
-"JX856008","AL_RAC-SK","RAC-SK","USA","United States","-","2009","2009",2009,1350,"10-Feb-13","02-May-13","Mephitis mephitis","23524137","ARSK090059"
-"JX856009","AL_RAC-SK","RAC-SK","USA","United States","-","2009","2009",2009,1350,"10-Feb-13","02-May-13","Mephitis mephitis","23524137","ARSK090060"
-"JX856010","AL_RAC-SK","RAC-SK","USA","United States","-","2009","2009",2009,1350,"10-Feb-13","02-May-13","Mephitis mephitis","23524137","ARSK090062"
-"JX856011","AL_RAC-SK","RAC-SK","USA","United States","-","2009","2009",2009,1350,"10-Feb-13","02-May-13","Mephitis mephitis","23524137","ARSK090064"
-"JX856012","AL_RAC-SK","RAC-SK","USA","United States","-","2009","2009",2009,1350,"10-Feb-13","02-May-13","Mephitis mephitis","23524137","ARSK090065"
-"JX856013","AL_RAC-SK","RAC-SK","USA","United States","-","2009","2009",2009,1350,"10-Feb-13","02-May-13","Mephitis mephitis","23524137","ARSK090066"
-"JX856014","AL_RAC-SK","RAC-SK","USA","United States","-","2009","2009",2009,1350,"10-Feb-13","02-May-13","Mephitis mephitis","23524137","ARSK090067"
-"JX856015","AL_RAC-SK","RAC-SK","USA","United States","-","2009","2009",2009,1350,"10-Feb-13","02-May-13","Mephitis mephitis","23524137","ARSK090068"
-"JX856016","AL_RAC-SK","RAC-SK","USA","United States","-","2009","2009",2009,1350,"10-Feb-13","02-May-13","Mephitis mephitis","23524137","NESK090072"
-"JX856017","AL_RAC-SK","RAC-SK","USA","United States","-","2009","2009",2009,1350,"10-Feb-13","02-May-13","Bos taurus","23524137","OKBV090073"
-"JX856018","AL_RAC-SK","RAC-SK","USA","United States","-","2009","2009",2009,1350,"10-Feb-13","02-May-13","Mephitis mephitis","23524137","OKSK090075"
-"JX856019","AL_RAC-SK","RAC-SK","USA","United States","-","2009","2009",2009,1350,"10-Feb-13","02-May-13","Mephitis mephitis","23524137","OKSK090076"
-"JX856020","AL_RAC-SK","RAC-SK","USA","United States","-","2009","2009",2009,1350,"10-Feb-13","02-May-13","Mephitis mephitis","23524137","OKSK090078"
-"JX856021","AL_RAC-SK","RAC-SK","USA","United States","-","2009","2009",2009,1350,"10-Feb-13","02-May-13","Mephitis mephitis","23524137","OKSK090079"
-"JX856022","AL_RAC-SK","RAC-SK","USA","United States","-","2009","2009",2009,1350,"10-Feb-13","02-May-13","Mephitis mephitis","23524137","OKSK090080"
-"JX856023","AL_RAC-SK","RAC-SK","USA","United States","-","2009","2009",2009,1350,"10-Feb-13","02-May-13","Bos taurus","23524137","KSBV090081"
-"JX856024","AL_RAC-SK","RAC-SK","USA","United States","-","2009","2009",2009,1350,"10-Feb-13","02-May-13","Mephitis mephitis","23524137","NESK090082"
-"JX856025","AL_RAC-SK","RAC-SK","USA","United States","-","2009","2009",2009,1350,"10-Feb-13","02-May-13","Mephitis mephitis","23524137","KSSK090084"
-"JX856026","AL_RAC-SK","RAC-SK","USA","United States","-","2009","2009",2009,1350,"10-Feb-13","02-May-13","Mephitis mephitis","23524137","NESK090085"
-"JX856032","AL_RAC-SK","RAC-SK","USA","United States","-","2009","2009",2009,1350,"10-Feb-13","02-May-13","Mephitis mephitis","23524137","KSSK090097"
-"JX856033","AL_RAC-SK","RAC-SK","USA","United States","-","2009","2009",2009,1350,"10-Feb-13","02-May-13","Mephitis mephitis","23524137","MOSK090098"
-"JX856034","AL_RAC-SK","RAC-SK","USA","United States","-","2009","2009",2009,1350,"10-Feb-13","02-May-13","Mephitis mephitis","23524137","KSSK090100"
-"JX856035","AL_RAC-SK","RAC-SK","USA","United States","-","2009","2009",2009,1350,"10-Feb-13","02-May-13","Mephitis mephitis","23524137","NESK090101"
-"JX856036","AL_RAC-SK","RAC-SK","USA","United States","-","2009","2009",2009,1350,"10-Feb-13","02-May-13","Bos taurus","23524137","NEBV090102"
-"JX856037","AL_RAC-SK","RAC-SK","USA","United States","-","2009","2009",2009,1350,"10-Feb-13","02-May-13","Mephitis mephitis","23524137","NESK090103"
-"JX856038","AL_RAC-SK","RAC-SK","USA","United States","-","2009","2009",2009,1350,"10-Feb-13","02-May-13","Mephitis mephitis","23524137","NESK090104"
-"JX856039","AL_RAC-SK","RAC-SK","USA","United States","-","2009","2009",2009,1350,"10-Feb-13","02-May-13","Procyon lotor","23524137","FLRC090148"
-"KC832859","AL_RAC-SK","RAC-SK","USA","United States","FL, Pensacola","2000","2000",2000,1353,"16-Jul-13","16-Jul-13","Procyon lotor","-","A00-0708"
-"KC832860","AL_RAC-SK","RAC-SK","USA","United States","FL, Pensacola","1997","1997",1997,1353,"16-Jul-13","16-Jul-13","Procyon lotor","-","sm3684"
-"KC832861","AL_RAC-SK","RAC-SK","USA","United States","FL, Hillsborough","2013","2013",2013,1353,"16-Jul-13","16-Jul-13","Procyon lotor","-","A13-0997"
-"KC832862","AL_RAC-SK","RAC-SK","USA","United States","FL, Paso","2013","2013",2013,1353,"16-Jul-13","16-Jul-13","Procyon lotor","-","A13-0998"
-"KU963501","AL_RAC-SK","RAC-SK","-","-","-","-","-",2016,1350,"06-Nov-16","06-Nov-16","Procyon lotor","-","SN14-64-RacUSA2003"
-"KY026414","AL_RAC-SK","RAC-SK","USA","United States","-","2013","2013",2013,11924,"08-Mar-17","08-Mar-17","Procyon lotor","28219746","ME.2013.0131"
-"KY026415","AL_RAC-SK","RAC-SK","CAN","Canada","-","2014","2014",2014,11924,"08-Mar-17","08-Mar-17","skunk","28219746","NB.2014.0941"
-"KY026416","AL_RAC-SK","RAC-SK","USA","United States","-","1995","1995",1995,11923,"08-Mar-17","08-Mar-17","Procyon lotor","28219746","NY.1995.7951"
-"KY026417","AL_RAC-SK","RAC-SK","USA","United States","-","1998","1998",1998,11923,"08-Mar-17","08-Mar-17","Procyon lotor","28219746","NY.1998.8982"
-"KY026419","AL_RAC-SK","RAC-SK","USA","United States","-","2004","2004",2004,11924,"08-Mar-17","08-Mar-17","skunk","28219746","NY.2004.0953"
-"KY026420","AL_RAC-SK","RAC-SK","USA","United States","-","2004","2004",2004,11924,"08-Mar-17","08-Mar-17","Procyon lotor","28219746","NY.2004.2473"
-"KY026421","AL_RAC-SK","RAC-SK","USA","United States","-","2011","2011",2011,11923,"08-Mar-17","08-Mar-17","Procyon lotor","28219746","NY.2011.1548"
-"KY026424","AL_RAC-SK","RAC-SK","CAN","Canada","-","1999","1999",1999,11923,"08-Mar-17","08-Mar-17","Procyon lotor","28219746","ON.1999.6417"
-"KY026425","AL_RAC-SK","RAC-SK","CAN","Canada","-","1999","1999",1999,11925,"08-Mar-17","08-Mar-17","Procyon lotor","28219746","ON.1999.6479"
-"KY026426","AL_RAC-SK","RAC-SK","CAN","Canada","-","2000","2000",2000,11924,"08-Mar-17","08-Mar-17","Procyon lotor","28219746","ON.2000.0112"
-"KY026427","AL_RAC-SK","RAC-SK","CAN","Canada","-","2000","2000",2000,11923,"08-Mar-17","08-Mar-17","Procyon lotor","28219746","ON.2000.0155"
-"KY026430","AL_RAC-SK","RAC-SK","CAN","Canada","-","2000","2000",2000,11925,"08-Mar-17","08-Mar-17","Procyon lotor","28219746","ON.2000.0771"
-"KY026431","AL_RAC-SK","RAC-SK","CAN","Canada","-","2000","2000",2000,11925,"08-Mar-17","08-Mar-17","Procyon lotor","28219746","ON.2000.0969"
-"KY026432","AL_RAC-SK","RAC-SK","CAN","Canada","-","2000","2000",2000,11925,"08-Mar-17","08-Mar-17","Procyon lotor","28219746","ON.2000.1357"
-"KY026435","AL_RAC-SK","RAC-SK","CAN","Canada","-","2000","2000",2000,11925,"08-Mar-17","08-Mar-17","Procyon lotor","28219746","ON.2000.2067"
-"KY026436","AL_RAC-SK","RAC-SK","CAN","Canada","-","2000","2000",2000,11925,"08-Mar-17","08-Mar-17","Procyon lotor","28219746","ON.2000.2201"
-"KY026439","AL_RAC-SK","RAC-SK","CAN","Canada","-","2000","2000",2000,11925,"08-Mar-17","08-Mar-17","Procyon lotor","28219746","ON.2000.4360"
-"KY026440","AL_RAC-SK","RAC-SK","CAN","Canada","-","2000","2000",2000,11925,"08-Mar-17","08-Mar-17","Procyon lotor","28219746","ON.2000.4461"
-"KY026441","AL_RAC-SK","RAC-SK","CAN","Canada","-","2000","2000",2000,11925,"08-Mar-17","08-Mar-17","Procyon lotor","28219746","ON.2000.4474"
-"KY026442","AL_RAC-SK","RAC-SK","CAN","Canada","-","2000","2000",2000,11925,"08-Mar-17","08-Mar-17","Procyon lotor","28219746","ON.2000.5320"
-"KY026443","AL_RAC-SK","RAC-SK","CAN","Canada","-","2000","2000",2000,11925,"08-Mar-17","08-Mar-17","Procyon lotor","28219746","ON.2000.6152"
-"KY026444","AL_RAC-SK","RAC-SK","CAN","Canada","-","2001","2001",2001,11925,"08-Mar-17","08-Mar-17","Procyon lotor","28219746","ON.2001.0312"
-"KY026445","AL_RAC-SK","RAC-SK","CAN","Canada","-","2001","2001",2001,11925,"08-Mar-17","08-Mar-17","Procyon lotor","28219746","ON.2001.0889"
-"KY026446","AL_RAC-SK","RAC-SK","CAN","Canada","-","2001","2001",2001,11925,"08-Mar-17","08-Mar-17","Procyon lotor","28219746","ON.2001.1190"
-"KY026447","AL_RAC-SK","RAC-SK","CAN","Canada","-","2001","2001",2001,11925,"08-Mar-17","08-Mar-17","Procyon lotor","28219746","ON.2001.12052"
-"KY026448","AL_RAC-SK","RAC-SK","CAN","Canada","-","2001","2001",2001,11925,"08-Mar-17","08-Mar-17","Procyon lotor","28219746","ON.2001.12053"
-"KY026449","AL_RAC-SK","RAC-SK","CAN","Canada","-","2001","2001",2001,11925,"08-Mar-17","08-Mar-17","Procyon lotor","28219746","ON.2001.1891"
-"KY026450","AL_RAC-SK","RAC-SK","CAN","Canada","-","2001","2001",2001,11925,"08-Mar-17","08-Mar-17","skunk","28219746","ON.2001.1895"
-"KY026451","AL_RAC-SK","RAC-SK","CAN","Canada","-","2001","2001",2001,11925,"08-Mar-17","08-Mar-17","Procyon lotor","28219746","ON.2001.3744"
-"KY026452","AL_RAC-SK","RAC-SK","CAN","Canada","-","2001","2001",2001,11925,"08-Mar-17","08-Mar-17","Procyon lotor","28219746","ON.2001.3913"
-"KY026453","AL_RAC-SK","RAC-SK","CAN","Canada","-","2001","2001",2001,11925,"08-Mar-17","08-Mar-17","Procyon lotor","28219746","ON.2001.4148"
-"KY026454","AL_RAC-SK","RAC-SK","CAN","Canada","-","2001","2001",2001,11926,"08-Mar-17","08-Mar-17","Procyon lotor","28219746","ON.2001.6195"
-"KY026455","AL_RAC-SK","RAC-SK","CAN","Canada","-","2001","2001",2001,11924,"08-Mar-17","08-Mar-17","Procyon lotor","28219746","ON.2001.7006"
-"KY026456","AL_RAC-SK","RAC-SK","CAN","Canada","-","2001","2001",2001,11925,"08-Mar-17","08-Mar-17","Procyon lotor","28219746","ON.2001.7160"
-"KY026457","AL_RAC-SK","RAC-SK","CAN","Canada","-","2001","2001",2001,11925,"08-Mar-17","08-Mar-17","Procyon lotor","28219746","ON.2001.8399"
-"KY026458","AL_RAC-SK","RAC-SK","CAN","Canada","-","2001","2001",2001,11925,"08-Mar-17","08-Mar-17","Procyon lotor","28219746","ON.2001.9303"
-"KY026459","AL_RAC-SK","RAC-SK","CAN","Canada","-","2002","2002",2002,11925,"08-Mar-17","08-Mar-17","Procyon lotor","28219746","ON.2002.3398"
-"KY026460","AL_RAC-SK","RAC-SK","CAN","Canada","-","2002","2002",2002,11925,"08-Mar-17","08-Mar-17","Procyon lotor","28219746","ON.2002.3853"
-"KY026461","AL_RAC-SK","RAC-SK","CAN","Canada","-","2002","2002",2002,11925,"08-Mar-17","08-Mar-17","Procyon lotor","28219746","ON.2002.7095"
-"KY026462","AL_RAC-SK","RAC-SK","CAN","Canada","-","2002","2002",2002,11925,"08-Mar-17","08-Mar-17","Procyon lotor","28219746","ON.2002.7849"
-"KY026463","AL_RAC-SK","RAC-SK","CAN","Canada","-","2002","2002",2002,11925,"08-Mar-17","08-Mar-17","Procyon lotor","28219746","ON.2002.8206"
-"KY026464","AL_RAC-SK","RAC-SK","CAN","Canada","-","2003","2003",2003,11925,"08-Mar-17","08-Mar-17","Procyon lotor","28219746","ON.2003.0941"
-"KY026465","AL_RAC-SK","RAC-SK","CAN","Canada","-","2003","2003",2003,11925,"08-Mar-17","08-Mar-17","Procyon lotor","28219746","ON.2003.1519"
-"KY026466","AL_RAC-SK","RAC-SK","CAN","Canada","-","2003","2003",2003,11925,"08-Mar-17","08-Mar-17","Procyon lotor","28219746","ON.2003.2673"
-"KY026467","AL_RAC-SK","RAC-SK","CAN","Canada","-","2003","2003",2003,11925,"08-Mar-17","08-Mar-17","Procyon lotor","28219746","ON.2003.2760"
-"KY026468","AL_RAC-SK","RAC-SK","CAN","Canada","-","2003","2003",2003,11926,"08-Mar-17","08-Mar-17","Procyon lotor","28219746","ON.2003.2794"
-"KY026469","AL_RAC-SK","RAC-SK","CAN","Canada","-","2003","2003",2003,11925,"08-Mar-17","08-Mar-17","Procyon lotor","28219746","ON.2003.3406"
-"KY026470","AL_RAC-SK","RAC-SK","CAN","Canada","-","2003","2003",2003,11925,"08-Mar-17","08-Mar-17","Procyon lotor","28219746","ON.2003.3574"
-"KY026471","AL_RAC-SK","RAC-SK","CAN","Canada","-","2003","2003",2003,11925,"08-Mar-17","08-Mar-17","Procyon lotor","28219746","ON.2003.4680"
-"KY026472","AL_RAC-SK","RAC-SK","CAN","Canada","-","2003","2003",2003,11925,"08-Mar-17","08-Mar-17","Procyon lotor","28219746","ON.2003.5257"
-"KY026473","AL_RAC-SK","RAC-SK","CAN","Canada","-","2004","2004",2004,11925,"08-Mar-17","08-Mar-17","Procyon lotor","28219746","ON.2004.6275"
-"KY026474","AL_RAC-SK","RAC-SK","CAN","Canada","-","2004","2004",2004,11926,"08-Mar-17","08-Mar-17","Procyon lotor","28219746","ON.2004.6277"
-"KY026475","AL_RAC-SK","RAC-SK","CAN","Canada","-","2004","2004",2004,11925,"08-Mar-17","08-Mar-17","Procyon lotor","28219746","ON.2004.6953"
-"KY026476","AL_RAC-SK","RAC-SK","CAN","Canada","-","2004","2004",2004,11925,"08-Mar-17","08-Mar-17","Procyon lotor","28219746","ON.2004.7702"
-"KY026477","AL_RAC-SK","RAC-SK","CAN","Canada","-","2005","2005",2005,11925,"08-Mar-17","08-Mar-17","Procyon lotor","28219746","ON.2005.4941"
-"KY026478","AL_RAC-SK","RAC-SK","USA","United States","-","2006","2006",2006,11923,"08-Mar-17","08-Mar-17","Procyon lotor","28219746","VT.2006.0225"
-"KY026479","AL_RAC-SK","RAC-SK","USA","United States","-","2006","2006",2006,11924,"08-Mar-17","08-Mar-17","skunk","28219746","VT.2006.0259"
-"KY026480","AL_RAC-SK","RAC-SK","USA","United States","-","2007","2007",2007,11925,"08-Mar-17","08-Mar-17","Procyon lotor","28219746","VT.2007.0522"
-"KY026481","AL_RAC-SK","RAC-SK","USA","United States","-","2008","2008",2008,11925,"08-Mar-17","08-Mar-17","Procyon lotor","28219746","VT.2008.0209"
-"KY026482","AL_RAC-SK","RAC-SK","USA","United States","-","2008","2008",2008,11923,"08-Mar-17","08-Mar-17","Procyon lotor","28219746","VT.2008.0237"
-"KY026483","AL_RAC-SK","RAC-SK","USA","United States","-","2011","2011",2011,11923,"08-Mar-17","08-Mar-17","skunk","28219746","VT.2011.0122"
-"MF143191","AL_RAC-SK","RAC-SK","USA","United States","China, Kennebec, ME","2013","2013",2013,11924,"12-Sep-17","08-Jun-21","skunk","28820138","ME.2013.0002"
-"MF143192","AL_RAC-SK","RAC-SK","USA","United States","Wells, York, ME","2013","2013",2013,11924,"12-Sep-17","08-Jun-21","Procyon lotor","28820138","ME.2013.0025"
-"MF143193","AL_RAC-SK","RAC-SK","USA","United States","Dixmont, Penobscot, ME","2013","2013",2013,11924,"12-Sep-17","08-Jun-21","Procyon lotor","28820138","ME.2013.0034"
-"MF143194","AL_RAC-SK","RAC-SK","USA","United States","Milford, Penobscot, ME","2013","2013",2013,11924,"12-Sep-17","08-Jun-21","skunk","28820138","ME.2013.0052"
-"MF143195","AL_RAC-SK","RAC-SK","USA","United States","Litchfield, Kennebec, ME","2013","2013",2013,11924,"12-Sep-17","08-Jun-21","Procyon lotor","28820138","ME.2013.0064"
-"MF143196","AL_RAC-SK","RAC-SK","USA","United States","Skowhegan, Somerset, ME","2013","2013",2013,11924,"12-Sep-17","08-Jun-21","Procyon lotor","28820138","ME.2013.0067"
-"MF143197","AL_RAC-SK","RAC-SK","USA","United States","Eliot, York, ME","2013","2013",2013,11924,"12-Sep-17","08-Jun-21","skunk","28820138","ME.2013.0098"
-"MF143198","AL_RAC-SK","RAC-SK","USA","United States","Windham, Cumberland, ME","2013","2013",2013,11925,"12-Sep-17","08-Jun-21","skunk","28820138","ME.2013.0101"
-"MF143199","AL_RAC-SK","RAC-SK","USA","United States","Mariaville, Hancock, ME","2013","2013",2013,11924,"12-Sep-17","08-Jun-21","Procyon lotor","28820138","ME.2013.0102"
-"MF143200","AL_RAC-SK","RAC-SK","USA","United States","Windham, Cumberland, ME","2013","2013",2013,11924,"12-Sep-17","08-Jun-21","Procyon lotor","28820138","ME.2013.0109"
-"MF143201","AL_RAC-SK","RAC-SK","USA","United States","Lewistion, Androscoggin, ME","2013","2013",2013,11924,"12-Sep-17","08-Jun-21","Procyon lotor","28820138","ME.2013.0110"
-"MF143202","AL_RAC-SK","RAC-SK","USA","United States","Farmington, Franklin, ME","2013","2013",2013,11924,"12-Sep-17","08-Jun-21","skunk","28820138","ME.2013.0113"
-"MF143203","AL_RAC-SK","RAC-SK","USA","United States","Hiram, Oxford, ME","2013","2013",2013,11925,"12-Sep-17","08-Jun-21","Vulpes vulpes","28820138","ME.2013.0157"
-"MF143204","AL_RAC-SK","RAC-SK","USA","United States","Waldo, Waldo, ME","2013","2013",2013,11923,"12-Sep-17","08-Jun-21","skunk","28820138","ME.2013.0158"
-"MF143205","AL_RAC-SK","RAC-SK","USA","United States","Southport Island, Lincoln, ME","2013","2013",2013,11923,"12-Sep-17","08-Jun-21","Procyon lotor","28820138","ME.2013.0187"
-"MF143206","AL_RAC-SK","RAC-SK","USA","United States","Stow, Oxford, ME","2013","2013",2013,11924,"12-Sep-17","08-Jun-21","Procyon lotor","28820138","ME.2013.0233"
-"MF143207","AL_RAC-SK","RAC-SK","USA","United States","South Portland, Cumberland, ME","2013","2013",2013,11925,"12-Sep-17","08-Jun-21","Vulpes vulpes","28820138","ME.2013.0247"
-"MF143208","AL_RAC-SK","RAC-SK","USA","United States","Monmouth, Kennebec, ME","2013","2013",2013,11924,"12-Sep-17","08-Jun-21","Procyon lotor","28820138","ME.2013.0332"
-"MF143209","AL_RAC-SK","RAC-SK","USA","United States","Franklin, Hancock, ME","2013","2013",2013,11925,"12-Sep-17","08-Jun-21","skunk","28820138","ME.2013.0425"
-"MF143210","AL_RAC-SK","RAC-SK","USA","United States","New Portland, Franklin, ME","2013","2013",2013,11923,"12-Sep-17","08-Jun-21","skunk","28820138","ME.2013.0444"
-"MF143211","AL_RAC-SK","RAC-SK","USA","United States","Sidney, Kennebec, ME","2013","2013",2013,11924,"12-Sep-17","08-Jun-21","skunk","28820138","ME.2013.0491"
-"MF143212","AL_RAC-SK","RAC-SK","USA","United States","Scarborough, Cumberland, ME","2013","2013",2013,11924,"12-Sep-17","08-Jun-21","skunk","28820138","ME.2013.0498"
-"MF143213","AL_RAC-SK","RAC-SK","USA","United States","North Yarmouth, Cumberland, ME","2014","2014",2014,11925,"12-Sep-17","08-Jun-21","Procyon lotor","28820138","ME.2014.0038"
-"MF143214","AL_RAC-SK","RAC-SK","USA","United States","Old Town, Penobscot, ME","2014","2014",2014,11924,"12-Sep-17","08-Jun-21","skunk","28820138","ME.2014.0079"
-"MF143215","AL_RAC-SK","RAC-SK","USA","United States","Cornville, Somerset, ME","2014","2014",2014,11924,"12-Sep-17","08-Jun-21","Procyon lotor","28820138","ME.2014.0084"
-"MF143216","AL_RAC-SK","RAC-SK","USA","United States","Cornville, Somerset, ME","2014","2014",2014,11924,"12-Sep-17","08-Jun-21","skunk","28820138","ME.2014.0090"
-"MF143217","AL_RAC-SK","RAC-SK","USA","United States","Charlotte, Washington, ME","2014","2014",2014,11924,"12-Sep-17","08-Jun-21","Procyon lotor","28820138","ME.2014.0091"
-"MF143218","AL_RAC-SK","RAC-SK","USA","United States","Sidney, Kennebec, ME","2014","2014",2014,11924,"12-Sep-17","08-Jun-21","Procyon lotor","28820138","ME.2014.0095"
-"MF143219","AL_RAC-SK","RAC-SK","USA","United States","Richmond, Sagadahoc, ME","2014","2014",2014,11924,"12-Sep-17","08-Jun-21","Procyon lotor","28820138","ME.2014.0103"
-"MF143220","AL_RAC-SK","RAC-SK","USA","United States","Naples, Cumberland, ME","2014","2014",2014,11924,"12-Sep-17","08-Jun-21","Vulpes vulpes","28820138","ME.2014.0137"
-"MF143221","AL_RAC-SK","RAC-SK","USA","United States","Deblois, Washington, ME","2014","2014",2014,11924,"12-Sep-17","08-Jun-21","Procyon lotor","28820138","ME.2014.0169"
-"MF143222","AL_RAC-SK","RAC-SK","USA","United States","Baileyville, Washington, ME","2014","2014",2014,11924,"12-Sep-17","08-Jun-21","Procyon lotor","28820138","ME.2014.0197"
-"MF143223","AL_RAC-SK","RAC-SK","CAN","Canada","Heathland, Charlotte, NB","2000","2000",2000,11923,"12-Sep-17","08-Jun-21","skunk","28820138","NB.2000.4394"
-"MF143224","AL_RAC-SK","RAC-SK","CAN","Canada","St. Stephen, Charlotte, NB","2000","2000",2000,11923,"12-Sep-17","08-Jun-21","skunk","28820138","NB.2000.5443"
-"MF143225","AL_RAC-SK","RAC-SK","CAN","Canada","St. Stephen, Charlotte, NB","2000","2000",2000,11924,"12-Sep-17","08-Jun-21","Procyon lotor","28820138","NB.2000.5579"
-"MF143226","AL_RAC-SK","RAC-SK","CAN","Canada","St. Stephen, Charlotte, NB","2000","2000",2000,11923,"12-Sep-17","08-Jun-21","skunk","28820138","NB.2000.5733"
-"MF143227","AL_RAC-SK","RAC-SK","CAN","Canada","St. George, Charlotte, NB","2000","2000",2000,11923,"12-Sep-17","08-Jun-21","Procyon lotor","28820138","NB.2000.5735"
-"MF143228","AL_RAC-SK","RAC-SK","CAN","Canada","St. Stephen, Charlotte, NB","2001","2001",2001,11923,"12-Sep-17","08-Jun-21","Procyon lotor","28820138","NB.2001.0005"
-"MF143229","AL_RAC-SK","RAC-SK","CAN","Canada","St. Stephen, Charlotte, NB","2001","2001",2001,11923,"12-Sep-17","08-Jun-21","skunk","28820138","NB.2001.0006"
-"MF143230","AL_RAC-SK","RAC-SK","CAN","Canada","Little Ridge, Charlotte, NB","2001","2001",2001,11923,"12-Sep-17","08-Jun-21","Procyon lotor","28820138","NB.2001.1588"
-"MF143231","AL_RAC-SK","RAC-SK","CAN","Canada","Dufferin, Charlotte, NB","2001","2001",2001,11923,"12-Sep-17","08-Jun-21","Procyon lotor","28820138","NB.2001.3484"
-"MF143232","AL_RAC-SK","RAC-SK","CAN","Canada","Cockerhill, Charlotte, NB","2001","2001",2001,11923,"12-Sep-17","08-Jun-21","Procyon lotor","28820138","NB.2001.6249"
-"MF143233","AL_RAC-SK","RAC-SK","CAN","Canada","St. Stephen, Charlotte, NB","2001","2001",2001,11923,"12-Sep-17","08-Jun-21","Procyon lotor","28820138","NB.2001.9134"
-"MF143234","AL_RAC-SK","RAC-SK","CAN","Canada","Valley Road, Charlotte, NB","2002","2002",2002,11923,"12-Sep-17","08-Jun-21","Procyon lotor","28820138","NB.2002.3420"
-"MF143235","AL_RAC-SK","RAC-SK","CAN","Canada","St. Stephen, Charlotte, NB","2014","2014",2014,11925,"12-Sep-17","08-Jun-21","Procyon lotor","28820138","NB.2014.0486"
-"MF143236","AL_RAC-SK","RAC-SK","CAN","Canada","Oak Bay, Charlotte, NB","2015","2015",2015,11924,"12-Sep-17","08-Jun-21","Procyon lotor","28820138","NB.2015.0046"
-"MF143237","AL_RAC-SK","RAC-SK","CAN","Canada","Waweig, Charlotte, NB","2015","2015",2015,11924,"12-Sep-17","08-Jun-21","Procyon lotor","28820138","NB.2015.0149"
-"MF143238","AL_RAC-SK","RAC-SK","CAN","Canada","Bayside, Charlotte, NB","2015","2015",2015,11924,"12-Sep-17","08-Jun-21","Procyon lotor","28820138","NB.2015.0155"
-"MF143239","AL_RAC-SK","RAC-SK","CAN","Canada","St. Stephen, Charlotte, NB","2015","2015",2015,11924,"12-Sep-17","08-Jun-21","Procyon lotor","28820138","NB.2015.0156"
-"MF143240","AL_RAC-SK","RAC-SK","CAN","Canada","Bocabec, Charlotte, NB","2015","2015",2015,11924,"12-Sep-17","08-Jun-21","Procyon lotor","28820138","NB.2015.0183"
-"MF143241","AL_RAC-SK","RAC-SK","CAN","Canada","Waweig, Charlotte, NB","2015","2015",2015,11924,"12-Sep-17","08-Jun-21","Procyon lotor","28820138","NB.2015.0185"
-"MF143242","AL_RAC-SK","RAC-SK","CAN","Canada","Burnt Hill, Charlotte, NB","2015","2015",2015,11925,"12-Sep-17","08-Jun-21","Procyon lotor","28820138","NB.2015.0201"
-"MF143243","AL_RAC-SK","RAC-SK","CAN","Canada","St. Stephen, Charlotte, NB","2015","2015",2015,11924,"12-Sep-17","08-Jun-21","Procyon lotor","28820138","NB.2015.0202"
-"MF143244","AL_RAC-SK","RAC-SK","CAN","Canada","Cooks Lane, Charlotte, NB","2015","2015",2015,11924,"12-Sep-17","08-Jun-21","Procyon lotor","28820138","NB.2015.0207"
-"MF143245","AL_RAC-SK","RAC-SK","CAN","Canada","Waweig, Charlotte, NB","2015","2015",2015,11924,"12-Sep-17","08-Jun-21","Procyon lotor","28820138","NB.2015.0270"
-"MF143246","AL_RAC-SK","RAC-SK","CAN","Canada","Waweig, Charlotte, NB","2015","2015",2015,11924,"12-Sep-17","08-Jun-21","Procyon lotor","28820138","NB.2015.0343"
-"MF143247","AL_RAC-SK","RAC-SK","CAN","Canada","Valley Road, Charlotte, NB","2015","2015",2015,11924,"12-Sep-17","08-Jun-21","Procyon lotor","28820138","NB.2015.0359"
-"MF143248","AL_RAC-SK","RAC-SK","CAN","Canada","St. Andrews, Charlotte, NB","2015","2015",2015,11924,"12-Sep-17","08-Jun-21","Procyon lotor","28820138","NB.2015.0583"
-"MF143249","AL_RAC-SK","RAC-SK","CAN","Canada","St. Andrews, Charlotte, NB","2015","2015",2015,11924,"12-Sep-17","08-Jun-21","Procyon lotor","28820138","NB.2015.0671"
-"MF143250","AL_RAC-SK","RAC-SK","CAN","Canada","Chamcook, Charlotte, NB","2015","2015",2015,11924,"12-Sep-17","08-Jun-21","Procyon lotor","28820138","NB.2015.0672"
-"MF143251","AL_RAC-SK","RAC-SK","CAN","Canada","Bocabec, Charlotte, NB","2015","2015",2015,11924,"12-Sep-17","08-Jun-21","skunk","28820138","NB.2015.0774"
-"MF143252","AL_RAC-SK","RAC-SK","CAN","Canada","Bayside, Charlotte, NB","2015","2015",2015,11924,"12-Sep-17","08-Jun-21","Procyon lotor","28820138","NB.2015.0835"
-"MF143253","AL_RAC-SK","RAC-SK","CAN","Canada","Pennfield, Charlotte, NB","2015","2015",2015,11924,"12-Sep-17","08-Jun-21","Procyon lotor","28820138","NB.2015.0921"
-"MF143254","AL_RAC-SK","RAC-SK","CAN","Canada","McAdam, York, NB","2015","2015",2015,11924,"12-Sep-17","08-Jun-21","Procyon lotor","28820138","NB.2015.1049"
-"MF143255","AL_RAC-SK","RAC-SK","CAN","Canada","Hamilton, Hamilton, ON","2015","2015",2015,11924,"12-Sep-17","08-Jun-21","Procyon lotor","28820138","ON.2015.1361"
-"MF143256","AL_RAC-SK","RAC-SK","CAN","Canada","Noyan, Le Haut-Richelieu, QC","2007","2007",2007,11923,"12-Sep-17","08-Jun-21","Procyon lotor","28820138","QC.2007.6390"
-"MF143257","AL_RAC-SK","RAC-SK","USA","United States","Adams, Jefferson, NY","2004","2004",2004,11924,"12-Sep-17","08-Jun-21","Procyon lotor","28820138","NY.2004.2753"
-"MF143258","AL_RAC-SK","RAC-SK","USA","United States","Watertown, Jefferson, NY","2004","2004",2004,11924,"12-Sep-17","08-Jun-21","Procyon lotor","28820138","NY.2004.8025"
-"MF143259","AL_RAC-SK","RAC-SK","CAN","Canada","Mont-Saint-Gregoire, Brome-Missisquoi, QC","2007","2007",2007,11923,"12-Sep-17","08-Jun-21","Procyon lotor","28820138","QC.2007.0909"
-"MF143260","AL_RAC-SK","RAC-SK","CAN","Canada","Saint-Armand, Brome-Missisquoi, QC","2007","2007",2007,11923,"12-Sep-17","08-Jun-21","Procyon lotor","28820138","QC.2007.2234"
-"MF143261","AL_RAC-SK","RAC-SK","CAN","Canada","Frelighsburg, Brome-Missisquoi, QC","2007","2007",2007,11923,"12-Sep-17","08-Jun-21","Procyon lotor","28820138","QC.2007.2783"
-"MF143262","AL_RAC-SK","RAC-SK","CAN","Canada","Saint-Armand, Brome-Missisquoi, QC","2007","2007",2007,11923,"12-Sep-17","08-Jun-21","Procyon lotor","28820138","QC.2007.2937"
-"MF143263","AL_RAC-SK","RAC-SK","CAN","Canada","Saint-Armand, Brome-Missisquoi, QC","2007","2007",2007,11923,"12-Sep-17","08-Jun-21","Procyon lotor","28820138","QC.2007.2975"
-"MF143264","AL_RAC-SK","RAC-SK","CAN","Canada","Saint-Pierre-de-Veronne-a-Pike-River, Brome-Missisquoi, QC","2007","2007",2007,11923,"12-Sep-17","08-Jun-21","Procyon lotor","28820138","QC.2007.2986"
-"MF143265","AL_RAC-SK","RAC-SK","CAN","Canada","Saint-Pierre-de-Veronne-a-Pike-River, Brome-Missisquoi, QC","2007","2007",2007,11923,"12-Sep-17","08-Jun-21","Procyon lotor","28820138","QC.2007.3122"
-"MF143266","AL_RAC-SK","RAC-SK","CAN","Canada","Saint-S_bastien, Brome-Missisquoi, QC","2007","2007",2007,11924,"12-Sep-17","08-Jun-21","Procyon lotor","28820138","QC.2007.3211"
-"MF143267","AL_RAC-SK","RAC-SK","CAN","Canada","Noyan, Brome-Missisquoi, QC","2007","2007",2007,11923,"12-Sep-17","08-Jun-21","Procyon lotor","28820138","QC.2007.3658"
-"MF143268","AL_RAC-SK","RAC-SK","CAN","Canada","Noyan, Brome-Missisquoi, QC","2007","2007",2007,11923,"12-Sep-17","08-Jun-21","Procyon lotor","28820138","QC.2007.3659"
-"MF143269","AL_RAC-SK","RAC-SK","CAN","Canada","Saint-Pierre-de-Veronne-a-Pike-River, Brome-Missisquoi, QC","2007","2007",2007,11923,"12-Sep-17","08-Jun-21","Procyon lotor","28820138","QC.2007.3870"
-"MF143270","AL_RAC-SK","RAC-SK","CAN","Canada","Saint-Armand, Brome-Missisquoi, QC","2007","2007",2007,11923,"12-Sep-17","08-Jun-21","Procyon lotor","28820138","QC.2007.4485"
-"MF143271","AL_RAC-SK","RAC-SK","CAN","Canada","Cowansville, Brome-Missisquoi, QC","2007","2007",2007,11923,"12-Sep-17","08-Jun-21","skunk","28820138","QC.2007.6234"
-"MF143272","AL_RAC-SK","RAC-SK","CAN","Canada","Farnham, Brome-Missisquoi, QC","2008","2008",2008,11923,"12-Sep-17","08-Jun-21","Procyon lotor","28820138","QC.2008.0750"
-"MF143273","AL_RAC-SK","RAC-SK","CAN","Canada","Noyan, Le Haut-Richelieu, QC","2008","2008",2008,11923,"12-Sep-17","08-Jun-21","Procyon lotor","28820138","QC.2008.1846"
-"MF143274","AL_RAC-SK","RAC-SK","CAN","Canada","Farnham, Le Haut-Richelieu, QC","2008","2008",2008,11923,"12-Sep-17","08-Jun-21","Procyon lotor","28820138","QC.2008.1848"
-"MF143275","AL_RAC-SK","RAC-SK","CAN","Canada","Henryville, Le Haut-Richelieu, QC","2008","2008",2008,11923,"12-Sep-17","08-Jun-21","skunk","28820138","QC.2008.5337"
-"MF143276","AL_RAC-SK","RAC-SK","CAN","Canada","Clarenceville, Le Haut-Richelieu, QC","2009","2009",2009,11923,"12-Sep-17","08-Jun-21","skunk","28820138","QC.2009.0709"
-"MF143277","AL_RAC-SK","RAC-SK","CAN","Canada","St Regis, Akwesasne Reservation, QC","2015","2015",2015,11925,"12-Sep-17","08-Jun-21","Procyon lotor","28820138","QC.2015.0488"
-"MF143278","AL_RAC-SK","RAC-SK","USA","United States","Danville, Caledonia, VT","2006","2006",2006,11925,"12-Sep-17","08-Jun-21","Bos taurus","28820138","VT.2006.0116"
-"MF143279","AL_RAC-SK","RAC-SK","USA","United States","Clarendon, Rutland, VT","2006","2006",2006,11923,"12-Sep-17","08-Jun-21","Procyon lotor","28820138","VT.2006.0166"
-"MF143280","AL_RAC-SK","RAC-SK","USA","United States","Panton, Addison, VT","2006","2006",2006,11923,"12-Sep-17","08-Jun-21","skunk","28820138","VT.2006.0178"
-"MF143281","AL_RAC-SK","RAC-SK","USA","United States","Middlebury, Addison, VT","2006","2006",2006,11923,"12-Sep-17","08-Jun-21","skunk","28820138","VT.2006.0332"
-"MF143282","AL_RAC-SK","RAC-SK","USA","United States","Lyndon, Caledonia, VT","2007","2007",2007,11924,"12-Sep-17","08-Jun-21","Procyon lotor","28820138","VT.2007.0092"
-"MF143283","AL_RAC-SK","RAC-SK","USA","United States","Stowe, Lamoille, VT","2007","2007",2007,11923,"12-Sep-17","08-Jun-21","Procyon lotor","28820138","VT.2007.0297"
-"MF143284","AL_RAC-SK","RAC-SK","USA","United States","Pownal, Bennington, VT","2007","2007",2007,11924,"12-Sep-17","08-Jun-21","Procyon lotor","28820138","VT.2007.0308"
-"MF143285","AL_RAC-SK","RAC-SK","USA","United States","Williston, Chittenden, VT","2007","2007",2007,11924,"12-Sep-17","08-Jun-21","skunk","28820138","VT.2007.0320"
-"MF143286","AL_RAC-SK","RAC-SK","USA","United States","Essex, Chittenden, VT","2007","2007",2007,11924,"12-Sep-17","08-Jun-21","Procyon lotor","28820138","VT.2007.0412"
-"MF143287","AL_RAC-SK","RAC-SK","USA","United States","Danville, Caledonia, VT","2007","2007",2007,11924,"12-Sep-17","08-Jun-21","Procyon lotor","28820138","VT.2007.0492"
-"MF143288","AL_RAC-SK","RAC-SK","USA","United States","Elmore, Lamoille, VT","2008","2008",2008,11924,"12-Sep-17","08-Jun-21","skunk","28820138","VT.2008.0270"
-"MF143289","AL_RAC-SK","RAC-SK","USA","United States","Stowe, Lamoille, VT","2009","2009",2009,11923,"12-Sep-17","08-Jun-21","Procyon lotor","28820138","VT.2009.0370"
-"MF143290","AL_RAC-SK","RAC-SK","USA","United States","Kendall, Orleans, NY","1994","1994",1994,11924,"12-Sep-17","08-Jun-21","Procyon lotor","28820138","NY.1994.1330"
-"MF143291","AL_RAC-SK","RAC-SK","USA","United States","Black Brook, Clinton, NY","1995","1995",1995,11924,"12-Sep-17","08-Jun-21","Procyon lotor","28820138","NY.1995.3745"
-"MF143292","AL_RAC-SK","RAC-SK","USA","United States","Sterling, Cayuga, NY","2003","2003",2003,11925,"12-Sep-17","08-Jun-21","Procyon lotor","28820138","NY.2003.1694"
-"MF143293","AL_RAC-SK","RAC-SK","USA","United States","Kendall, Orleans, NY","2003","2003",2003,11924,"12-Sep-17","08-Jun-21","Procyon lotor","28820138","NY.2003.1995"
-"MF143294","AL_RAC-SK","RAC-SK","USA","United States","Ridgeway, Orleans, NY","2003","2003",2003,11924,"12-Sep-17","08-Jun-21","skunk","28820138","NY.2003.7809"
-"MF143295","AL_RAC-SK","RAC-SK","USA","United States","Albion, Orleans, NY","2003","2003",2003,11923,"12-Sep-17","08-Jun-21","Procyon lotor","28820138","NY.2003.8176"
-"MF143296","AL_RAC-SK","RAC-SK","USA","United States","Scriba, Oswego, NY","2004","2004",2004,11923,"12-Sep-17","08-Jun-21","skunk","28820138","NY.2004.0023"
-"MF143297","AL_RAC-SK","RAC-SK","USA","United States","Middlebury, Wyoming, NY","2004","2004",2004,11924,"12-Sep-17","08-Jun-21","Procyon lotor","28820138","NY.2004.0353"
-"MF143298","AL_RAC-SK","RAC-SK","USA","United States","Adams, Jefferson, NY","2004","2004",2004,11924,"12-Sep-17","08-Jun-21","Procyon lotor","28820138","NY.2004.1133"
-"MF143299","AL_RAC-SK","RAC-SK","USA","United States","Williamson, Wayne, NY","2004","2004",2004,11924,"12-Sep-17","08-Jun-21","Procyon lotor","28820138","NY.2004.1285"
-"MF143300","AL_RAC-SK","RAC-SK","USA","United States","Niagara Falls, Niagara, NY","2004","2004",2004,11924,"12-Sep-17","08-Jun-21","Procyon lotor","28820138","NY.2004.1600"
-"MF143301","AL_RAC-SK","RAC-SK","USA","United States","Sterling, Cayuga, NY","2004","2004",2004,11924,"12-Sep-17","08-Jun-21","Procyon lotor","28820138","NY.2004.1974"
-"MF143302","AL_RAC-SK","RAC-SK","USA","United States","Newstead, Erie, NY","2004","2004",2004,11923,"12-Sep-17","08-Jun-21","Procyon lotor","28820138","NY.2004.4289"
-"MF143303","AL_RAC-SK","RAC-SK","USA","United States","Kendall, Orleans, NY","2004","2004",2004,11924,"12-Sep-17","08-Jun-21","Procyon lotor","28820138","NY.2004.4875"
-"MF143304","AL_RAC-SK","RAC-SK","USA","United States","Sodus, Wayne, NY","2004","2004",2004,11924,"12-Sep-17","08-Jun-21","Procyon lotor","28820138","NY.2004.5301"
-"MF143305","AL_RAC-SK","RAC-SK","USA","United States","Oswego C., Oswego, NY","2004","2004",2004,11923,"12-Sep-17","08-Jun-21","skunk","28820138","NY.2004.6938"
-"MF143306","AL_RAC-SK","RAC-SK","USA","United States","Sterling, Cayuga, NY","2004","2004",2004,11924,"12-Sep-17","08-Jun-21","skunk","28820138","NY.2004.7916"
-"MF143307","AL_RAC-SK","RAC-SK","USA","United States","Sterling, Cayuga, NY","2004","2004",2004,11925,"12-Sep-17","08-Jun-21","skunk","28820138","NY.2004.7972"
-"MF143308","AL_RAC-SK","RAC-SK","USA","United States","Hammond, St Lawrence, NY","2010","2010",2010,11924,"12-Sep-17","08-Jun-21","skunk","28820138","NY.2010.1066"
-"MF143309","AL_RAC-SK","RAC-SK","USA","United States","Gouveneur, St Lawrence, NY","2010","2010",2010,11924,"12-Sep-17","08-Jun-21","Procyon lotor","28820138","NY.2010.1178"
-"MF143310","AL_RAC-SK","RAC-SK","USA","United States","Gouveneur, St Lawrence, NY","2010","2010",2010,11924,"12-Sep-17","08-Jun-21","Procyon lotor","28820138","NY.2010.1233"
-"MF143311","AL_RAC-SK","RAC-SK","USA","United States","Cambria, Niagara, NY","2010","2010",2010,11924,"12-Sep-17","08-Jun-21","skunk","28820138","NY.2010.1234"
-"MF143312","AL_RAC-SK","RAC-SK","USA","United States","Yates, Orleans, NY","2010","2010",2010,11924,"12-Sep-17","08-Jun-21","Procyon lotor","28820138","NY.2010.1349"
-"MF143313","AL_RAC-SK","RAC-SK","USA","United States","Sherman, Chautauqua, NY","2010","2010",2010,11923,"12-Sep-17","08-Jun-21","Procyon lotor","28820138","NY.2010.1444"
-"MF143314","AL_RAC-SK","RAC-SK","USA","United States","Horseheads, Chemung, NY","2010","2010",2010,11925,"12-Sep-17","08-Jun-21","Procyon lotor","28820138","NY.2010.1962"
-"MF143315","AL_RAC-SK","RAC-SK","USA","United States","Orchard Parl, Erie, NY","2010","2010",2010,11923,"12-Sep-17","08-Jun-21","Procyon lotor","28820138","NY.2010.1986"
-"MF143316","AL_RAC-SK","RAC-SK","USA","United States","Byron, Genesee, NY","2010","2010",2010,11923,"12-Sep-17","08-Jun-21","Procyon lotor","28820138","NY.2010.2167"
-"MF143317","AL_RAC-SK","RAC-SK","USA","United States","Sterling, Cayuga, NY","2010","2010",2010,11924,"12-Sep-17","08-Jun-21","skunk","28820138","NY.2010.2369"
-"MF143318","AL_RAC-SK","RAC-SK","USA","United States","Niagra, Niagara, NY","2014","2014",2014,11924,"12-Sep-17","08-Jun-21","Procyon lotor","28820138","NY.2010.2456"
-"MF143319","AL_RAC-SK","RAC-SK","USA","United States","Oswego City, Oswego, NY","2010","2010",2010,11924,"12-Sep-17","08-Jun-21","skunk","28820138","NY.2010.3956"
-"MF143320","AL_RAC-SK","RAC-SK","USA","United States","Porter, Niagara, NY","2010","2010",2010,11924,"12-Sep-17","08-Jun-21","Procyon lotor","28820138","NY.2010.5558"
-"MF143321","AL_RAC-SK","RAC-SK","USA","United States","Hanover, Chautauqua, NY","2010","2010",2010,11923,"12-Sep-17","08-Jun-21","skunk","28820138","NY.2010.5667"
-"MF143322","AL_RAC-SK","RAC-SK","USA","United States","Carlton, Orleans, NY","2010","2010",2010,11923,"12-Sep-17","08-Jun-21","Procyon lotor","28820138","NY.2010.5742"
-"MF143323","AL_RAC-SK","RAC-SK","USA","United States","Wethersfield, Wyoming, NY","2010","2010",2010,11925,"12-Sep-17","08-Jun-21","skunk","28820138","NY.2010.5965"
-"MF143324","AL_RAC-SK","RAC-SK","USA","United States","Adams, Jefferson, NY","2011","2011",2011,11924,"12-Sep-17","08-Jun-21","Procyon lotor","28820138","NY.2011.0862"
-"MF143325","AL_RAC-SK","RAC-SK","USA","United States","Amherst, Erie, NY","2011","2011",2011,11923,"12-Sep-17","08-Jun-21","Procyon lotor","28820138","NY.2011.1089"
-"MF143326","AL_RAC-SK","RAC-SK","USA","United States","Ellisburg, Jefferson, NY","2011","2011",2011,11923,"12-Sep-17","08-Jun-21","Procyon lotor","28820138","NY.2011.2028"
-"MF143327","AL_RAC-SK","RAC-SK","USA","United States","Wolcott, Wayne, NY","2011","2011",2011,11924,"12-Sep-17","08-Jun-21","Felis catus","28820138","NY.2011.2880"
-"MF143328","AL_RAC-SK","RAC-SK","USA","United States","Batavia City, Genesee, NY","2011","2011",2011,11923,"12-Sep-17","08-Jun-21","Procyon lotor","28820138","NY.2011.4498"
-"MF143329","AL_RAC-SK","RAC-SK","USA","United States","Amherst, Erie, NY","2011","2011",2011,11923,"12-Sep-17","08-Jun-21","Procyon lotor","28820138","NY.2011.5028"
-"MF143330","AL_RAC-SK","RAC-SK","USA","United States","Water, Jefferson, NY","2011","2011",2011,11923,"12-Sep-17","08-Jun-21","skunk","28820138","NY.2011.5139"
-"MF143331","AL_RAC-SK","RAC-SK","USA","United States","Croghan, Lewis, NY","2011","2011",2011,11923,"12-Sep-17","08-Jun-21","skunk","28820138","NY.2011.5196"
-"MF143332","AL_RAC-SK","RAC-SK","USA","United States","Mexico, Oswego, NY","2011","2011",2011,11924,"12-Sep-17","08-Jun-21","skunk","28820138","NY.2011.5335"
-"MF143333","AL_RAC-SK","RAC-SK","USA","United States","Ontario, Wayne, NY","2011","2011",2011,11925,"12-Sep-17","08-Jun-21","Felis catus","28820138","NY.2011.5545"
-"MF143334","AL_RAC-SK","RAC-SK","USA","United States","Champlain, Clinton, NY","2011","2011",2011,11924,"12-Sep-17","08-Jun-21","skunk","28820138","NY.2011.5590"
-"MF143335","AL_RAC-SK","RAC-SK","USA","United States","Sandy Creek, Oswego, NY","2011","2011",2011,11923,"12-Sep-17","08-Jun-21","Vulpes vulpes","28820138","NY.2011.5763"
-"MF143336","AL_RAC-SK","RAC-SK","USA","United States","Wheatfield, Niagara, NY","2003","2003",2003,11925,"12-Sep-17","08-Jun-21","Procyon lotor","28820138","NY.2003.8109"
-"MF143337","AL_RAC-SK","RAC-SK","USA","United States","Franklin, Franklin, VT","2007","2007",2007,11924,"12-Sep-17","08-Jun-21","skunk","28820138","VT.2007.0491"
-"MF143338","AL_RAC-SK","RAC-SK","USA","United States","Greensboro, Orleans, VT","2009","2009",2009,11925,"12-Sep-17","08-Jun-21","Bos taurus","28820138","VT.2009.0397"
-"MF143339","AL_RAC-SK","RAC-SK","USA","United States","South Burlington, Chittenden, VT","2010","2010",2010,11925,"12-Sep-17","08-Jun-21","skunk","28820138","VT.2010.0172"
-"MF143340","AL_RAC-SK","RAC-SK","USA","United States","Derby, Orleans, VT","2011","2011",2011,11926,"12-Sep-17","08-Jun-21","skunk","28820138","VT.2011.0138"
-"MF143341","AL_RAC-SK","RAC-SK","CAN","Canada","Dunham, Brome-Missisquoi, QC","2006","2006",2006,11924,"12-Sep-17","08-Jun-21","Procyon lotor","28820138","QC.2006.2049"
-"MF143342","AL_RAC-SK","RAC-SK","CAN","Canada","Cowansville, Brome-Missisquoi, QC","2006","2006",2006,11924,"12-Sep-17","08-Jun-21","Procyon lotor","28820138","QC.2006.4930"
-"MF143343","AL_RAC-SK","RAC-SK","CAN","Canada","Dunham, Brome-Missisquoi, QC","2006","2006",2006,11924,"12-Sep-17","08-Jun-21","Procyon lotor","28820138","QC.2006.5982"
-"MF143344","AL_RAC-SK","RAC-SK","CAN","Canada","Mont-Saint-Gregoire, Brome-Missisquoi, QC","2007","2007",2007,11923,"12-Sep-17","08-Jun-21","Procyon lotor","28820138","QC.2007.0910"
-"MF143345","AL_RAC-SK","RAC-SK","CAN","Canada","Saint-Jean-sur-Richelieu, Brome-Missisquoi, QC","2007","2007",2007,11923,"12-Sep-17","08-Jun-21","Procyon lotor","28820138","QC.2007.1065"
-"MF143346","AL_RAC-SK","RAC-SK","CAN","Canada","Saint-Jean-sur-Richelieu, Brome-Missisquoi, QC","2007","2007",2007,11924,"12-Sep-17","08-Jun-21","Procyon lotor","28820138","QC.2007.1122"
-"MF143347","AL_RAC-SK","RAC-SK","CAN","Canada","Saint-Armand, Brome-Missisquoi, QC","2007","2007",2007,11923,"12-Sep-17","08-Jun-21","Procyon lotor","28820138","QC.2007.2892"
-"MF143348","AL_RAC-SK","RAC-SK","CAN","Canada","Frelighsburg, Brome-Missisquoi, QC","2007","2007",2007,11923,"12-Sep-17","08-Jun-21","Procyon lotor","28820138","QC.2007.2893"
-"MF143349","AL_RAC-SK","RAC-SK","CAN","Canada","Saint-Pierre-de-Veronne-a-Pike-River, Brome-Missisquoi, QC","2007","2007",2007,11923,"12-Sep-17","08-Jun-21","Procyon lotor","28820138","QC.2007.2939"
-"MF143350","AL_RAC-SK","RAC-SK","CAN","Canada","Stanbridge East, Brome-Missisquoi, QC","2007","2007",2007,11923,"12-Sep-17","08-Jun-21","Procyon lotor","28820138","QC.2007.2941"
-"MF143351","AL_RAC-SK","RAC-SK","CAN","Canada","Saint-Armand, Brome-Missisquoi, QC","2007","2007",2007,11923,"12-Sep-17","08-Jun-21","Procyon lotor","28820138","QC.2007.2942"
-"MF143352","AL_RAC-SK","RAC-SK","CAN","Canada","Saint-S_bastien, Brome-Missisquoi, QC","2007","2007",2007,11923,"12-Sep-17","08-Jun-21","Procyon lotor","28820138","QC.2007.3246"
-"MF143353","AL_RAC-SK","RAC-SK","CAN","Canada","Frelighsburg, Brome-Missisquoi, QC","2007","2007",2007,11923,"12-Sep-17","08-Jun-21","Procyon lotor","28820138","QC.2007.3657"
-"MF143354","AL_RAC-SK","RAC-SK","CAN","Canada","Bedford, Brome-Missisquoi, QC","2007","2007",2007,11923,"12-Sep-17","08-Jun-21","Procyon lotor","28820138","QC.2007.5318"
-"MF143355","AL_RAC-SK","RAC-SK","CAN","Canada","Sainte-Anne-de-Sabrevois, Le Haut-Richelieu, QC","2007","2007",2007,11923,"12-Sep-17","08-Jun-21","Procyon lotor","28820138","QC.2007.5827"
-"MF143356","AL_RAC-SK","RAC-SK","CAN","Canada","Stanbridge Station, Brome-Missisquoi, QC","2007","2007",2007,11923,"12-Sep-17","08-Jun-21","Procyon lotor","28820138","QC.2007.6184"
-"MF143357","AL_RAC-SK","RAC-SK","CAN","Canada","Saint-Jean-sur-Richelieu, Le Haut-Richelieu, QC","2007","2007",2007,11923,"12-Sep-17","08-Jun-21","Procyon lotor","28820138","QC.2007.6292"
-"MF143358","AL_RAC-SK","RAC-SK","CAN","Canada","Saint-Alexandre, Le Haut-Richelieu, QC","2007","2007",2007,11923,"12-Sep-17","08-Jun-21","skunk","28820138","QC.2007.6389"
-"MF143359","AL_RAC-SK","RAC-SK","CAN","Canada","Saint-Jean-sur-Richelieu, Le Haut-Richelieu, QC","2007","2007",2007,11923,"12-Sep-17","08-Jun-21","Vulpes vulpes","28820138","QC.2007.6442"
-"MF143360","AL_RAC-SK","RAC-SK","CAN","Canada","Noyan, Le Haut-Richelieu, QC","2007","2007",2007,11924,"12-Sep-17","08-Jun-21","Procyon lotor","28820138","QC.2007.6659"
-"MF143361","AL_RAC-SK","RAC-SK","CAN","Canada","Farnham, Brome-Missisquoi, QC","2008","2008",2008,11923,"12-Sep-17","08-Jun-21","Procyon lotor","28820138","QC.2008.1096"
-"MF143362","AL_RAC-SK","RAC-SK","CAN","Canada","Noyan, Le Haut-Richelieu, QC","2008","2008",2008,11923,"12-Sep-17","08-Jun-21","Procyon lotor","28820138","QC.2008.1237"
-"MF143363","AL_RAC-SK","RAC-SK","CAN","Canada","Sutton, Brome-Missisquoi, QC","2008","2008",2008,11923,"12-Sep-17","08-Jun-21","Procyon lotor","28820138","QC.2008.1411"
-"MF143364","AL_RAC-SK","RAC-SK","CAN","Canada","Noyan, Le Haut-Richelieu, QC","2008","2008",2008,11924,"12-Sep-17","08-Jun-21","Procyon lotor","28820138","QC.2008.1970"
-"MF143365","AL_RAC-SK","RAC-SK","CAN","Canada","Farnham, Brome-Missisquoi, QC","2008","2008",2008,11923,"12-Sep-17","08-Jun-21","Procyon lotor","28820138","QC.2008.1894"
-"MF143366","AL_RAC-SK","RAC-SK","CAN","Canada","Saint-Georges-de-Clarenceville, Le Haut-Richelieu, QC","2008","2008",2008,11923,"12-Sep-17","08-Jun-21","Procyon lotor","28820138","QC.2008.2444"
-"MF143367","AL_RAC-SK","RAC-SK","CAN","Canada","Sainte-Anne-de-Sabrevois, Le Haut-Richelieu, QC","2008","2008",2008,11923,"12-Sep-17","08-Jun-21","skunk","28820138","QC.2008.4180"
-"MF143368","AL_RAC-SK","RAC-SK","CAN","Canada","Sainte-Sabine, Brome-Missisquoi, QC","2008","2008",2008,11923,"12-Sep-17","08-Jun-21","Procyon lotor","28820138","QC.2008.4262"
-"MF143369","AL_RAC-SK","RAC-SK","CAN","Canada","Henryville, Le Haut-Richelieu, QC","2008","2008",2008,11924,"12-Sep-17","08-Jun-21","Procyon lotor","28820138","QC.2008.4808"
-"MF143370","AL_RAC-SK","RAC-SK","CAN","Canada","Ange-Gardien, Rouville, QC","2008","2008",2008,11923,"12-Sep-17","08-Jun-21","Procyon lotor","28820138","QC.2008.5000"
-"MF143371","AL_RAC-SK","RAC-SK","CAN","Canada","Saint-C_saire, Rouville, QC","2008","2008",2008,11923,"12-Sep-17","08-Jun-21","Procyon lotor","28820138","QC.2008.5001"
-"MF143372","AL_RAC-SK","RAC-SK","CAN","Canada","Clarenceville, Le Haut-Richelieu, QC","2009","2009",2009,11923,"12-Sep-17","08-Jun-21","skunk","28820138","QC.2009.0819"
-"MF143373","AL_RAC-SK","RAC-SK","USA","United States","Cabot, Washington, VT","2005","2005",2005,11924,"12-Sep-17","08-Jun-21","Procyon lotor","28820138","VT.2005.0215"
-"MF143374","AL_RAC-SK","RAC-SK","USA","United States","St. Johnsbury, Caledonia, VT","2006","2006",2006,11925,"12-Sep-17","08-Jun-21","Procyon lotor","28820138","VT.2006.0104"
-"MF143375","AL_RAC-SK","RAC-SK","USA","United States","Stowe, Lamoille, VT","2006","2006",2006,11924,"12-Sep-17","08-Jun-21","Procyon lotor","28820138","VT.2006.0108"
-"MF143376","AL_RAC-SK","RAC-SK","USA","United States","South Burlington, Chittenden, VT","2006","2006",2006,11924,"12-Sep-17","08-Jun-21","skunk","28820138","VT.2006.0117"
-"MF143377","AL_RAC-SK","RAC-SK","USA","United States","Stowe, Lamoille, VT","2006","2006",2006,11923,"12-Sep-17","08-Jun-21","skunk","28820138","VT.2006.0153"
-"MF143378","AL_RAC-SK","RAC-SK","USA","United States","Burlington, Chittenden, VT","2007","2007",2007,11924,"12-Sep-17","08-Jun-21","skunk","28820138","VT.2007.0084"
-"MF143379","AL_RAC-SK","RAC-SK","USA","United States","St. Albans City, Franklin, VT","2007","2007",2007,11923,"12-Sep-17","08-Jun-21","Procyon lotor","28820138","VT.2007.0342"
-"MF143380","AL_RAC-SK","RAC-SK","USA","United States","Fairfield, Franklin, VT","2007","2007",2007,11923,"12-Sep-17","08-Jun-21","Procyon lotor","28820138","VT.2007.0380"
-"MF143381","AL_RAC-SK","RAC-SK","USA","United States","Burlington, Chittenden, VT","2007","2007",2007,11924,"12-Sep-17","08-Jun-21","Procyon lotor","28820138","VT.2007.0392"
-"MF143382","AL_RAC-SK","RAC-SK","USA","United States","Georgia, Franklin, VT","2007","2007",2007,11923,"12-Sep-17","08-Jun-21","skunk","28820138","VT.2007.0398"
-"MF143383","AL_RAC-SK","RAC-SK","USA","United States","Sheldon, Franklin, VT","2007","2007",2007,11923,"12-Sep-17","08-Jun-21","skunk","28820138","VT.2007.0465"
-"MF143384","AL_RAC-SK","RAC-SK","USA","United States","Swanton, Franklin, VT","2007","2007",2007,11923,"12-Sep-17","08-Jun-21","skunk","28820138","VT.2007.0479"
-"MF143385","AL_RAC-SK","RAC-SK","USA","United States","North Hero, Grand Isle, VT","2007","2007",2007,11924,"12-Sep-17","08-Jun-21","Procyon lotor","28820138","VT.2007.0489"
-"MF143386","AL_RAC-SK","RAC-SK","USA","United States","Danville, Caledonia, VT","2007","2007",2007,11924,"12-Sep-17","08-Jun-21","Procyon lotor","28820138","VT.2007.0496"
-"MF143387","AL_RAC-SK","RAC-SK","USA","United States","Danville, Caledonia, VT","2007","2007",2007,11924,"12-Sep-17","08-Jun-21","skunk","28820138","VT.2007.0505"
-"MF143388","AL_RAC-SK","RAC-SK","USA","United States","Georgia, Franklin, VT","2007","2007",2007,11923,"12-Sep-17","08-Jun-21","skunk","28820138","VT.2007.0506"
-"MF143389","AL_RAC-SK","RAC-SK","USA","United States","Sheldon, Franklin, VT","2007","2007",2007,11924,"12-Sep-17","08-Jun-21","skunk","28820138","VT.2007.0512"
-"MF143390","AL_RAC-SK","RAC-SK","USA","United States","Franklin, Franklin, VT","2007","2007",2007,11923,"12-Sep-17","08-Jun-21","skunk","28820138","VT.2007.0523"
-"MF143391","AL_RAC-SK","RAC-SK","USA","United States","Bakersfield, Franklin, VT","2008","2008",2008,11923,"12-Sep-17","08-Jun-21","Bos taurus","28820138","VT.2008.0310"
-"MF143392","AL_RAC-SK","RAC-SK","USA","United States","Fairfax, Franklin, VT","2009","2009",2009,11924,"12-Sep-17","08-Jun-21","skunk","28820138","VT.2009.0036"
-"MF143393","AL_RAC-SK","RAC-SK","USA","United States","South Hero, Grand Isle, VT","2009","2009",2009,11924,"12-Sep-17","08-Jun-21","Procyon lotor","28820138","VT.2009.0092"
-"MF143394","AL_RAC-SK","RAC-SK","USA","United States","Craftsbury, Orleans, VT","2009","2009",2009,11924,"12-Sep-17","08-Jun-21","skunk","28820138","VT.2009.0093"
-"MF143395","AL_RAC-SK","RAC-SK","USA","United States","Williston, Chittenden, VT","2009","2009",2009,11924,"12-Sep-17","08-Jun-21","skunk","28820138","VT.2009.0124"
-"MF143396","AL_RAC-SK","RAC-SK","USA","United States","Sheffield, Caledonia, VT","2009","2009",2009,11924,"12-Sep-17","08-Jun-21","skunk","28820138","VT.2009.0134"
-"MF143397","AL_RAC-SK","RAC-SK","USA","United States","Essex, Chittenden, VT","2009","2009",2009,11924,"12-Sep-17","08-Jun-21","Procyon lotor","28820138","VT.2009.0136"
-"MF143398","AL_RAC-SK","RAC-SK","USA","United States","Craftsbury, Orleans, VT","2009","2009",2009,11924,"12-Sep-17","08-Jun-21","Procyon lotor","28820138","VT.2009.0146"
-"MF143399","AL_RAC-SK","RAC-SK","USA","United States","Franklin, Franklin, VT","2009","2009",2009,11923,"12-Sep-17","08-Jun-21","Procyon lotor","28820138","VT.2009.0164"
-"MF143400","AL_RAC-SK","RAC-SK","USA","United States","Shelburne, Chittenden, VT","2009","2009",2009,11924,"12-Sep-17","08-Jun-21","skunk","28820138","VT.2009.0169"
-"MF143401","AL_RAC-SK","RAC-SK","USA","United States","Williston, Chittenden, VT","2009","2009",2009,11924,"12-Sep-17","08-Jun-21","Procyon lotor","28820138","VT.2009.0194"
-"MF143402","AL_RAC-SK","RAC-SK","USA","United States","Grand Isle, Grand Isle, VT","2009","2009",2009,11924,"12-Sep-17","08-Jun-21","Procyon lotor","28820138","VT.2009.0352"
-"MF143403","AL_RAC-SK","RAC-SK","USA","United States","Barton, Orleans, VT","2009","2009",2009,11924,"12-Sep-17","08-Jun-21","Bos taurus","28820138","VT.2009.0371"
-"MF143404","AL_RAC-SK","RAC-SK","USA","United States","Greensboro, Orleans, VT","2009","2009",2009,11924,"12-Sep-17","08-Jun-21","Procyon lotor","28820138","VT.2009.0423"
-"MF143405","AL_RAC-SK","RAC-SK","USA","United States","Franklin, Franklin, VT","2009","2009",2009,11923,"12-Sep-17","08-Jun-21","Procyon lotor","28820138","VT.2009.0428"
-"MF143406","AL_RAC-SK","RAC-SK","USA","United States","Hyde Park, Lamoille, VT","2009","2009",2009,11924,"12-Sep-17","08-Jun-21","Bos taurus","28820138","VT.2009.0443"
-"MF143407","AL_RAC-SK","RAC-SK","USA","United States","Burlington, Chittenden, VT","2010","2010",2010,11924,"12-Sep-17","08-Jun-21","skunk","28820138","VT.2010.0044"
-"MF143408","AL_RAC-SK","RAC-SK","USA","United States","South Burlington, Chittenden, VT","2010","2010",2010,11923,"12-Sep-17","08-Jun-21","Procyon lotor","28820138","VT.2010.0054"
-"MF143409","AL_RAC-SK","RAC-SK","USA","United States","Burlington, Chittenden, VT","2010","2010",2010,11924,"12-Sep-17","08-Jun-21","Procyon lotor","28820138","VT.2010.0089"
-"MF143410","AL_RAC-SK","RAC-SK","USA","United States","Winooski, Chittenden, VT","2010","2010",2010,11923,"12-Sep-17","08-Jun-21","skunk","28820138","VT.2010.0090"
-"MF143411","AL_RAC-SK","RAC-SK","USA","United States","Winooski, Chittenden, VT","2010","2010",2010,11923,"12-Sep-17","08-Jun-21","skunk","28820138","VT.2010.0093"
-"MF143412","AL_RAC-SK","RAC-SK","USA","United States","Craftsbury, Orleans, VT","2010","2010",2010,11924,"12-Sep-17","08-Jun-21","skunk","28820138","VT.2010.0145"
-"MF143413","AL_RAC-SK","RAC-SK","USA","United States","Burlington, Chittenden, VT","2010","2010",2010,11924,"12-Sep-17","08-Jun-21","skunk","28820138","VT.2010.0370"
-"MF143414","AL_RAC-SK","RAC-SK","USA","United States","Burlington, Chittenden, VT","2011","2011",2011,11924,"12-Sep-17","08-Jun-21","skunk","28820138","VT.2011.0079"
-"MF143415","AL_RAC-SK","RAC-SK","USA","United States","Burlington, Chittenden, VT","2011","2011",2011,11924,"12-Sep-17","08-Jun-21","Procyon lotor","28820138","VT.2011.0198"
-"MG562518","AL_RAC-SK","RAC-SK","USA","United States","-","2003","2003",2003,11924,"06-Oct-18","06-Oct-18","Procyon lotor","-","MA.2003.5142"
-"MG562519","AL_RAC-SK","RAC-SK","USA","United States","-","2003","2003",2003,11924,"06-Oct-18","06-Oct-18","Procyon lotor","-","NH.2003.5152"
-"MG562520","AL_RAC-SK","RAC-SK","USA","United States","-","2003","2003",2003,11924,"06-Oct-18","06-Oct-18","Procyon lotor","-","NH.2003.5154"
-"MG562521","AL_RAC-SK","RAC-SK","USA","United States","-","2004","2004",2004,11924,"06-Oct-18","06-Oct-18","Equus caballus","-","NJ.2004.1927"
-"MG562522","AL_RAC-SK","RAC-SK","USA","United States","-","2003","2003",2003,11924,"06-Oct-18","06-Oct-18","Procyon lotor","-","VA.2003.5213"
-"MG562523","AL_RAC-SK","RAC-SK","USA","United States","-","1990","1990",1990,11924,"06-Oct-18","06-Oct-18","Procyon lotor","-","NY.1990.2072"
-"MG562524","AL_RAC-SK","RAC-SK","USA","United States","-","1990","1990",1990,11924,"06-Oct-18","06-Oct-18","Procyon lotor","-","NY.1990.5015"
-"MG562525","AL_RAC-SK","RAC-SK","USA","United States","-","1992","1992",1992,11924,"06-Oct-18","06-Oct-18","Procyon lotor","-","NY.1992.0394"
-"MG562526","AL_RAC-SK","RAC-SK","USA","United States","-","1995","1995",1995,11924,"06-Oct-18","06-Oct-18","Procyon lotor","-","NY.1995.0364"
-"MG562527","AL_RAC-SK","RAC-SK","USA","United States","-","2003","2003",2003,11924,"06-Oct-18","06-Oct-18","Procyon lotor","-","NY.2003.1734"
-"MG562528","AL_RAC-SK","RAC-SK","USA","United States","-","2003","2003",2003,11924,"06-Oct-18","06-Oct-18","Procyon lotor","-","NY.2003.2059"
-"MG562529","AL_RAC-SK","RAC-SK","USA","United States","-","2003","2003",2003,11924,"06-Oct-18","06-Oct-18","Procyon lotor","-","NY.2003.3040"
-"MG562530","AL_RAC-SK","RAC-SK","USA","United States","-","2003","2003",2003,11924,"06-Oct-18","06-Oct-18","Procyon lotor","-","NY.2003.7854"
-"MG562531","AL_RAC-SK","RAC-SK","USA","United States","-","2003","2003",2003,11924,"06-Oct-18","06-Oct-18","Procyon lotor","-","NY.2003.7914"
-"MG562532","AL_RAC-SK","RAC-SK","USA","United States","-","2003","2003",2003,11924,"06-Oct-18","06-Oct-18","skunk","-","NY.2003.7917"
-"MG562533","AL_RAC-SK","RAC-SK","USA","United States","-","2003","2003",2003,11923,"06-Oct-18","06-Oct-18","Procyon lotor","-","NY.2003.7990"
-"MG562534","AL_RAC-SK","RAC-SK","USA","United States","-","2004","2004",2004,11924,"06-Oct-18","06-Oct-18","Procyon lotor","-","NY.2004.1046"
-"MG562535","AL_RAC-SK","RAC-SK","USA","United States","-","2004","2004",2004,11924,"06-Oct-18","06-Oct-18","Procyon lotor","-","NY.2004.1247"
-"MG562536","AL_RAC-SK","RAC-SK","USA","United States","-","2004","2004",2004,11924,"06-Oct-18","06-Oct-18","Procyon lotor","-","NY.2004.1705"
-"MG562537","AL_RAC-SK","RAC-SK","USA","United States","-","2004","2004",2004,11924,"06-Oct-18","06-Oct-18","Procyon lotor","-","NY.2004.2620"
-"MG562538","AL_RAC-SK","RAC-SK","USA","United States","-","2004","2004",2004,11923,"06-Oct-18","06-Oct-18","Procyon lotor","-","NY.2004.4138"
-"MG562539","AL_RAC-SK","RAC-SK","USA","United States","-","2004","2004",2004,11924,"06-Oct-18","06-Oct-18","Procyon lotor","-","NY.2004.5339"
-"MG562540","AL_RAC-SK","RAC-SK","USA","United States","-","2004","2004",2004,11924,"06-Oct-18","06-Oct-18","skunk","-","NY.2004.6383"
-"MG562541","AL_RAC-SK","RAC-SK","USA","United States","-","2004","2004",2004,11924,"06-Oct-18","06-Oct-18","skunk","-","NY.2004.6937"
-"MG562542","AL_RAC-SK","RAC-SK","USA","United States","-","2004","2004",2004,11924,"06-Oct-18","06-Oct-18","Procyon lotor","-","NY.2004.8403"
-"MG562543","AL_RAC-SK","RAC-SK","USA","United States","-","2010","2010",2010,11923,"06-Oct-18","06-Oct-18","Procyon lotor","-","NY.2010.0729"
-"MG562544","AL_RAC-SK","RAC-SK","USA","United States","-","2010","2010",2010,11923,"06-Oct-18","06-Oct-18","Procyon lotor","-","NY.2010.0775"
-"MG562545","AL_RAC-SK","RAC-SK","USA","United States","-","2010","2010",2010,11924,"06-Oct-18","06-Oct-18","skunk","-","NY.2010.1098"
-"MG562546","AL_RAC-SK","RAC-SK","USA","United States","-","2010","2010",2010,11923,"06-Oct-18","06-Oct-18","Procyon lotor","-","NY.2010.5433"
-"MG562547","AL_RAC-SK","RAC-SK","USA","United States","-","2011","2011",2011,11923,"06-Oct-18","06-Oct-18","skunk","-","NY.2011.0005"
-"MG562548","AL_RAC-SK","RAC-SK","USA","United States","-","2011","2011",2011,11924,"06-Oct-18","06-Oct-18","Procyon lotor","-","NY.2011.0007"
-"MG562549","AL_RAC-SK","RAC-SK","USA","United States","-","2011","2011",2011,11924,"06-Oct-18","06-Oct-18","Procyon lotor","-","NY.2011.0042"
-"MG562550","AL_RAC-SK","RAC-SK","USA","United States","-","2011","2011",2011,11924,"06-Oct-18","06-Oct-18","Procyon lotor","-","NY.2011.0560"
-"MG562551","AL_RAC-SK","RAC-SK","USA","United States","-","2011","2011",2011,11924,"06-Oct-18","06-Oct-18","Vulpes vulpes","-","NY.2011.0714"
-"MG562552","AL_RAC-SK","RAC-SK","USA","United States","-","2011","2011",2011,11924,"06-Oct-18","06-Oct-18","Vulpes vulpes","-","NY.2011.1343"
-"MG562553","AL_RAC-SK","RAC-SK","USA","United States","-","2011","2011",2011,11924,"06-Oct-18","06-Oct-18","Procyon lotor","-","NY.2011.2001"
-"MG562554","AL_RAC-SK","RAC-SK","USA","United States","-","2011","2011",2011,11924,"06-Oct-18","06-Oct-18","skunk","-","NY.2011.4095"
-"MG562555","AL_RAC-SK","RAC-SK","USA","United States","-","2005","2005",2005,11924,"06-Oct-18","06-Oct-18","Procyon lotor","-","VT.2005.0142"
-"MG562556","AL_RAC-SK","RAC-SK","USA","United States","-","2005","2005",2005,11925,"06-Oct-18","06-Oct-18","Procyon lotor","-","VT.2005.0167"
-"MG562557","AL_RAC-SK","RAC-SK","USA","United States","-","2005","2005",2005,11925,"06-Oct-18","06-Oct-18","Procyon lotor","-","VT.2005.0212"
-"MG562558","AL_RAC-SK","RAC-SK","USA","United States","-","2005","2005",2005,11925,"06-Oct-18","06-Oct-18","skunk","-","VT.2005.0214"
-"MG562559","AL_RAC-SK","RAC-SK","USA","United States","-","2005","2005",2005,11924,"06-Oct-18","06-Oct-18","Procyon lotor","-","VT.2005.0270"
-"MG562560","AL_RAC-SK","RAC-SK","USA","United States","-","2005","2005",2005,11924,"06-Oct-18","06-Oct-18","Procyon lotor","-","VT.2005.0274"
-"MG562561","AL_RAC-SK","RAC-SK","USA","United States","-","2005","2005",2005,11924,"06-Oct-18","06-Oct-18","Procyon lotor","-","VT.2005.0275"
-"MG562562","AL_RAC-SK","RAC-SK","USA","United States","-","2005","2005",2005,11924,"06-Oct-18","06-Oct-18","Procyon lotor","-","VT.2005.0277"
-"MG562563","AL_RAC-SK","RAC-SK","USA","United States","-","2005","2005",2005,11924,"06-Oct-18","06-Oct-18","Procyon lotor","-","VT.2005.0296"
-"MG562564","AL_RAC-SK","RAC-SK","USA","United States","-","2006","2006",2006,11923,"06-Oct-18","06-Oct-18","Procyon lotor","-","VT.2006.0147"
-"MG562565","AL_RAC-SK","RAC-SK","USA","United States","-","2006","2006",2006,11924,"06-Oct-18","06-Oct-18","Procyon lotor","-","VT.2006.0161"
-"MG562566","AL_RAC-SK","RAC-SK","USA","United States","-","2006","2006",2006,11924,"06-Oct-18","06-Oct-18","Procyon lotor","-","VT.2006.0173"
-"MG562567","AL_RAC-SK","RAC-SK","USA","United States","-","2006","2006",2006,11923,"06-Oct-18","06-Oct-18","skunk","-","VT.2006.0218"
-"MG562568","AL_RAC-SK","RAC-SK","USA","United States","-","2006","2006",2006,11925,"06-Oct-18","06-Oct-18","Procyon lotor","-","VT.2006.0245"
-"MG562569","AL_RAC-SK","RAC-SK","USA","United States","-","2006","2006",2006,11926,"06-Oct-18","06-Oct-18","Procyon lotor","-","VT.2006.0263"
-"MG562570","AL_RAC-SK","RAC-SK","USA","United States","-","2006","2006",2006,11923,"06-Oct-18","06-Oct-18","Procyon lotor","-","VT.2006.0287"
-"MG562571","AL_RAC-SK","RAC-SK","USA","United States","-","2006","2006",2006,11924,"06-Oct-18","06-Oct-18","Bos taurus","-","VT.2006.0288"
-"MG562572","AL_RAC-SK","RAC-SK","USA","United States","-","2006","2006",2006,11924,"06-Oct-18","06-Oct-18","Procyon lotor","-","VT.2006.0289"
-"MG562573","AL_RAC-SK","RAC-SK","USA","United States","-","2006","2006",2006,11923,"06-Oct-18","06-Oct-18","Procyon lotor","-","VT.2006.0325"
-"MG562574","AL_RAC-SK","RAC-SK","USA","United States","-","2006","2006",2006,11925,"06-Oct-18","06-Oct-18","woodchuck","-","VT.2006.0366"
-"MG562575","AL_RAC-SK","RAC-SK","USA","United States","-","2007","2007",2007,11923,"06-Oct-18","06-Oct-18","Equus caballus","-","VT.2007.0294"
-"MG562576","AL_RAC-SK","RAC-SK","USA","United States","-","2007","2007",2007,11924,"06-Oct-18","06-Oct-18","skunk","-","VT.2007.0357"
-"MG562577","AL_RAC-SK","RAC-SK","USA","United States","-","2007","2007",2007,11925,"06-Oct-18","06-Oct-18","skunk","-","VT.2007.0417"
-"MG562578","AL_RAC-SK","RAC-SK","USA","United States","-","2007","2007",2007,11924,"06-Oct-18","06-Oct-18","Procyon lotor","-","VT.2007.0473"
-"MG562579","AL_RAC-SK","RAC-SK","USA","United States","-","2007","2007",2007,11924,"06-Oct-18","06-Oct-18","skunk","-","VT.2007.0520"
-"MG562580","AL_RAC-SK","RAC-SK","USA","United States","-","2008","2008",2008,11923,"06-Oct-18","06-Oct-18","Procyon lotor","-","VT.2008.0041"
-"MG562581","AL_RAC-SK","RAC-SK","USA","United States","-","2008","2008",2008,11924,"06-Oct-18","06-Oct-18","Procyon lotor","-","VT.2008.0111"
-"MG562582","AL_RAC-SK","RAC-SK","USA","United States","-","2008","2008",2008,11924,"06-Oct-18","06-Oct-18","skunk","-","VT.2008.0170"
-"MG562583","AL_RAC-SK","RAC-SK","USA","United States","-","2008","2008",2008,11924,"06-Oct-18","06-Oct-18","Procyon lotor","-","VT.2008.0180"
-"MG562584","AL_RAC-SK","RAC-SK","USA","United States","-","2008","2008",2008,11924,"06-Oct-18","06-Oct-18","skunk","-","VT.2008.0205"
-"MG562585","AL_RAC-SK","RAC-SK","USA","United States","-","2008","2008",2008,11924,"06-Oct-18","06-Oct-18","skunk","-","VT.2008.0233"
-"MG562586","AL_RAC-SK","RAC-SK","USA","United States","-","2008","2008",2008,11924,"06-Oct-18","06-Oct-18","skunk","-","VT.2008.0275"
-"MG562587","AL_RAC-SK","RAC-SK","USA","United States","-","2008","2008",2008,11923,"06-Oct-18","06-Oct-18","skunk","-","VT.2008.0277"
-"MG562588","AL_RAC-SK","RAC-SK","USA","United States","-","2008","2008",2008,11926,"06-Oct-18","06-Oct-18","skunk","-","VT.2008.0283"
-"MG562589","AL_RAC-SK","RAC-SK","USA","United States","-","2008","2008",2008,11924,"06-Oct-18","06-Oct-18","Procyon lotor","-","VT.2008.0296"
-"MG562590","AL_RAC-SK","RAC-SK","USA","United States","-","2008","2008",2008,11924,"06-Oct-18","06-Oct-18","Procyon lotor","-","VT.2008.0536"
-"MG562591","AL_RAC-SK","RAC-SK","USA","United States","-","2008","2008",2008,11924,"06-Oct-18","06-Oct-18","Procyon lotor","-","VT.2008.0704"
-"MG562592","AL_RAC-SK","RAC-SK","USA","United States","-","2008","2008",2008,11924,"06-Oct-18","06-Oct-18","Procyon lotor","-","VT.2008.0764"
-"MG562593","AL_RAC-SK","RAC-SK","USA","United States","-","2009","2009",2009,11923,"06-Oct-18","06-Oct-18","skunk","-","VT.2009.0023"
-"MG562594","AL_RAC-SK","RAC-SK","USA","United States","-","2009","2009",2009,11924,"06-Oct-18","06-Oct-18","Equus caballus","-","VT.2009.0137"
-"MG562595","AL_RAC-SK","RAC-SK","USA","United States","-","2009","2009",2009,11924,"06-Oct-18","06-Oct-18","Procyon lotor","-","VT.2009.0191"
-"MG562596","AL_RAC-SK","RAC-SK","USA","United States","-","2009","2009",2009,11923,"06-Oct-18","06-Oct-18","Vulpes vulpes","-","VT.2009.0322"
-"MG562597","AL_RAC-SK","RAC-SK","USA","United States","-","2009","2009",2009,11924,"06-Oct-18","06-Oct-18","Procyon lotor","-","VT.2009.0335"
-"MG562598","AL_RAC-SK","RAC-SK","USA","United States","-","2009","2009",2009,11924,"06-Oct-18","06-Oct-18","Procyon lotor","-","VT.2009.0346"
-"MG562599","AL_RAC-SK","RAC-SK","USA","United States","-","2009","2009",2009,11923,"06-Oct-18","06-Oct-18","Procyon lotor","-","VT.2009.0353"
-"MG562600","AL_RAC-SK","RAC-SK","USA","United States","-","2009","2009",2009,11924,"06-Oct-18","06-Oct-18","Procyon lotor","-","VT.2009.0361"
-"MG562601","AL_RAC-SK","RAC-SK","USA","United States","-","2009","2009",2009,11924,"06-Oct-18","06-Oct-18","Procyon lotor","-","VT.2009.0377"
-"MG562602","AL_RAC-SK","RAC-SK","USA","United States","-","2009","2009",2009,11924,"06-Oct-18","06-Oct-18","Procyon lotor","-","VT.2009.0384"
-"MG562603","AL_RAC-SK","RAC-SK","USA","United States","-","2009","2009",2009,11924,"06-Oct-18","06-Oct-18","Bos taurus","-","VT.2009.0393"
-"MG562604","AL_RAC-SK","RAC-SK","USA","United States","-","2009","2009",2009,11923,"06-Oct-18","06-Oct-18","Procyon lotor","-","VT.2009.0406"
-"MG562605","AL_RAC-SK","RAC-SK","USA","United States","-","2009","2009",2009,11924,"06-Oct-18","06-Oct-18","skunk","-","VT.2009.0475"
-"MG562606","AL_RAC-SK","RAC-SK","USA","United States","-","2009","2009",2009,11923,"06-Oct-18","06-Oct-18","Procyon lotor","-","VT.2009.0500"
-"MG562607","AL_RAC-SK","RAC-SK","USA","United States","-","2010","2010",2010,11923,"06-Oct-18","06-Oct-18","Vulpes vulpes","-","VT.2010.0003"
-"MG562608","AL_RAC-SK","RAC-SK","USA","United States","-","2010","2010",2010,11924,"06-Oct-18","06-Oct-18","skunk","-","VT.2010.0070"
-"MG562609","AL_RAC-SK","RAC-SK","USA","United States","-","2010","2010",2010,11925,"06-Oct-18","06-Oct-18","Vulpes vulpes","-","VT.2010.0246"
-"MG562610","AL_RAC-SK","RAC-SK","USA","United States","-","2011","2011",2011,11924,"06-Oct-18","06-Oct-18","skunk","-","VT.2011.0145"
-"MK540658","AL_RAC-SK","RAC-SK","USA","United States","New York","1990","1990",1990,11924,"02-Sep-19","02-Sep-19","Procyon lotor","-","NY.1990.0848R"
-"MK540659","AL_RAC-SK","RAC-SK","USA","United States","New York","1990","1990",1990,11924,"02-Sep-19","02-Sep-19","Procyon lotor","-","NY.1990.1782R"
-"MK540660","AL_RAC-SK","RAC-SK","USA","United States","New York","1990","1990",1990,11924,"02-Sep-19","02-Sep-19","Procyon lotor","-","NY.1990.1924R"
-"MK540661","AL_RAC-SK","RAC-SK","USA","United States","New York","1990","1990",1990,11924,"02-Sep-19","02-Sep-19","Procyon lotor","-","NY.1990.1926R"
-"MK540662","AL_RAC-SK","RAC-SK","USA","United States","New York","1990","1990",1990,11924,"02-Sep-19","02-Sep-19","Procyon lotor","-","NY.1990.2065R"
-"MK540663","AL_RAC-SK","RAC-SK","USA","United States","New York","1990","1990",1990,11924,"02-Sep-19","02-Sep-19","Procyon lotor","-","NY.1990.2120R"
-"MK540664","AL_RAC-SK","RAC-SK","USA","United States","New York","1990","1990",1990,11923,"02-Sep-19","02-Sep-19","Procyon lotor","-","NY.1990.2178R"
-"MK540665","AL_RAC-SK","RAC-SK","USA","United States","New York","1990","1990",1990,11924,"02-Sep-19","02-Sep-19","Procyon lotor","-","NY.1990.2880R"
-"MK540666","AL_RAC-SK","RAC-SK","USA","United States","New York","1990","1990",1990,11924,"02-Sep-19","02-Sep-19","Procyon lotor","-","NY.1990.2902R"
-"MK540667","AL_RAC-SK","RAC-SK","USA","United States","New York","1990","1990",1990,11924,"02-Sep-19","02-Sep-19","Procyon lotor","-","NY.1990.2981R"
-"MK540668","AL_RAC-SK","RAC-SK","USA","United States","New York","1990","1990",1990,11924,"02-Sep-19","02-Sep-19","skunk","-","NY.1990.3180S"
-"MK540669","AL_RAC-SK","RAC-SK","USA","United States","New York","1990","1990",1990,11923,"02-Sep-19","02-Sep-19","Felis catus","-","NY.1990.3285O"
-"MK540670","AL_RAC-SK","RAC-SK","USA","United States","New York","1990","1990",1990,11924,"02-Sep-19","02-Sep-19","Procyon lotor","-","NY.1990.3291R"
-"MK540671","AL_RAC-SK","RAC-SK","USA","United States","New York","1990","1990",1990,11924,"02-Sep-19","02-Sep-19","Procyon lotor","-","NY.1990.3805R"
-"MK540672","AL_RAC-SK","RAC-SK","USA","United States","New York","1990","1990",1990,11924,"02-Sep-19","02-Sep-19","Procyon lotor","-","NY.1990.4132R"
-"MK540673","AL_RAC-SK","RAC-SK","USA","United States","New York","1990","1990",1990,11924,"02-Sep-19","02-Sep-19","Procyon lotor","-","NY.1990.4610R"
-"MK540674","AL_RAC-SK","RAC-SK","USA","United States","New York","1990","1990",1990,11924,"02-Sep-19","02-Sep-19","Procyon lotor","-","NY.1990.4897R"
-"MK540675","AL_RAC-SK","RAC-SK","USA","United States","New York","1990","1990",1990,11924,"02-Sep-19","02-Sep-19","Procyon lotor","-","NY.1990.4927R"
-"MK540676","AL_RAC-SK","RAC-SK","USA","United States","New York","1990","1990",1990,11924,"02-Sep-19","02-Sep-19","Procyon lotor","-","NY.1990.5177R"
-"MK540677","AL_RAC-SK","RAC-SK","USA","United States","New York","1990","1990",1990,11924,"02-Sep-19","02-Sep-19","Procyon lotor","-","NY.1990.5182R"
-"MK540678","AL_RAC-SK","RAC-SK","USA","United States","New York","1991","1991",1991,11924,"02-Sep-19","02-Sep-19","Procyon lotor","-","NY.1991.0405R"
-"MK540679","AL_RAC-SK","RAC-SK","USA","United States","New York","1991","1991",1991,11924,"02-Sep-19","02-Sep-19","Procyon lotor","-","NY.1991.0410R"
-"MK540680","AL_RAC-SK","RAC-SK","USA","United States","New York","1991","1991",1991,11924,"02-Sep-19","02-Sep-19","Procyon lotor","-","NY.1991.0908R"
-"MK540681","AL_RAC-SK","RAC-SK","USA","United States","New York","1991","1991",1991,11924,"02-Sep-19","02-Sep-19","Procyon lotor","-","NY.1991.2983R"
-"MK540682","AL_RAC-SK","RAC-SK","USA","United States","New York","1992","1992",1992,11924,"02-Sep-19","02-Sep-19","Procyon lotor","-","NY.1992.0306R"
-"MK540683","AL_RAC-SK","RAC-SK","USA","United States","New York","1992","1992",1992,11924,"02-Sep-19","02-Sep-19","Procyon lotor","-","NY.1992.0315R"
-"MK540684","AL_RAC-SK","RAC-SK","USA","United States","New York","1992","1992",1992,11924,"02-Sep-19","02-Sep-19","Procyon lotor","-","NY.1992.0379R"
-"MK540685","AL_RAC-SK","RAC-SK","USA","United States","New York","1992","1992",1992,11923,"02-Sep-19","02-Sep-19","Procyon lotor","-","NY.1992.0388R"
-"MK540686","AL_RAC-SK","RAC-SK","USA","United States","New York","1992","1992",1992,11924,"02-Sep-19","02-Sep-19","Procyon lotor","-","NY.1992.0477R"
-"MK540687","AL_RAC-SK","RAC-SK","USA","United States","New York","1992","1992",1992,11924,"02-Sep-19","02-Sep-19","Procyon lotor","-","NY.1992.0782R"
-"MK540688","AL_RAC-SK","RAC-SK","USA","United States","New York","1993","1993",1993,11924,"02-Sep-19","02-Sep-19","Procyon lotor","-","NY.1993.10761R"
-"MK540689","AL_RAC-SK","RAC-SK","USA","United States","New York","1993","1993",1993,11924,"02-Sep-19","02-Sep-19","Procyon lotor","-","NY.1993.11376R"
-"MK540690","AL_RAC-SK","RAC-SK","USA","United States","New York","1995","1995",1995,11924,"02-Sep-19","02-Sep-19","Procyon lotor","-","NY.1995.0364R"
-"MK540691","AL_RAC-SK","RAC-SK","USA","United States","New York","2003","2003",2003,11924,"02-Sep-19","02-Sep-19","Procyon lotor","-","NY.2003.7161R"
-"MK540692","AL_RAC-SK","RAC-SK","USA","United States","New York","2003","2003",2003,11924,"02-Sep-19","02-Sep-19","Procyon lotor","-","NY.2003.7380R"
-"MK540693","AL_RAC-SK","RAC-SK","USA","United States","New York","2003","2003",2003,11923,"02-Sep-19","02-Sep-19","Procyon lotor","-","NY.2003.7427R"
-"MK540694","AL_RAC-SK","RAC-SK","USA","United States","New York","2003","2003",2003,11923,"02-Sep-19","02-Sep-19","Procyon lotor","-","NY.2003.7449R"
-"MK540695","AL_RAC-SK","RAC-SK","USA","United States","New York","2003","2003",2003,11924,"02-Sep-19","02-Sep-19","skunk","-","NY.2003.7802S"
-"MK540696","AL_RAC-SK","RAC-SK","USA","United States","New York","2004","2004",2004,11923,"02-Sep-19","02-Sep-19","skunk","-","NY.2004.0016S"
-"MK540697","AL_RAC-SK","RAC-SK","USA","United States","New York","2004","2004",2004,11924,"02-Sep-19","02-Sep-19","skunk","-","NY.2004.0057S"
-"MK540698","AL_RAC-SK","RAC-SK","USA","United States","New York","2004","2004",2004,11924,"02-Sep-19","02-Sep-19","Procyon lotor","-","NY.2004.0123R"
-"MK540699","AL_RAC-SK","RAC-SK","USA","United States","New York","2004","2004",2004,11924,"02-Sep-19","02-Sep-19","Procyon lotor","-","NY.2004.0333R"
-"MK540700","AL_RAC-SK","RAC-SK","USA","United States","New York","2004","2004",2004,11924,"02-Sep-19","02-Sep-19","Procyon lotor","-","NY.2004.0391R"
-"MK540701","AL_RAC-SK","RAC-SK","USA","United States","New York","2004","2004",2004,11923,"02-Sep-19","02-Sep-19","Procyon lotor","-","NY.2004.0614R"
-"MK540702","AL_RAC-SK","RAC-SK","USA","United States","New York","2004","2004",2004,11923,"02-Sep-19","02-Sep-19","Procyon lotor","-","NY.2004.0637R"
-"MK540703","AL_RAC-SK","RAC-SK","USA","United States","New York","2004","2004",2004,11924,"02-Sep-19","02-Sep-19","Procyon lotor","-","NY.2004.0818R"
-"MK540704","AL_RAC-SK","RAC-SK","USA","United States","New York","2004","2004",2004,11924,"02-Sep-19","02-Sep-19","Procyon lotor","-","NY.2004.1169R"
-"MK540705","AL_RAC-SK","RAC-SK","USA","United States","New York","2004","2004",2004,11924,"02-Sep-19","02-Sep-19","Procyon lotor","-","NY.2004.2654R"
-"MK540706","AL_RAC-SK","RAC-SK","USA","United States","New York","2004","2004",2004,11924,"02-Sep-19","02-Sep-19","Procyon lotor","-","NY.2004.3099R"
-"MK540707","AL_RAC-SK","RAC-SK","USA","United States","New York","2004","2004",2004,11924,"02-Sep-19","02-Sep-19","Procyon lotor","-","NY.2004.3856R"
-"MK540708","AL_RAC-SK","RAC-SK","USA","United States","New York","2004","2004",2004,11924,"02-Sep-19","02-Sep-19","Procyon lotor","-","NY.2004.4206R"
-"MK540709","AL_RAC-SK","RAC-SK","USA","United States","New York","2004","2004",2004,11924,"02-Sep-19","02-Sep-19","Procyon lotor","-","NY.2004.4735R"
-"MK540710","AL_RAC-SK","RAC-SK","USA","United States","New York","2004","2004",2004,11924,"02-Sep-19","02-Sep-19","skunk","-","NY.2004.5436S"
-"MK540711","AL_RAC-SK","RAC-SK","USA","United States","New York","2004","2004",2004,11924,"02-Sep-19","02-Sep-19","Procyon lotor","-","NY.2004.6016R"
-"MK540712","AL_RAC-SK","RAC-SK","USA","United States","New York","2004","2004",2004,11925,"02-Sep-19","02-Sep-19","skunk","-","NY.2004.6127S"
-"MK540713","AL_RAC-SK","RAC-SK","USA","United States","New York","2004","2004",2004,11924,"02-Sep-19","02-Sep-19","skunk","-","NY.2004.6604S"
-"MK540714","AL_RAC-SK","RAC-SK","USA","United States","New York","2004","2004",2004,11924,"02-Sep-19","02-Sep-19","Procyon lotor","-","NY.2004.6605R"
-"MK540715","AL_RAC-SK","RAC-SK","USA","United States","New York","2004","2004",2004,11923,"02-Sep-19","02-Sep-19","Procyon lotor","-","NY.2004.6715R"
-"MK540716","AL_RAC-SK","RAC-SK","USA","United States","New York","2004","2004",2004,11924,"02-Sep-19","02-Sep-19","skunk","-","NY.2004.7120S"
-"MK540717","AL_RAC-SK","RAC-SK","USA","United States","New York","2004","2004",2004,11923,"02-Sep-19","02-Sep-19","Procyon lotor","-","NY.2004.7502R"
-"MK540718","AL_RAC-SK","RAC-SK","USA","United States","New York","2004","2004",2004,11924,"02-Sep-19","02-Sep-19","Procyon lotor","-","NY.2004.7694R"
-"MK540719","AL_RAC-SK","RAC-SK","USA","United States","New York","2004","2004",2004,11924,"02-Sep-19","02-Sep-19","Procyon lotor","-","NY.2004.7941R"
-"MK540720","AL_RAC-SK","RAC-SK","USA","United States","New York","2004","2004",2004,11924,"02-Sep-19","02-Sep-19","skunk","-","NY.2004.8082S"
-"MK540721","AL_RAC-SK","RAC-SK","USA","United States","New York","2004","2004",2004,11924,"02-Sep-19","02-Sep-19","Procyon lotor","-","NY.2004.8258R"
-"MK540722","AL_RAC-SK","RAC-SK","USA","United States","New York","2009","2009",2009,11923,"02-Sep-19","02-Sep-19","Procyon lotor","-","NY.2009.0135R"
-"MK540723","AL_RAC-SK","RAC-SK","USA","United States","New York","2010","2010",2010,11924,"02-Sep-19","02-Sep-19","Procyon lotor","-","NY.2010.0269R"
-"MK540724","AL_RAC-SK","RAC-SK","USA","United States","New York","2010","2010",2010,11924,"02-Sep-19","02-Sep-19","Procyon lotor","-","NY.2010.1147R"
-"MK540725","AL_RAC-SK","RAC-SK","USA","United States","New York","2010","2010",2010,11924,"02-Sep-19","02-Sep-19","Procyon lotor","-","NY.2010.1179R"
-"MK540726","AL_RAC-SK","RAC-SK","USA","United States","New York","2010","2010",2010,11924,"02-Sep-19","02-Sep-19","Procyon lotor","-","NY.2010.1195R"
-"MK540727","AL_RAC-SK","RAC-SK","USA","United States","New York","2010","2010",2010,11924,"02-Sep-19","02-Sep-19","Procyon lotor","-","NY.2010.1262R"
-"MK540728","AL_RAC-SK","RAC-SK","USA","United States","New York","2010","2010",2010,11924,"02-Sep-19","02-Sep-19","Procyon lotor","-","NY.2010.1439R"
-"MK540729","AL_RAC-SK","RAC-SK","USA","United States","New York","2010","2010",2010,11924,"02-Sep-19","02-Sep-19","Procyon lotor","-","NY.2010.1441R"
-"MK540730","AL_RAC-SK","RAC-SK","USA","United States","New York","2010","2010",2010,11925,"02-Sep-19","02-Sep-19","Procyon lotor","-","NY.2010.1958R"
-"MK540731","AL_RAC-SK","RAC-SK","USA","United States","New York","2010","2010",2010,11924,"02-Sep-19","02-Sep-19","Procyon lotor","-","NY.2010.2832R"
-"MK540732","AL_RAC-SK","RAC-SK","USA","United States","New York","2010","2010",2010,11924,"02-Sep-19","02-Sep-19","Procyon lotor","-","NY.2010.3006R"
-"MK540733","AL_RAC-SK","RAC-SK","USA","United States","New York","2010","2010",2010,11923,"02-Sep-19","02-Sep-19","Procyon lotor","-","NY.2010.3151R"
-"MK540734","AL_RAC-SK","RAC-SK","USA","United States","New York","2010","2010",2010,11924,"02-Sep-19","02-Sep-19","Procyon lotor","-","NY.2010.3372R"
-"MK540735","AL_RAC-SK","RAC-SK","USA","United States","New York","2010","2010",2010,11924,"02-Sep-19","02-Sep-19","Procyon lotor","-","NY.2010.3434R"
-"MK540736","AL_RAC-SK","RAC-SK","USA","United States","New York","2010","2010",2010,11923,"02-Sep-19","02-Sep-19","Procyon lotor","-","NY.2010.5368R"
-"MK540737","AL_RAC-SK","RAC-SK","USA","United States","New York","2010","2010",2010,11924,"02-Sep-19","02-Sep-19","skunk","-","NY.2010.5464S"
-"MK540738","AL_RAC-SK","RAC-SK","USA","United States","New York","2010","2010",2010,11924,"02-Sep-19","02-Sep-19","skunk","-","NY.2010.5490S"
-"MK540739","AL_RAC-SK","RAC-SK","USA","United States","New York","2010","2010",2010,11922,"02-Sep-19","02-Sep-19","Procyon lotor","-","NY.2010.5710R"
-"MK540740","AL_RAC-SK","RAC-SK","USA","United States","New York","2010","2010",2010,11924,"02-Sep-19","02-Sep-19","skunk","-","NY.2010.5963S"
-"MK540741","AL_RAC-SK","RAC-SK","USA","United States","New York","2010","2010",2010,11924,"02-Sep-19","02-Sep-19","Procyon lotor","-","NY.2010.6386R"
-"MK540742","AL_RAC-SK","RAC-SK","USA","United States","New York","2011","2011",2011,11923,"02-Sep-19","02-Sep-19","skunk","-","NY.2011.0005S"
-"MK540743","AL_RAC-SK","RAC-SK","USA","United States","New York","2011","2011",2011,11924,"02-Sep-19","02-Sep-19","Procyon lotor","-","NY.2011.0007R"
-"MK540744","AL_RAC-SK","RAC-SK","USA","United States","New York","2011","2011",2011,11923,"02-Sep-19","02-Sep-19","Procyon lotor","-","NY.2011.0010R"
-"MK540745","AL_RAC-SK","RAC-SK","USA","United States","New York","2011","2011",2011,11924,"02-Sep-19","02-Sep-19","Procyon lotor","-","NY.2011.0017R"
-"MK540746","AL_RAC-SK","RAC-SK","USA","United States","New York","2011","2011",2011,11924,"02-Sep-19","02-Sep-19","Procyon lotor","-","NY.2011.0042R"
-"MK540747","AL_RAC-SK","RAC-SK","USA","United States","New York","2011","2011",2011,11925,"02-Sep-19","02-Sep-19","Vulpes vulpes","-","NY.2011.0141O"
-"MK540748","AL_RAC-SK","RAC-SK","USA","United States","New York","2011","2011",2011,11924,"02-Sep-19","02-Sep-19","Procyon lotor","-","NY.2011.0247R"
-"MK540749","AL_RAC-SK","RAC-SK","USA","United States","New York","2011","2011",2011,11925,"02-Sep-19","02-Sep-19","Procyon lotor","-","NY.2011.0277R"
-"MK540750","AL_RAC-SK","RAC-SK","USA","United States","New York","2011","2011",2011,11924,"02-Sep-19","02-Sep-19","Procyon lotor","-","NY.2011.0329R"
-"MK540751","AL_RAC-SK","RAC-SK","USA","United States","New York","2011","2011",2011,11925,"02-Sep-19","02-Sep-19","Procyon lotor","-","NY.2011.0402R"
-"MK540752","AL_RAC-SK","RAC-SK","USA","United States","New York","2011","2011",2011,11923,"02-Sep-19","02-Sep-19","Procyon lotor","-","NY.2011.0525R"
-"MK540753","AL_RAC-SK","RAC-SK","USA","United States","New York","2011","2011",2011,11924,"02-Sep-19","02-Sep-19","Procyon lotor","-","NY.2011.0560R"
-"MK540754","AL_RAC-SK","RAC-SK","USA","United States","New York","2011","2011",2011,11924,"02-Sep-19","02-Sep-19","Procyon lotor","-","NY.2011.0576R"
-"MK540755","AL_RAC-SK","RAC-SK","USA","United States","New York","2011","2011",2011,11924,"02-Sep-19","02-Sep-19","skunk","-","NY.2011.0674S"
-"MK540756","AL_RAC-SK","RAC-SK","USA","United States","New York","2011","2011",2011,11924,"02-Sep-19","02-Sep-19","Procyon lotor","-","NY.2011.0676R"
-"MK540757","AL_RAC-SK","RAC-SK","USA","United States","New York","2011","2011",2011,11924,"02-Sep-19","02-Sep-19","Vulpes vulpes","-","NY.2011.0714O"
-"MK540758","AL_RAC-SK","RAC-SK","USA","United States","New York","2011","2011",2011,11923,"02-Sep-19","02-Sep-19","Procyon lotor","-","NY.2011.0765R"
-"MK540759","AL_RAC-SK","RAC-SK","USA","United States","New York","2011","2011",2011,11924,"02-Sep-19","02-Sep-19","Felis catus","-","NY.2011.0818O"
-"MK540760","AL_RAC-SK","RAC-SK","USA","United States","New York","2011","2011",2011,11923,"02-Sep-19","02-Sep-19","Felis catus","-","NY.2011.0918O"
-"MK540761","AL_RAC-SK","RAC-SK","USA","United States","New York","2011","2011",2011,11923,"02-Sep-19","02-Sep-19","Felis catus","-","NY.2011.0925O"
-"MK540762","AL_RAC-SK","RAC-SK","USA","United States","New York","2011","2011",2011,11922,"02-Sep-19","02-Sep-19","Felis catus","-","NY.2011.0948O"
-"MK540763","AL_RAC-SK","RAC-SK","USA","United States","New York","2011","2011",2011,11924,"02-Sep-19","02-Sep-19","Procyon lotor","-","NY.2011.1041R"
-"MK540764","AL_RAC-SK","RAC-SK","USA","United States","New York","2011","2011",2011,11924,"02-Sep-19","02-Sep-19","Vulpes vulpes","-","NY.2011.1054O"
-"MK540765","AL_RAC-SK","RAC-SK","USA","United States","New York","2011","2011",2011,11923,"02-Sep-19","02-Sep-19","skunk","-","NY.2011.1064S"
-"MK540766","AL_RAC-SK","RAC-SK","USA","United States","New York","2011","2011",2011,11924,"02-Sep-19","02-Sep-19","Vulpes vulpes","-","NY.2011.1202O"
-"MK540767","AL_RAC-SK","RAC-SK","USA","United States","New York","2011","2011",2011,11924,"02-Sep-19","02-Sep-19","Procyon lotor","-","NY.2011.1517R"
-"MK540768","AL_RAC-SK","RAC-SK","USA","United States","New York","2011","2011",2011,11924,"02-Sep-19","02-Sep-19","Procyon lotor","-","NY.2011.2048R"
-"MK540769","AL_RAC-SK","RAC-SK","USA","United States","New York","2011","2011",2011,11924,"02-Sep-19","02-Sep-19","Felis catus","-","NY.2011.2074O"
-"MK540770","AL_RAC-SK","RAC-SK","USA","United States","New York","2011","2011",2011,11924,"02-Sep-19","02-Sep-19","Procyon lotor","-","NY.2011.2125R"
-"MK540771","AL_RAC-SK","RAC-SK","USA","United States","New York","2011","2011",2011,11923,"02-Sep-19","02-Sep-19","Procyon lotor","-","NY.2011.2208R"
-"MK540772","AL_RAC-SK","RAC-SK","USA","United States","New York","2011","2011",2011,11924,"02-Sep-19","02-Sep-19","Felis catus","-","NY.2011.2248O"
-"MK540773","AL_RAC-SK","RAC-SK","USA","United States","New York","2011","2011",2011,11924,"02-Sep-19","02-Sep-19","Procyon lotor","-","NY.2011.2320R"
-"MK540774","AL_RAC-SK","RAC-SK","USA","United States","New York","2011","2011",2011,11923,"02-Sep-19","02-Sep-19","Felis catus","-","NY.2011.2342O"
-"MK540775","AL_RAC-SK","RAC-SK","USA","United States","New York","2011","2011",2011,11925,"02-Sep-19","02-Sep-19","Procyon lotor","-","NY.2011.2347R"
-"MK540776","AL_RAC-SK","RAC-SK","USA","United States","New York","2011","2011",2011,11924,"02-Sep-19","02-Sep-19","Vulpes vulpes","-","NY.2011.2387O"
-"MK540777","AL_RAC-SK","RAC-SK","USA","United States","New York","2011","2011",2011,11924,"02-Sep-19","02-Sep-19","Felis catus","-","NY.2011.3324O"
-"MK540778","AL_RAC-SK","RAC-SK","USA","United States","New York","2011","2011",2011,11923,"02-Sep-19","02-Sep-19","Procyon lotor","-","NY.2011.3579R"
-"MK540779","AL_RAC-SK","RAC-SK","USA","United States","New York","2011","2011",2011,11924,"02-Sep-19","02-Sep-19","Procyon lotor","-","NY.2011.3703R"
-"MK540780","AL_RAC-SK","RAC-SK","USA","United States","New York","2011","2011",2011,11924,"02-Sep-19","02-Sep-19","skunk","-","NY.2011.4095S"
-"MK540781","AL_RAC-SK","RAC-SK","USA","United States","New York","2011","2011",2011,11924,"02-Sep-19","02-Sep-19","woodchuck","-","NY.2011.4316O"
-"MK540782","AL_RAC-SK","RAC-SK","USA","United States","New York","2011","2011",2011,11924,"02-Sep-19","02-Sep-19","skunk","-","NY.2011.4696S"
-"MK540783","AL_RAC-SK","RAC-SK","USA","United States","New York","2011","2011",2011,11924,"02-Sep-19","02-Sep-19","Felis catus","-","NY.2011.4863O"
-"MK540784","AL_RAC-SK","RAC-SK","USA","United States","New York","2011","2011",2011,11924,"02-Sep-19","02-Sep-19","Procyon lotor","-","NY.2011.4957R"
-"MK540785","AL_RAC-SK","RAC-SK","USA","United States","New York","2011","2011",2011,11923,"02-Sep-19","02-Sep-19","Procyon lotor","-","NY.2011.5062R"
-"MK540786","AL_RAC-SK","RAC-SK","USA","United States","New York","2011","2011",2011,11924,"02-Sep-19","02-Sep-19","Vulpes vulpes","-","NY.2011.5179O"
-"MK540787","AL_RAC-SK","RAC-SK","USA","United States","New York","2011","2011",2011,11924,"02-Sep-19","02-Sep-19","skunk","-","NY.2011.5303S"
-"MK540788","AL_RAC-SK","RAC-SK","USA","United States","New York","2011","2011",2011,11923,"02-Sep-19","02-Sep-19","skunk","-","NY.2011.5446S"
-"MK540789","AL_RAC-SK","RAC-SK","USA","United States","New York","2011","2011",2011,11924,"02-Sep-19","02-Sep-19","Vulpes vulpes","-","NY.2011.5769O"
-"MK540790","AL_RAC-SK","RAC-SK","USA","United States","New York","2011","2011",2011,11924,"02-Sep-19","02-Sep-19","Bos taurus","-","NY.2011.6206O"
-"MK540791","AL_RAC-SK","RAC-SK","USA","United States","New York","2011","2011",2011,11924,"02-Sep-19","02-Sep-19","Felis catus","-","NY.2011.6283O"
-"MK540792","AL_RAC-SK","RAC-SK","USA","United States","New York","2011","2011",2011,11923,"02-Sep-19","02-Sep-19","skunk","-","NY.2011.6308S"
-"MK540793","AL_RAC-SK","RAC-SK","USA","United States","New York","2011","2011",2011,11925,"02-Sep-19","02-Sep-19","skunk","-","NY.2011.6409S"
-"MK540794","AL_RAC-SK","RAC-SK","USA","United States","New York","2015","2015",2015,11924,"02-Sep-19","02-Sep-19","Procyon lotor","-","NY.2015.0918R"
-"MK540795","AL_RAC-SK","RAC-SK","USA","United States","New York","2015","2015",2015,11923,"02-Sep-19","02-Sep-19","Procyon lotor","-","NY.2015.1361R"
-"MK540796","AL_RAC-SK","RAC-SK","USA","United States","New York","2015","2015",2015,11924,"02-Sep-19","02-Sep-19","Procyon lotor","-","NY.2015.2602R"
-"MK540797","AL_RAC-SK","RAC-SK","USA","United States","New York","2018","2018",2018,11924,"02-Sep-19","02-Sep-19","Procyon lotor","-","NY.2018.1086R"
-"MK540798","AL_RAC-SK","RAC-SK","USA","United States","New York","2018","2018",2018,11924,"02-Sep-19","02-Sep-19","Procyon lotor","-","NY.2018.2106R"
-"MK540799","AL_RAC-SK","RAC-SK","USA","United States","New York","2018","2018",2018,11925,"02-Sep-19","02-Sep-19","Procyon lotor","-","NY.2018.2107R"
-"MK540800","AL_RAC-SK","RAC-SK","CAN","Canada","Ontario","2015","2015",2015,11923,"02-Sep-19","02-Sep-19","Procyon lotor","-","ON.2015.1396R"
-"MK540801","AL_RAC-SK","RAC-SK","CAN","Canada","Ontario","2015","2015",2015,11923,"02-Sep-19","02-Sep-19","Procyon lotor","-","ON.2015.1433R"
-"MK540802","AL_RAC-SK","RAC-SK","CAN","Canada","Ontario","2015","2015",2015,11923,"02-Sep-19","02-Sep-19","Procyon lotor","-","ON.2015.1435R"
-"MK540803","AL_RAC-SK","RAC-SK","CAN","Canada","Ontario","2015","2015",2015,11923,"02-Sep-19","02-Sep-19","Procyon lotor","-","ON.2015.1436R"
-"MK540804","AL_RAC-SK","RAC-SK","CAN","Canada","Ontario","2015","2015",2015,11923,"02-Sep-19","02-Sep-19","Procyon lotor","-","ON.2015.1438R"
-"MK540805","AL_RAC-SK","RAC-SK","CAN","Canada","Ontario","2016","2016",2016,11923,"02-Sep-19","02-Sep-19","Procyon lotor","-","ON.2016.0002R"
-"MK540806","AL_RAC-SK","RAC-SK","CAN","Canada","Ontario","2016","2016",2016,11923,"02-Sep-19","02-Sep-19","Procyon lotor","-","ON.2016.0034R"
-"MK540807","AL_RAC-SK","RAC-SK","CAN","Canada","Ontario","2016","2016",2016,11923,"02-Sep-19","02-Sep-19","Procyon lotor","-","ON.2016.0035R"
-"MK540808","AL_RAC-SK","RAC-SK","CAN","Canada","Ontario","2016","2016",2016,11923,"02-Sep-19","02-Sep-19","Procyon lotor","-","ON.2016.0036R"
-"MK540809","AL_RAC-SK","RAC-SK","CAN","Canada","Ontario","2016","2016",2016,11923,"02-Sep-19","02-Sep-19","Procyon lotor","-","ON.2016.0138R"
-"MK540810","AL_RAC-SK","RAC-SK","CAN","Canada","Ontario","2016","2016",2016,11923,"02-Sep-19","02-Sep-19","Procyon lotor","-","ON.2016.0143R"
-"MK540811","AL_RAC-SK","RAC-SK","CAN","Canada","Ontario","2016","2016",2016,11923,"02-Sep-19","02-Sep-19","Procyon lotor","-","ON.2016.0190R"
-"MK540812","AL_RAC-SK","RAC-SK","CAN","Canada","Ontario","2016","2016",2016,11923,"02-Sep-19","02-Sep-19","skunk","-","ON.2016.0191S"
-"MK540813","AL_RAC-SK","RAC-SK","CAN","Canada","Ontario","2016","2016",2016,11924,"02-Sep-19","02-Sep-19","Procyon lotor","-","ON.2016.0196R"
-"MK540814","AL_RAC-SK","RAC-SK","CAN","Canada","Ontario","2016","2016",2016,11923,"02-Sep-19","02-Sep-19","skunk","-","ON.2016.0199S"
-"MK540815","AL_RAC-SK","RAC-SK","CAN","Canada","Ontario","2016","2016",2016,11923,"02-Sep-19","02-Sep-19","Procyon lotor","-","ON.2016.0242R"
-"MK540816","AL_RAC-SK","RAC-SK","CAN","Canada","Ontario","2016","2016",2016,11924,"02-Sep-19","02-Sep-19","skunk","-","ON.2016.0248S"
-"MK540817","AL_RAC-SK","RAC-SK","CAN","Canada","Ontario","2016","2016",2016,11923,"02-Sep-19","02-Sep-19","skunk","-","ON.2016.0252S"
-"MK540818","AL_RAC-SK","RAC-SK","CAN","Canada","Ontario","2016","2016",2016,11923,"02-Sep-19","02-Sep-19","Procyon lotor","-","ON.2016.0278R"
-"MK540819","AL_RAC-SK","RAC-SK","CAN","Canada","Ontario","2016","2016",2016,11923,"02-Sep-19","02-Sep-19","skunk","-","ON.2016.0316S"
-"MK540820","AL_RAC-SK","RAC-SK","CAN","Canada","Ontario","2016","2016",2016,11923,"02-Sep-19","02-Sep-19","Procyon lotor","-","ON.2016.0324R"
-"MK540821","AL_RAC-SK","RAC-SK","CAN","Canada","Ontario","2016","2016",2016,11922,"02-Sep-19","02-Sep-19","skunk","-","ON.2016.0339S"
-"MK540822","AL_RAC-SK","RAC-SK","CAN","Canada","Ontario","2016","2016",2016,11923,"02-Sep-19","02-Sep-19","skunk","-","ON.2016.0360S"
-"MK540823","AL_RAC-SK","RAC-SK","CAN","Canada","Ontario","2016","2016",2016,11923,"02-Sep-19","02-Sep-19","Procyon lotor","-","ON.2016.0361R"
-"MK540824","AL_RAC-SK","RAC-SK","CAN","Canada","Ontario","2016","2016",2016,11923,"02-Sep-19","02-Sep-19","skunk","-","ON.2016.0424S"
-"MK540825","AL_RAC-SK","RAC-SK","CAN","Canada","Ontario","2016","2016",2016,11923,"02-Sep-19","02-Sep-19","Procyon lotor","-","ON.2016.0429R"
-"MK540826","AL_RAC-SK","RAC-SK","CAN","Canada","Ontario","2016","2016",2016,11923,"02-Sep-19","02-Sep-19","Procyon lotor","-","ON.2016.0527R"
-"MK540827","AL_RAC-SK","RAC-SK","CAN","Canada","Ontario","2016","2016",2016,11923,"02-Sep-19","02-Sep-19","Procyon lotor","-","ON.2016.0554R"
-"MK540828","AL_RAC-SK","RAC-SK","CAN","Canada","Ontario","2016","2016",2016,11923,"02-Sep-19","02-Sep-19","Procyon lotor","-","ON.2016.0569R"
-"MK540829","AL_RAC-SK","RAC-SK","CAN","Canada","Ontario","2016","2016",2016,11923,"02-Sep-19","02-Sep-19","Procyon lotor","-","ON.2016.0622R"
-"MK540830","AL_RAC-SK","RAC-SK","CAN","Canada","Ontario","2016","2016",2016,11923,"02-Sep-19","02-Sep-19","Procyon lotor","-","ON.2016.0702R"
-"MK540831","AL_RAC-SK","RAC-SK","CAN","Canada","Ontario","2016","2016",2016,11924,"02-Sep-19","02-Sep-19","Procyon lotor","-","ON.2016.0794R"
-"MK540832","AL_RAC-SK","RAC-SK","CAN","Canada","Ontario","2016","2016",2016,11924,"02-Sep-19","02-Sep-19","Procyon lotor","-","ON.2016.0796R"
-"MK540833","AL_RAC-SK","RAC-SK","CAN","Canada","Ontario","2016","2016",2016,11923,"02-Sep-19","02-Sep-19","skunk","-","ON.2016.0797S"
-"MK540834","AL_RAC-SK","RAC-SK","CAN","Canada","Ontario","2016","2016",2016,11923,"02-Sep-19","02-Sep-19","Procyon lotor","-","ON.2016.0857R"
-"MK540835","AL_RAC-SK","RAC-SK","CAN","Canada","Ontario","2016","2016",2016,11923,"02-Sep-19","02-Sep-19","skunk","-","ON.2016.0858S"
-"MK540836","AL_RAC-SK","RAC-SK","CAN","Canada","Ontario","2016","2016",2016,11923,"02-Sep-19","02-Sep-19","skunk","-","ON.2016.0859S"
-"MK540837","AL_RAC-SK","RAC-SK","CAN","Canada","Ontario","2016","2016",2016,11923,"02-Sep-19","02-Sep-19","Procyon lotor","-","ON.2016.0904R"
-"MK540838","AL_RAC-SK","RAC-SK","CAN","Canada","Ontario","2016","2016",2016,11923,"02-Sep-19","02-Sep-19","Procyon lotor","-","ON.2016.0905R"
-"MK540839","AL_RAC-SK","RAC-SK","CAN","Canada","Ontario","2016","2016",2016,11923,"02-Sep-19","02-Sep-19","Procyon lotor","-","ON.2016.0907R"
-"MK540840","AL_RAC-SK","RAC-SK","CAN","Canada","Ontario","2016","2016",2016,11924,"02-Sep-19","02-Sep-19","Procyon lotor","-","ON.2016.1064R"
-"MK540841","AL_RAC-SK","RAC-SK","CAN","Canada","Ontario","2016","2016",2016,11923,"02-Sep-19","02-Sep-19","skunk","-","ON.2016.1281S"
-"MK540842","AL_RAC-SK","RAC-SK","CAN","Canada","Ontario","2016","2016",2016,11923,"02-Sep-19","02-Sep-19","Procyon lotor","-","ON.2016.1431R"
-"MK540843","AL_RAC-SK","RAC-SK","CAN","Canada","Ontario","2016","2016",2016,11923,"02-Sep-19","02-Sep-19","Vulpes vulpes","-","ON.2016.1432F"
-"MK540844","AL_RAC-SK","RAC-SK","CAN","Canada","Ontario","2016","2016",2016,11923,"02-Sep-19","02-Sep-19","Procyon lotor","-","ON.2016.1508R"
-"MK540845","AL_RAC-SK","RAC-SK","CAN","Canada","Ontario","2016","2016",2016,11923,"02-Sep-19","02-Sep-19","skunk","-","ON.2016.1558S"
-"MK540846","AL_RAC-SK","RAC-SK","CAN","Canada","Ontario","2016","2016",2016,11923,"02-Sep-19","02-Sep-19","Procyon lotor","-","ON.2016.1561R"
-"MK540847","AL_RAC-SK","RAC-SK","CAN","Canada","Ontario","2016","2016",2016,11923,"02-Sep-19","02-Sep-19","Procyon lotor","-","ON.2016.1562R"
-"MK540848","AL_RAC-SK","RAC-SK","CAN","Canada","Ontario","2016","2016",2016,11923,"02-Sep-19","02-Sep-19","Procyon lotor","-","ON.2016.1563R"
-"MK540849","AL_RAC-SK","RAC-SK","CAN","Canada","Ontario","2016","2016",2016,11923,"02-Sep-19","02-Sep-19","skunk","-","ON.2016.1593S"
-"MK540850","AL_RAC-SK","RAC-SK","CAN","Canada","Ontario","2016","2016",2016,11923,"02-Sep-19","02-Sep-19","Procyon lotor","-","ON.2016.1625R"
-"MK540851","AL_RAC-SK","RAC-SK","CAN","Canada","Ontario","2016","2016",2016,11923,"02-Sep-19","02-Sep-19","Procyon lotor","-","ON.2016.1626R"
-"MK540852","AL_RAC-SK","RAC-SK","CAN","Canada","Ontario","2016","2016",2016,11923,"02-Sep-19","02-Sep-19","Procyon lotor","-","ON.2016.1629R"
-"MK540853","AL_RAC-SK","RAC-SK","CAN","Canada","Ontario","2016","2016",2016,11923,"02-Sep-19","02-Sep-19","Procyon lotor","-","ON.2016.1630R"
-"MK540854","AL_RAC-SK","RAC-SK","CAN","Canada","Ontario","2016","2016",2016,11924,"02-Sep-19","02-Sep-19","Procyon lotor","-","ON.2016.1631R"
-"MK540855","AL_RAC-SK","RAC-SK","CAN","Canada","Ontario","2016","2016",2016,11923,"02-Sep-19","02-Sep-19","Procyon lotor","-","ON.2016.1632R"
-"MK540856","AL_RAC-SK","RAC-SK","CAN","Canada","Ontario","2016","2016",2016,11923,"02-Sep-19","02-Sep-19","Procyon lotor","-","ON.2016.1653R"
-"MK540857","AL_RAC-SK","RAC-SK","CAN","Canada","Ontario","2016","2016",2016,11923,"02-Sep-19","02-Sep-19","Procyon lotor","-","ON.2016.1654R"
-"MK540858","AL_RAC-SK","RAC-SK","CAN","Canada","Ontario","2016","2016",2016,11923,"02-Sep-19","02-Sep-19","skunk","-","ON.2016.1688S"
-"MK540859","AL_RAC-SK","RAC-SK","CAN","Canada","Ontario","2016","2016",2016,11923,"02-Sep-19","02-Sep-19","Procyon lotor","-","ON.2016.1721R"
-"MK540860","AL_RAC-SK","RAC-SK","CAN","Canada","Ontario","2016","2016",2016,11923,"02-Sep-19","02-Sep-19","Procyon lotor","-","ON.2016.1749R"
-"MK540861","AL_RAC-SK","RAC-SK","CAN","Canada","Ontario","2016","2016",2016,11923,"02-Sep-19","02-Sep-19","skunk","-","ON.2016.1750S"
-"MK540862","AL_RAC-SK","RAC-SK","CAN","Canada","Ontario","2016","2016",2016,11923,"02-Sep-19","02-Sep-19","skunk","-","ON.2016.1752S"
-"MK540863","AL_RAC-SK","RAC-SK","CAN","Canada","Ontario","2016","2016",2016,11923,"02-Sep-19","02-Sep-19","skunk","-","ON.2016.1755S"
-"MK540864","AL_RAC-SK","RAC-SK","CAN","Canada","Ontario","2016","2016",2016,11923,"02-Sep-19","02-Sep-19","Procyon lotor","-","ON.2016.1787R"
-"MK540865","AL_RAC-SK","RAC-SK","CAN","Canada","Ontario","2016","2016",2016,11923,"02-Sep-19","02-Sep-19","Procyon lotor","-","ON.2016.1854R"
-"MK540866","AL_RAC-SK","RAC-SK","CAN","Canada","Ontario","2016","2016",2016,11923,"02-Sep-19","02-Sep-19","skunk","-","ON.2016.1856S"
-"MK540867","AL_RAC-SK","RAC-SK","CAN","Canada","Ontario","2016","2016",2016,11923,"02-Sep-19","02-Sep-19","skunk","-","ON.2016.1857S"
-"MK540868","AL_RAC-SK","RAC-SK","CAN","Canada","Ontario","2016","2016",2016,11923,"02-Sep-19","02-Sep-19","Procyon lotor","-","ON.2016.1979R"
-"MK540869","AL_RAC-SK","RAC-SK","CAN","Canada","Ontario","2016","2016",2016,11923,"02-Sep-19","02-Sep-19","Procyon lotor","-","ON.2016.1980R"
-"MK540870","AL_RAC-SK","RAC-SK","CAN","Canada","Ontario","2016","2016",2016,11923,"02-Sep-19","02-Sep-19","skunk","-","ON.2016.1982S"
-"MK540871","AL_RAC-SK","RAC-SK","CAN","Canada","Ontario","2016","2016",2016,11924,"02-Sep-19","02-Sep-19","skunk","-","ON.2016.1984S"
-"MK540872","AL_RAC-SK","RAC-SK","CAN","Canada","Ontario","2017","2017",2017,11923,"02-Sep-19","02-Sep-19","Procyon lotor","-","ON.2017.0371R"
-"MK540873","AL_RAC-SK","RAC-SK","CAN","Canada","Ontario","2017","2017",2017,11923,"02-Sep-19","02-Sep-19","Procyon lotor","-","ON.2017.0437R"
-"MK540874","AL_RAC-SK","RAC-SK","CAN","Canada","Ontario","2017","2017",2017,11924,"02-Sep-19","02-Sep-19","Procyon lotor","-","ON.2017.0478R"
-"MK540875","AL_RAC-SK","RAC-SK","CAN","Canada","Ontario","2017","2017",2017,11923,"02-Sep-19","02-Sep-19","Procyon lotor","-","ON.2017.0489R"
-"MK540876","AL_RAC-SK","RAC-SK","CAN","Canada","Ontario","2017","2017",2017,11923,"02-Sep-19","02-Sep-19","Procyon lotor","-","ON.2017.0567R"
-"MK540877","AL_RAC-SK","RAC-SK","CAN","Canada","Ontario","2017","2017",2017,11923,"02-Sep-19","02-Sep-19","skunk","-","ON.2017.0644S"
-"MK540878","AL_RAC-SK","RAC-SK","CAN","Canada","Ontario","2017","2017",2017,11924,"02-Sep-19","02-Sep-19","Procyon lotor","-","ON.2017.0788R"
-"MK540879","AL_RAC-SK","RAC-SK","CAN","Canada","Ontario","2017","2017",2017,11923,"02-Sep-19","02-Sep-19","Procyon lotor","-","ON.2017.0862R"
-"MK540880","AL_RAC-SK","RAC-SK","CAN","Canada","Ontario","2017","2017",2017,11924,"02-Sep-19","02-Sep-19","skunk","-","ON.2017.0864S"
-"MK540881","AL_RAC-SK","RAC-SK","CAN","Canada","Ontario","2017","2017",2017,11924,"02-Sep-19","02-Sep-19","skunk","-","ON.2017.0923S"
-"MK540882","AL_RAC-SK","RAC-SK","CAN","Canada","Ontario","2017","2017",2017,11924,"02-Sep-19","02-Sep-19","Procyon lotor","-","ON.2017.0952R"
-"MK540883","AL_RAC-SK","RAC-SK","USA","United States","Pennsylvania","1989","1989",1989,11924,"02-Sep-19","02-Sep-19","Procyon lotor","-","PA.1989.1759R"
-"MK540884","AL_RAC-SK","RAC-SK","USA","United States","Pennsylvania","1989","1989",1989,11924,"02-Sep-19","02-Sep-19","Procyon lotor","-","PA.1989.1784R"
-"MK540885","AL_RAC-SK","RAC-SK","USA","United States","Pennsylvania","1989","1989",1989,11924,"02-Sep-19","02-Sep-19","Procyon lotor","-","PA.1989.1819R"
-"MK540886","AL_RAC-SK","RAC-SK","USA","United States","Pennsylvania","1989","1989",1989,11924,"02-Sep-19","02-Sep-19","Procyon lotor","-","PA.1989.1872R"
-"MN418142","AL_RAC-SK","RAC-SK","USA","United States","Denville, NJ","2018","2018",2018,11925,"30-May-20","30-May-20","Procyon lotor","-","731-18"
-"MN418143","AL_RAC-SK","RAC-SK","USA","United States","Lloyd Harbor, NY","2008","2008",2008,11925,"30-May-20","30-May-20","Procyon lotor","-","8952-08"
-"MN418144","AL_RAC-SK","RAC-SK","USA","United States","Westerlo, NY","2017","2017",2017,11925,"30-May-20","30-May-20","Procyon lotor","-","8775-17"
-"MN418145","AL_RAC-SK","RAC-SK","USA","United States","New Paltz, NY","2017","2017",2017,11925,"30-May-20","30-May-20","Procyon lotor","-","871-17"
-"MN418146","AL_RAC-SK","RAC-SK","USA","United States","Brownsville, VT","2017","2017",2017,11925,"30-May-20","30-May-20","Procyon lotor","-","760-18"
-"MN418147","AL_RAC-SK","RAC-SK","USA","United States","Cobleskill, NY","2017","2017",2017,11925,"30-May-20","30-May-20","Procyon lotor","-","5318-17"
-"MN418148","AL_RAC-SK","RAC-SK","USA","United States","Groton, CT","2017","2017",2017,11925,"30-May-20","30-May-20","Mephitis mephitis","-","CT633269"
-"MN418149","AL_RAC-SK","RAC-SK","USA","United States","New City, NY","2017","2017",2017,11925,"30-May-20","30-May-20","Vulpes vulpes","-","2834-17"
-"MN418150","AL_RAC-SK","RAC-SK","USA","United States","New London, CT","2016","2016",2016,11925,"30-May-20","30-May-20","Procyon lotor","-","CT661885"
-"MN418151","AL_RAC-SK","RAC-SK","USA","United States","Ridgefield, CT","2016","2016",2016,11925,"30-May-20","30-May-20","Procyon lotor","-","CT608844"
-"MN418152","AL_RAC-SK","RAC-SK","USA","United States","Cornwallville, NY","2016","2016",2016,11925,"30-May-20","30-May-20","Procyon lotor","-","3617-17"
-"MN418153","AL_RAC-SK","RAC-SK","USA","United States","Tarrytown, NY","2017","2017",2017,11925,"30-May-20","30-May-20","Procyon lotor","-","7869-17"
-"MN418154","AL_RAC-SK","RAC-SK","USA","United States","Sea Cliff, NY","2017","2017",2017,11925,"30-May-20","30-May-20","Felis catus","-","8210-17"
-"MN418155","AL_RAC-SK","RAC-SK","USA","United States","Bridgeport, CT","2016","2016",2016,11925,"30-May-20","30-May-20","Procyon lotor","-","CT607469"
-"MN418156","AL_RAC-SK","RAC-SK","USA","United States","Lincoln Park, NJ","2018","2018",2018,11925,"30-May-20","30-May-20","Procyon lotor","-","2006-18"
-"MN418157","AL_RAC-SK","RAC-SK","USA","United States","Bronx, NY","2017","2017",2017,11925,"30-May-20","30-May-20","Procyon lotor","-","7314-17"
-"MN418158","AL_RAC-SK","RAC-SK","USA","United States","Monticello, NY","2017","2017",2017,11925,"30-May-20","30-May-20","Urocyon cinereoargenteus","-","2847-17"
-"MN418159","AL_RAC-SK","RAC-SK","USA","United States","Hicksville, NY","2016","2016",2016,11925,"30-May-20","30-May-20","Procyon lotor","-","738-16"
-"MN418160","AL_RAC-SK","RAC-SK","USA","United States","Weston, CT","2017","2017",2017,11925,"30-May-20","30-May-20","Procyon lotor","-","CT682858"
-"MN418161","AL_RAC-SK","RAC-SK","USA","United States","Sound Beach, NY","2017","2017",2017,11925,"30-May-20","30-May-20","Lontra canadensis","-","441-17"
-"MN418162","AL_RAC-SK","RAC-SK","USA","United States","Hudson, NY","2017","2017",2017,11925,"30-May-20","30-May-20","Procyon lotor","-","9049-17"
-"MN418163","AL_RAC-SK","RAC-SK","USA","United States","Ridgefield, CT","2016","2016",2016,11925,"30-May-20","30-May-20","Procyon lotor","-","CT641269"
-"MN418164","AL_RAC-SK","RAC-SK","USA","United States","Huntington, NY","2009","2009",2009,11925,"30-May-20","30-May-20","Procyon lotor","-","135-09"
-"MN418165","AL_RAC-SK","RAC-SK","USA","United States","Bristol, VT","2017","2017",2017,11925,"30-May-20","30-May-20","Vulpes vulpes","-","751-18"
-"MN418167","AL_RAC-SK","RAC-SK","USA","United States","Slate Hill, NY","2017","2017",2017,11925,"30-May-20","30-May-20","Procyon lotor","-","849-17"
-"MN418168","AL_RAC-SK","RAC-SK","USA","United States","Troy, NY","2017","2017",2017,11925,"30-May-20","30-May-20","Mephitis mephitis","-","7686-17"
-"MN418169","AL_RAC-SK","RAC-SK","USA","United States","Midland Park, NJ","2018","2018",2018,11925,"30-May-20","30-May-20","Procyon lotor","-","2677-18"
-"MN418170","AL_RAC-SK","RAC-SK","USA","United States","Providence, RI","2017","2017",2017,11925,"30-May-20","30-May-20","Felis catus","-","7844-17"
-"MN418171","AL_RAC-SK","RAC-SK","USA","United States","Upper Saddle River, NJ","2018","2018",2018,11925,"30-May-20","30-May-20","Procyon lotor","-","854-18"
-"MN418172","AL_RAC-SK","RAC-SK","USA","United States","Accord, NY","2017","2017",2017,11925,"30-May-20","30-May-20","Mephitis mephitis","-","8423-17"
-"MN418173","AL_RAC-SK","RAC-SK","USA","United States","Plymouth, MA","2018","2018",2018,11925,"30-May-20","30-May-20","Procyon lotor","-","37-18"
-"MN418174","AL_RAC-SK","RAC-SK","USA","United States","Bronx, NY","2017","2017",2017,11925,"30-May-20","30-May-20","Procyon lotor","-","7346-17"
-"MN418175","AL_RAC-SK","RAC-SK","USA","United States","Vergennes, VT","2017","2017",2017,11925,"30-May-20","30-May-20","Procyon lotor","-","752-18"
-"MN418176","AL_RAC-SK","RAC-SK","USA","United States","Greene, NY","2017","2017",2017,11925,"30-May-20","30-May-20","Procyon lotor","-","466-17"
-"MN418177","AL_RAC-SK","RAC-SK","USA","United States","Arlington, VT","2017","2017",2017,11925,"30-May-20","30-May-20","Urocyon cinereoargenteus","-","763-18"
-"MN418178","AL_RAC-SK","RAC-SK","USA","United States","Clinton, NY","2017","2017",2017,11925,"30-May-20","30-May-20","Procyon lotor","-","259-17"
-"MN418179","AL_RAC-SK","RAC-SK","USA","United States","Woodstock, VT","2017","2017",2017,11925,"30-May-20","30-May-20","Procyon lotor","-","761-18"
-"MN418180","AL_RAC-SK","RAC-SK","USA","United States","Cutler, ME","2017","2017",2017,11925,"30-May-20","30-May-20","Mephitis mephitis","-","186-18"
-"MN418181","AL_RAC-SK","RAC-SK","USA","United States","Weston, CT","2016","2016",2016,11925,"30-May-20","30-May-20","Procyon lotor","-","CT648095"
-"MN418182","AL_RAC-SK","RAC-SK","USA","United States","Fairfield, CT","2016","2016",2016,11925,"30-May-20","30-May-20","Procyon lotor","-","CT627067"
-"MN418183","AL_RAC-SK","RAC-SK","USA","United States","Mahopac, NY","2017","2017",2017,11925,"30-May-20","30-May-20","Urocyon cinereoargenteus","-","4980-17"
-"MN418184","AL_RAC-SK","RAC-SK","USA","United States","Washington, ME","2017","2017",2017,11925,"30-May-20","30-May-20","Procyon lotor","-","8994-17"
-"MN862283","AL_RAC-SK","RAC-SK","USA","United States","Alabama","1991","1991",1991,11924,"18-Feb-20","18-Feb-20","Procyon lotor","-","FLI 13205"
-"MW055084","AL_RAC-SK","RAC-SK","USA","United States","GA","2017","2017",2017,1353,"22-Nov-20","22-Nov-20","skunk","33158200","A17-3569"
-"MW055085","AL_RAC-SK","RAC-SK","USA","United States","GA","2017","2017",2017,1353,"22-Nov-20","22-Nov-20","skunk","33158200","A17-3735"
-"MW055086","AL_RAC-SK","RAC-SK","USA","United States","Pima County, AZ","2017","2017",2017,1353,"22-Nov-20","22-Nov-20","skunk","33158200","A17-4226"
-"MW055087","AL_RAC-SK","RAC-SK","USA","United States","Santa Cruz County, AZ","2017","2017",2017,1353,"22-Nov-20","22-Nov-20","skunk","33158200","A17-4227"
-"U27220","AL_RAC-SK","RAC-SK","-","-","-","-","-",1995,1427,"01-Jul-95","08-Feb-01","Procyon lotor","8919819","FLA 125"
+ID,assignment,country,year
+AF483524,RAC-SK,United States,2002
+EU345002,RAC-SK,United States,2008
+EU345003,RAC-SK,United States,2008
+EU345004,RAC-SK,United States,2008
+FJ228483,RAC-SK,Mexico,2001
+FJ228484,RAC-SK,Mexico,2002
+FJ228485,RAC-SK,Mexico,1999
+GU991837,RAC-SK,United States,1968
+GU991838,RAC-SK,United States,2007
+GU991839,RAC-SK,United States,2009
+GU991840,RAC-SK,United States,2008
+GU991841,RAC-SK,United States,2008
+JQ513553,RAC-SK,Mexico,2002
+JQ685901,RAC-SK,United States,2003
+JQ685929,RAC-SK,Mexico,2009
+JQ685938,RAC-SK,United States,2009
+JQ685954,RAC-SK,Mexico,2007
+JQ685968,RAC-SK,United States,2009
+JX855962,RAC-SK,United States,2009
+JX855963,RAC-SK,United States,2009
+JX855964,RAC-SK,United States,2009
+JX855965,RAC-SK,United States,2009
+JX855966,RAC-SK,United States,2009
+JX855967,RAC-SK,United States,2009
+JX855968,RAC-SK,United States,2009
+JX855969,RAC-SK,United States,2009
+JX855970,RAC-SK,United States,2009
+JX855971,RAC-SK,United States,2009
+JX855972,RAC-SK,United States,2009
+JX855973,RAC-SK,United States,2009
+JX855974,RAC-SK,United States,2009
+JX855975,RAC-SK,United States,2009
+JX855976,RAC-SK,United States,2009
+JX855977,RAC-SK,United States,2009
+JX855978,RAC-SK,United States,2009
+JX855979,RAC-SK,United States,2009
+JX855980,RAC-SK,United States,2009
+JX855981,RAC-SK,United States,2009
+JX855982,RAC-SK,United States,2009
+JX855983,RAC-SK,United States,2009
+JX855984,RAC-SK,United States,2009
+JX855985,RAC-SK,United States,2009
+JX855986,RAC-SK,United States,2009
+JX855987,RAC-SK,United States,2009
+JX855988,RAC-SK,United States,2009
+JX855989,RAC-SK,United States,2009
+JX855990,RAC-SK,United States,2009
+JX855991,RAC-SK,United States,2009
+JX855992,RAC-SK,United States,2009
+JX855993,RAC-SK,United States,2009
+JX855995,RAC-SK,United States,2009
+JX855999,RAC-SK,United States,2009
+JX856000,RAC-SK,United States,2009
+JX856001,RAC-SK,United States,2009
+JX856002,RAC-SK,United States,2009
+JX856003,RAC-SK,United States,2009
+JX856004,RAC-SK,United States,2009
+JX856005,RAC-SK,United States,2009
+JX856006,RAC-SK,United States,2009
+JX856007,RAC-SK,United States,2009
+JX856008,RAC-SK,United States,2009
+JX856009,RAC-SK,United States,2009
+JX856010,RAC-SK,United States,2009
+JX856011,RAC-SK,United States,2009
+JX856012,RAC-SK,United States,2009
+JX856013,RAC-SK,United States,2009
+JX856014,RAC-SK,United States,2009
+JX856015,RAC-SK,United States,2009
+JX856016,RAC-SK,United States,2009
+JX856017,RAC-SK,United States,2009
+JX856018,RAC-SK,United States,2009
+JX856019,RAC-SK,United States,2009
+JX856020,RAC-SK,United States,2009
+JX856021,RAC-SK,United States,2009
+JX856022,RAC-SK,United States,2009
+JX856023,RAC-SK,United States,2009
+JX856024,RAC-SK,United States,2009
+JX856025,RAC-SK,United States,2009
+JX856026,RAC-SK,United States,2009
+JX856032,RAC-SK,United States,2009
+JX856033,RAC-SK,United States,2009
+JX856034,RAC-SK,United States,2009
+JX856035,RAC-SK,United States,2009
+JX856036,RAC-SK,United States,2009
+JX856037,RAC-SK,United States,2009
+JX856038,RAC-SK,United States,2009
+JX856039,RAC-SK,United States,2009
+KC832859,RAC-SK,United States,2000
+KC832860,RAC-SK,United States,1997
+KC832861,RAC-SK,United States,2013
+KC832862,RAC-SK,United States,2013
+KU963501,RAC-SK,-,2016
+KY026414,RAC-SK,United States,2013
+KY026415,RAC-SK,Canada,2014
+KY026416,RAC-SK,United States,1995
+KY026417,RAC-SK,United States,1998
+KY026419,RAC-SK,United States,2004
+KY026420,RAC-SK,United States,2004
+KY026421,RAC-SK,United States,2011
+KY026424,RAC-SK,Canada,1999
+KY026425,RAC-SK,Canada,1999
+KY026426,RAC-SK,Canada,2000
+KY026427,RAC-SK,Canada,2000
+KY026430,RAC-SK,Canada,2000
+KY026431,RAC-SK,Canada,2000
+KY026432,RAC-SK,Canada,2000
+KY026435,RAC-SK,Canada,2000
+KY026436,RAC-SK,Canada,2000
+KY026439,RAC-SK,Canada,2000
+KY026440,RAC-SK,Canada,2000
+KY026441,RAC-SK,Canada,2000
+KY026442,RAC-SK,Canada,2000
+KY026443,RAC-SK,Canada,2000
+KY026444,RAC-SK,Canada,2001
+KY026445,RAC-SK,Canada,2001
+KY026446,RAC-SK,Canada,2001
+KY026447,RAC-SK,Canada,2001
+KY026448,RAC-SK,Canada,2001
+KY026449,RAC-SK,Canada,2001
+KY026450,RAC-SK,Canada,2001
+KY026451,RAC-SK,Canada,2001
+KY026452,RAC-SK,Canada,2001
+KY026453,RAC-SK,Canada,2001
+KY026454,RAC-SK,Canada,2001
+KY026455,RAC-SK,Canada,2001
+KY026456,RAC-SK,Canada,2001
+KY026457,RAC-SK,Canada,2001
+KY026458,RAC-SK,Canada,2001
+KY026459,RAC-SK,Canada,2002
+KY026460,RAC-SK,Canada,2002
+KY026461,RAC-SK,Canada,2002
+KY026462,RAC-SK,Canada,2002
+KY026463,RAC-SK,Canada,2002
+KY026464,RAC-SK,Canada,2003
+KY026465,RAC-SK,Canada,2003
+KY026466,RAC-SK,Canada,2003
+KY026467,RAC-SK,Canada,2003
+KY026468,RAC-SK,Canada,2003
+KY026469,RAC-SK,Canada,2003
+KY026470,RAC-SK,Canada,2003
+KY026471,RAC-SK,Canada,2003
+KY026472,RAC-SK,Canada,2003
+KY026473,RAC-SK,Canada,2004
+KY026474,RAC-SK,Canada,2004
+KY026475,RAC-SK,Canada,2004
+KY026476,RAC-SK,Canada,2004
+KY026477,RAC-SK,Canada,2005
+KY026478,RAC-SK,United States,2006
+KY026479,RAC-SK,United States,2006
+KY026480,RAC-SK,United States,2007
+KY026481,RAC-SK,United States,2008
+KY026482,RAC-SK,United States,2008
+KY026483,RAC-SK,United States,2011
+MF143191,RAC-SK,United States,2013
+MF143192,RAC-SK,United States,2013
+MF143193,RAC-SK,United States,2013
+MF143194,RAC-SK,United States,2013
+MF143195,RAC-SK,United States,2013
+MF143196,RAC-SK,United States,2013
+MF143197,RAC-SK,United States,2013
+MF143198,RAC-SK,United States,2013
+MF143199,RAC-SK,United States,2013
+MF143200,RAC-SK,United States,2013
+MF143201,RAC-SK,United States,2013
+MF143202,RAC-SK,United States,2013
+MF143203,RAC-SK,United States,2013
+MF143204,RAC-SK,United States,2013
+MF143205,RAC-SK,United States,2013
+MF143206,RAC-SK,United States,2013
+MF143207,RAC-SK,United States,2013
+MF143208,RAC-SK,United States,2013
+MF143209,RAC-SK,United States,2013
+MF143210,RAC-SK,United States,2013
+MF143211,RAC-SK,United States,2013
+MF143212,RAC-SK,United States,2013
+MF143213,RAC-SK,United States,2014
+MF143214,RAC-SK,United States,2014
+MF143215,RAC-SK,United States,2014
+MF143216,RAC-SK,United States,2014
+MF143217,RAC-SK,United States,2014
+MF143218,RAC-SK,United States,2014
+MF143219,RAC-SK,United States,2014
+MF143220,RAC-SK,United States,2014
+MF143221,RAC-SK,United States,2014
+MF143222,RAC-SK,United States,2014
+MF143223,RAC-SK,Canada,2000
+MF143224,RAC-SK,Canada,2000
+MF143225,RAC-SK,Canada,2000
+MF143226,RAC-SK,Canada,2000
+MF143227,RAC-SK,Canada,2000
+MF143228,RAC-SK,Canada,2001
+MF143229,RAC-SK,Canada,2001
+MF143230,RAC-SK,Canada,2001
+MF143231,RAC-SK,Canada,2001
+MF143232,RAC-SK,Canada,2001
+MF143233,RAC-SK,Canada,2001
+MF143234,RAC-SK,Canada,2002
+MF143235,RAC-SK,Canada,2014
+MF143236,RAC-SK,Canada,2015
+MF143237,RAC-SK,Canada,2015
+MF143238,RAC-SK,Canada,2015
+MF143239,RAC-SK,Canada,2015
+MF143240,RAC-SK,Canada,2015
+MF143241,RAC-SK,Canada,2015
+MF143242,RAC-SK,Canada,2015
+MF143243,RAC-SK,Canada,2015
+MF143244,RAC-SK,Canada,2015
+MF143245,RAC-SK,Canada,2015
+MF143246,RAC-SK,Canada,2015
+MF143247,RAC-SK,Canada,2015
+MF143248,RAC-SK,Canada,2015
+MF143249,RAC-SK,Canada,2015
+MF143250,RAC-SK,Canada,2015
+MF143251,RAC-SK,Canada,2015
+MF143252,RAC-SK,Canada,2015
+MF143253,RAC-SK,Canada,2015
+MF143254,RAC-SK,Canada,2015
+MF143255,RAC-SK,Canada,2015
+MF143256,RAC-SK,Canada,2007
+MF143257,RAC-SK,United States,2004
+MF143258,RAC-SK,United States,2004
+MF143259,RAC-SK,Canada,2007
+MF143260,RAC-SK,Canada,2007
+MF143261,RAC-SK,Canada,2007
+MF143262,RAC-SK,Canada,2007
+MF143263,RAC-SK,Canada,2007
+MF143264,RAC-SK,Canada,2007
+MF143265,RAC-SK,Canada,2007
+MF143266,RAC-SK,Canada,2007
+MF143267,RAC-SK,Canada,2007
+MF143268,RAC-SK,Canada,2007
+MF143269,RAC-SK,Canada,2007
+MF143270,RAC-SK,Canada,2007
+MF143271,RAC-SK,Canada,2007
+MF143272,RAC-SK,Canada,2008
+MF143273,RAC-SK,Canada,2008
+MF143274,RAC-SK,Canada,2008
+MF143275,RAC-SK,Canada,2008
+MF143276,RAC-SK,Canada,2009
+MF143277,RAC-SK,Canada,2015
+MF143278,RAC-SK,United States,2006
+MF143279,RAC-SK,United States,2006
+MF143280,RAC-SK,United States,2006
+MF143281,RAC-SK,United States,2006
+MF143282,RAC-SK,United States,2007
+MF143283,RAC-SK,United States,2007
+MF143284,RAC-SK,United States,2007
+MF143285,RAC-SK,United States,2007
+MF143286,RAC-SK,United States,2007
+MF143287,RAC-SK,United States,2007
+MF143288,RAC-SK,United States,2008
+MF143289,RAC-SK,United States,2009
+MF143290,RAC-SK,United States,1994
+MF143291,RAC-SK,United States,1995
+MF143292,RAC-SK,United States,2003
+MF143293,RAC-SK,United States,2003
+MF143294,RAC-SK,United States,2003
+MF143295,RAC-SK,United States,2003
+MF143296,RAC-SK,United States,2004
+MF143297,RAC-SK,United States,2004
+MF143298,RAC-SK,United States,2004
+MF143299,RAC-SK,United States,2004
+MF143300,RAC-SK,United States,2004
+MF143301,RAC-SK,United States,2004
+MF143302,RAC-SK,United States,2004
+MF143303,RAC-SK,United States,2004
+MF143304,RAC-SK,United States,2004
+MF143305,RAC-SK,United States,2004
+MF143306,RAC-SK,United States,2004
+MF143307,RAC-SK,United States,2004
+MF143308,RAC-SK,United States,2010
+MF143309,RAC-SK,United States,2010
+MF143310,RAC-SK,United States,2010
+MF143311,RAC-SK,United States,2010
+MF143312,RAC-SK,United States,2010
+MF143313,RAC-SK,United States,2010
+MF143314,RAC-SK,United States,2010
+MF143315,RAC-SK,United States,2010
+MF143316,RAC-SK,United States,2010
+MF143317,RAC-SK,United States,2010
+MF143318,RAC-SK,United States,2014
+MF143319,RAC-SK,United States,2010
+MF143320,RAC-SK,United States,2010
+MF143321,RAC-SK,United States,2010
+MF143322,RAC-SK,United States,2010
+MF143323,RAC-SK,United States,2010
+MF143324,RAC-SK,United States,2011
+MF143325,RAC-SK,United States,2011
+MF143326,RAC-SK,United States,2011
+MF143327,RAC-SK,United States,2011
+MF143328,RAC-SK,United States,2011
+MF143329,RAC-SK,United States,2011
+MF143330,RAC-SK,United States,2011
+MF143331,RAC-SK,United States,2011
+MF143332,RAC-SK,United States,2011
+MF143333,RAC-SK,United States,2011
+MF143334,RAC-SK,United States,2011
+MF143335,RAC-SK,United States,2011
+MF143336,RAC-SK,United States,2003
+MF143337,RAC-SK,United States,2007
+MF143338,RAC-SK,United States,2009
+MF143339,RAC-SK,United States,2010
+MF143340,RAC-SK,United States,2011
+MF143341,RAC-SK,Canada,2006
+MF143342,RAC-SK,Canada,2006
+MF143343,RAC-SK,Canada,2006
+MF143344,RAC-SK,Canada,2007
+MF143345,RAC-SK,Canada,2007
+MF143346,RAC-SK,Canada,2007
+MF143347,RAC-SK,Canada,2007
+MF143348,RAC-SK,Canada,2007
+MF143349,RAC-SK,Canada,2007
+MF143350,RAC-SK,Canada,2007
+MF143351,RAC-SK,Canada,2007
+MF143352,RAC-SK,Canada,2007
+MF143353,RAC-SK,Canada,2007
+MF143354,RAC-SK,Canada,2007
+MF143355,RAC-SK,Canada,2007
+MF143356,RAC-SK,Canada,2007
+MF143357,RAC-SK,Canada,2007
+MF143358,RAC-SK,Canada,2007
+MF143359,RAC-SK,Canada,2007
+MF143360,RAC-SK,Canada,2007
+MF143361,RAC-SK,Canada,2008
+MF143362,RAC-SK,Canada,2008
+MF143363,RAC-SK,Canada,2008
+MF143364,RAC-SK,Canada,2008
+MF143365,RAC-SK,Canada,2008
+MF143366,RAC-SK,Canada,2008
+MF143367,RAC-SK,Canada,2008
+MF143368,RAC-SK,Canada,2008
+MF143369,RAC-SK,Canada,2008
+MF143370,RAC-SK,Canada,2008
+MF143371,RAC-SK,Canada,2008
+MF143372,RAC-SK,Canada,2009
+MF143373,RAC-SK,United States,2005
+MF143374,RAC-SK,United States,2006
+MF143375,RAC-SK,United States,2006
+MF143376,RAC-SK,United States,2006
+MF143377,RAC-SK,United States,2006
+MF143378,RAC-SK,United States,2007
+MF143379,RAC-SK,United States,2007
+MF143380,RAC-SK,United States,2007
+MF143381,RAC-SK,United States,2007
+MF143382,RAC-SK,United States,2007
+MF143383,RAC-SK,United States,2007
+MF143384,RAC-SK,United States,2007
+MF143385,RAC-SK,United States,2007
+MF143386,RAC-SK,United States,2007
+MF143387,RAC-SK,United States,2007
+MF143388,RAC-SK,United States,2007
+MF143389,RAC-SK,United States,2007
+MF143390,RAC-SK,United States,2007
+MF143391,RAC-SK,United States,2008
+MF143392,RAC-SK,United States,2009
+MF143393,RAC-SK,United States,2009
+MF143394,RAC-SK,United States,2009
+MF143395,RAC-SK,United States,2009
+MF143396,RAC-SK,United States,2009
+MF143397,RAC-SK,United States,2009
+MF143398,RAC-SK,United States,2009
+MF143399,RAC-SK,United States,2009
+MF143400,RAC-SK,United States,2009
+MF143401,RAC-SK,United States,2009
+MF143402,RAC-SK,United States,2009
+MF143403,RAC-SK,United States,2009
+MF143404,RAC-SK,United States,2009
+MF143405,RAC-SK,United States,2009
+MF143406,RAC-SK,United States,2009
+MF143407,RAC-SK,United States,2010
+MF143408,RAC-SK,United States,2010
+MF143409,RAC-SK,United States,2010
+MF143410,RAC-SK,United States,2010
+MF143411,RAC-SK,United States,2010
+MF143412,RAC-SK,United States,2010
+MF143413,RAC-SK,United States,2010
+MF143414,RAC-SK,United States,2011
+MF143415,RAC-SK,United States,2011
+MG562518,RAC-SK,United States,2003
+MG562519,RAC-SK,United States,2003
+MG562520,RAC-SK,United States,2003
+MG562521,RAC-SK,United States,2004
+MG562522,RAC-SK,United States,2003
+MG562523,RAC-SK,United States,1990
+MG562524,RAC-SK,United States,1990
+MG562525,RAC-SK,United States,1992
+MG562526,RAC-SK,United States,1995
+MG562527,RAC-SK,United States,2003
+MG562528,RAC-SK,United States,2003
+MG562529,RAC-SK,United States,2003
+MG562530,RAC-SK,United States,2003
+MG562531,RAC-SK,United States,2003
+MG562532,RAC-SK,United States,2003
+MG562533,RAC-SK,United States,2003
+MG562534,RAC-SK,United States,2004
+MG562535,RAC-SK,United States,2004
+MG562536,RAC-SK,United States,2004
+MG562537,RAC-SK,United States,2004
+MG562538,RAC-SK,United States,2004
+MG562539,RAC-SK,United States,2004
+MG562540,RAC-SK,United States,2004
+MG562541,RAC-SK,United States,2004
+MG562542,RAC-SK,United States,2004
+MG562543,RAC-SK,United States,2010
+MG562544,RAC-SK,United States,2010
+MG562545,RAC-SK,United States,2010
+MG562546,RAC-SK,United States,2010
+MG562547,RAC-SK,United States,2011
+MG562548,RAC-SK,United States,2011
+MG562549,RAC-SK,United States,2011
+MG562550,RAC-SK,United States,2011
+MG562551,RAC-SK,United States,2011
+MG562552,RAC-SK,United States,2011
+MG562553,RAC-SK,United States,2011
+MG562554,RAC-SK,United States,2011
+MG562555,RAC-SK,United States,2005
+MG562556,RAC-SK,United States,2005
+MG562557,RAC-SK,United States,2005
+MG562558,RAC-SK,United States,2005
+MG562559,RAC-SK,United States,2005
+MG562560,RAC-SK,United States,2005
+MG562561,RAC-SK,United States,2005
+MG562562,RAC-SK,United States,2005
+MG562563,RAC-SK,United States,2005
+MG562564,RAC-SK,United States,2006
+MG562565,RAC-SK,United States,2006
+MG562566,RAC-SK,United States,2006
+MG562567,RAC-SK,United States,2006
+MG562568,RAC-SK,United States,2006
+MG562569,RAC-SK,United States,2006
+MG562570,RAC-SK,United States,2006
+MG562571,RAC-SK,United States,2006
+MG562572,RAC-SK,United States,2006
+MG562573,RAC-SK,United States,2006
+MG562574,RAC-SK,United States,2006
+MG562575,RAC-SK,United States,2007
+MG562576,RAC-SK,United States,2007
+MG562577,RAC-SK,United States,2007
+MG562578,RAC-SK,United States,2007
+MG562579,RAC-SK,United States,2007
+MG562580,RAC-SK,United States,2008
+MG562581,RAC-SK,United States,2008
+MG562582,RAC-SK,United States,2008
+MG562583,RAC-SK,United States,2008
+MG562584,RAC-SK,United States,2008
+MG562585,RAC-SK,United States,2008
+MG562586,RAC-SK,United States,2008
+MG562587,RAC-SK,United States,2008
+MG562588,RAC-SK,United States,2008
+MG562589,RAC-SK,United States,2008
+MG562590,RAC-SK,United States,2008
+MG562591,RAC-SK,United States,2008
+MG562592,RAC-SK,United States,2008
+MG562593,RAC-SK,United States,2009
+MG562594,RAC-SK,United States,2009
+MG562595,RAC-SK,United States,2009
+MG562596,RAC-SK,United States,2009
+MG562597,RAC-SK,United States,2009
+MG562598,RAC-SK,United States,2009
+MG562599,RAC-SK,United States,2009
+MG562600,RAC-SK,United States,2009
+MG562601,RAC-SK,United States,2009
+MG562602,RAC-SK,United States,2009
+MG562603,RAC-SK,United States,2009
+MG562604,RAC-SK,United States,2009
+MG562605,RAC-SK,United States,2009
+MG562606,RAC-SK,United States,2009
+MG562607,RAC-SK,United States,2010
+MG562608,RAC-SK,United States,2010
+MG562609,RAC-SK,United States,2010
+MG562610,RAC-SK,United States,2011
+MK540658,RAC-SK,United States,1990
+MK540659,RAC-SK,United States,1990
+MK540660,RAC-SK,United States,1990
+MK540661,RAC-SK,United States,1990
+MK540662,RAC-SK,United States,1990
+MK540663,RAC-SK,United States,1990
+MK540664,RAC-SK,United States,1990
+MK540665,RAC-SK,United States,1990
+MK540666,RAC-SK,United States,1990
+MK540667,RAC-SK,United States,1990
+MK540668,RAC-SK,United States,1990
+MK540669,RAC-SK,United States,1990
+MK540670,RAC-SK,United States,1990
+MK540671,RAC-SK,United States,1990
+MK540672,RAC-SK,United States,1990
+MK540673,RAC-SK,United States,1990
+MK540674,RAC-SK,United States,1990
+MK540675,RAC-SK,United States,1990
+MK540676,RAC-SK,United States,1990
+MK540677,RAC-SK,United States,1990
+MK540678,RAC-SK,United States,1991
+MK540679,RAC-SK,United States,1991
+MK540680,RAC-SK,United States,1991
+MK540681,RAC-SK,United States,1991
+MK540682,RAC-SK,United States,1992
+MK540683,RAC-SK,United States,1992
+MK540684,RAC-SK,United States,1992
+MK540685,RAC-SK,United States,1992
+MK540686,RAC-SK,United States,1992
+MK540687,RAC-SK,United States,1992
+MK540688,RAC-SK,United States,1993
+MK540689,RAC-SK,United States,1993
+MK540690,RAC-SK,United States,1995
+MK540691,RAC-SK,United States,2003
+MK540692,RAC-SK,United States,2003
+MK540693,RAC-SK,United States,2003
+MK540694,RAC-SK,United States,2003
+MK540695,RAC-SK,United States,2003
+MK540696,RAC-SK,United States,2004
+MK540697,RAC-SK,United States,2004
+MK540698,RAC-SK,United States,2004
+MK540699,RAC-SK,United States,2004
+MK540700,RAC-SK,United States,2004
+MK540701,RAC-SK,United States,2004
+MK540702,RAC-SK,United States,2004
+MK540703,RAC-SK,United States,2004
+MK540704,RAC-SK,United States,2004
+MK540705,RAC-SK,United States,2004
+MK540706,RAC-SK,United States,2004
+MK540707,RAC-SK,United States,2004
+MK540708,RAC-SK,United States,2004
+MK540709,RAC-SK,United States,2004
+MK540710,RAC-SK,United States,2004
+MK540711,RAC-SK,United States,2004
+MK540712,RAC-SK,United States,2004
+MK540713,RAC-SK,United States,2004
+MK540714,RAC-SK,United States,2004
+MK540715,RAC-SK,United States,2004
+MK540716,RAC-SK,United States,2004
+MK540717,RAC-SK,United States,2004
+MK540718,RAC-SK,United States,2004
+MK540719,RAC-SK,United States,2004
+MK540720,RAC-SK,United States,2004
+MK540721,RAC-SK,United States,2004
+MK540722,RAC-SK,United States,2009
+MK540723,RAC-SK,United States,2010
+MK540724,RAC-SK,United States,2010
+MK540725,RAC-SK,United States,2010
+MK540726,RAC-SK,United States,2010
+MK540727,RAC-SK,United States,2010
+MK540728,RAC-SK,United States,2010
+MK540729,RAC-SK,United States,2010
+MK540730,RAC-SK,United States,2010
+MK540731,RAC-SK,United States,2010
+MK540732,RAC-SK,United States,2010
+MK540733,RAC-SK,United States,2010
+MK540734,RAC-SK,United States,2010
+MK540735,RAC-SK,United States,2010
+MK540736,RAC-SK,United States,2010
+MK540737,RAC-SK,United States,2010
+MK540738,RAC-SK,United States,2010
+MK540739,RAC-SK,United States,2010
+MK540740,RAC-SK,United States,2010
+MK540741,RAC-SK,United States,2010
+MK540742,RAC-SK,United States,2011
+MK540743,RAC-SK,United States,2011
+MK540744,RAC-SK,United States,2011
+MK540745,RAC-SK,United States,2011
+MK540746,RAC-SK,United States,2011
+MK540747,RAC-SK,United States,2011
+MK540748,RAC-SK,United States,2011
+MK540749,RAC-SK,United States,2011
+MK540750,RAC-SK,United States,2011
+MK540751,RAC-SK,United States,2011
+MK540752,RAC-SK,United States,2011
+MK540753,RAC-SK,United States,2011
+MK540754,RAC-SK,United States,2011
+MK540755,RAC-SK,United States,2011
+MK540756,RAC-SK,United States,2011
+MK540757,RAC-SK,United States,2011
+MK540758,RAC-SK,United States,2011
+MK540759,RAC-SK,United States,2011
+MK540760,RAC-SK,United States,2011
+MK540761,RAC-SK,United States,2011
+MK540762,RAC-SK,United States,2011
+MK540763,RAC-SK,United States,2011
+MK540764,RAC-SK,United States,2011
+MK540765,RAC-SK,United States,2011
+MK540766,RAC-SK,United States,2011
+MK540767,RAC-SK,United States,2011
+MK540768,RAC-SK,United States,2011
+MK540769,RAC-SK,United States,2011
+MK540770,RAC-SK,United States,2011
+MK540771,RAC-SK,United States,2011
+MK540772,RAC-SK,United States,2011
+MK540773,RAC-SK,United States,2011
+MK540774,RAC-SK,United States,2011
+MK540775,RAC-SK,United States,2011
+MK540776,RAC-SK,United States,2011
+MK540777,RAC-SK,United States,2011
+MK540778,RAC-SK,United States,2011
+MK540779,RAC-SK,United States,2011
+MK540780,RAC-SK,United States,2011
+MK540781,RAC-SK,United States,2011
+MK540782,RAC-SK,United States,2011
+MK540783,RAC-SK,United States,2011
+MK540784,RAC-SK,United States,2011
+MK540785,RAC-SK,United States,2011
+MK540786,RAC-SK,United States,2011
+MK540787,RAC-SK,United States,2011
+MK540788,RAC-SK,United States,2011
+MK540789,RAC-SK,United States,2011
+MK540790,RAC-SK,United States,2011
+MK540791,RAC-SK,United States,2011
+MK540792,RAC-SK,United States,2011
+MK540793,RAC-SK,United States,2011
+MK540794,RAC-SK,United States,2015
+MK540795,RAC-SK,United States,2015
+MK540796,RAC-SK,United States,2015
+MK540797,RAC-SK,United States,2018
+MK540798,RAC-SK,United States,2018
+MK540799,RAC-SK,United States,2018
+MK540800,RAC-SK,Canada,2015
+MK540801,RAC-SK,Canada,2015
+MK540802,RAC-SK,Canada,2015
+MK540803,RAC-SK,Canada,2015
+MK540804,RAC-SK,Canada,2015
+MK540805,RAC-SK,Canada,2016
+MK540806,RAC-SK,Canada,2016
+MK540807,RAC-SK,Canada,2016
+MK540808,RAC-SK,Canada,2016
+MK540809,RAC-SK,Canada,2016
+MK540810,RAC-SK,Canada,2016
+MK540811,RAC-SK,Canada,2016
+MK540812,RAC-SK,Canada,2016
+MK540813,RAC-SK,Canada,2016
+MK540814,RAC-SK,Canada,2016
+MK540815,RAC-SK,Canada,2016
+MK540816,RAC-SK,Canada,2016
+MK540817,RAC-SK,Canada,2016
+MK540818,RAC-SK,Canada,2016
+MK540819,RAC-SK,Canada,2016
+MK540820,RAC-SK,Canada,2016
+MK540821,RAC-SK,Canada,2016
+MK540822,RAC-SK,Canada,2016
+MK540823,RAC-SK,Canada,2016
+MK540824,RAC-SK,Canada,2016
+MK540825,RAC-SK,Canada,2016
+MK540826,RAC-SK,Canada,2016
+MK540827,RAC-SK,Canada,2016
+MK540828,RAC-SK,Canada,2016
+MK540829,RAC-SK,Canada,2016
+MK540830,RAC-SK,Canada,2016
+MK540831,RAC-SK,Canada,2016
+MK540832,RAC-SK,Canada,2016
+MK540833,RAC-SK,Canada,2016
+MK540834,RAC-SK,Canada,2016
+MK540835,RAC-SK,Canada,2016
+MK540836,RAC-SK,Canada,2016
+MK540837,RAC-SK,Canada,2016
+MK540838,RAC-SK,Canada,2016
+MK540839,RAC-SK,Canada,2016
+MK540840,RAC-SK,Canada,2016
+MK540841,RAC-SK,Canada,2016
+MK540842,RAC-SK,Canada,2016
+MK540843,RAC-SK,Canada,2016
+MK540844,RAC-SK,Canada,2016
+MK540845,RAC-SK,Canada,2016
+MK540846,RAC-SK,Canada,2016
+MK540847,RAC-SK,Canada,2016
+MK540848,RAC-SK,Canada,2016
+MK540849,RAC-SK,Canada,2016
+MK540850,RAC-SK,Canada,2016
+MK540851,RAC-SK,Canada,2016
+MK540852,RAC-SK,Canada,2016
+MK540853,RAC-SK,Canada,2016
+MK540854,RAC-SK,Canada,2016
+MK540855,RAC-SK,Canada,2016
+MK540856,RAC-SK,Canada,2016
+MK540857,RAC-SK,Canada,2016
+MK540858,RAC-SK,Canada,2016
+MK540859,RAC-SK,Canada,2016
+MK540860,RAC-SK,Canada,2016
+MK540861,RAC-SK,Canada,2016
+MK540862,RAC-SK,Canada,2016
+MK540863,RAC-SK,Canada,2016
+MK540864,RAC-SK,Canada,2016
+MK540865,RAC-SK,Canada,2016
+MK540866,RAC-SK,Canada,2016
+MK540867,RAC-SK,Canada,2016
+MK540868,RAC-SK,Canada,2016
+MK540869,RAC-SK,Canada,2016
+MK540870,RAC-SK,Canada,2016
+MK540871,RAC-SK,Canada,2016
+MK540872,RAC-SK,Canada,2017
+MK540873,RAC-SK,Canada,2017
+MK540874,RAC-SK,Canada,2017
+MK540875,RAC-SK,Canada,2017
+MK540876,RAC-SK,Canada,2017
+MK540877,RAC-SK,Canada,2017
+MK540878,RAC-SK,Canada,2017
+MK540879,RAC-SK,Canada,2017
+MK540880,RAC-SK,Canada,2017
+MK540881,RAC-SK,Canada,2017
+MK540882,RAC-SK,Canada,2017
+MK540883,RAC-SK,United States,1989
+MK540884,RAC-SK,United States,1989
+MK540885,RAC-SK,United States,1989
+MK540886,RAC-SK,United States,1989
+MN418142,RAC-SK,United States,2018
+MN418143,RAC-SK,United States,2008
+MN418144,RAC-SK,United States,2017
+MN418145,RAC-SK,United States,2017
+MN418146,RAC-SK,United States,2017
+MN418147,RAC-SK,United States,2017
+MN418148,RAC-SK,United States,2017
+MN418149,RAC-SK,United States,2017
+MN418150,RAC-SK,United States,2016
+MN418151,RAC-SK,United States,2016
+MN418152,RAC-SK,United States,2016
+MN418153,RAC-SK,United States,2017
+MN418154,RAC-SK,United States,2017
+MN418155,RAC-SK,United States,2016
+MN418156,RAC-SK,United States,2018
+MN418157,RAC-SK,United States,2017
+MN418158,RAC-SK,United States,2017
+MN418159,RAC-SK,United States,2016
+MN418160,RAC-SK,United States,2017
+MN418161,RAC-SK,United States,2017
+MN418162,RAC-SK,United States,2017
+MN418163,RAC-SK,United States,2016
+MN418164,RAC-SK,United States,2009
+MN418165,RAC-SK,United States,2017
+MN418167,RAC-SK,United States,2017
+MN418168,RAC-SK,United States,2017
+MN418169,RAC-SK,United States,2018
+MN418170,RAC-SK,United States,2017
+MN418171,RAC-SK,United States,2018
+MN418172,RAC-SK,United States,2017
+MN418173,RAC-SK,United States,2018
+MN418174,RAC-SK,United States,2017
+MN418175,RAC-SK,United States,2017
+MN418176,RAC-SK,United States,2017
+MN418177,RAC-SK,United States,2017
+MN418178,RAC-SK,United States,2017
+MN418179,RAC-SK,United States,2017
+MN418180,RAC-SK,United States,2017
+MN418181,RAC-SK,United States,2016
+MN418182,RAC-SK,United States,2016
+MN418183,RAC-SK,United States,2017
+MN418184,RAC-SK,United States,2017
+MN862283,RAC-SK,United States,1991
+MW055084,RAC-SK,United States,2017
+MW055085,RAC-SK,United States,2017
+MW055086,RAC-SK,United States,2017
+MW055087,RAC-SK,United States,2017
+U27220,RAC-SK,-,1995
+AF351826,RAC-SK,-,2001
+AH014571,RAC-SK,United States,2005
+AH014572,RAC-SK,United States,2005
+AH014573,RAC-SK,United States,2005
+AY704928,RAC-SK,United States,2005
+AY704929,RAC-SK,United States,2005
+AY704930,RAC-SK,United States,2005
+AY704931,RAC-SK,United States,2005
+AY704934,RAC-SK,United States,2005
+AY704935,RAC-SK,United States,2005
+AY704938,RAC-SK,United States,2005
+AY704939,RAC-SK,United States,2005
+AY704944,RAC-SK,United States,2005
+AY704945,RAC-SK,United States,2005
+AY704946,RAC-SK,United States,2005
+AY704948,RAC-SK,United States,2005
+AY704949,RAC-SK,United States,2005
+DQ886039,RAC-SK,United States,1997
+DQ886040,RAC-SK,United States,2007
+DQ886041,RAC-SK,United States,2003
+DQ886042,RAC-SK,United States,2007
+DQ886043,RAC-SK,United States,2003
+DQ886044,RAC-SK,United States,2003
+DQ886045,RAC-SK,United States,2004
+DQ886046,RAC-SK,United States,2004
+DQ886047,RAC-SK,United States,2007
+DQ886048,RAC-SK,United States,2007
+DQ886049,RAC-SK,United States,1987
+DQ886050,RAC-SK,United States,1992
+DQ886051,RAC-SK,United States,1982
+DQ886052,RAC-SK,United States,1982
+DQ886053,RAC-SK,United States,1992
+DQ886054,RAC-SK,United States,2007
+DQ886055,RAC-SK,United States,1992
+DQ886056,RAC-SK,United States,1992
+DQ886057,RAC-SK,United States,1994
+DQ886058,RAC-SK,United States,2003
+DQ886059,RAC-SK,United States,2007
+DQ886060,RAC-SK,United States,2004
+DQ886061,RAC-SK,United States,2003
+DQ886062,RAC-SK,United States,1984
+DQ886063,RAC-SK,United States,2007
+DQ886064,RAC-SK,United States,1989
+DQ886065,RAC-SK,United States,1992
+DQ886066,RAC-SK,United States,1992
+DQ886067,RAC-SK,United States,1994
+DQ886068,RAC-SK,United States,1994
+DQ886069,RAC-SK,United States,1994
+DQ886070,RAC-SK,United States,1987
+DQ886071,RAC-SK,United States,2002
+DQ886072,RAC-SK,United States,2002
+DQ886073,RAC-SK,United States,2002
+DQ886074,RAC-SK,United States,2002
+DQ886075,RAC-SK,United States,2002
+DQ886076,RAC-SK,United States,2002
+EF508139,RAC-SK,United States,2004
+EF508140,RAC-SK,United States,2004
+EF508141,RAC-SK,United States,2002
+EF508142,RAC-SK,United States,2002
+EF508143,RAC-SK,United States,2007
+EF508144,RAC-SK,United States,2003
+EU003121,RAC-SK,United States,1997
+EU003122,RAC-SK,United States,1997
+EU003123,RAC-SK,United States,1997
+EU003124,RAC-SK,United States,2004
+EU003125,RAC-SK,United States,2004
+EU003126,RAC-SK,United States,2004
+EU003127,RAC-SK,United States,2004
+EU003128,RAC-SK,United States,2004
+EU003129,RAC-SK,United States,2002
+EU311738,RAC-SK,Canada,1999
+KY026418,RAC-SK,United States,1998
+KY026422,RAC-SK,Canada,1999
+KY026423,RAC-SK,Canada,1999
+KY026428,RAC-SK,Canada,2000
+KY026429,RAC-SK,Canada,2000
+KY026433,RAC-SK,Canada,2000
+KY026434,RAC-SK,Canada,2000
+KY026437,RAC-SK,Canada,2000
+KY026438,RAC-SK,Canada,2000
+MW055079,RAC-SK,United States,2016
+MW055080,RAC-SK,United States,2016
+MW055081,RAC-SK,United States,2017
+MW055082,RAC-SK,United States,2017
+MW055083,RAC-SK,United States,2017
+ON986424,RAC-SK,United States,2019
+ON986425,RAC-SK,United States,2019
+ON986426,RAC-SK,United States,2019
+ON986427,RAC-SK,United States,2020
+ON986428,RAC-SK,United States,2017
+ON986429,RAC-SK,United States,2018
+ON986430,RAC-SK,United States,2018
+ON986432,RAC-SK,United States,2018
+ON986433,RAC-SK,United States,2017
+ON986434,RAC-SK,United States,2017
+ON986435,RAC-SK,United States,2017
+ON986436,RAC-SK,United States,2017
+ON986437,RAC-SK,United States,2017
+ON986438,RAC-SK,United States,2017
+ON986439,RAC-SK,United States,2017
+ON986440,RAC-SK,United States,2017
+ON986441,RAC-SK,United States,2017
+ON986442,RAC-SK,United States,2018
+ON986443,RAC-SK,United States,2018
+ON986444,RAC-SK,United States,2018
+ON986445,RAC-SK,United States,2018
+ON986446,RAC-SK,United States,2018
+ON986447,RAC-SK,United States,2018
+ON986448,RAC-SK,United States,2018
+ON986449,RAC-SK,United States,2018
+ON986450,RAC-SK,United States,2018
+ON986451,RAC-SK,United States,2018
+ON986452,RAC-SK,United States,2018
+ON986453,RAC-SK,United States,2018
+ON986454,RAC-SK,United States,2018
+ON986455,RAC-SK,United States,2018
+ON986456,RAC-SK,United States,2018
+ON986457,RAC-SK,United States,2018
+ON986458,RAC-SK,United States,2019
+ON986459,RAC-SK,United States,2019
+ON986460,RAC-SK,United States,2019
+ON986461,RAC-SK,United States,2019
+ON986462,RAC-SK,United States,2019
+ON986463,RAC-SK,United States,2019
+ON986464,RAC-SK,United States,2019
+ON986465,RAC-SK,United States,2019
+ON986466,RAC-SK,United States,2019
+ON986467,RAC-SK,United States,2019
+ON986468,RAC-SK,United States,2019
+ON986469,RAC-SK,United States,2019
+ON986470,RAC-SK,United States,2019
+ON986471,RAC-SK,United States,2019
+ON986472,RAC-SK,United States,2019
+ON986473,RAC-SK,United States,2020
+ON986474,RAC-SK,United States,2017
+ON986475,RAC-SK,United States,2017
+ON986476,RAC-SK,United States,2017
+ON986477,RAC-SK,United States,2017
+ON986478,RAC-SK,United States,2019
+ON986479,RAC-SK,United States,2019
+ON986480,RAC-SK,United States,2019
+ON986481,RAC-SK,United States,2019
+ON986482,RAC-SK,United States,2018
+ON986483,RAC-SK,United States,2018
+ON986484,RAC-SK,United States,2019
+OP221406,RAC-SK,United States,2019
+OP221407,RAC-SK,United States,2019
+OP221408,RAC-SK,United States,2019
+OP221409,RAC-SK,United States,2019
+U27218,RAC-SK,-,1995
+U27219,RAC-SK,-,1995
+U27221,RAC-SK,-,1995
