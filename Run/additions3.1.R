@@ -360,6 +360,32 @@ if (length(which(updates$count >=10))!= 0) {
 
     }
 
+    for (i in 1:length(lineage_info$lineage)) {
+      lineage_info$n_seqs[i]<-length(which(new_seq$lineage == lineage_info$lineage[i]))
+      lineage_info$year_first[i]<-min(new_seq$year[which(new_seq$lineage == lineage_info$lineage[i])])
+      lineage_info$year_last[i]<-max(new_seq$year[which(new_seq$lineage == lineage_info$lineage[i])])
+    }
+
+    lineage_info<-lineage_info[rev(order(lineage_info$lineage)),]
+
+    numbers<-which(lineage_info$n_seqs < 10 && lineage_info$lineage %notin% lineage_info$parent)
+
+    while (length(numbers) != 0) {
+      for (x in 1:length(numbers)) {
+        new_seq$lineage[which(new_seq$lineage == lineage_info$lineage[numbers[x]])]<-lineage_info$parent[numbers[x]]
+        countries<-unique(lineage_info$country[numbers[x]],
+                          lineage_info$country[which(lineage_info$lineage == lineage_info$parent[numbers[x]])])
+        lineage_info$country[which(lineage_info$lineage == lineage_info$parent[numbers[x]])]<-countries
+        lineage_info<-lineage_info[-c(numbers),]
+        for (i in 1:length(lineage_info$lineage)) {
+          lineage_info$n_seqs[i]<-length(which(new_seq$lineage == lineage_info$lineage[i]))
+          lineage_info$year_first[i]<-min(new_seq$year[which(new_seq$lineage == lineage_info$lineage[i])])
+          lineage_info$year_last[i]<-max(new_seq$year[which(new_seq$lineage == lineage_info$lineage[i])])
+        }
+        numbers<-which(lineage_info$n_seqs < 10 && lineage_info$lineage %notin% lineage_info$parent)
+      }
+    }
+
     write.csv(lineage_info, paste(args, "/Outputs/new_lineages.csv", sep = ""), row.names = F)
     write.csv(all_lineage, paste(args, "/Outputs/relevant_lineages.csv", sep = ""), row.names = F)
     write.csv(new_seq, paste(args, "/Outputs/sequence_data.csv", sep = ""), row.names = F)
@@ -593,3 +619,437 @@ if (length(which(updates$count >=10))!= 0) {
     ggplot2::ggsave(paste(args, "/Figures/", args, "_lineage_tree.png", sep = ""),
                     plot = gridExtra::arrangeGrob(plot_tree, plot_new, ncol = 2))
 }
+
+#############################################
+#            BOOTSTRAP SUPPORT              #
+#############################################
+alignment_matrix <- seqinr::as.matrix.alignment(alignment)
+ancestral_matrix <- seqinr::as.matrix.alignment(ancestral)
+
+tree$tip.label <- gsub("\\..*", "", tree$tip.label, perl = T)
+tree$node.comment<- gsub(".*=", "", tree$node.label, perl = T)
+
+nodes_70 <- which(tree$node.comment > 70 | tree$node.comment == 100)
+nodes_70 <- nodes_70 + length(tree$tip.label)
+
+node_data <- data.frame(Node = nodes_70, n_tips = NA)
+# Make a dataframe ready for values to be put in
+# Fill the first column with the numbers of the nodes identified in the previous steps
+
+for(i in 1:length(nodes_70)) {
+  node_data[i,2] <- length(phangorn::Descendants(tree, nodes_70[i], type = "tips")[[1]])
+}
+# For each node identified in the previous step, count the number of tips descended from that node
+
+nodes_5 <- node_data[(which(node_data[,2]%in%5:9)),]
+
+#############################################
+#             PARENT LINEAGES               #
+#############################################
+
+for (i in 1:length(all_lineage$lineage)) {
+  match<-which(lineage_info$lineage == all_lineage$lineage[i])
+  lineage_info$n_seqs[match]<-lineage_info$n_seqs[match] + all_lineage$n_seqs[i]
+}
+
+tests<-data.frame(lineage = lineage_info$lineage[which(lineage_info$n_seqs >= 5)], clades = NA)
+
+
+sequence_data<-data.frame(ID = c(seq_data$ID, sequence_data$ID), lineage = c(seq_data$lineage, sequence_data$lineage))
+
+sequence_data<-sequence_data[-c(which(duplicated(sequence_data$ID))),]
+
+if(length(which(sequence_data$lineage %in% 1:1000)) != 0) {
+  sequence_data<-data.frame(ID = c(sequences$ID, assignments$ID),
+                            lineage = c(sequences$cluster, assignments$lineage))
+}
+
+for (x in 1:length(tests$lineage)) {
+  MRCA<-getMRCA(tree, tip = (sequence_data$ID[which(sequence_data$lineage == tests$lineage[x])]))
+  if (length(MRCA)!= 0) {
+    descendents<-getDescendants(tree, node=MRCA)
+    nodes<-which(descendents %in% nodes_5$Node)
+
+    if(length(nodes) != 0){
+      for (i in 1:length(nodes)) {
+        clades<-unique(
+          sequence_data$lineage[
+            which(sequence_data$ID %in% tree$tip.label[getDescendants(tree, node=descendents[nodes[i]])])])
+        if (length(clades)==1) {
+          if (clades == tests$lineage[x]){
+            tests$clades[x]<-paste(tests$clades[x], descendents[nodes[i]], sep = ",")
+          }
+        }
+      }
+    }
+  }
+}
+#' Which of the potential lineage defining nodes are descended from each lineage
+
+if(length(which(is.na(tests$clades))) != 0){
+  tests<-tests[-c(which(is.na(tests$clades))),]
+}
+#' Remove any lineages with no potential lineage nodes descended
+
+tests$clades<-gsub("NA,", "", tests$clades)
+
+tests$n_clades<-NA
+
+for (i in 1:length(tests$lineage)) {
+  tests$n_clades[i]<-length((strsplit(tests$clades, ","))[[i]])
+}
+#' Count number of potential lineage nodes for each lineage
+
+#' Make a table of each of the nodes to investigate and which lineage they're from:
+noi<-tests$clades[1]
+
+for (i in 2:length(tests$lineage)) {
+  noi<-paste(noi, tests$clades[i], sep = ",")
+}
+
+noi<-strsplit(noi, ",")[[1]]
+
+noi<-data.frame(node = noi, lineage = NA, tips = NA)
+
+for (i in 1:length(noi$node)) {
+  noi$lineage[i]<-tests$lineage[grep(noi$node[i], tests$clades)]
+}
+
+noi$node<-as.integer(noi$node)
+
+for (i in 1:length(noi$node)) {
+  noi$tips[i]<-length(Descendants(tree, noi$node[i], "tips")[[1]])
+}
+#' Count the number of tips for each node of interest
+
+noi$tips<-as.integer(noi$tips)
+
+#' Count the number of nodes of interest for each lineage:
+int<-data.frame(lineage = unique(noi$lineage), count = NA)
+
+for (i in 1:length(int$lineage)) {
+  int$count[i]<-length(which(noi$lineage == int$lineage[i]))
+}
+
+int$test<-NA
+
+numbers<-which(int$count == 1)
+
+if (length(numbers) != 0){
+  for (i in 1:length(numbers)) {
+    if ((lineage_info$n_seqs[which(lineage_info$lineage == int$lineage[numbers[i]])] -
+         noi$tips[which(noi$lineage == int$lineage[numbers[i]])]) == 0) {
+      int$test[numbers[i]]<-"N"
+    }
+  }
+}
+
+#' Check that this isn't just a ladder structure from the parent lineage
+
+#############################################
+#            95% COVERAGE WGS               #
+#############################################
+noi$diff <- NA
+nodes_reduced <- data.frame(Nodes = (noi$node - (1+length(tree$tip.label))))
+
+#############################################
+#         DIFFERENCE FROM ANCESTOR          #
+#############################################
+# For each node of interest, find all the tips
+# Make a note of the differences between the oldest seq in the each cluster/lineage and one of the seqs in the lineage
+# Which differences between the old seq and each seq are shared between all the seqs in the lineage
+# E.g. which lineages show one or more shared nucleotides differences from the ancestor
+# Count these differences and add them to the table to be analysed further (may just be n's)
+for (i in 1:length(noi$node)) {
+  cm <- caper::clade.members(noi$node[i], tree, include.nodes = F, tip.labels = T)
+  seq_cm <- which(sequence_data$ID %in% cm)
+  old <- which(row.names(ancestral_matrix) == paste("NODE_", (sprintf("%07d", nodes_reduced$Nodes[i])), sep=""))
+
+  tips <- which(row.names(ancestral_matrix) %in% cm)
+  x <- which(ancestral_matrix[old,] != ancestral_matrix[(tips[1]),])
+
+  for (j in tips[-c(1)]) {
+    x <- x[which(x %in% (which(ancestral_matrix[old,] != ancestral_matrix[j,])))]
+    print(x)
+    noi$diff[i] <- length(x)
+  }
+}
+
+nodes_diff <- noi[(which(noi$diff!=0)),] # Get rid of the ones with no differences straight away
+
+#############################################
+#         OVERLAPPING TIPS REMOVAL          #
+#############################################
+# Add a column to nodes_diff and for each node, count how many of the other nodes of interest are descended from it
+nodes_diff$overlaps <- NA
+for (i in 1:length(nodes_diff$node)) {
+  nodes_diff$overlaps[i] <- length(which((phangorn::allDescendants(tree)[[(nodes_diff[i,1])]]) %in% nodes_diff[,1]))
+}
+
+nodes_diff<-nodes_diff[(which(nodes_diff$overlaps == 0)),]
+
+#############################################
+#         SIGNIFICANT DIVERSITY             #
+#############################################
+nodes_diff$distance<-NA
+
+for (i in 1:length(nodes_diff$node)) {
+  parent<-Ancestors(tree, nodes_diff$node[i], "parent")
+  nodes_diff$distance[i]<-castor::get_pairwise_distances(tree, nodes_diff$node[1], parent)
+}
+#' Calculate the patristic distance of each node of interest from it's parent node
+
+distances<-as.matrix(adephylo::distTips(tree, tips = "all", method = "patristic"))
+#' Get the patristic distance matrix for all sequences
+
+
+nodes_diff$top<-NA
+
+for (i in 1:length(nodes_diff$node)) {
+  subset<-distances[which(rownames(distances)
+                          %in% sequence_data$ID[which(sequence_data$lineage == nodes_diff$lineage[i])]),
+                    which(colnames(distances)
+                          %in% sequence_data$ID[which(sequence_data$lineage == nodes_diff$lineage[i])])]
+
+  nodes_diff$top[i]<-quantile(subset, 0.95)
+}
+#' Calculate the 95th percentile for all patristic distances in each lineage
+
+nodes_diff<-nodes_diff[which(nodes_diff$distance >= nodes_diff$top),]
+#' Only keep nodes where the distance to the parent node is at least the 95th percentile
+
+if(length(nodes_diff$node) != 0) {
+  sequence_data$Country<-NA
+
+  for (i in 1:length(sequence_data$ID)) {
+    sequence_data$Country[i]<-metadata$country[which(metadata$ID == sequence_data$ID[i])]
+  }
+
+  sequence_data$Year<-NA
+
+  for (i in 1:length(sequence_data$ID)) {
+    sequence_data$Year[i]<-metadata$year[which(metadata$ID == sequence_data$ID[i])]
+  }
+
+  if(length(which(is.na(sequence_data$Year)))!= 0){
+    sequence_data<-sequence_data[-c(which(is.na(sequence_data$Year))),]
+  }
+
+  #############################################
+  #         APPROPRIATE METADATA              #
+  #############################################
+  sequence_data$Country<-gsub("-", NA, sequence_data$Country)
+
+  nodes_diff$country<-NA
+
+  #' Identify the countries the sequences descended from the nodes of interest are from
+  for (i in 1:length(nodes_diff$node)) {
+    countries<-unique(sequence_data$Country[
+      which(sequence_data$ID %in% tree$tip.label[Descendants(tree, nodes_diff$node[i], "tips")[[1]]])])
+
+    if(length(which(is.na(countries))) != 0) {
+      countries<-countries[-c(which(is.na(countries)))]
+    }
+    if (length(countries) != 1){
+      nodes_diff$country[i]<-list(c(countries))
+    } else {
+      nodes_diff$country[i]<-countries
+    }
+  }
+
+  nodes_diff$year_first<-NA
+  nodes_diff$year_last<-NA
+
+  #' Identify the first and most recent years of detection for the potential lineages
+  for (i in 1:length(nodes_diff$node)) {
+    nodes_diff$year_first[i]<-min(sequence_data$Year[
+      which(sequence_data$ID %in% tree$tip.label[Descendants(tree, nodes_diff$node[i], "tips")[[1]]])])
+
+    nodes_diff$year_last[i]<-max(sequence_data$Year[
+      which(sequence_data$ID %in% tree$tip.label[Descendants(tree, nodes_diff$node[i], "tips")[[1]]])])
+  }
+
+  nodes_diff$year_last<-as.integer(nodes_diff$year_last)
+  nodes_diff$year_first<-as.integer(nodes_diff$year_first)
+
+  #' Only carry forwards potential lineages where all sequences are from a 5 year or less time period
+  nodes_diff<-nodes_diff[which((nodes_diff$year_last - nodes_diff$year_first) < 5),]
+
+  if (length(nodes_diff$node) != 0) {
+    #############################################
+    #                 NAMING                    #
+    #############################################
+    emerging_lineages<-nodes_diff[c(1:3, 6, 8:10)]
+    #' Extract the useful information about the emerging/undersampled lineages
+
+    #' Add an Ex suffix to denote an emerging/undersampled lineage, where x indicates multiple emerging/undersampled
+    #' lineages descended from the same parent lineage
+    emerging_lineages$lineage<-paste(emerging_lineages$lineage, "E1", sep = "_")
+
+    emerging_lineages$lineage[
+      which(duplicated(emerging_lineages$lineage))]<-
+      gsub("_E1", "_E2", emerging_lineages$lineage[which(duplicated(emerging_lineages$lineage))])
+
+    emerging_lineages$lineage[
+      which(duplicated(emerging_lineages$lineage))]<-
+      gsub("_E2", "_E3", emerging_lineages$lineage[which(duplicated(emerging_lineages$lineage))])
+
+    emerging_lineages$lineage[
+      which(duplicated(emerging_lineages$lineage))]<-
+      gsub("_E3", "_E4", emerging_lineages$lineage[which(duplicated(emerging_lineages$lineage))])
+
+    emerging_lineages$lineage[
+      which(duplicated(emerging_lineages$lineage))]<-
+      gsub("_E4", "_E5", emerging_lineages$lineage[which(duplicated(emerging_lineages$lineage))])
+
+    emerging_lineages$lineage[
+      which(duplicated(emerging_lineages$lineage))]<-
+      gsub("_E5", "_E6", emerging_lineages$lineage[which(duplicated(emerging_lineages$lineage))])
+
+    emerging_lineages$lineage[
+      which(duplicated(emerging_lineages$lineage))]<-
+      gsub("_E6", "_E7", emerging_lineages$lineage[which(duplicated(emerging_lineages$lineage))])
+
+
+    emerging_lineages<-emerging_lineages[,2:7]
+
+    emerging_lineages$country<-paste(emerging_lineages$country)
+
+    write.csv(emerging_lineages, paste(args, "/Outputs/emerging_undersampled.csv", sep = ""), row.names = F)
+    print("Emerging or undersampled lineages written to Outputs.")
+
+  } else {
+    print("No emerging or undersampled lineages detected in relevant lineages.")
+  }
+} else {
+  print("No emerging or undersampled lineages detected in relevant lineages.")
+}
+
+
+
+#'**EMERGING/UNDERSAMPLED LINEAGES**
+#############################################
+#              LONG BRANCHES                #
+#############################################
+
+lengths<-data.frame(setNames(tree$edge.length[sapply(1:length(tree$tip.label),
+                                                     function(x,y) which (y==x),y=tree$edge[,2])],
+                             tree$tip.label))
+#' Identify all the branch lengths from each tip to the nearest node
+
+colnames(lengths)<-"lengths"
+
+seqs<-rownames(lengths)[which(lengths$lengths >= quantile(lengths$lengths, .95))]
+#' Identify the longest 5% of branch lengths and which tips these correspond to
+
+seqs<-seqs[which(seqs %in% alignment$nam)]
+
+seqs<-seqs[which(seqs %in% sequence_data$ID)]
+
+lengths<-data.frame(ID = rownames(lengths), length = lengths$lengths)
+
+lengths<-lengths[which(lengths$ID %in% seqs),]
+
+lengths$close<-NA
+lengths$lineage<-NA
+lengths$cutoff<-NA
+
+for (i in 1:length(lengths$ID)) {
+  lengths$lineage[i]<-sequence_data$lineage[which(sequence_data$ID == lengths$ID[i])]
+}
+#' Identify which lineage each of the diverse sequences belongs to
+
+
+#############################################
+#         SIGNIFICANT DIVERSITY             #
+#############################################
+for (i in 1:length(lengths$ID)) {
+  sequences<-sequence_data$ID[which(sequence_data$lineage == lengths$lineage[i])]
+  subset<-distances[which(rownames(distances)%in% sequences),
+                    which(colnames(distances)%in% sequences)]
+  lengths$cutoff[i]<-quantile(subset, 0.95)
+
+}
+#' Identify the 95th percentile for patristic distances in each lineage
+
+#' Identify the closest relative sequence. If the patristic distance between the query sequence and its
+#' closest relative is at elast the 95th percentile of the lineage, list the relative. If not, 'NA'
+for (i in c(1:length(lengths$ID))) {
+  if (which(alignment$nam == lengths$ID[i]) == length(alignment$nam)){
+    up<-NA
+  }else{
+    up<-alignment$nam[(which(alignment$nam == lengths$ID[i]))+1][[1]]
+  }
+
+  if (which(alignment$nam == lengths$ID[i]) == 1) {
+    down<-NA
+  }else{
+    down<-alignment$nam[(which(alignment$nam == lengths$ID[i]))-1][[1]]
+  }
+
+
+  test<-which(tree$tip.label == lengths$ID[i])
+
+  if (is.na(up)) {
+    up<-0
+  } else {
+    up<-which(tree$tip.label == up)
+    up<-castor::get_pairwise_distances(tree, test, up)
+  }
+
+  if (is.na(down)) {
+    down<-0
+  } else {
+    down<-which(tree$tip.label == down)
+    down<-castor::get_pairwise_distances(tree, test, down)
+  }
+
+  if(down > up && down >= lengths$cutoff[i]) {
+    lengths$close[i]<-alignment$nam[(which(alignment$nam == lengths$ID[i]))-1]
+  } else {
+    if (up >= lengths$cutoff[i]) {
+      lengths$close[i]<-alignment$nam[(which(alignment$nam == lengths$ID[i]))+1]
+    } else {
+      lengths$close[i] <- NA
+    }
+  }
+}
+
+if(length(which(is.na(lengths$close))) != 0) {
+  lengths<-lengths[-c(which(is.na(lengths$close))),]
+}
+#' remove any with NA signifying close relatives
+
+
+#############################################
+#                 OUTPUT                    #
+#############################################
+#' Make a table of information about the number of diverse singletons in each lineage, and where/when they
+#' are from.
+SOI<-data.frame(lineage = lineage_info$lineage, n_singletons = NA, singleton_countries = NA, singleton_years = NA)
+
+SOI<-SOI[which(SOI$lineage %in% lengths$lineage),]
+
+for (i in 1:length(SOI$lineage)) {
+  SOI$n_singletons[i]<-length(which(lengths$lineage == SOI$lineage[i]))
+}
+
+for (i in 1:length(lengths$lineage)) {
+  lengths$year[i]<-metadata$year[which(metadata$ID == lengths$ID[i])]
+  lengths$country[i]<-metadata$country[which(metadata$ID == lengths$ID[i])]
+}
+
+for (i in 1:length(SOI$lineage)) {
+  SOI$singleton_countries[i]<-list(unique(lengths$country[which(lengths$lineage == SOI$lineage[i])]))
+  SOI$singleton_years[i]<-list(unique(lengths$year[which(lengths$lineage == SOI$lineage[i])]))
+}
+
+SOI$singleton_countries<-paste(SOI$singleton_countries)
+SOI$singleton_years<-paste(SOI$singleton_years)
+
+
+print("Singletons of interest written to Outputs.")
+
+write.csv(SOI, paste(args, "/Outputs/singletons_of_interest.csv", sep = ""), row.names = F)
+write.csv(lengths, paste(args, "/Outputs/singleton_details.csv", sep = ""), row.names = F)
+

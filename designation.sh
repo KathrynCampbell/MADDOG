@@ -48,16 +48,9 @@ then
 	mkdir $runname/Figures
 	Rscript Run/additions3.1.R $runname
 
-	#Updates
 
-	echo "Do you also wish to check for emerging/undersampled lineages and nodes of interest? Type Y or N"
-	read answer3
-
-	if [[ "$answer3" == "Y" ]]
-	then
-		Rscript Run/additions3.1.R $runname
-	fi
-
+	# Reporting
+	
 	Rscript Run/run_markdown.R $runname 
 	mkdir $runname/Report
 	mv "report.html" $runname/Report/"report.html"

@@ -56,6 +56,12 @@ if(file.exists(paste("./",args, "/Outputs/singletons_of_interest.csv", sep = "")
   soi<-NA
 }
 
+if(file.exists(paste("./",args, "/Outputs/singleton_details.csv", sep = "")) == T) {
+  soi_details<-read.csv(paste("./",args, "/Outputs/singleton_details.csv", sep = ""))
+} else {
+  soi_details<-NA
+}
+
 ```
 
 ```{css, echo=FALSE}
@@ -140,7 +146,7 @@ cat(paste(length(unique(sequence_data$lineage)), "lineages have been detected in
 cat(paste("There are ", length(relevant_lineages$lineage), " existing lineages relevant to this study."))
 kable(relevant_lineages, row.names=F)
 ```
-**Table 2.** Details of lineages relevant to this study. First and last years refer to the first and most recent years the lineage has been detected. 
+**Table 2.** Details of lineages relevant to this study. First and last years refer to the first and most recent years the lineage has been detected prior to this study. 
 
 ```{r lineage new, echo=FALSE, warning=FALSE, message=FALSE, results='asis'}
 if(length(new_lineages) != 0) {
@@ -264,10 +270,21 @@ $~$
 ```{r soi, echo=FALSE, warning=FALSE, message=FALSE, results='asis', fig.width=7, fig.height=7}
 if(!is.na(soi)){
   cat(paste("There are ", sum(soi$n_singletons), " singletons of interest detected. These reflect highly divergent sequences that could indicate sequencing errors, or the start of new lineages, especially in undersampled areas. Be aware these include ALL singletons of interest within the relevant lineages in your dataset; not just your data. This is to show there may be general gaps in the data."))
-  kable(emerging_undersampled, row.names = F) 
+  kable(soi, row.names = F) 
 } else {
   cat(paste("There are no singletons of interest in this dataset!"))
 }
 ```
 $~$
-**Table 6.** Details of singletons of interest relevant to this study. 
+**Table 6.** Summary of singletons of interest relevant to this study. 
+```{r soi_details, echo=FALSE, warning=FALSE, message=FALSE, results='asis', fig.width=7, fig.height=7}
+if(!is.na(soi_details)){
+  soi_details<-soi_details[,-c(2,5)]
+  names(soi_details)[2]<-("closest relative")
+  kable(soi_details, row.names = F) 
+} else {
+  cat(paste("There are no singletons of interest in this dataset!"))
+}
+```
+$~$
+**Table 7.** Details of individual singletons of interest relevant to this study.
