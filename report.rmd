@@ -141,7 +141,7 @@ $~$
 $~$
 \newpage
 ```{r lineage info, echo=FALSE, warning=FALSE, message=FALSE, results='asis'}
-cat(paste(length(unique(sequence_data$lineage)), "lineages have been detected in this study.", (length(relevant_lineages$lineage)+length(new_lineages$lineage)) - length(unique(sequence_data$lineage)), "lineages are included here that have not been seen in this study, but are direct parents of lineages in this study, so are included for relevant evolutionary investigations."))
+cat(paste("A total of", length(unique(sequence_data$lineage)), "lineages have been detected in this study.", (length(relevant_lineages$lineage)+length(new_lineages$lineage)) - length(unique(sequence_data$lineage)), "lineages are included here that have not been seen in this study, but are direct parents of lineages in this study, so are included for relevant evolutionary investigations."))
 
 cat(paste("There are ", length(relevant_lineages$lineage), " existing lineages relevant to this study."))
 kable(relevant_lineages, row.names=F)
