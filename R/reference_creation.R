@@ -5,21 +5,24 @@ library(phangorn)
 
 rm(list=ls())
 
-args = "Vac_WGS"
+args = ""
 
-tree<-read.tree("~/Downloads/Phil_designation/Trees/Phil_designation_combined_aligned.fasta.contree")
+tree<-read.tree("Asian/Trees/Asian_combined_aligned.fasta.contree")
 tree$tip.label <- gsub("\\..*", "", tree$tip.label, perl = T)
 tree$node.comment<- gsub(".*=", "", tree$node.label, perl = T)
 
-sequence_data<-read.csv("~/Downloads/Phil_designation/Outputs/sequence_data.csv")
-lineage_info<-read.csv("~/Downloads/Phil_designation/Outputs/new_lineages.csv")
-alignment<-read.alignment("~/Downloads/Phil_designation/Alignment/Phil_designation_combined_aligned.fasta", format = "fasta")
+sequence_data<-read.csv("Asian/Outputs/sequence_data.csv")
+lineage_info<-read.csv("Asian/Outputs/new_lineages.csv")
+lineage_info<-data.frame(lineage = c("Asian SEA1b_C1.2", "Asian SEA1b_C1.2.1"))
+alignment<-read.alignment("Datasets/Asian_N/Asian_N_aligned.fasta", format = "fasta")
 alignment$nam <- gsub("\\..*", "", alignment$nam, perl = T)
 
 distances<-as.matrix(distTips(tree, tips = "all", method = "patristic"))
 lineages<-rep(lineage_info$lineage, times = 4)
 reference_set<-data.frame(lineage = lineages, sequence = NA)
 reference_set<-reference_set[order(reference_set$lineage),]
+
+#sequence_data$lineage<-sequence_data$cluster
 
 for (x in 1:length(lineage_info$lineage)) {
   test<-sequence_data$ID[which(sequence_data$lineage == lineage_info$lineage[x])]
@@ -52,13 +55,11 @@ for (x in 1:length(lineage_info$lineage)) {
 
 reference_set<-reference_set[-c(which(is.na(reference_set$sequence))),]
 
-reference_set$sequence[1]<-"R2-081"
-
 numbers<-which(alignment$nam %in% reference_set$sequence)
 
 write.fasta(sequences = alignment$seq[numbers], names = alignment$nam[numbers], file.out =
-              '~/Downloads/Phil_designation/reference.fasta')
+              'Datasets/Asian_N/reference.fasta')
 
 reference<-data.frame(ID = reference_set$sequence, cluster = reference_set$lineage)
 
-write.csv(reference, file = "~/Downloads/Phil_designation/reference.csv", row.names = F)
+write.csv(reference, file = "Datasets/Asian_N/reference.csv", row.names = F)

@@ -4,8 +4,7 @@ args = commandArgs(trailingOnly = T)
 
 source("Run/seq_designation_nolength.R")
 source("Run/node_info_nolength.R")
-
-#devtools::install_github("KathrynCampbell/MADDOG", dependencies = F)
+source("R/lineage_info.R")
 
 library(dplyr)
 library(ggtree)
@@ -88,7 +87,9 @@ if (7 %in% numbers) {
 }
 
 sequences<-rbind(sequences1, sequences2, sequences3, sequences4, sequences5, sequences6, sequences7)
-sequences<-sequences[-c(which(is.na(sequences$ID))),]
+if(length(which(is.na(sequences$ID))) != 0) {
+  sequences<-sequences[-c(which(is.na(sequences$ID))),]
+}
 
 sequences<-sequences[which(sequences$ID %in% metadata$ID),]
 
@@ -281,7 +282,10 @@ if (length(which(updates$count >=10))!= 0) {
       seq_data$lineage[which(seq_data$ID == assignments$ID[numbers[i]])]<-assignments$lineage[numbers[i]]
     }
 
-    seq_data<-seq_data[-c(which(is.na(seq_data$lineage))),]
+    if(length(which(is.na(seq_data$lineage))) != 0) {
+      seq_data<-seq_data[-c(which(is.na(seq_data$lineage))),]
+    }
+
 
     seq_data<-seq_data[-c(which(seq_data$lineage %in% 1:1000)),]
 
@@ -309,7 +313,9 @@ if (length(which(updates$count >=10))!= 0) {
       }
     }
 
-    numbers<-which(is.na(lineage_info$parent))
+    if(length(which(is.na(lineage_info$parent))) != 0) {
+      numbers<-which(is.na(lineage_info$parent))
+    }
 
     if(length(numbers) != 0){
       for (i in 1:length(numbers)) {
@@ -969,7 +975,9 @@ for (i in c(1:length(lengths$ID))) {
   }
 }
 
-lengths<-lengths[-c(which(is.na(lengths$close))),]
+if(length(which(is.na(lengths$close))) != 0) {
+  lengths<-lengths[-c(which(is.na(lengths$close))),]
+}
 #' remove any with NA signifying close relatives
 
 

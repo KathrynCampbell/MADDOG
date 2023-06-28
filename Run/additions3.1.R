@@ -4,8 +4,7 @@ args = commandArgs(trailingOnly = T)
 
 source("Run/seq_designation_nolength.R")
 source("Run/node_info_nolength.R")
-
-#devtools::install_github("KathrynCampbell/MADDOG", dependencies = F)
+source("R/lineage_info.R")
 
 library(dplyr)
 library(ggtree)
@@ -32,7 +31,7 @@ for (i in 1:length(node_data$lineage)) {
   seq_data$lineage[which(seq_data$lineage == node_data$lineage[i])]<-node_data$number[i]
 }
 
-lineage_info<-MADDOG::lineage_info(seq_data, metadata)
+lineage_info<-lineage_info(seq_data, metadata)
 
 for (i in 1:length(node_data$lineage)) {
   lineage_info$lineage[which(lineage_info$lineage == node_data$lineage[i])]<-node_data$number[i]
@@ -88,7 +87,9 @@ if (7 %in% numbers) {
 }
 
 sequences<-rbind(sequences1, sequences2, sequences3, sequences4, sequences5, sequences6, sequences7)
-sequences<-sequences[-c(which(is.na(sequences$ID))),]
+if(length(which(is.na(sequences$ID))) != 0) {
+  sequences<-sequences[-c(which(is.na(sequences$ID))),]
+}
 
 sequences<-sequences[which(sequences$ID %in% metadata$ID),]
 
@@ -101,7 +102,13 @@ if (length(which(is.na(current$lineage))) != 0) {
 }
 
 for (i in 1:length(current$lineage)) {
-  current$node[i]<-ape::getMRCA(tree, tip = c(sequences$ID[which(sequences$cluster == current$lineage[i])]))
+  if( length(ape::getMRCA(tree, tip = c(sequences$ID[which(sequences$cluster == current$lineage[i])]))) != 0) {
+    current$node[i]<-ape::getMRCA(tree, tip = c(sequences$ID[which(sequences$cluster == current$lineage[i])]))
+  }
+}
+
+if(length(which(is.na(current$node))) != 0){
+  current<-current[-c(which(is.na(current$node))),]
 }
 
 if(length(which(duplicated(current$node))) != 0) {
@@ -260,10 +267,13 @@ if (length(which(updates$count >=10))!= 0) {
 
     node_updates<-data.frame()
 
+    node_data$lineage<-NA
+
     for (i in 1:length(updates$lineage)) {
       node_updates<-rbind(node_updates, node_data[which(node_data$node == updates$node[i]),])
       node_updates$lineage[i]<-updates$lineage[i]
     }
+
     for (i in 1:length(node_updates$node)) {
       seq_data$lineage[which(seq_data$lineage == node_updates$number[i])]<-node_updates$lineage[i]
     }
@@ -281,9 +291,13 @@ if (length(which(updates$count >=10))!= 0) {
       seq_data$lineage[which(seq_data$ID == assignments$ID[numbers[i]])]<-assignments$lineage[numbers[i]]
     }
 
-    seq_data<-seq_data[-c(which(is.na(seq_data$lineage))),]
+    if (length(which(is.na(seq_data$lineage))) != 0) {
+      seq_data<-seq_data[-c(which(is.na(seq_data$lineage))),]
+    }
 
-    seq_data<-seq_data[-c(which(seq_data$lineage %in% 1:1000)),]
+    if (length(which(seq_data$lineage %in% 1:1000)) != 0) {
+      seq_data<-seq_data[-c(which(seq_data$lineage %in% 1:1000)),]
+    }
 
     new_seq<-seq_data[which(seq_data$ID %in% assignments$ID),]
 
@@ -309,7 +323,9 @@ if (length(which(updates$count >=10))!= 0) {
       }
     }
 
-    numbers<-which(is.na(lineage_info$parent))
+    if(length(which(is.na(lineage_info$parent))) != 0) {
+      numbers<-which(is.na(lineage_info$parent))
+    }
 
     if(length(numbers) != 0){
       for (i in 1:length(numbers)) {
@@ -320,10 +336,27 @@ if (length(which(updates$count >=10))!= 0) {
       }
     }
 
+    total_lineages<-read.csv("inst/extdata/References/RABV/lineage_info.csv")
+    "%notin%"<-Negate("%in%")
+
+    issues<-unique(all_lineage$parent[which(all_lineage$parent %notin% all_lineage$lineage)])
+    big_names<-c("RABV")
+    if (length(which(issues %in% big_names)) != 0 ) {
+      issues<-issues[-c(which(issues %in% big_names))]
+    }
+
+    while (length(issues) != 0) {
+      all_lineage<-rbind(all_lineage, total_lineages[which(total_lineages$lineage %in% issues),])
+      issues<-unique(all_lineage$parent[which(all_lineage$parent %notin% all_lineage$lineage)])
+      if (length(which(issues %in% big_names)) != 0 ) {
+        issues<-issues[-c(which(issues %in% big_names))]
+      }
+    }
+
 
 
     for (i in 1:length(all_lineage$lineage)) {
-      all_lineage$n_seqs[i]<-length(which(assignments$lineage == all_lineage$lineage[i]))
+      all_lineage$n_seqs[i]<-length(which(new_seq$lineage == all_lineage$lineage[i]))
 
     }
 
@@ -341,11 +374,34 @@ if (length(which(updates$count >=10))!= 0) {
 
   }
 
+  total_lineages<-read.csv("inst/extdata/References/RABV/lineage_info.csv")
+  "%notin%"<-Negate("%in%")
+
+  issues<-unique(all_lineage$parent[which(all_lineage$parent %notin% all_lineage$lineage)])
+  big_names<-c("RABV")
+  if (length(which(issues %in% big_names)) != 0 ) {
+    issues<-issues[-c(which(issues %in% big_names))]
+  }
+
+  while (length(issues) != 0) {
+    all_lineage<-rbind(all_lineage, total_lineages[which(total_lineages$lineage %in% issues),])
+    issues<-unique(all_lineage$parent[which(all_lineage$parent %notin% all_lineage$lineage)])
+    if (length(which(issues %in% big_names)) != 0 ) {
+      issues<-issues[-c(which(issues %in% big_names))]
+    }
+  }
+
+
   lineages<-data.frame(lineage = c(all_lineage$lineage, lineage_info$lineage),
                        parent = c(all_lineage$parent, lineage_info$parent),
                        n_seqs = c(all_lineage$n_seqs, lineage_info$n_seqs))
 
   lineage_info<-lineages
+
+
+  if(length(which(duplicated(lineage_info))) != 0) {
+    lineage_info<-lineage_info[-c(which(duplicated(lineage_info))),]
+  }
 
   lineage_info$colour<-NA
 
@@ -394,6 +450,8 @@ if (length(which(updates$count >=10))!= 0) {
     type = "sunburst",
     marker = list(colors = (lineage_info$colour))
   )
+
+
   htmlwidgets::saveWidget(plotly::as_widget(new), (paste(args, "/Figures/", args, "_sunburst.html", sep = "")))
 
 

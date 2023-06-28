@@ -2,15 +2,28 @@
 
 set -e
 
-#command line inputs
-echo "What is the name of the folder containing your sequences?"
-read runname
+#Initial checks
+echo "It is essential to pull the MADDOG repository each time before starting a run to ensure any new and updated lineages are included. Have you pulled the repository? Type Y or N"
+read answer1
 
-mv -vn $runname/*.fasta $runname/$runname".fasta"
+if [[ "$answer1" == "Y" ]]
+then
 
-mafft --add $runname/$runname".fasta" --reorder inst/extdata/References/RABV/reference_aligned.fasta > $runname/$runname"_withref.fasta"
+	#command line inputs
+	echo "What is the name of the folder containing your sequences?"
+	read runname
 
-#Lineage assignment
-Rscript Run/windows_run_assignment.R $runname
+	mv -vn $runname/*.fasta $runname/$runname".fasta"
 
-rm $runname/$runname"_withref.fasta"
+	mafft --add $runname/$runname".fasta" --reorder inst/extdata/References/RABV/reference_aligned.fasta > $runname/$runname"_withref.fasta"
+
+	#Lineage assignment
+	Rscript Run/windows_run_assignment.R $runname
+
+	rm $runname/$runname"_withref.fasta"
+
+else
+	echo "Please update MADDOG before starting a run!"
+
+fi
+
