@@ -10,8 +10,8 @@ args = commandArgs(trailingOnly = T)
 #'date: 05/09/2021
 #'---------------------------------------------------------
 
-source("R/seq_designation.R")
-source("R/node_info.R")
+source("R/seq_designation_nolength.R")
+source("R/node_info_nolength.R")
 source("R/lineage_info.R")
 source("R/sunburst_function.r")
 source("R/lineage_tree.r")
