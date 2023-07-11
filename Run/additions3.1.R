@@ -215,7 +215,7 @@ if (length(which(updates$count >=10))!= 0) {
       problems<-duplicates[which(stringr::str_count(duplicates, pattern = "\\.") == 0)]
       duplicates<-duplicates[which(stringr::str_count(duplicates, pattern = "\\.") != 0)]
 
-      while (length(duplicates != 0)) {
+      while (length(duplicates) != 0) {
         for (i in 1:length(duplicates)) {
           test<-which(int$update == duplicates[i])
           x<-1
@@ -231,16 +231,16 @@ if (length(which(updates$count >=10))!= 0) {
         }
       }
 
-      while (length(problems != 0)) {
+      while (length(problems) != 0) {
         for (i in 1:length(problems)) {
           test<-which(int$update == problems[i])
           if(length(strsplit(problems[i], "_")[[1]]) != 1){
             subclade<-strsplit(problems[i], "_")[[1]][1]
             lineage<-strsplit(problems[i], "_")[[1]][2]
             lineage<-problem_names$letters[(which(problem_names$letters == lineage))+1]
-            int$update[test[1]]<-paste(subclade, lineage, sep = "_")
+            int$update[test[2]]<-paste(subclade, lineage, sep = "_")
           } else {
-            int$update[test[1]]<-problem_names$letters[(which(problem_names$letters == problems[i]))+1]
+            int$update[test[2]]<-problem_names$letters[(which(problem_names$letters == problems[i]))+1]
           }
         }
         duplicates<-int$update[which(duplicated(int$update))]
