@@ -5,7 +5,6 @@ channels:
   - plotly
   - defaults
 dependencies:
-  - python=3.7
   - mafft
   - iqtree=2.0.3
   - treetime

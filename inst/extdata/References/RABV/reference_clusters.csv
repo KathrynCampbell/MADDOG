@@ -153,8 +153,6 @@ DQ076121,Arctic AL2_A1.1.1
 DQ076123,Arctic AL2_A1.1.1
 DQ076131,Arctic AL2_A1.1.1
 GU937044,Arctic AL2_B1
-GU937044,Arctic AL2_B1
-KF709083,Arctic AL2_B1
 KF709083,Arctic AL2_B1
 AY730596,Arctic AL2_B1.1
 DQ076126,Arctic AL2_B1.1
@@ -927,24 +925,24 @@ OL515134,Cosmopolitan NEE_C1.1.1
 OL515140,Cosmopolitan NEE_C1.1.1
 OL515144,Cosmopolitan NEE_C1.1.1
 OL515136,Cosmopolitan NEE_C1.1.1
-MF572308,Cosmopolitan_B1.2
-KY382830,Cosmopolitan_B1.2
-MF572298,Cosmopolitan_B1.2
-MF574196,Cosmopolitan_B1.2
-MF572309,Cosmopolitan_B1.2.1
-MF572304,Cosmopolitan_B1.2.1
-MF574188,Cosmopolitan_B1.2.1
-MF574190,Cosmopolitan_B1.2.1
-EF152275,Cosmopolitan_I1
-AB263324,Cosmopolitan_I1
-KR781568,Cosmopolitan_I1.1
-KR781567,Cosmopolitan_I1.1
-KR781544,Cosmopolitan_I1.1
-KR781539,Cosmopolitan_I1.1.1
-EF363731,Cosmopolitan_I1.1.1
-KR781545,Cosmopolitan_J1
-KR781549,Cosmopolitan_J1
-KR781547,Cosmopolitan_J1
+MF572308,Cosmopolitan CA3_A1
+KY382830,Cosmopolitan CA3_A1
+MF572298,Cosmopolitan CA3_A1
+MF574196,Cosmopolitan CA3_A1
+MF572309,Cosmopolitan CA3_A1.1
+MF572304,Cosmopolitan CA3_A1.1
+MF574188,Cosmopolitan CA3_A1.1
+MF574190,Cosmopolitan CA3_A1.1
+EF152275,Cosmopolitan AM3a_A1
+AB263324,Cosmopolitan AM3a_A1
+KR781568,Cosmopolitan AM3a_A1.1
+KR781567,Cosmopolitan AM3a_A1.1
+KR781544,Cosmopolitan AM3a_A1.1
+KR781539,Cosmopolitan AM3a_A1.1.1
+EF363731,Cosmopolitan AM3a_A1.1.1
+KR781545,Cosmopolitan AM3a_B1
+KR781549,Cosmopolitan AM3a_B1
+KR781547,Cosmopolitan AM3a_B1
 AB817080,Indian-Sub_B1.1
 LC110320,Indian-Sub_B1.1
 AB817094,Indian-Sub_B1.1

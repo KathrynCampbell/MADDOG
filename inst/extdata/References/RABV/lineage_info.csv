@@ -76,7 +76,6 @@ Asian SEA4_A1,"c(""Japan"", ""Philippines"")",1994,2020,20,Asian_A1
 Asian SEA4_A1.1,Philippines,2012,2016,8,Asian SEA4_A1
 Asian SEA4_A1.1.2,"c(""Japan"", ""Philippines"")",2006,2019,10,Asian SEA4_A1.1
 Asian SEA4_A1.2,Philippines,1994,2019,24,Asian SEA4_A1
-Asian SEA4_A1.2.1,Philippines,2020,2020,0,Asian SEA4_A1.2
 Asian SEA5_A1,Taiwan,2013,2014,3,Asian
 Asian SEA5_A1.1,Taiwan,2012,2013,3,Asian SEA5_A1
 Asian SEA5_A1.1.1,Taiwan,2010,2014,13,Asian SEA5_A1.1
@@ -215,8 +214,8 @@ Cosmopolitan_A1.3.2,"c(""Brazil"", ""United States"")",1986,2018,112,Cosmopolita
 Cosmopolitan_B1,"c(""China"", ""Hungary"", ""Russia"")",1991,2017,17,Cosmopolitan_A1.1.1
 Cosmopolitan_B1.1,"c(""Azerbaijan"", ""China"", ""Georgia"", ""Iran"", ""Kazakhstan"", ""Mongolia"", ""Poland"", ""Russia"", ""Tajikistan"")",2001,2021,67,Cosmopolitan_B1
 Cosmopolitan_B1.1.1,"c(""Cameroon"", ""Equatorial Guinea"", ""Gabon"", ""Russia"")",1986,2012,21,Cosmopolitan_B1.1
-Cosmopolitan_B1.2,"c(""Romania"", ""Russia"")",2004,2016,18,Cosmopolitan_B1
-Cosmopolitan_B1.2.1,Russia,2012,2016,16,Cosmopolitan_B1.2
+Cosmopolitan CA3_A1,"c(""Romania"", ""Russia"")",2004,2016,18,Cosmopolitan_B1
+Cosmopolitan CA3_A1.1,Russia,2012,2016,16,Cosmopolitan CA3_A1
 Cosmopolitan_C1,"c(""Mozambique"", ""South Africa"", ""Zimbabwe"")",1986,2012,5,Cosmopolitan_A1.2.1
 Cosmopolitan_C1.1,"c(""South Africa"", ""Zimbabwe"")",1990,2017,37,Cosmopolitan_C1
 Cosmopolitan_D1,"c(""Israel"", ""Jordan"", ""Oman"", ""Qatar"", ""Saudi Arabia"", ""United Arab Emirates"")",1987,2018,26,Cosmopolitan_A1.1.2
@@ -227,10 +226,10 @@ Cosmopolitan_F1.1.1,Israel,1996,1998,8,Cosmopolitan_F1.1
 Cosmopolitan_G1,"c(""Kenya"", ""Tanzania"")",2010,2018,27,Cosmopolitan_A1.2.2
 Cosmopolitan_H1,Israel,1996,2004,13,Cosmopolitan_F1.1.1
 Cosmopolitan_H1.4,Israel,1995,2001,10,Cosmopolitan_H1
-Cosmopolitan_I1,Brazil,1985,2005,3,Cosmopolitan_A1.3.2
-Cosmopolitan_I1.1,Brazil,2005,2007,9,Cosmopolitan_I1
-Cosmopolitan_I1.1.1,Brazil,2006,2007,5,Cosmopolitan_I1.1
-Cosmopolitan_J1,Brazil,2007,2012,12,Cosmopolitan_I1.1.1
+Cosmopolitan AM3a_A1,Brazil,1985,2005,3,Cosmopolitan_A1.3.2
+Cosmopolitan AM3a_A1.1,Brazil,2005,2007,9,Cosmopolitan AM3a_A1
+Cosmopolitan AM3a_A1.1.1,Brazil,2006,2007,5,Cosmopolitan AM3a_A1.1
+Cosmopolitan AM3a_B1,Brazil,2007,2012,12,Cosmopolitan AM3a_A1.1.1
 Indian-Sub,,NA,NA,0,RABV
 Indian-Sub_A1,"c(""China"", ""Nepal"")",2003,2018,9,Indian-Sub
 Indian-Sub_A1.1,India,1997,2014,12,Indian-Sub_A1
