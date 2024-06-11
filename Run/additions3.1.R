@@ -169,7 +169,7 @@ if (length(which(updates$count >=10))!= 0) {
         test$lineage<-paste(updates$lineage[numbers[i]], ".1", sep = "")
         updates<-rbind(updates, test)
       }
-
+      
       for (i in 1:length(updates$lineage)) {
         updates$viable[i]<-
           length(which(node_data$node %in% phangorn::Descendants(tree, updates$node[i], type = "all"))) -
@@ -178,7 +178,7 @@ if (length(which(updates$count >=10))!= 0) {
                           %in% phangorn::Descendants(tree, updates$node[i], type = "all")))
           )
       }
-
+      
       if (length(which(duplicated(updates$node))) != 0) {
         updates<-updates[-c(which(duplicated(updates$node))),]
       }
@@ -212,25 +212,33 @@ if (length(which(updates$count >=10))!= 0) {
 
       duplicates<-int$update[which(duplicated(int$update))]
       duplicates<-c(duplicates, int$update[which(int$update %in% c(all_lineage$lineage, existing$lineage))])
-      problems<-duplicates[which(stringr::str_count(duplicates, pattern = "\\.") == 0)]
-      duplicates<-duplicates[which(stringr::str_count(duplicates, pattern = "\\.") != 0)]
-
+      
+      if(length(duplicates) != 0) {
+        problems<-duplicates[which(stringr::str_count(duplicates, pattern = "\\.") == 0)]
+        duplicates<-duplicates[which(stringr::str_count(duplicates, pattern = "\\.") != 0)]
+      } else {
+        problems<-{}
+      }
+      
       while (length(duplicates) != 0) {
         for (i in 1:length(duplicates)) {
           test<-which(int$update == duplicates[i])
-          x<-1
+          v<-1
           for (j in 1:length(test)) {
             name<-unlist(stringr::str_split(int$update[test[j]], "\\."))
-            name[length(name)]<-x+as.integer(name[length(name)])
-            x<-(x+1)
+            name[length(name)]<-v+as.integer(name[length(name)])
+            v<-(v+1)
             int$update[test[j]]<-paste(c(name), collapse='.' )
           }
           duplicates<-int$update[which(duplicated(int$update))]
           duplicates<-c(duplicates, int$update[which(int$update %in% all_lineage$lineage)])
-          duplicates<-duplicates[which(stringr::str_count(duplicates, pattern = "\\.") != 0)]
+          
+          if(length(duplicates) != 0) {
+            duplicates<-duplicates[which(stringr::str_count(duplicates, pattern = "\\.") != 0)]
+          }
         }
       }
-
+      
       while (length(problems) != 0) {
         for (i in 1:length(problems)) {
           test<-which(int$update == problems[i])
@@ -238,16 +246,21 @@ if (length(which(updates$count >=10))!= 0) {
             subclade<-strsplit(problems[i], "_")[[1]][1]
             lineage<-strsplit(problems[i], "_")[[1]][2]
             lineage<-problem_names$letters[(which(problem_names$letters == lineage))+1]
-            int$update[test[2]]<-paste(subclade, lineage, sep = "_")
+            int$update[test[1]]<-paste(subclade, lineage, sep = "_")
           } else {
-            int$update[test[2]]<-problem_names$letters[(which(problem_names$letters == problems[i]))+1]
+            int$update[test[1]]<-problem_names$letters[(which(problem_names$letters == problems[i]))+1]
           }
         }
         duplicates<-int$update[which(duplicated(int$update))]
         duplicates<-c(duplicates, int$update[which(int$update %in% all_lineage$lineage)])
-        problems<-duplicates[which(stringr::str_count(duplicates, pattern = "\\.") == 0)]
+        
+        if(length(duplicates) != 0 ){
+          problems<-duplicates[which(stringr::str_count(duplicates, pattern = "\\.") == 0)]
+        } else {
+          problems<-{}
+        }
       }
-
+      
       for (i in 1:length(int$lineage)) {
         updates$lineage[which(updates$node == int$node[i])]<-int$update[i]
       }

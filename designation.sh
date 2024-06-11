@@ -13,39 +13,39 @@ then
 	read runname
 
 	#make sure the metadata  is named to work in future script
-	mv -vn $runname/*.csv $runname/$runname"_metadata.csv"
+	# mv -vn $runname/*.csv $runname/$runname"_metadata.csv"
 
-	mv -vn $runname/*.fasta $runname/$runname".fasta"
+	# mv -vn $runname/*.fasta $runname/$runname".fasta"
 
-	mafft --add $runname/$runname".fasta" --reorder inst/extdata/References/RABV/reference_aligned.fasta > $runname/$runname"_withref.fasta"
+	# mafft --add $runname/$runname".fasta" --reorder inst/extdata/References/RABV/reference_aligned.fasta > $runname/$runname"_withref.fasta"
 
-	#Lineage assignment
-	Rscript Run/windows_run_assignment.R $runname
+	# #Lineage assignment
+	# Rscript Run/windows_run_assignment.R $runname
 
-	rm $runname/$runname"_withref.fasta"
+	# rm $runname/$runname"_withref.fasta"
 
-	mkdir $runname/Assignment
+	# mkdir $runname/Assignment
 
-	cp $runname/$runname"_assignment.csv" $runname/Assignment/assignment.csv
+	# cp $runname/$runname"_assignment.csv" $runname/Assignment/assignment.csv
 
-	Rscript Run/additions2.R $runname
+	# Rscript Run/additions2.R $runname
 
-	#alignment
-	mkdir $runname/Alignment
-	mafft $runname/$runname"_combined.fasta" > $runname/$runname"_combined_aligned.fasta"
-	mv $runname/$runname"_combined_aligned.fasta" $runname/Alignment
+	# #alignment
+	# mkdir $runname/Alignment
+	# mafft $runname/$runname"_combined.fasta" > $runname/$runname"_combined_aligned.fasta"
+	# mv $runname/$runname"_combined_aligned.fasta" $runname/Alignment
 
-	#IQTree
-	mkdir $runname/Trees
-	iqtree -s $runname/Alignment/$runname"_combined_aligned.fasta" -B 1000 -m GTR+F+R6 -nt AUTO
-	mv $runname/Alignment/$runname"_combined_aligned.fasta."* $runname/Trees
+	# #IQTree
+	# mkdir $runname/Trees
+	# iqtree -s $runname/Alignment/$runname"_combined_aligned.fasta" -B 1000 -m GTR+F+R6 -nt AUTO
+	# mv $runname/Alignment/$runname"_combined_aligned.fasta."* $runname/Trees
 
-	#Timetree
-	mkdir $runname/Timetree
-	treetime ancestral --aln $runname/Alignment/$runname"_combined_aligned.fasta" --tree $runname/Trees/$runname"_combined_aligned.fasta.contree" --outdir $runname/Timetree
+	# #Timetree
+	# mkdir $runname/Timetree
+	# treetime ancestral --aln $runname/Alignment/$runname"_combined_aligned.fasta" --tree $runname/Trees/$runname"_combined_aligned.fasta.contree" --outdir $runname/Timetree
 
-	mkdir $runname/Outputs
-	mkdir $runname/Figures
+	# mkdir $runname/Outputs
+	# mkdir $runname/Figures
 	Rscript Run/additions3.1.R $runname
 
 
