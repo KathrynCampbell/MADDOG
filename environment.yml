@@ -23,6 +23,7 @@ dependencies:
   - r-knitr
   - r-devtools
   - r-gridExtra
+  - r-phytools
   - bioconductor-ggtree
   - bioconductor-treeio
   - r-plotly
