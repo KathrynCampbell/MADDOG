@@ -23,8 +23,11 @@ lineage_info<-function(sequence_data, metadata) {
   clusters$n_seqs<-(sequence_data %>%
                       dplyr::group_by(lineage)%>%
                       dplyr::summarise(n=dplyr::n()))$n
+  
+  if(length(which(is.na(clusters$lineage))) != 0) {
+    clusters<-clusters[-c(which(is.na(clusters$lineage))),]
+  }
 
-  clusters<-clusters[-c(which(is.na(clusters$lineage))),]
   # For each cluster, find and list the earliest collection year, the latest collection year and all the places
   # that cluster has been found
   for (i in 1:length(clusters$lineage)) {

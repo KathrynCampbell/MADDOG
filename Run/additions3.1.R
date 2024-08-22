@@ -2,8 +2,8 @@ rm(list=ls())
 
 args = commandArgs(trailingOnly = T)
 
-source("Run/seq_designation_nolength.R")
-source("Run/node_info_nolength.R")
+source("R/seq_designation_nolength.R")
+source("R/node_info_nolength.R")
 source("R/lineage_info.R")
 
 library(dplyr)
@@ -13,6 +13,7 @@ library(phytools)
 library(phangorn)
 install.packages('castor', repos = "http://cran.us.r-project.org")
 library(castor)
+library(ips)
 
 tree<-ape::read.tree(paste(args, "/Trees/", args, "_combined_aligned.fasta.contree", sep = ""))
 ancestral<-seqinr::read.alignment(paste(args, "/Timetree/ancestral_sequences.fasta", sep = ""), format = "fasta")
@@ -381,7 +382,7 @@ if (length(which(updates$count >=10))!= 0) {
 
     lineage_info<-lineage_info[rev(order(lineage_info$lineage)),]
 
-    numbers<-which(lineage_info$n_seqs < 10 && lineage_info$lineage %notin% lineage_info$parent)
+    numbers<-which(lineage_info$n_seqs < 10 & lineage_info$lineage %notin% lineage_info$parent)
 
     while (length(numbers) != 0) {
       for (x in 1:length(numbers)) {
@@ -395,8 +396,8 @@ if (length(which(updates$count >=10))!= 0) {
           lineage_info$year_first[i]<-min(new_seq$year[which(new_seq$lineage == lineage_info$lineage[i])])
           lineage_info$year_last[i]<-max(new_seq$year[which(new_seq$lineage == lineage_info$lineage[i])])
         }
-        numbers<-which(lineage_info$n_seqs < 10 && lineage_info$lineage %notin% lineage_info$parent)
       }
+      numbers<-which(lineage_info$n_seqs < 10 & lineage_info$lineage %notin% lineage_info$parent)
     }
 
     write.csv(lineage_info, paste(args, "/Outputs/new_lineages.csv", sep = ""), row.names = F)
@@ -747,6 +748,10 @@ noi<-strsplit(noi, ",")[[1]]
 
 noi<-data.frame(node = noi, lineage = NA, tips = NA)
 
+if(length(grep("NA", noi$node)) != 0) {
+  noi<-noi[-c(grep("NA", noi$node)),]
+}
+
 for (i in 1:length(noi$node)) {
   noi$lineage[i]<-tests$lineage[grep(noi$node[i], tests$clades)]
 }
@@ -945,6 +950,50 @@ if(length(nodes_diff$node) != 0) {
     emerging_lineages$lineage[
       which(duplicated(emerging_lineages$lineage))]<-
       gsub("_E6", "_E7", emerging_lineages$lineage[which(duplicated(emerging_lineages$lineage))])
+    
+    emerging_lineages$lineage[
+      which(duplicated(emerging_lineages$lineage))]<-
+      gsub("_E7", "_E8", emerging_lineages$lineage[which(duplicated(emerging_lineages$lineage))])
+    
+    emerging_lineages$lineage[
+      which(duplicated(emerging_lineages$lineage))]<-
+      gsub("_E8", "_E9", emerging_lineages$lineage[which(duplicated(emerging_lineages$lineage))])
+    
+    emerging_lineages$lineage[
+      which(duplicated(emerging_lineages$lineage))]<-
+      gsub("_E9", "_E10", emerging_lineages$lineage[which(duplicated(emerging_lineages$lineage))])
+    
+    emerging_lineages$lineage[
+      which(duplicated(emerging_lineages$lineage))]<-
+      gsub("_E10", "_E11", emerging_lineages$lineage[which(duplicated(emerging_lineages$lineage))])
+    
+    emerging_lineages$lineage[
+      which(duplicated(emerging_lineages$lineage))]<-
+      gsub("_E11", "_E12", emerging_lineages$lineage[which(duplicated(emerging_lineages$lineage))])
+    
+    emerging_lineages$lineage[
+      which(duplicated(emerging_lineages$lineage))]<-
+      gsub("_E12", "_E13", emerging_lineages$lineage[which(duplicated(emerging_lineages$lineage))])
+    
+    emerging_lineages$lineage[
+      which(duplicated(emerging_lineages$lineage))]<-
+      gsub("_E13", "_E14", emerging_lineages$lineage[which(duplicated(emerging_lineages$lineage))])
+    
+    emerging_lineages$lineage[
+      which(duplicated(emerging_lineages$lineage))]<-
+      gsub("_E14", "_E15", emerging_lineages$lineage[which(duplicated(emerging_lineages$lineage))])
+    
+    emerging_lineages$lineage[
+      which(duplicated(emerging_lineages$lineage))]<-
+      gsub("_E15", "_E16", emerging_lineages$lineage[which(duplicated(emerging_lineages$lineage))])
+    
+    emerging_lineages$lineage[
+      which(duplicated(emerging_lineages$lineage))]<-
+      gsub("_E16", "_E17", emerging_lineages$lineage[which(duplicated(emerging_lineages$lineage))])
+    
+    emerging_lineages$lineage[
+      which(duplicated(emerging_lineages$lineage))]<-
+      gsub("_E17", "_E18", emerging_lineages$lineage[which(duplicated(emerging_lineages$lineage))])
 
 
     emerging_lineages<-emerging_lineages[,2:7]

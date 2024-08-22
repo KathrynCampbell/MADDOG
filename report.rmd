@@ -33,8 +33,18 @@ library(dplyr)
 library(ggplot2)
 library(knitr)
 
-sequence_data<-read.csv(paste("./", args, "/Outputs/sequence_data.csv", sep = ""))
 metadata<-read.csv(paste("./", args, "/", args, "_metadata.csv", sep = ""))
+
+if(file.exists(paste("./", args, "/Outputs/sequence_data.csv", sep = "")) == T) {
+  sequence_data<-read.csv(paste("./", args, "/Outputs/sequence_data.csv", sep = ""))
+} else {
+  sequence_data<-read.csv(paste("./", args, "/", args, "_assignment.csv", sep = ""))
+  sequence_data$year<-NA
+  for (i in 1:length(sequence_data$ID)) {
+    sequence_data$year[i]<-metadata$year[which(metadata$ID == sequence_data$ID[i])]
+  }
+}
+
 
 relevant_lineages<-read.csv(paste("./", args, "/Outputs/relevant_lineages.csv", sep = ""))
 
@@ -141,17 +151,25 @@ $~$
 $~$
 \newpage
 ```{r lineage info, echo=FALSE, warning=FALSE, message=FALSE, results='asis'}
-cat(paste("A total of", length(unique(sequence_data$lineage)), "lineages have been detected in this study.", (length(relevant_lineages$lineage)+length(new_lineages$lineage)) - length(unique(sequence_data$lineage)), "lineages are included here that have not been seen in this study, but are direct parents of lineages in this study, so are included for relevant evolutionary investigations."))
+if(file.exists(paste("./", args, "/Outputs/new_lineages.csv", sep = "")) == T) {
+  cat(paste("A total of", length(unique(sequence_data$lineage)), "lineages have been detected in this study.", (length(relevant_lineages$lineage)+length(new_lineages$lineage)) - length(unique(sequence_data$lineage)), "lineages are included here that have not been seen in this study, but are direct parents of lineages in this study, so are included for relevant evolutionary investigations."))
+  
+  cat(paste("There are ", length(relevant_lineages$lineage), " existing lineages relevant to this study."))
+  kable(relevant_lineages, row.names=F)
+} else {
+  cat(paste("No new lineages were detected within this dataset."))
+}
 
-cat(paste("There are ", length(relevant_lineages$lineage), " existing lineages relevant to this study."))
-kable(relevant_lineages, row.names=F)
+
 ```
 **Table 2.** Details of lineages relevant to this study. First and last years refer to the first and most recent years the lineage has been detected prior to this study. 
 
 ```{r lineage new, echo=FALSE, warning=FALSE, message=FALSE, results='asis'}
-if(length(new_lineages) != 0) {
-  cat(paste("There are ", length(new_lineages$lineage), " new lineages identified in this dataset."))
-  kable(new_lineages, row.names=F)
+if(file.exists(paste("./", args, "/Outputs/new_lineages.csv", sep = "")) == T) {
+  if(length(new_lineages) != 0) {
+    cat(paste("There are ", length(new_lineages$lineage), " new lineages identified in this dataset."))
+    kable(new_lineages, row.names=F)
+  }
 } else {
   cat(paste("There are no new lineages identified in this dataset."))
 }
@@ -159,8 +177,10 @@ if(length(new_lineages) != 0) {
 **Table 3.** Details of new lineages identified in this study. First and last years refer to the first and most recent years the lineage has been detected. 
 
 ```{r sunburst, echo=FALSE, warning=FALSE, message=FALSE, results='asis'}
-if(length(new_lineages) != 0) {
+if(file.exists(paste("./", args, "/Outputs/new_lineages.csv", sep = "")) == T) {
+  if(length(new_lineages) != 0) {
   lineage_info<-rbind(new_lineages, relevant_lineages)
+  }
 } else {
   lineage_info<-relevant_lineages
 }
@@ -257,7 +277,7 @@ $~$
 
 ## Areas to Investigate
 ```{r emerging_undersampled, echo=FALSE, warning=FALSE, message=FALSE, results='asis', fig.width=7, fig.height=7}
-if(!is.na(emerging_undersampled)){
+if(file.exists(paste("./", args, "/Outputs/emerging_undersampled.csv", sep = "")) == T){
   cat(paste("There are ", length(emerging_undersampled$lineage), " potentially emerging or undersampled lineages within the lineages relevant to this study. This means that these lineages have between 5 and 9 sequences; not enough to be a full lineage, but are significantly diverse from their relatives. With more sequencing and more time, these are likely to become new lineages. Be aware these include ALL emerging or undersampled lineages within the relevant lineages in your dataset; not just your data. This is to show there may be gaps in the data."))
   kable(emerging_undersampled, row.names = F) 
 } else {
@@ -268,7 +288,7 @@ $~$
 **Table 5.** Details of potentially emerging or undersampled lineages relevant to this study. First and last years refer to the first and most recent years the lineage has been detected. 
 
 ```{r soi, echo=FALSE, warning=FALSE, message=FALSE, results='asis', fig.width=7, fig.height=7}
-if(!is.na(soi)){
+if(file.exists(paste("./",args, "/Outputs/singletons_of_interest.csv", sep = "")) == T){
   cat(paste("There are ", sum(soi$n_singletons), " singletons of interest detected. These reflect highly divergent sequences that could indicate sequencing errors, or the start of new lineages, especially in undersampled areas. Be aware these include ALL singletons of interest within the relevant lineages in your dataset; not just your data. This is to show there may be general gaps in the data."))
   kable(soi, row.names = F) 
 } else {
@@ -278,7 +298,7 @@ if(!is.na(soi)){
 $~$
 **Table 6.** Summary of singletons of interest relevant to this study. 
 ```{r soi_details, echo=FALSE, warning=FALSE, message=FALSE, results='asis', fig.width=7, fig.height=7}
-if(!is.na(soi_details)){
+if(file.exists(paste("./",args, "/Outputs/singleton_details.csv", sep = "")) == T){
   soi_details<-soi_details[,-c(2,5)]
   names(soi_details)[2]<-("closest relative")
   kable(soi_details, row.names = F) 

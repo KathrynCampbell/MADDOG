@@ -256,7 +256,10 @@ node_info <- function(tree, min.support, alignment, metadata, ancestral) {
                                         "O1", "P1", "Q1", "R1", "S1", "T1", "U1", "V1", "W1", "X1", "Y1", "Z1", "AA1", "AB1",
                                         "AC1", "AD1", "AE1", "AF1", "AG1", "AH1", "AI1", "AJ1", "AK1",
                                         "AL1", "AM1", "AN1", "AO1", "AP1", "AQ1", "AR1", "AS1", "AT1",
-                                        "AU1", "AV1", "AW1", "AX1", "AY1", "AZ1"))
+                                        "AU1", "AV1", "AW1", "AX1", "AY1", "AZ1", "BA1", "BB1", "BC1", 
+                                        "BD1", "BE1", "BF1", "BG1", "BH1", "BI1", "BJ1", "BK1", "BL1",
+                                        "BM1", "BN1", "BO1", "BP1", "BQ1", "BR1", "BS1", "BT1", "BU1",
+                                        "BV1", "BW1", "BX1", "BY1", "BZ1"))
   possible_names<-possible_names[order(possible_names$names),]
   possible_names<-paste(possible_names, problem_names$letters, sep = "_")
 
@@ -348,7 +351,8 @@ node_info <- function(tree, min.support, alignment, metadata, ancestral) {
 
   unclassified<-which(!grepl("_", node_data$cluster))
   unclassified<-unclassified[c(-1)]
-  for (i in 1:length(node_data$Node)) {
+  #
+  for (i in 1:(length(node_data$Node))) {
     test<-which(node_data$Node %in% ips::descendants(tree, node_data$Node[i], type = "all", ignore.tip = T))
     node_data$test[c(test)] <- paste(node_data$cluster[i], ".1", sep = "")
     node_data$test<-stringr::str_replace(node_data$test, "A1\\..\\..\\..", "B1")
@@ -418,7 +422,7 @@ node_info <- function(tree, min.support, alignment, metadata, ancestral) {
 
     duplicates<-unique(node_data$cluster[duplicated(node_data$cluster)])
     x<-2
-    while (length(duplicates) != 0 && !is.na(duplicates)) {
+    while (length(duplicates) != 0 && all(!is.na(duplicates))) {
       for (i in 1:length(duplicates)) {
         test<-which(node_data$cluster == duplicates[i])
         test<-test[-c(1)]

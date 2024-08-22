@@ -1,1283 +1,1626 @@
-"ID","assignment","country","year"
-"98-134","Asian SEA4","Philippines",1998
-"98-206","Asian SEA4","Philippines",1998
-"98-285","Asian SEA4","Philippines",1998
-"98-286","Asian SEA4","Philippines",1998
-"AB154208","Asian SEA1b","Indonesia",2001
-"AB154209","Asian SEA1b","Indonesia",2001
-"AB154210","Asian SEA1b","Indonesia",2001
-"AB154211","Asian SEA1b","Indonesia",2002
-"AB154212","Asian SEA1b","Indonesia",2001
-"AB154213","Asian SEA1b","Indonesia",2001
-"AB154214","Asian SEA1b","Indonesia",2001
-"AB154215","Asian SEA1b","Indonesia",2001
-"AB154216","Asian SEA1b","Indonesia",2003
-"AB154217","Asian SEA1b","Indonesia",2002
-"AB154218","Asian SEA1b","Indonesia",1997
-"AB154220","Asian SEA1b","-",1997
-"AB154221","Asian SEA1b","Indonesia",2000
-"AB154222","Asian SEA1b","Indonesia",2003
-"AB154223","Asian SEA1b","Indonesia",1997
-"AB154224","Asian SEA1b","Indonesia",2002
-"AB154225","Asian SEA1b","Indonesia",2000
-"AB154226","Asian SEA1b","Indonesia",2000
-"AB154227","Asian SEA1b","Indonesia",2000
-"AB154228","Asian SEA1b","Indonesia",2001
-"AB154229","Asian SEA1b","Indonesia",2002
-"AB154230","Asian SEA1b","Indonesia",2002
-"AB154231","Asian SEA1b","Indonesia",2002
-"AB154232","Asian SEA1b","Indonesia",2002
-"AB154233","Asian SEA1b","Indonesia",1997
-"AB154234","Asian SEA1b","Indonesia",2000
-"AB154235","Asian SEA1b","Indonesia",2000
-"AB154237","Asian SEA1b","Indonesia",2001
-"AB154238","Asian SEA1b","Indonesia",2001
-"AB154239","Asian SEA1b","Indonesia",2001
-"AB154240","Asian SEA1b","Indonesia",2002
-"AB154241","Asian SEA1b","Indonesia",1997
-"AB154242","Asian SEA1b","Indonesia",2001
-"AB154243","Asian SEA1b","Indonesia",2002
-"AB178892","Asian SEA3","Thailand",1985
-"AB178893","Asian SEA3","Thailand",1985
-"AB178894","Asian SEA3","Thailand",1985
-"AB178895","Asian SEA3","Thailand",1977
-"AB178896","Asian SEA3","Thailand",1963
-"AB573762","Asian SEA4","Japan",2006
-"AB573763","Asian SEA4","Japan",2006
-"AB981663","Asian SEA3","Lao",2011
-"AB981664","Asian SEA3","Lao",2011
-"AB981665","Asian SEA3","Lao",2011
-"AB981666","Asian SEA3","Lao",2011
-"AB981667","Asian SEA3","Lao",2011
-"AB981668","Asian SEA3","Lao",2011
-"AB981669","Asian SEA3","Lao",2011
-"AB981670","Asian SEA3","Lao",2011
-"AB981671","Asian SEA3","Lao",2012
-"AB981672","Asian SEA3","Lao",2012
-"AB981673","Asian SEA3","Lao",2012
-"AB981674","Asian SEA3","Lao",2012
-"AB981675","Asian SEA3","Lao",2012
-"AB981676","Asian SEA3","Lao",2012
-"AB981677","Asian SEA3","Lao",2012
-"AF367863","Asian SEA2a","-",1956
-"AY218996","Asian SEA3","Thailand",2001
-"AY218997","Asian SEA3","Thailand",2001
-"AY218998","Asian SEA3","Thailand",2001
-"AY218999","Asian SEA3","Thailand",2001
-"AY219000","Asian SEA3","Thailand",2001
-"AY219001","Asian SEA3","Thailand",2001
-"AY219002","Asian SEA3","Thailand",2001
-"DQ267925","Asian SEA3","Thailand",2006
-"DQ496219","Asian SEA2a","China",2006
-"DQ515993","Asian SEA1b","China",2006
-"DQ666287","Asian SEA1b","China",2006
-"DQ666290","Asian SEA2a","China",2006
-"DQ666291","Asian SEA1b","China",2004
-"DQ666294","Asian SEA1b","China",2004
-"DQ666295","Asian SEA1b","China",2004
-"DQ666296","Asian SEA1b","China",2004
-"DQ666297","Asian SEA1b","China",2004
-"DQ666298","Asian SEA1b","China",2004
-"DQ666299","Asian SEA1b","China",2004
-"DQ666300","Asian SEA1b","China",2004
-"DQ666302","Asian SEA1b","China",2004
-"DQ666304","Asian SEA1b","China",2004
-"DQ666306","Asian SEA1b","China",2004
-"DQ666307","Asian SEA1b","China",2004
-"DQ666308","Asian SEA1b","China",2004
-"DQ666309","Asian SEA1b","China",2004
-"DQ666311","Asian SEA1b","China",2004
-"DQ666312","Asian SEA1b","China",2004
-"DQ666314","Asian SEA1b","China",2004
-"DQ666315","Asian SEA1b","China",2004
-"DQ666316","Asian SEA1b","China",2004
-"DQ666317","Asian SEA1b","China",2004
-"DQ666318","Asian SEA1b","China",2004
-"DQ666319","Asian SEA1b","China",2004
-"DQ666321","Asian SEA1b","China",2004
-"DQ787139","Asian SEA2a","-",2006
-"DQ787140","Asian SEA2a","-",2006
-"DQ787141","Asian SEA2a","-",2006
-"DQ787142","Asian SEA2a","-",2006
-"DQ787143","Asian SEA2a","-",2006
-"DQ787144","Asian SEA2a","-",2006
-"DQ787145","Asian SEA2a","-",2006
-"DQ787146","Asian SEA2a","-",2006
-"DQ866105","Asian SEA2a","China",2004
-"DQ866106","Asian SEA2a","China",2003
-"DQ866107","Asian SEA1b","China",2003
-"DQ866108","Asian SEA2a","China",2003
-"DQ866110","Asian SEA2a","China",2004
-"DQ866111","Asian SEA3","China",2005
-"DQ866112","Asian SEA2a","China",2004
-"DQ866113","Asian SEA1b","China",2003
-"DQ866114","Asian SEA2a","China",2004
-"DQ866115","Asian SEA1b","China",2003
-"DQ866116","Asian SEA2a","China",2003
-"DQ866117","Asian SEA1b","China",2004
-"DQ866118","Asian SEA1b","China",2005
-"DQ866119","Asian SEA2a","China",2005
-"DQ866120","Asian SEA2a","China",2005
-"DQ866121","Asian SEA2a","China",2005
-"EF556197","Asian SEA1b","China",2007
-"EF564174","Asian SEA2a","China",1956
-"EF611081","Asian SEA1b","China",2007
-"EU008919","Asian SEA1b","China",2005
-"EU008920","Asian SEA1b","China",2006
-"EU008921","Asian SEA1b","China",2005
-"EU008922","Asian SEA1b","China",2005
-"EU008923","Asian SEA1b","China",2005
-"EU086164","Asian SEA3","Myanmar",1999
-"EU086165","Asian SEA3","Myanmar",1999
-"EU086166","Asian SEA3","Myanmar",1999
-"EU086167","Asian SEA3","Cambodia",1999
-"EU086168","Asian SEA3","Cambodia",1998
-"EU086169","Asian SEA3","Cambodia",1998
-"EU086170","Asian SEA3","Cambodia",1997
-"EU086171","Asian SEA3","Cambodia",1999
-"EU086172","Asian SEA3","Cambodia",1998
-"EU086173","Asian SEA1b","China",1998
-"EU086174","Asian SEA1b","China",1997
-"EU086175","Asian SEA1b","China",1997
-"EU086176","Asian SEA1b","China",1992
-"EU086177","Asian SEA1b","China",1987
-"EU086178","Asian SEA1b","China",1969
-"EU086179","Asian SEA1b","China",1989
-"EU086180","Asian SEA1b","China",1989
-"EU086181","Asian SEA1b","China",1989
-"EU086183","Asian SEA2a","China",1994
-"EU086185","Asian SEA1a","China",1992
-"EU086186","Asian SEA1b","China",2005
-"EU086187","Asian SEA1b","China",2004
-"EU086188","Asian SEA1b","China",2004
-"EU086189","Asian SEA1b","China",2004
-"EU086190","Asian SEA1b","China",2005
-"EU086192","Asian SEA1b","Indonesia",2003
-"EU086193","Asian SEA3","Lao",1999
-"EU086194","Asian SEA3","Lao",2002
-"EU086195","Asian SEA3","Lao",2002
-"EU086200","Asian SEA4","Philippines",1994
-"EU086201","Asian SEA4","Philippines",1994
-"EU086202","Asian SEA4","Philippines",1994
-"EU086203","Asian SEA4","Philippines",2000
-"EU086204","Asian SEA4","Philippines",2001
-"EU086205","Asian SEA4","Philippines",2004
-"EU086206","Asian SEA3","Thailand",1983
-"EU086207","Asian SEA3","Thailand",1983
-"EU086208","Asian SEA3","Thailand",1983
-"EU086209","Asian SEA3","Vietnam",2001
-"EU086210","Asian SEA3","Vietnam",2001
-"EU095330","Asian SEA1b","China",2006
-"EU159362","Asian SEA1b","China",2004
-"EU159363","Asian SEA1b","China",2004
-"EU159364","Asian SEA1b","China",2004
-"EU159365","Asian SEA1b","China",2004
-"EU159366","Asian SEA1b","China",2004
-"EU159367","Asian SEA1b","China",2004
-"EU159368","Asian SEA1b","China",2004
-"EU159369","Asian SEA1b","China",2004
-"EU159370","Asian SEA1b","China",2004
-"EU159371","Asian SEA1b","China",2004
-"EU159372","Asian SEA1b","China",2005
-"EU159373","Asian SEA1b","China",2005
-"EU159374","Asian SEA1b","China",2005
-"EU159375","Asian SEA1b","China",2005
-"EU159376","Asian SEA1b","China",2005
-"EU159377","Asian SEA1b","China",2006
-"EU159380","Asian SEA1b","China",2005
-"EU159381","Asian SEA1b","China",2005
-"EU159382","Asian SEA1b","China",2005
-"EU159383","Asian SEA1b","China",2005
-"EU159384","Asian SEA1b","China",2005
-"EU159385","Asian SEA1b","China",1997
-"EU159387","Asian SEA1a","China",1985
-"EU159388","Asian SEA1a","China",1992
-"EU159389","Asian SEA1b","China",2004
-"EU159390","Asian SEA1b","China",1998
-"EU159391","Asian SEA1b","China",1969
-"EU159392","Asian SEA1b","China",1992
-"EU159393","Asian SEA1b","China",1992
-"EU159394","Asian SEA1b","China",2006
-"EU159395","Asian SEA1b","China",2006
-"EU159396","Asian SEA1b","China",1989
-"EU159397","Asian SEA1b","China",2006
-"EU159398","Asian SEA2a","China",1986
-"EU159399","Asian SEA1b","China",1994
-"EU159400","Asian SEA1b","China",1989
-"EU159401","Asian SEA1b","China",1989
-"EU267777","Asian SEA1b","China",2007
-"EU275243","Asian SEA3","China",2006
-"EU275244","Asian SEA1b","China",2007
-"EU275245","Asian SEA1b","China",2007
-"EU293111","Asian SEA3","Thailand",1983
-"EU293121","Asian SEA3","-",1983
-"EU549783","Asian SEA1b","China",2006
-"EU643590","Asian SEA2a","China",2006
-"EU700031","Asian SEA1b","China",2007
-"EU700032","Asian SEA1b","China",2008
-"EU828651","Asian SEA1b","China",2007
-"EU828653","Asian SEA2a","China",2007
-"EU828655","Asian SEA1b","China",2007
-"EU828657","Asian SEA1b","China",2007
-"FJ561726","Asian SEA2a","China",2008
-"FJ561727","Asian SEA2a","China",2008
-"FJ561728","Asian SEA2a","China",2008
-"FJ594278","Asian SEA3","China",1997
-"FJ712193","Asian SEA1b","China",2008
-"FJ712194","Asian SEA1b","China",2008
-"FJ712195","Asian SEA2b","China",2008
-"FJ712196","Asian SEA2b","China",2008
-"FJ719751","Asian SEA2b","China",2008
-"FJ719753","Asian SEA2b","China",2008
-"FJ719760","Asian SEA1b","China",2008
-"FJ866827","Asian SEA1b","China",2008
-"FJ866828","Asian SEA1b","China",2008
-"FJ866829","Asian SEA2a","China",2007
-"FJ866830","Asian SEA2a","China",2007
-"FJ866831","Asian SEA2a","China",2007
-"FJ866835","Asian SEA1b","China",2008
-"FJ866836","Asian SEA1b","China",2008
-"FJ959397","Asian SEA2a","China",1956
-"GQ303555","Asian SEA3","Thailand",2009
-"GQ303556","Asian SEA3","Thailand",2009
-"GQ472468","Asian SEA2a","China",2007
-"GQ472469","Asian SEA1b","China",2007
-"GQ472471","Asian SEA1b","China",2007
-"GQ472472","Asian SEA1b","China",2007
-"GQ472473","Asian SEA2a","China",2007
-"GQ472474","Asian SEA1b","China",2007
-"GQ472475","Asian SEA1b","China",2005
-"GQ472476","Asian SEA1b","China",2006
-"GQ472477","Asian SEA2a","China",2006
-"GQ472478","Asian SEA1b","China",2007
-"GU233765","Asian SEA1b","China",2009
-"GU345746","Asian SEA1a","China",1992
-"GU345747","Asian SEA1a","China",1986
-"GU345748","Asian SEA1b","China",2006
-"GU358653","Asian SEA2a","China",1994
-"GU591790","Asian SEA1b","China",2009
-"GU591792","Asian SEA1b","China",2009
-"GU647092","Asian SEA2b","China",2008
-"GU992307","Asian SEA3","Thailand",1983
-"GU994209","Asian SEA1b","China",2009
-"HM486348","Asian SEA1b","China",2006
-"HM486349","Asian SEA1b","China",2006
-"HM486350","Asian SEA1b","China",2006
-"HM486351","Asian SEA1b","China",2006
-"HM486352","Asian SEA1b","China",2006
-"HM486353","Asian SEA1b","China",2005
-"HM486354","Asian SEA1b","China",2006
-"HM486355","Asian SEA2a","China",2004
-"HM486356","Asian SEA2a","China",2004
-"HM486357","Asian SEA2a","China",2012
-"HM486358","Asian SEA2a","China",2003
-"HM486359","Asian SEA2a","China",2003
-"HM486360","Asian SEA1b","China",2005
-"HM486361","Asian SEA2a","China",2005
-"HM486362","Asian SEA2a","China",2005
-"HM486363","Asian SEA1b","China",2006
-"HM486364","Asian SEA2a","China",2006
-"HM486365","Asian SEA2a","China",2006
-"HM486366","Asian SEA2a","China",2005
-"HM486367","Asian SEA2a","China",2005
-"HM486368","Asian SEA2a","China",2005
-"HM486369","Asian SEA2a","China",2006
-"HM486370","Asian SEA2a","China",2005
-"HM486371","Asian SEA2a","China",2005
-"HM486372","Asian SEA2a","China",2006
-"HM486373","Asian SEA2a","China",2008
-"HM486374","Asian SEA2a","China",2008
-"HM486375","Asian SEA2a","China",2008
-"HM486376","Asian SEA1b","China",2008
-"HM486377","Asian SEA1b","China",2008
-"HM486378","Asian SEA1b","China",2007
-"HM486379","Asian SEA2a","China",2007
-"HM486380","Asian SEA2a","China",2006
-"HM486381","Asian SEA2a","China",2007
-"HM756692","Asian SEA1b","China",2008
-"HQ118101","Asian SEA1b","China",1989
-"HQ118102","Asian SEA1b","China",2006
-"HQ118103","Asian SEA1b","China",2008
-"HQ118104","Asian SEA1b","China",1989
-"HQ118105","Asian SEA1b","China",2008
-"HQ118106","Asian SEA1b","China",2008
-"HQ118107","Asian SEA1b","China",2008
-"HQ118108","Asian SEA1b","China",2008
-"HQ118109","Asian SEA1b","China",2008
-"HQ118110","Asian SEA1b","China",2008
-"HQ118111","Asian SEA1b","China",2008
-"HQ118112","Asian SEA1b","China",2008
-"HQ118113","Asian SEA1b","China",2008
-"HQ118114","Asian SEA2b","China",2008
-"HQ118117","Asian SEA2b","China",2008
-"HQ118118","Asian SEA2b","China",2008
-"HQ317918","Asian SEA2a","China",1956
-"HQ450385","Asian SEA1b","China",2008
-"HQ695732","Asian SEA1b","China",2009
-"JF796851","Asian SEA1b","China",2010
-"JF810669","Asian SEA1b","China",2009
-"JF810671","Asian SEA1b","China",2008
-"JF819603","Asian SEA3","China",2014
-"JF819604","Asian SEA3","China",2014
-"JF819605","Asian SEA2a","China",2014
-"JF819606","Asian SEA2a","China",2014
-"JF819607","Asian SEA2a","China",2014
-"JF819608","Asian SEA3","China",2014
-"JF819609","Asian SEA3","China",2014
-"JF819610","Asian SEA3","China",2014
-"JF819611","Asian SEA1b","China",2009
-"JF819612","Asian SEA2a","China",2014
-"JF819613","Asian SEA2a","China",2014
-"JF819614","Asian SEA2a","China",2014
-"JF819615","Asian SEA2a","China",2014
-"JF819616","Asian SEA3","China",2014
-"JF819617","Asian SEA3","China",2014
-"JF819618","Asian SEA3","China",2014
-"JF819619","Asian SEA1b","China",2010
-"JF819620","Asian SEA1b","China",2010
-"JF819621","Asian SEA1b","China",2010
-"JF819622","Asian SEA2a","China",2014
-"JF819623","Asian SEA1b","China",2010
-"JF819624","Asian SEA1b","China",2010
-"JN609295","Asian SEA1b","China",2008
-"JN786877","Asian SEA3","Thailand",2012
-"JN786878","Asian SEA3","Thailand",2012
-"JN974823","Asian SEA2a","China",2008
-"JN974824","Asian SEA2a","China",2005
-"JN974825","Asian SEA2b","China",2006
-"JN974826","Asian SEA1b","China",2006
-"JN974827","Asian SEA1b","China",2006
-"JN974828","Asian SEA2a","China",2006
-"JN974829","Asian SEA2a","China",2008
-"JN974830","Asian SEA1b","China",2005
-"JN974831","Asian SEA2a","China",2005
-"JN974832","Asian SEA1b","China",2009
-"JN974833","Asian SEA1b","China",2010
-"JN974834","Asian SEA1b","China",2010
-"JN974835","Asian SEA1b","China",2010
-"JN974836","Asian SEA1b","China",2005
-"JN974837","Asian SEA1b","China",2005
-"JN974838","Asian SEA2a","China",2005
-"JN974839","Asian SEA1b","China",2005
-"JN974840","Asian SEA1b","China",2006
-"JN974841","Asian SEA2a","China",2006
-"JN974842","Asian SEA2a","China",2006
-"JN974843","Asian SEA2a","China",2006
-"JN974844","Asian SEA1b","China",2007
-"JN974845","Asian SEA2a","China",2008
-"JN974846","Asian SEA1b","China",2008
-"JN974847","Asian SEA2a","China",2008
-"JN974848","Asian SEA1b","China",2009
-"JN974849","Asian SEA1b","China",2008
-"JN974850","Asian SEA1b","China",2008
-"JN974851","Asian SEA1b","China",2008
-"JN974852","Asian SEA1b","China",2008
-"JN974853","Asian SEA1b","China",2009
-"JN974854","Asian SEA2a","China",2009
-"JN974855","Asian SEA1b","China",2009
-"JN974856","Asian SEA1b","China",2008
-"JN974857","Asian SEA1b","China",2008
-"JN974858","Asian SEA1b","China",2009
-"JN974859","Asian SEA1b","China",2009
-"JN974860","Asian SEA1b","China",2009
-"JN974861","Asian SEA1b","China",2010
-"JN974862","Asian SEA1b","China",2010
-"JN974863","Asian SEA1b","China",2010
-"JN974864","Asian SEA1b","China",2008
-"JN974865","Asian SEA1b","China",2008
-"JN974866","Asian SEA1b","China",2009
-"JN974867","Asian SEA1b","China",2009
-"JN974868","Asian SEA1b","China",2009
-"JN974869","Asian SEA1b","China",2009
-"JN974870","Asian SEA2a","China",2003
-"JN974871","Asian SEA2a","China",2003
-"JN974872","Asian SEA2a","China",2003
-"JN974873","Asian SEA2a","China",2004
-"JN974874","Asian SEA1b","China",2005
-"JN974875","Asian SEA1b","China",2005
-"JN974876","Asian SEA1b","China",2009
-"JN974878","Asian SEA1b","China",2008
-"JQ040591","Asian SEA1b","China",2011
-"JQ040592","Asian SEA2a","China",2011
-"JQ040593","Asian SEA1b","China",2010
-"JQ040594","Asian SEA1b","China",2010
-"JQ040595","Asian SEA1b","China",2010
-"JQ040596","Asian SEA1b","China",2010
-"JQ040597","Asian SEA1b","China",2010
-"JQ040598","Asian SEA1b","China",2011
-"JQ040599","Asian SEA1b","China",2010
-"JQ040600","Asian SEA1b","China",2010
-"JQ423952","Asian SEA1b","China",2011
-"JQ647510","Asian SEA1b","China",2011
-"JQ730682","Asian SEA3","China",2010
-"JQ794536","Asian SEA1b","China",2011
-"JQ794537","Asian SEA1b","China",2011
-"JQ794538","Asian SEA1b","China",2011
-"JQ794539","Asian SEA1b","China",2011
-"JQ794540","Asian SEA1b","China",2011
-"JQ794541","Asian SEA1b","China",2011
-"JQ798943","Asian SEA1b","China",2011
-"JQ798944","Asian SEA1b","China",2011
-"JQ798945","Asian SEA1b","China",2011
-"JQ798946","Asian SEA1b","China",2011
-"JQ798947","Asian SEA1b","China",2011
-"JQ798948","Asian SEA1b","China",2011
-"JQ798949","Asian SEA1b","China",2011
-"JQ798950","Asian SEA1b","China",2011
-"JQ798951","Asian SEA1b","China",2011
-"JQ798952","Asian SEA1b","China",2011
-"JQ798953","Asian SEA1b","China",2011
-"JQ798954","Asian SEA1b","China",2011
-"JQ798955","Asian SEA1b","China",2011
-"JQ798956","Asian SEA1b","China",2011
-"JQ798957","Asian SEA1b","China",2011
-"JQ798958","Asian SEA1b","China",2011
-"JQ798959","Asian SEA1b","China",2011
-"JQ798960","Asian SEA1b","China",2011
-"JQ798961","Asian SEA1b","China",2011
-"JQ946087","Asian SEA2b","China",2011
-"JQ950446","Asian SEA2b","China",2012
-"JQ950448","Asian SEA2b","China",2012
-"JQ950452","Asian SEA2b","China",2012
-"JQ970480","Asian SEA2a","China",2008
-"JQ970481","Asian SEA1b","China",2006
-"JQ970482","Asian SEA1b","China",2006
-"JQ970483","Asian SEA1b","China",2008
-"JQ970484","Asian SEA1b","China",2009
-"JQ970485","Asian SEA1b","China",2009
-"JQ970486","Asian SEA1b","China",2007
-"JQ970487","Asian SEA1b","China",2009
-"JX005929","Asian SEA1b","China",2008
-"JX005930","Asian SEA1b","China",2010
-"JX005931","Asian SEA1b","China",2008
-"JX005932","Asian SEA1b","China",2008
-"JX005933","Asian SEA1b","China",2008
-"JX005934","Asian SEA1b","China",2008
-"JX005935","Asian SEA1b","China",2009
-"JX005936","Asian SEA1b","China",2010
-"JX005937","Asian SEA1b","China",2008
-"JX005938","Asian SEA1b","China",2008
-"JX005939","Asian SEA1b","China",2008
-"JX005940","Asian SEA1b","China",2009
-"JX005941","Asian SEA1b","China",2009
-"JX005942","Asian SEA1b","China",2009
-"JX005943","Asian SEA1b","China",2010
-"JX005944","Asian SEA1b","China",2009
-"JX005945","Asian SEA1b","China",2010
-"JX005946","Asian SEA1b","China",2010
-"JX005947","Asian SEA1b","China",2010
-"JX088694","Asian SEA2a","China",2012
-"JX123685","Asian SEA1b","China",2010
-"JX123686","Asian SEA1b","China",2010
-"JX123687","Asian SEA1b","China",2010
-"JX123688","Asian SEA1b","China",2009
-"JX276405","Asian SEA3","China",2010
-"JX276406","Asian SEA1b","China",2011
-"JX276407","Asian SEA1b","China",2012
-"JX276408","Asian SEA1b","China",2011
-"JX276409","Asian SEA1b","China",2012
-"JX276410","Asian SEA1b","China",2011
-"JX276411","Asian SEA1b","China",2012
-"JX276412","Asian SEA1b","China",2012
-"JX276413","Asian SEA1b","China",2012
-"JX276414","Asian SEA1b","China",2012
-"JX276415","Asian SEA1b","China",2012
-"JX276416","Asian SEA1b","China",2012
-"JX276417","Asian SEA1b","China",2012
-"JX276418","Asian SEA1b","China",2012
-"JX276419","Asian SEA1b","China",2012
-"JX276420","Asian SEA1b","China",2012
-"JX276421","Asian SEA1b","China",2012
-"JX276422","Asian SEA1b","China",2012
-"JX276423","Asian SEA1b","China",2012
-"JX276424","Asian SEA1b","China",2012
-"JX276425","Asian SEA1b","China",2012
-"KC169986","Asian SEA1b","China",2009
-"KC193267","Asian SEA1b","China",2011
-"KC252634","Asian SEA1b","China",2011
-"KC465367","Asian SEA1b","China",2005
-"KC465368","Asian SEA1b","China",2005
-"KC465369","Asian SEA1b","China",2009
-"KC465370","Asian SEA1b","China",2009
-"KC465373","Asian SEA1b","China",2012
-"KC465374","Asian SEA2a","China",2011
-"KC465375","Asian SEA2a","China",2011
-"KC465376","Asian SEA1b","China",2011
-"KC465378","Asian SEA1b","China",2011
-"KC465379","Asian SEA1b","China",2011
-"KC465380","Asian SEA1b","China",2011
-"KC660078","Asian SEA1b","China",2012
-"KC762941","Asian SEA1b","China",2009
-"KC977995","Asian SEA1b","China",2009
-"KF501180","Asian SEA5","Taiwan",2013
-"KF501181","Asian SEA5","Taiwan",2013
-"KF501182","Asian SEA5","Taiwan",2013
-"KF501185","Asian SEA5","Taiwan",2013
-"KF620487","Asian SEA5","Taiwan",2012
-"KF620488","Asian SEA5","Taiwan",2012
-"KF620489","Asian SEA5","Taiwan",2013
-"KF663511","Asian SEA1b","China",2011
-"KF663512","Asian SEA1b","China",2011
-"KF663513","Asian SEA1b","China",2011
-"KF663514","Asian SEA1b","China",2011
-"KF663515","Asian SEA1b","China",2011
-"KF663516","Asian SEA1b","China",2011
-"KF663517","Asian SEA1b","China",2011
-"KF663518","Asian SEA1b","China",2011
-"KF663519","Asian SEA1b","China",2011
-"KF663520","Asian SEA1b","China",2011
-"KF663521","Asian SEA1b","China",2012
-"KF663522","Asian SEA1b","China",2012
-"KF663523","Asian SEA1b","China",2009
-"KF663524","Asian SEA1b","China",2010
-"KF663525","Asian SEA1b","China",2009
-"KF663526","Asian SEA1b","China",2011
-"KF663527","Asian SEA1b","China",2012
-"KF663528","Asian SEA1b","China",2012
-"KF663529","Asian SEA1b","China",2012
-"KF663530","Asian SEA1b","China",2012
-"KF726852","Asian SEA2b","China",2009
-"KF726853","Asian SEA1b","China",2010
-"KJ004416","Asian SEA1b","China",2013
-"KJ466147","Asian SEA2a","China",2014
-"KJ564280","Asian SEA1b","China",2013
-"KM034906","Asian SEA1b","China",2013
-"KM058057","Asian SEA1b","China",2014
-"KM058058","Asian SEA1b","China",2014
-"KM093867","Asian SEA1b","China",2012
-"KM366202","Asian SEA3","Cambodia",2008
-"KM366203","Asian SEA3","Cambodia",2006
-"KM366204","Asian SEA3","Cambodia",2004
-"KM366205","Asian SEA3","Cambodia",2010
-"KM366206","Asian SEA3","Cambodia",2004
-"KM366207","Asian SEA3","Cambodia",2007
-"KM366208","Asian SEA3","Cambodia",2004
-"KM366209","Asian SEA3","Cambodia",2002
-"KM366210","Asian SEA3","Cambodia",2000
-"KM366211","Asian SEA3","Cambodia",2010
-"KM366212","Asian SEA3","Cambodia",2008
-"KM366213","Asian SEA3","Cambodia",1998
-"KM366214","Asian SEA3","Cambodia",2003
-"KM366215","Asian SEA3","Cambodia",2002
-"KM366216","Asian SEA3","Cambodia",2010
-"KM366217","Asian SEA3","Cambodia",2009
-"KM366218","Asian SEA3","Cambodia",2003
-"KM366219","Asian SEA3","Cambodia",2004
-"KM366220","Asian SEA3","Cambodia",2011
-"KM366221","Asian SEA3","Cambodia",2011
-"KM366222","Asian SEA3","Cambodia",2011
-"KM366223","Asian SEA3","Cambodia",2010
-"KM366224","Asian SEA3","Cambodia",2000
-"KM366225","Asian SEA3","Cambodia",2011
-"KM366226","Asian SEA3","Cambodia",2001
-"KM366227","Asian SEA3","Cambodia",2010
-"KM366228","Asian SEA3","Cambodia",2008
-"KM366229","Asian SEA3","Cambodia",2011
-"KM366230","Asian SEA3","Cambodia",2011
-"KM366231","Asian SEA3","Cambodia",2008
-"KM366232","Asian SEA3","Cambodia",2003
-"KM366233","Asian SEA3","Cambodia",2002
-"KM366234","Asian SEA3","Cambodia",1999
-"KM366235","Asian SEA3","Cambodia",2009
-"KM366236","Asian SEA3","Cambodia",2008
-"KM366237","Asian SEA3","Cambodia",2008
-"KM366238","Asian SEA3","Cambodia",2009
-"KM366239","Asian SEA3","Cambodia",1999
-"KM366240","Asian SEA3","Cambodia",2001
-"KM366241","Asian SEA3","Cambodia",1999
-"KM366242","Asian SEA3","Cambodia",2001
-"KM366243","Asian SEA3","Cambodia",2007
-"KM366244","Asian SEA3","Cambodia",2000
-"KM366245","Asian SEA3","Cambodia",2000
-"KM366246","Asian SEA3","Cambodia",2006
-"KM366247","Asian SEA3","Cambodia",2002
-"KM366248","Asian SEA3","Cambodia",2006
-"KM366249","Asian SEA3","Cambodia",2005
-"KM366250","Asian SEA3","Cambodia",2003
-"KM366251","Asian SEA3","Cambodia",1998
-"KM366252","Asian SEA3","Cambodia",1998
-"KM366253","Asian SEA3","Cambodia",2007
-"KM366254","Asian SEA3","Cambodia",2009
-"KM366255","Asian SEA3","Cambodia",2011
-"KM366256","Asian SEA3","Cambodia",2002
-"KM366257","Asian SEA3","Cambodia",2006
-"KM366258","Asian SEA3","Cambodia",2006
-"KM366259","Asian SEA3","Cambodia",2004
-"KM366260","Asian SEA3","Cambodia",2002
-"KM366261","Asian SEA3","Cambodia",2005
-"KM366262","Asian SEA3","Cambodia",2009
-"KM366263","Asian SEA3","Cambodia",2011
-"KM366264","Asian SEA3","Cambodia",2001
-"KM366265","Asian SEA3","Cambodia",2000
-"KM366266","Asian SEA3","Cambodia",2010
-"KM366267","Asian SEA3","Cambodia",2010
-"KM366268","Asian SEA3","Cambodia",2005
-"KM366269","Asian SEA3","Cambodia",1999
-"KM366270","Asian SEA3","Cambodia",2003
-"KM366271","Asian SEA3","Cambodia",2001
-"KM366272","Asian SEA3","Cambodia",2003
-"KM366273","Asian SEA3","Cambodia",2004
-"KM366274","Asian SEA3","Cambodia",2008
-"KM366275","Asian SEA3","Cambodia",2000
-"KM366276","Asian SEA3","Cambodia",2006
-"KM366277","Asian SEA3","Cambodia",2002
-"KM366278","Asian SEA3","Cambodia",2001
-"KM366279","Asian SEA3","Cambodia",2008
-"KM366280","Asian SEA3","Cambodia",2008
-"KM366281","Asian SEA3","Cambodia",2008
-"KM366282","Asian SEA3","Cambodia",2000
-"KM366283","Asian SEA3","Cambodia",2009
-"KM366284","Asian SEA3","Cambodia",2011
-"KM366285","Asian SEA3","Cambodia",1998
-"KM366286","Asian SEA3","Cambodia",2011
-"KM366287","Asian SEA3","Cambodia",1998
-"KM366288","Asian SEA3","Cambodia",2009
-"KM366289","Asian SEA3","Cambodia",2007
-"KM366290","Asian SEA3","Cambodia",2001
-"KM366291","Asian SEA3","Cambodia",2003
-"KM366292","Asian SEA3","Cambodia",2006
-"KM366293","Asian SEA3","Cambodia",2007
-"KM366294","Asian SEA3","Cambodia",2006
-"KM366295","Asian SEA3","Cambodia",1999
-"KM366296","Asian SEA3","Cambodia",2007
-"KM366297","Asian SEA3","Cambodia",2004
-"KM366298","Asian SEA3","Cambodia",2002
-"KM366299","Asian SEA3","Cambodia",2009
-"KM366300","Asian SEA3","Cambodia",2002
-"KM366301","Asian SEA3","Cambodia",2009
-"KM366302","Asian SEA3","Cambodia",2004
-"KM366303","Asian SEA3","Cambodia",2007
-"KM366304","Asian SEA3","Cambodia",2001
-"KM366305","Asian SEA3","Cambodia",2002
-"KM366306","Asian SEA3","Cambodia",1998
-"KM366307","Asian SEA3","Cambodia",1998
-"KM366308","Asian SEA3","Cambodia",2003
-"KM366309","Asian SEA3","Cambodia",1999
-"KM366310","Asian SEA3","Cambodia",2008
-"KM366311","Asian SEA3","Cambodia",2007
-"KM366312","Asian SEA3","Cambodia",2005
-"KM366313","Asian SEA3","Cambodia",2004
-"KM366314","Asian SEA3","Cambodia",2009
-"KM366315","Asian SEA3","Cambodia",2006
-"KM366316","Asian SEA3","Cambodia",2005
-"KM366317","Asian SEA3","Cambodia",2003
-"KM366318","Asian SEA3","Cambodia",2010
-"KM366319","Asian SEA3","Cambodia",2008
-"KM366320","Asian SEA3","Cambodia",2007
-"KM366321","Asian SEA3","Cambodia",2001
-"KM366322","Asian SEA3","Cambodia",2011
-"KM366323","Asian SEA3","Cambodia",2006
-"KM366324","Asian SEA3","Cambodia",2003
-"KM366325","Asian SEA3","Cambodia",2001
-"KM366326","Asian SEA3","Cambodia",2000
-"KM366327","Asian SEA3","Cambodia",1999
-"KM366328","Asian SEA3","Cambodia",1999
-"KM366329","Asian SEA3","Cambodia",1998
-"KM366330","Asian SEA3","Cambodia",1998
-"KM366331","Asian SEA3","Cambodia",2009
-"KM366332","Asian SEA3","Cambodia",1998
-"KM366333","Asian SEA3","Cambodia",2009
-"KM366334","Asian SEA3","Cambodia",1999
-"KM366335","Asian SEA3","Cambodia",2000
-"KM366336","Asian SEA3","Cambodia",2010
-"KM366337","Asian SEA3","Cambodia",2009
-"KM366338","Asian SEA3","Cambodia",2010
-"KM366339","Asian SEA3","Cambodia",2004
-"KM366340","Asian SEA3","Cambodia",2004
-"KM366341","Asian SEA3","Cambodia",2004
-"KM366342","Asian SEA3","Cambodia",2004
-"KM366343","Asian SEA3","Cambodia",2004
-"KM366344","Asian SEA3","Cambodia",2004
-"KM366345","Asian SEA3","Cambodia",2004
-"KM366346","Asian SEA3","Cambodia",2005
-"KM366347","Asian SEA3","Cambodia",2005
-"KM366348","Asian SEA3","Cambodia",2006
-"KM366349","Asian SEA3","Cambodia",2004
-"KM366350","Asian SEA3","Cambodia",2004
-"KM880028","Asian SEA1b","China",2012
-"KP072009","Asian SEA1b","China",2012
-"KP072010","Asian SEA1b","China",2012
-"KP072011","Asian SEA1b","China",2012
-"KP072012","Asian SEA1b","China",2012
-"KP072013","Asian SEA1b","China",2012
-"KP072014","Asian SEA1b","China",2012
-"KP072015","Asian SEA1b","China",2012
-"KP072016","Asian SEA1b","China",2012
-"KP072017","Asian SEA1b","China",2012
-"KP072018","Asian SEA1b","China",2012
-"KP072019","Asian SEA1b","China",2012
-"KP072020","Asian SEA1b","China",2013
-"KP072021","Asian SEA1b","China",2013
-"KP072022","Asian SEA1b","China",2013
-"KP072023","Asian SEA1b","China",2013
-"KP072024","Asian SEA1b","China",2013
-"KP072025","Asian SEA1b","China",2013
-"KP072026","Asian SEA1b","China",2013
-"KP072027","Asian SEA1b","China",2013
-"KP072028","Asian SEA1b","China",2013
-"KP072029","Asian SEA1b","China",2013
-"KP072030","Asian SEA1b","China",2013
-"KP202418","Asian SEA1b","China",2013
-"KP202419","Asian SEA1b","China",2013
-"KP202420","Asian SEA1b","China",2013
-"KP202421","Asian SEA1b","China",2014
-"KP202422","Asian SEA1b","China",2014
-"KP202423","Asian SEA1b","China",2014
-"KP202424","Asian SEA1b","China",2014
-"KP202425","Asian SEA1b","China",2014
-"KP202426","Asian SEA1b","China",2014
-"KP202427","Asian SEA1b","China",2014
-"KP202428","Asian SEA1b","China",2014
-"KP202429","Asian SEA1b","China",2014
-"KP202430","Asian SEA1b","China",2014
-"KP202431","Asian SEA1b","China",2014
-"KP202432","Asian SEA1b","China",2014
-"KP202433","Asian SEA1b","China",2014
-"KP202434","Asian SEA1b","China",2014
-"KP202435","Asian SEA1b","China",2014
-"KP202436","Asian SEA1b","China",2014
-"KP202437","Asian SEA1b","China",2014
-"KP202438","Asian SEA1b","China",2014
-"KP202439","Asian SEA1b","China",2014
-"KP202440","Asian SEA1b","China",2014
-"KP202441","Asian SEA1b","China",2014
-"KP202442","Asian SEA1b","China",2014
-"KP202443","Asian SEA1b","China",2014
-"KP202444","Asian SEA1b","China",2014
-"KP202445","Asian SEA1b","China",2014
-"KP202446","Asian SEA1b","China",2014
-"KP202447","Asian SEA1b","China",2014
-"KP202448","Asian SEA1b","China",2013
-"KP319184","Asian SEA2b","China",2009
-"KP319185","Asian SEA2b","China",2009
-"KP319187","Asian SEA2b","China",2009
-"KP319188","Asian SEA2b","China",2009
-"KP319189","Asian SEA2b","China",2009
-"KP319190","Asian SEA2b","China",2009
-"KP319191","Asian SEA2b","China",2009
-"KP319192","Asian SEA2b","China",2009
-"KP319193","Asian SEA2b","China",2011
-"KP319195","Asian SEA2b","China",2011
-"KP319196","Asian SEA2b","China",2012
-"KP319198","Asian SEA2b","China",2012
-"KP319200","Asian SEA2b","China",2012
-"KP319202","Asian SEA2b","China",2013
-"KP319203","Asian SEA2b","China",2013
-"KP319204","Asian SEA2b","China",2013
-"KP319206","Asian SEA2b","China",2013
-"KP319207","Asian SEA2b","China",2013
-"KP319208","Asian SEA2b","China",2013
-"KP319209","Asian SEA2b","China",2013
-"KP319210","Asian SEA2b","China",2013
-"KP319211","Asian SEA2b","China",2013
-"KP319212","Asian SEA2b","China",2013
-"KP319213","Asian SEA2b","China",2013
-"KP319214","Asian SEA1b","China",2012
-"KP319215","Asian SEA1b","China",2012
-"KP319216","Asian SEA1b","China",2013
-"KP319217","Asian SEA1b","China",2013
-"KP319218","Asian SEA1b","China",2013
-"KP319219","Asian SEA1b","China",2013
-"KP319220","Asian SEA1b","China",2013
-"KP319221","Asian SEA1b","China",2010
-"KP319222","Asian SEA1b","China",2010
-"KP319223","Asian SEA1b","China",2010
-"KP319224","Asian SEA1b","China",2010
-"KP319225","Asian SEA1b","China",2011
-"KP319226","Asian SEA1b","China",2011
-"KP319227","Asian SEA1b","China",2011
-"KP319228","Asian SEA1b","China",2012
-"KP319229","Asian SEA1b","China",2012
-"KP319230","Asian SEA1b","China",2013
-"KP319231","Asian SEA1b","China",2013
-"KP319232","Asian SEA1b","China",2013
-"KP319233","Asian SEA1b","China",2013
-"KP319234","Asian SEA1b","China",2013
-"KP319235","Asian SEA1b","China",2013
-"KP319236","Asian SEA1b","China",2012
-"KP319237","Asian SEA1b","China",2013
-"KP319238","Asian SEA1b","China",2013
-"KP319239","Asian SEA1b","China",2013
-"KP860137","Asian SEA5","Taiwan",2013
-"KP860138","Asian SEA5","Taiwan",2013
-"KP860139","Asian SEA5","Taiwan",2013
-"KP860140","Asian SEA5","Taiwan",2013
-"KP860141","Asian SEA5","Taiwan",2013
-"KP860142","Asian SEA5","Taiwan",2013
-"KP860143","Asian SEA5","Taiwan",2013
-"KP860144","Asian SEA5","Taiwan",2013
-"KP860145","Asian SEA5","Taiwan",2013
-"KP860147","Asian SEA5","Taiwan",2013
-"KP860148","Asian SEA5","Taiwan",2013
-"KP860149","Asian SEA5","Taiwan",2013
-"KP860150","Asian SEA5","Taiwan",2013
-"KP860151","Asian SEA5","Taiwan",2013
-"KP860153","Asian SEA5","Taiwan",2013
-"KP860154","Asian SEA5","Taiwan",2013
-"KP860156","Asian SEA5","Taiwan",2010
-"KP860157","Asian SEA5","Taiwan",2012
-"KP860159","Asian SEA5","Taiwan",2013
-"KP860160","Asian SEA5","Taiwan",2013
-"KP860161","Asian SEA5","Taiwan",2013
-"KP860162","Asian SEA5","Taiwan",2013
-"KP860163","Asian SEA5","Taiwan",2013
-"KP860164","Asian SEA5","Taiwan",2013
-"KP860165","Asian SEA5","Taiwan",2013
-"KP860166","Asian SEA5","Taiwan",2013
-"KP860168","Asian SEA5","Taiwan",2013
-"KP860170","Asian SEA5","Taiwan",2013
-"KP860171","Asian SEA5","Taiwan",2013
-"KP860172","Asian SEA5","Taiwan",2013
-"KP860173","Asian SEA5","Taiwan",2013
-"KP860174","Asian SEA5","Taiwan",2013
-"KP860175","Asian SEA5","Taiwan",2013
-"KP860177","Asian SEA5","Taiwan",2013
-"KP860178","Asian SEA5","Taiwan",2013
-"KP860179","Asian SEA5","Taiwan",2013
-"KP860180","Asian SEA5","Taiwan",2013
-"KP860181","Asian SEA5","Taiwan",2013
-"KP860182","Asian SEA5","Taiwan",2013
-"KP860183","Asian SEA5","Taiwan",2013
-"KP860184","Asian SEA5","Taiwan",2013
-"KP881353","Asian SEA5","Taiwan",2013
-"KP881355","Asian SEA5","Taiwan",2013
-"KP892527","Asian SEA5","Taiwan",2014
-"KP892528","Asian SEA5","Taiwan",2014
-"KR230089","Asian SEA1b","China",2015
-"KR230090","Asian SEA1b","China",2015
-"KT221093","Asian SEA1a","China",2005
-"KT221094","Asian SEA1a","China",2005
-"KT221095","Asian SEA1a","China",2005
-"KT221096","Asian SEA1b","China",2007
-"KT221097","Asian SEA1a","China",2006
-"KT221098","Asian SEA1b","China",2008
-"KT221099","Asian SEA1b","China",2008
-"KT221100","Asian SEA1a","China",2005
-"KT221101","Asian SEA1b","China",2005
-"KT221102","Asian SEA2a","China",2006
-"KT221103","Asian SEA1b","China",2014
-"KT221104","Asian SEA1b","China",2006
-"KT221105","Asian SEA1b","China",2008
-"KT221106","Asian SEA1b","China",2008
-"KT221107","Asian SEA2a","China",2009
-"KT221108","Asian SEA1b","China",2010
-"KT221109","Asian SEA1b","China",2008
-"KT221110","Asian SEA1b","China",2010
-"KT221111","Asian SEA1b","China",2007
-"KT894557","Asian SEA1b","China",2006
-"KT894558","Asian SEA2a","China",2005
-"KT894559","Asian SEA1b","China",2009
-"KT894560","Asian SEA1b","China",2010
-"KT894561","Asian SEA1b","China",2011
-"KT894562","Asian SEA1b","China",2011
-"KT894563","Asian SEA1b","China",2011
-"KT894564","Asian SEA1b","China",2008
-"KT894565","Asian SEA1b","China",2008
-"KT894566","Asian SEA1b","China",2011
-"KT894567","Asian SEA1b","China",2011
-"KT894568","Asian SEA1b","China",2013
-"KT894569","Asian SEA1b","China",2007
-"KT894570","Asian SEA1b","China",2011
-"KT894571","Asian SEA1b","China",2011
-"KT894572","Asian SEA2a","China",2010
-"KT894573","Asian SEA2a","China",2011
-"KT894574","Asian SEA1b","China",2014
-"KT894575","Asian SEA1b","China",2010
-"KT894576","Asian SEA1b","China",2009
-"KT894577","Asian SEA2a","China",2013
-"KT894579","Asian SEA1b","China",2010
-"KT894580","Asian SEA1b","China",2013
-"KT894581","Asian SEA1b","China",2011
-"KT894583","Asian SEA1b","China",2010
-"KT894584","Asian SEA1b","China",2013
-"KT894585","Asian SEA1b","China",2007
-"KT932670","Asian SEA1b","China",2014
-"KT932671","Asian SEA1b","China",2014
-"KT932672","Asian SEA1b","China",2014
-"KT932673","Asian SEA1b","China",2014
-"KT932674","Asian SEA1b","China",2014
-"KT932675","Asian SEA1b","China",2014
-"KT932676","Asian SEA1b","China",2014
-"KT932677","Asian SEA1b","China",2014
-"KT932678","Asian SEA1b","China",2014
-"KT932679","Asian SEA1b","China",2014
-"KT932680","Asian SEA1b","China",2014
-"KT932681","Asian SEA1b","China",2014
-"KT932682","Asian SEA1b","China",2014
-"KT932683","Asian SEA1b","China",2014
-"KT932684","Asian SEA1b","China",2014
-"KT932685","Asian SEA1b","China",2014
-"KT932686","Asian SEA1b","China",2015
-"KT932687","Asian SEA1b","China",2015
-"KT932688","Asian SEA1b","China",2015
-"KT932689","Asian SEA1b","China",2015
-"KT932690","Asian SEA1b","China",2015
-"KT932691","Asian SEA1b","China",2015
-"KT932692","Asian SEA1b","China",2015
-"KT932693","Asian SEA1b","China",2015
-"KT932694","Asian SEA1b","China",2015
-"KT932695","Asian SEA1b","China",2015
-"KT932696","Asian SEA1b","China",2015
-"KT932697","Asian SEA1b","China",2015
-"KT932698","Asian SEA1b","China",2015
-"KU198994","Asian SEA1b","China",2015
-"KU198995","Asian SEA1b","China",2015
-"KU314706","Asian SEA1b","China",2014
-"KU314707","Asian SEA1b","China",2015
-"KU314708","Asian SEA1b","China",2015
-"KU314709","Asian SEA1b","China",2015
-"KU314710","Asian SEA1b","China",2015
-"KU314712","Asian SEA1b","China",2015
-"KU314713","Asian SEA1b","China",2015
-"KU314714","Asian SEA2a","China",2015
-"KU314715","Asian SEA2a","China",2015
-"KU928249","Asian SEA1b","China",2015
-"KU928250","Asian SEA1b","China",2015
-"KU946961","Asian SEA2a","China",2009
-"KU963492","Asian SEA3","-",1983
-"KX096992","Asian SEA1b","China",2015
-"KX096993","Asian SEA1b","China",2015
-"KX096994","Asian SEA1b","China",2015
-"KX096995","Asian SEA1b","China",2015
-"KX096996","Asian SEA1b","China",2015
-"KX096997","Asian SEA1b","China",2015
-"KX096998","Asian SEA1b","China",2015
-"KX096999","Asian SEA1b","China",2015
-"KX097000","Asian SEA1b","China",2015
-"KX148247","Asian SEA3","Myanmar",1999
-"KX148248","Asian SEA3","Myanmar",1999
-"KX148249","Asian SEA3","Cambodia",1998
-"KX148250","Asian SEA3","Cambodia",1999
-"KX148251","Asian SEA3","Cambodia",1998
-"KX148252","Asian SEA3","Cambodia",1999
-"KX148253","Asian SEA3","Cambodia",1998
-"KX148254","Asian SEA3","Vietnam",2001
-"KX148255","Asian SEA3","Lao",1999
-"KX148256","Asian SEA3","Lao",2002
-"KX148257","Asian SEA3","Lao",2002
-"KX148258","Asian SEA3","Lao",2002
-"KX148259","Asian SEA4","Philippines",1994
-"KX148260","Asian SEA4","Philippines",2004
-"KX148261","Asian SEA4","Philippines",1994
-"KX148262","Asian SEA4","Philippines",1994
-"KX148263","Asian SEA4","Philippines",1994
-"KX148264","Asian SEA2a","China",1994
-"KX148265","Asian SEA1b","China",1998
-"KX148266","Asian SEA1b","Indonesia",2003
-"KX148267","Asian SEA1a","China",1992
-"KX447686","Asian SEA1b","China",2014
-"KX447687","Asian SEA1b","China",2014
-"KX447688","Asian SEA1b","China",2014
-"KX447689","Asian SEA1b","China",2014
-"KY214264","Asian SEA1b","China",2015
-"KY214265","Asian SEA1b","China",2015
-"KY214266","Asian SEA1b","China",2015
-"KY214267","Asian SEA1b","China",2015
-"KY214268","Asian SEA1b","China",2016
-"KY214269","Asian SEA1b","China",2016
-"KY214270","Asian SEA1b","China",2016
-"KY214271","Asian SEA1b","China",2016
-"KY214272","Asian SEA1b","China",2016
-"KY214273","Asian SEA1b","China",2016
-"KY214274","Asian SEA1b","China",2016
-"KY214275","Asian SEA1b","China",2016
-"KY214276","Asian SEA1b","China",2016
-"KY214278","Asian SEA1b","China",2016
-"KY214279","Asian SEA1b","China",2016
-"KY214280","Asian SEA1b","China",2016
-"KY214281","Asian SEA1b","China",2016
-"KY214283","Asian SEA1b","China",2016
-"KY214284","Asian SEA1b","China",2016
-"KY214285","Asian SEA1b","China",2016
-"KY214286","Asian SEA1b","China",2016
-"KY214287","Asian SEA1b","China",2016
-"KY362746","Asian SEA1b","China",2016
-"KY362747","Asian SEA1b","China",2016
-"KY362748","Asian SEA1b","China",2016
-"KY428870","Asian SEA1b","China",2016
-"KY428871","Asian SEA1b","China",2016
-"KY428872","Asian SEA1b","China",2016
-"KY428873","Asian SEA1b","China",2016
-"KY428874","Asian SEA1b","China",2016
-"KY428875","Asian SEA1b","China",2016
-"KY428876","Asian SEA1b","China",2016
-"KY428877","Asian SEA1b","China",2016
-"KY428878","Asian SEA1b","China",2016
-"KY428879","Asian SEA1b","China",2016
-"KY451767","Asian SEA2a","China",2015
-"KY613017","Asian SEA1b","China",2015
-"KY613018","Asian SEA1b","China",2015
-"KY613019","Asian SEA1b","China",2015
-"KY613020","Asian SEA1b","China",2015
-"KY780299","Asian SEA1b","China",2017
-"LC455965","Asian SEA1b","China",2011
-"LC455966","Asian SEA1b","China",2011
-"LC455967","Asian SEA1b","China",2012
-"LC455968","Asian SEA1b","China",2012
-"LC455969","Asian SEA1b","China",2012
-"LC455970","Asian SEA1b","China",2012
-"LC455971","Asian SEA1b","China",2012
-"LC455972","Asian SEA1b","China",2012
-"LC455973","Asian SEA1b","China",2013
-"LC455974","Asian SEA1b","China",2014
-"LC455975","Asian SEA1b","China",2015
-"LC455976","Asian SEA1b","China",2015
-"LC455977","Asian SEA1b","China",2016
-"LC455978","Asian SEA1b","China",2016
-"LC455979","Asian SEA1b","China",2016
-"LC455980","Asian SEA1b","China",2016
-"LC455981","Asian SEA1b","China",2016
-"LC455982","Asian SEA1b","China",2016
-"LC455983","Asian SEA1b","China",2016
-"LC455984","Asian SEA1b","China",2017
-"LC455985","Asian SEA1b","China",2017
-"LC455986","Asian SEA1b","China",2017
-"LC455987","Asian SEA1b","China",2017
-"LC550018","Asian SEA4","Philippines",2019
-"LC550019","Asian SEA4","Philippines",2019
-"LC550020","Asian SEA4","Philippines",2019
-"LC550021","Asian SEA4","Philippines",2019
-"LC550022","Asian SEA4","Philippines",2019
-"LC550023","Asian SEA4","Philippines",2019
-"LC550024","Asian SEA4","Philippines",2019
-"LC550025","Asian SEA4","Philippines",2019
-"LC550026","Asian SEA4","Philippines",2019
-"LC550027","Asian SEA4","Philippines",2019
-"LC571945","Asian SEA4","Japan",2006
-"LC571946","Asian SEA4","-",2020
-"LC717422","Asian SEA3","Thailand",1963
-"LC717423","Asian SEA3","Thailand",1985
-"LC717424","Asian SEA3","Thailand",1985
-"LC717425","Asian SEA3","Thailand",1985
-"LC717426","Asian SEA3","Thailand",1976
-"LC717427","Asian SEA3","Thailand",1977
-"LC717428","Asian SEA3","Thailand",1977
-"MF459637","Asian SEA1b","China",2015
-"MF459638","Asian SEA1b","China",2015
-"MF476106","Asian SEA1b","China",2015
-"MF611868","Asian SEA1b","China",2015
-"MF611869","Asian SEA1b","China",2011
-"MF624630","Asian SEA2a","China",2017
-"MF741703","Asian SEA1b","China",2015
-"MF741704","Asian SEA1b","China",2015
-"MG201875","Asian SEA1b","China",2012
-"MG201876","Asian SEA1b","China",2010
-"MG201877","Asian SEA1b","China",2010
-"MG201878","Asian SEA1b","China",2010
-"MG201879","Asian SEA2a","China",2010
-"MG201880","Asian SEA2a","China",2010
-"MG201881","Asian SEA1b","China",2010
-"MG201882","Asian SEA1b","China",2011
-"MG201883","Asian SEA1b","China",2012
-"MG201884","Asian SEA2a","China",2012
-"MG201919","Asian SEA2a","China",2011
-"MG201920","Asian SEA3","China",2010
-"MG201921","Asian SEA2a","China",2012
-"MG201922","Asian SEA1b","China",2012
-"MG201923","Asian SEA1b","China",2003
-"MG383883","Asian SEA1b","China",2016
-"MG383884","Asian SEA1b","China",2016
-"MG383885","Asian SEA1b","China",2016
-"MG383887","Asian SEA1b","China",2017
-"MG383888","Asian SEA1b","China",2017
-"MG458321","Asian SEA1b","China",2018
-"MH746442","Asian SEA1b","China",2016
-"MK124732","Asian SEA1b","China",2016
-"MK124733","Asian SEA1b","China",2016
-"MK124734","Asian SEA1b","China",2017
-"MK124736","Asian SEA1b","China",2017
-"MK124742","Asian SEA1b","China",2018
-"MK124743","Asian SEA1b","China",2018
-"MK124757","Asian SEA1b","China",2017
-"MK510916","Asian SEA1b","China",2017
-"MK510917","Asian SEA1b","China",2017
-"MK510918","Asian SEA1b","China",2017
-"MK510919","Asian SEA1b","China",2017
-"MK510920","Asian SEA1b","China",2017
-"MK510921","Asian SEA1b","China",2017
-"MK510922","Asian SEA1b","China",2017
-"MK510923","Asian SEA1b","China",2017
-"MK510924","Asian SEA1b","China",2017
-"MK514264","Asian SEA1b","China",2018
-"MK514265","Asian SEA1b","China",2018
-"MK514266","Asian SEA1b","China",2018
-"MK514267","Asian SEA1b","China",2018
-"MK514268","Asian SEA1b","China",2018
-"MK514269","Asian SEA1b","China",2018
-"MK514270","Asian SEA1b","China",2018
-"MK514271","Asian SEA1b","China",2018
-"MK514272","Asian SEA1b","China",2018
-"MK514273","Asian SEA1b","China",2018
-"MK567666","Asian SEA1b","China",2013
-"MK577649","Asian SEA1b","China",2015
-"MK689674","Asian SEA1b","China",2017
-"MK689675","Asian SEA1b","China",2017
-"MK689676","Asian SEA1b","China",2017
-"MN075931","Asian SEA3","Thailand",1999
-"MN175989","Asian SEA1b","China",2019
-"MN186249","Asian SEA1b","China",2018
-"MN186250","Asian SEA1b","China",2018
-"MN510449","Asian SEA1b","China",2013
-"MN510450","Asian SEA1b","China",2012
-"MN510451","Asian SEA1b","China",2012
-"MN510452","Asian SEA1b","China",2010
-"MN510453","Asian SEA1b","China",2010
-"MN510454","Asian SEA1b","China",2011
-"MN510455","Asian SEA1b","China",2010
-"MN510456","Asian SEA1b","China",2015
-"MN510457","Asian SEA1b","China",2010
-"MN510458","Asian SEA1b","China",2011
-"MN510459","Asian SEA1b","China",2014
-"MN510460","Asian SEA1b","China",2011
-"MN510461","Asian SEA1b","China",2010
-"MN726836","Asian SEA4","Philippines",2013
-"MN726837","Asian SEA4","Philippines",2013
-"MN726839","Asian SEA4","Philippines",2015
-"MN726840","Asian SEA4","Philippines",2015
-"MN726841","Asian SEA4","Philippines",2014
-"MN726842","Asian SEA4","Philippines",2019
-"MN726843","Asian SEA4","Philippines",2012
-"MN726845","Asian SEA4","Philippines",2012
-"MN726848","Asian SEA4","Philippines",2016
-"MN726850","Asian SEA4","Philippines",2015
-"MN726852","Asian SEA4","Philippines",2018
-"MN726854","Asian SEA4","Philippines",2015
-"MN726855","Asian SEA4","Philippines",2016
-"MN726856","Asian SEA4","Philippines",2012
-"MN726858","Asian SEA4","Philippines",2016
-"MN726860","Asian SEA4","Philippines",2018
-"MN726861","Asian SEA4","Philippines",2015
-"MN726862","Asian SEA4","Philippines",2013
-"MN726866","Asian SEA4","Philippines",2014
-"MN726870","Asian SEA4","Philippines",2014
-"MN726873","Asian SEA4","Philippines",2014
-"MN726874","Asian SEA4","Philippines",2012
-"MN726875","Asian SEA4","Philippines",2018
-"MN726876","Asian SEA4","Philippines",2018
-"MN726879","Asian SEA4","Philippines",2012
-"MN726880","Asian SEA4","Philippines",2019
-"MN726881","Asian SEA4","Philippines",2015
-"MN857167","Asian SEA4","Philippines",2019
-"MN857168","Asian SEA4","Philippines",2019
-"MN857169","Asian SEA4","Philippines",2019
-"MN857170","Asian SEA4","Philippines",2019
-"MN857171","Asian SEA4","Philippines",2019
-"MT068573","Asian SEA1b","China",2018
-"MT068574","Asian SEA1b","China",2018
-"MT068575","Asian SEA1b","China",2018
-"MT068576","Asian SEA1b","China",2018
-"MT068577","Asian SEA1b","China",2018
-"MT068578","Asian SEA1b","China",2018
-"MT068579","Asian SEA1b","China",2018
-"MT068604","Asian SEA1b","China",2017
-"MT068605","Asian SEA1b","China",2017
-"MT068606","Asian SEA1b","China",2017
-"MT068607","Asian SEA1b","China",2017
-"MT068608","Asian SEA1b","China",2017
-"MT068609","Asian SEA1b","China",2017
-"MT068610","Asian SEA1b","China",2017
-"MT068611","Asian SEA1b","China",2017
-"MT068612","Asian SEA2b","China",2017
-"MT068613","Asian SEA1b","China",2017
-"MT068614","Asian SEA1b","China",2017
-"MT068615","Asian SEA2b","China",2017
-"MT068616","Asian SEA1b","China",2017
-"MT068617","Asian SEA1b","China",2017
-"MT068618","Asian SEA1b","China",2017
-"MT068619","Asian SEA1b","China",2017
-"MT068620","Asian SEA1b","China",2017
-"MT068621","Asian SEA1b","China",2017
-"MT068622","Asian SEA1b","China",2017
-"MT068623","Asian SEA1b","China",2017
-"MT068624","Asian SEA1b","China",2017
-"MT068625","Asian SEA1b","China",2017
-"MT068626","Asian SEA1b","China",2017
-"MT068627","Asian SEA1b","China",2017
-"MT241241","Asian SEA1b","China",2019
-"MT241242","Asian SEA1b","China",2019
-"MT241243","Asian SEA1b","China",2019
-"MT241244","Asian SEA1b","China",2019
-"MT241245","Asian SEA1b","China",2019
-"MT241246","Asian SEA1b","China",2019
-"MT241247","Asian SEA1b","China",2019
-"MT241248","Asian SEA1b","China",2019
-"MT332714","Asian SEA1b","China",2019
-"MT818428","Asian SEA1b","China",2015
-"MT818429","Asian SEA1b","China",2015
-"MT818430","Asian SEA1b","China",2015
-"MT818431","Asian SEA1b","China",2015
-"MT818432","Asian SEA1b","China",2015
-"MT818433","Asian SEA1b","China",2015
-"MT818434","Asian SEA1b","China",2016
-"MT818435","Asian SEA1b","China",2016
-"MT818436","Asian SEA1b","China",2016
-"MT818437","Asian SEA1b","China",2016
-"MT818438","Asian SEA1b","China",2016
-"MT818439","Asian SEA1b","China",2016
-"MT818440","Asian SEA1b","China",2016
-"MT818441","Asian SEA1b","China",2016
-"MT818442","Asian SEA1b","China",2016
-"MT818443","Asian SEA1b","China",2016
-"MT818444","Asian SEA1b","China",2016
-"MT818445","Asian SEA1b","China",2016
-"MT818446","Asian SEA1b","China",2017
-"MT818447","Asian SEA1b","China",2017
-"MT818448","Asian SEA1b","China",2017
-"MT818449","Asian SEA1b","China",2017
-"MT818450","Asian SEA1b","China",2017
-"MT818451","Asian SEA1b","China",2017
-"MT818452","Asian SEA1b","China",2017
-"MT818453","Asian SEA1b","China",2017
-"MT818454","Asian SEA1b","China",2017
-"MT818455","Asian SEA1b","China",2017
-"MT818456","Asian SEA1b","China",2018
-"MT818457","Asian SEA1b","China",2018
-"MT818458","Asian SEA1b","China",2018
-"MT818459","Asian SEA1b","China",2018
-"MT818460","Asian SEA1b","China",2018
-"MT818461","Asian SEA1b","China",2018
-"MT818462","Asian SEA1b","China",2018
-"MT818463","Asian SEA1b","China",2019
-"MT818464","Asian SEA1b","China",2019
-"MT818465","Asian SEA1b","China",2019
-"MT818466","Asian SEA1b","China",2019
-"MW055214","Asian SEA1b","Vietnam",2017
-"MW055215","Asian SEA1b","Vietnam",2017
-"MW055216","Asian SEA1b","Vietnam",2017
-"MW055217","Asian SEA1b","Vietnam",2017
-"MW055218","Asian SEA1b","Vietnam",2017
-"MW055219","Asian SEA1b","Vietnam",2017
-"MW055220","Asian SEA1b","Vietnam",2018
-"MW055221","Asian SEA1b","Vietnam",2018
-"MW055222","Asian SEA1b","Vietnam",2018
-"MW055223","Asian SEA1b","Vietnam",2018
-"MW055224","Asian SEA1b","Vietnam",2017
-"MW055225","Asian SEA1b","Vietnam",2017
-"MW055226","Asian SEA1b","Vietnam",2017
-"MW055227","Asian SEA1b","Vietnam",2017
-"MW055228","Asian SEA1b","Vietnam",2017
-"MW055229","Asian SEA1b","Vietnam",2018
-"MW055230","Asian SEA1b","Vietnam",2018
-"MW055231","Asian SEA1b","Vietnam",2018
-"MW055232","Asian SEA1b","Vietnam",2017
-"MW055233","Asian SEA1b","Vietnam",2017
-"MW055234","Asian SEA3","Vietnam",2017
-"MW690139","Asian SEA3","Malaysia",2015
-"MW690140","Asian SEA3","Malaysia",2015
-"MW690141","Asian SEA3","Malaysia",2016
-"MW690142","Asian SEA3","Malaysia",2017
-"MW690143","Asian SEA1b","Malaysia",2017
-"MW690144","Asian SEA1b","Malaysia",2017
-"MW690145","Asian SEA1b","Malaysia",2017
-"MW690146","Asian SEA1b","Malaysia",2017
-"MW690147","Asian SEA1b","Malaysia",2017
-"MW690148","Asian SEA1b","Malaysia",2017
-"MW690149","Asian SEA1b","Malaysia",2018
-"MW690150","Asian SEA1b","Malaysia",2018
-"MW690151","Asian SEA1b","Malaysia",2018
-"MW690152","Asian SEA3","Malaysia",2018
-"MW690153","Asian SEA1b","Malaysia",2018
-"MW690154","Asian SEA3","Malaysia",2018
-"MW690155","Asian SEA3","Malaysia",2018
-"OK585051","Asian SEA3","Thailand",2022
-"U22653","Asian SEA3","-",1988
+ID,assignment,country,year
+98-134,Asian SEA4,Philippines,1998
+98-206,Asian SEA4,Philippines,1998
+98-285,Asian SEA4,Philippines,1998
+98-286,Asian SEA4,Philippines,1998
+AB154208,Asian SEA1b,Indonesia,2001
+AB154209,Asian SEA1b,Indonesia,2001
+AB154210,Asian SEA1b,Indonesia,2001
+AB154211,Asian SEA1b,Indonesia,2002
+AB154212,Asian SEA1b,Indonesia,2001
+AB154213,Asian SEA1b,Indonesia,2001
+AB154214,Asian SEA1b,Indonesia,2001
+AB154215,Asian SEA1b,Indonesia,2001
+AB154216,Asian SEA1b,Indonesia,2003
+AB154217,Asian SEA1b,Indonesia,2002
+AB154218,Asian SEA1b,Indonesia,1997
+AB154220,Asian SEA1b,-,1997
+AB154221,Asian SEA1b,Indonesia,2000
+AB154222,Asian SEA1b,Indonesia,2003
+AB154223,Asian SEA1b,Indonesia,1997
+AB154224,Asian SEA1b,Indonesia,2002
+AB154225,Asian SEA1b,Indonesia,2000
+AB154226,Asian SEA1b,Indonesia,2000
+AB154227,Asian SEA1b,Indonesia,2000
+AB154228,Asian SEA1b,Indonesia,2001
+AB154229,Asian SEA1b,Indonesia,2002
+AB154230,Asian SEA1b,Indonesia,2002
+AB154231,Asian SEA1b,Indonesia,2002
+AB154232,Asian SEA1b,Indonesia,2002
+AB154233,Asian SEA1b,Indonesia,1997
+AB154234,Asian SEA1b,Indonesia,2000
+AB154235,Asian SEA1b,Indonesia,2000
+AB154237,Asian SEA1b,Indonesia,2001
+AB154238,Asian SEA1b,Indonesia,2001
+AB154239,Asian SEA1b,Indonesia,2001
+AB154240,Asian SEA1b,Indonesia,2002
+AB154241,Asian SEA1b,Indonesia,1997
+AB154242,Asian SEA1b,Indonesia,2001
+AB154243,Asian SEA1b,Indonesia,2002
+AB178892,Asian SEA3,Thailand,1985
+AB178893,Asian SEA3,Thailand,1985
+AB178894,Asian SEA3,Thailand,1985
+AB178895,Asian SEA3,Thailand,1977
+AB178896,Asian SEA3,Thailand,1963
+AB573762,Asian SEA4,Japan,2006
+AB573763,Asian SEA4,Japan,2006
+AB981663,Asian SEA3,Lao,2011
+AB981664,Asian SEA3,Lao,2011
+AB981665,Asian SEA3,Lao,2011
+AB981666,Asian SEA3,Lao,2011
+AB981667,Asian SEA3,Lao,2011
+AB981668,Asian SEA3,Lao,2011
+AB981669,Asian SEA3,Lao,2011
+AB981670,Asian SEA3,Lao,2011
+AB981671,Asian SEA3,Lao,2012
+AB981672,Asian SEA3,Lao,2012
+AB981673,Asian SEA3,Lao,2012
+AB981674,Asian SEA3,Lao,2012
+AB981675,Asian SEA3,Lao,2012
+AB981676,Asian SEA3,Lao,2012
+AB981677,Asian SEA3,Lao,2012
+AF367863,Asian SEA2a,-,1956
+AY218996,Asian SEA3,Thailand,2001
+AY218997,Asian SEA3,Thailand,2001
+AY218998,Asian SEA3,Thailand,2001
+AY218999,Asian SEA3,Thailand,2001
+AY219000,Asian SEA3,Thailand,2001
+AY219001,Asian SEA3,Thailand,2001
+AY219002,Asian SEA3,Thailand,2001
+DQ267925,Asian SEA3,Thailand,2006
+DQ496219,Asian SEA2a,China,2006
+DQ515993,Asian SEA1b,China,2006
+DQ666287,Asian SEA1b,China,2006
+DQ666290,Asian SEA2a,China,2006
+DQ666291,Asian SEA1b,China,2004
+DQ666294,Asian SEA1b,China,2004
+DQ666295,Asian SEA1b,China,2004
+DQ666296,Asian SEA1b,China,2004
+DQ666297,Asian SEA1b,China,2004
+DQ666298,Asian SEA1b,China,2004
+DQ666299,Asian SEA1b,China,2004
+DQ666300,Asian SEA1b,China,2004
+DQ666302,Asian SEA1b,China,2004
+DQ666304,Asian SEA1b,China,2004
+DQ666306,Asian SEA1b,China,2004
+DQ666307,Asian SEA1b,China,2004
+DQ666308,Asian SEA1b,China,2004
+DQ666309,Asian SEA1b,China,2004
+DQ666311,Asian SEA1b,China,2004
+DQ666312,Asian SEA1b,China,2004
+DQ666314,Asian SEA1b,China,2004
+DQ666315,Asian SEA1b,China,2004
+DQ666316,Asian SEA1b,China,2004
+DQ666317,Asian SEA1b,China,2004
+DQ666318,Asian SEA1b,China,2004
+DQ666319,Asian SEA1b,China,2004
+DQ666321,Asian SEA1b,China,2004
+DQ787139,Asian SEA2a,-,2006
+DQ787140,Asian SEA2a,-,2006
+DQ787141,Asian SEA2a,-,2006
+DQ787142,Asian SEA2a,-,2006
+DQ787143,Asian SEA2a,-,2006
+DQ787144,Asian SEA2a,-,2006
+DQ787145,Asian SEA2a,-,2006
+DQ787146,Asian SEA2a,-,2006
+DQ866105,Asian SEA2a,China,2004
+DQ866106,Asian SEA2a,China,2003
+DQ866107,Asian SEA1b,China,2003
+DQ866108,Asian SEA2a,China,2003
+DQ866110,Asian SEA2a,China,2004
+DQ866111,Asian SEA3,China,2005
+DQ866112,Asian SEA2a,China,2004
+DQ866113,Asian SEA1b,China,2003
+DQ866114,Asian SEA2a,China,2004
+DQ866115,Asian SEA1b,China,2003
+DQ866116,Asian SEA2a,China,2003
+DQ866117,Asian SEA1b,China,2004
+DQ866118,Asian SEA1b,China,2005
+DQ866119,Asian SEA2a,China,2005
+DQ866120,Asian SEA2a,China,2005
+DQ866121,Asian SEA2a,China,2005
+EF556197,Asian SEA1b,China,2007
+EF564174,Asian SEA2a,China,1956
+EF611081,Asian SEA1b,China,2007
+EU008919,Asian SEA1b,China,2005
+EU008920,Asian SEA1b,China,2006
+EU008921,Asian SEA1b,China,2005
+EU008922,Asian SEA1b,China,2005
+EU008923,Asian SEA1b,China,2005
+EU086164,Asian SEA3,Myanmar,1999
+EU086165,Asian SEA3,Myanmar,1999
+EU086166,Asian SEA3,Myanmar,1999
+EU086167,Asian SEA3,Cambodia,1999
+EU086168,Asian SEA3,Cambodia,1998
+EU086169,Asian SEA3,Cambodia,1998
+EU086170,Asian SEA3,Cambodia,1997
+EU086171,Asian SEA3,Cambodia,1999
+EU086172,Asian SEA3,Cambodia,1998
+EU086173,Asian SEA1b,China,1998
+EU086174,Asian SEA1b,China,1997
+EU086175,Asian SEA1b,China,1997
+EU086176,Asian SEA1b,China,1992
+EU086177,Asian SEA1b,China,1987
+EU086178,Asian SEA1b,China,1969
+EU086179,Asian SEA1b,China,1989
+EU086180,Asian SEA1b,China,1989
+EU086181,Asian SEA1b,China,1989
+EU086183,Asian SEA2a,China,1994
+EU086185,Asian SEA1a,China,1992
+EU086186,Asian SEA1b,China,2005
+EU086187,Asian SEA1b,China,2004
+EU086188,Asian SEA1b,China,2004
+EU086189,Asian SEA1b,China,2004
+EU086190,Asian SEA1b,China,2005
+EU086192,Asian SEA1b,Indonesia,2003
+EU086193,Asian SEA3,Lao,1999
+EU086194,Asian SEA3,Lao,2002
+EU086195,Asian SEA3,Lao,2002
+EU086200,Asian SEA4,Philippines,1994
+EU086201,Asian SEA4,Philippines,1994
+EU086202,Asian SEA4,Philippines,1994
+EU086203,Asian SEA4,Philippines,2000
+EU086204,Asian SEA4,Philippines,2001
+EU086205,Asian SEA4,Philippines,2004
+EU086206,Asian SEA3,Thailand,1983
+EU086207,Asian SEA3,Thailand,1983
+EU086208,Asian SEA3,Thailand,1983
+EU086209,Asian SEA3,Vietnam,2001
+EU086210,Asian SEA3,Vietnam,2001
+EU095330,Asian SEA1b,China,2006
+EU159362,Asian SEA1b,China,2004
+EU159363,Asian SEA1b,China,2004
+EU159364,Asian SEA1b,China,2004
+EU159365,Asian SEA1b,China,2004
+EU159366,Asian SEA1b,China,2004
+EU159367,Asian SEA1b,China,2004
+EU159368,Asian SEA1b,China,2004
+EU159369,Asian SEA1b,China,2004
+EU159370,Asian SEA1b,China,2004
+EU159371,Asian SEA1b,China,2004
+EU159372,Asian SEA1b,China,2005
+EU159373,Asian SEA1b,China,2005
+EU159374,Asian SEA1b,China,2005
+EU159375,Asian SEA1b,China,2005
+EU159376,Asian SEA1b,China,2005
+EU159377,Asian SEA1b,China,2006
+EU159380,Asian SEA1b,China,2005
+EU159381,Asian SEA1b,China,2005
+EU159382,Asian SEA1b,China,2005
+EU159383,Asian SEA1b,China,2005
+EU159384,Asian SEA1b,China,2005
+EU159385,Asian SEA1b,China,1997
+EU159387,Asian SEA1a,China,1985
+EU159388,Asian SEA1a,China,1992
+EU159389,Asian SEA1b,China,2004
+EU159390,Asian SEA1b,China,1998
+EU159391,Asian SEA1b,China,1969
+EU159392,Asian SEA1b,China,1992
+EU159393,Asian SEA1b,China,1992
+EU159394,Asian SEA1b,China,2006
+EU159395,Asian SEA1b,China,2006
+EU159396,Asian SEA1b,China,1989
+EU159397,Asian SEA1b,China,2006
+EU159398,Asian SEA2a,China,1986
+EU159399,Asian SEA1b,China,1994
+EU159400,Asian SEA1b,China,1989
+EU159401,Asian SEA1b,China,1989
+EU267777,Asian SEA1b,China,2007
+EU275243,Asian SEA3,China,2006
+EU275244,Asian SEA1b,China,2007
+EU275245,Asian SEA1b,China,2007
+EU293111,Asian SEA3,Thailand,1983
+EU293121,Asian SEA3,-,1983
+EU549783,Asian SEA1b,China,2006
+EU643590,Asian SEA2a,China,2006
+EU700031,Asian SEA1b,China,2007
+EU700032,Asian SEA1b,China,2008
+EU828651,Asian SEA1b,China,2007
+EU828653,Asian SEA2a,China,2007
+EU828655,Asian SEA1b,China,2007
+EU828657,Asian SEA1b,China,2007
+FJ561726,Asian SEA2a,China,2008
+FJ561727,Asian SEA2a,China,2008
+FJ561728,Asian SEA2a,China,2008
+FJ594278,Asian SEA3,China,1997
+FJ712193,Asian SEA1b,China,2008
+FJ712194,Asian SEA1b,China,2008
+FJ712195,Asian SEA2b,China,2008
+FJ712196,Asian SEA2b,China,2008
+FJ719751,Asian SEA2b,China,2008
+FJ719753,Asian SEA2b,China,2008
+FJ719760,Asian SEA1b,China,2008
+FJ866827,Asian SEA1b,China,2008
+FJ866828,Asian SEA1b,China,2008
+FJ866829,Asian SEA2a,China,2007
+FJ866830,Asian SEA2a,China,2007
+FJ866831,Asian SEA2a,China,2007
+FJ866835,Asian SEA1b,China,2008
+FJ866836,Asian SEA1b,China,2008
+FJ959397,Asian SEA2a,China,1956
+GQ303555,Asian SEA3,Thailand,2009
+GQ303556,Asian SEA3,Thailand,2009
+GQ472468,Asian SEA2a,China,2007
+GQ472469,Asian SEA1b,China,2007
+GQ472471,Asian SEA1b,China,2007
+GQ472472,Asian SEA1b,China,2007
+GQ472473,Asian SEA2a,China,2007
+GQ472474,Asian SEA1b,China,2007
+GQ472475,Asian SEA1b,China,2005
+GQ472476,Asian SEA1b,China,2006
+GQ472477,Asian SEA2a,China,2006
+GQ472478,Asian SEA1b,China,2007
+GU233765,Asian SEA1b,China,2009
+GU345746,Asian SEA1a,China,1992
+GU345747,Asian SEA1a,China,1986
+GU345748,Asian SEA1b,China,2006
+GU358653,Asian SEA2a,China,1994
+GU591790,Asian SEA1b,China,2009
+GU591792,Asian SEA1b,China,2009
+GU647092,Asian SEA2b,China,2008
+GU992307,Asian SEA3,Thailand,1983
+GU994209,Asian SEA1b,China,2009
+HM486348,Asian SEA1b,China,2006
+HM486349,Asian SEA1b,China,2006
+HM486350,Asian SEA1b,China,2006
+HM486351,Asian SEA1b,China,2006
+HM486352,Asian SEA1b,China,2006
+HM486353,Asian SEA1b,China,2005
+HM486354,Asian SEA1b,China,2006
+HM486355,Asian SEA2a,China,2004
+HM486356,Asian SEA2a,China,2004
+HM486357,Asian SEA2a,China,2012
+HM486358,Asian SEA2a,China,2003
+HM486359,Asian SEA2a,China,2003
+HM486360,Asian SEA1b,China,2005
+HM486361,Asian SEA2a,China,2005
+HM486362,Asian SEA2a,China,2005
+HM486363,Asian SEA1b,China,2006
+HM486364,Asian SEA2a,China,2006
+HM486365,Asian SEA2a,China,2006
+HM486366,Asian SEA2a,China,2005
+HM486367,Asian SEA2a,China,2005
+HM486368,Asian SEA2a,China,2005
+HM486369,Asian SEA2a,China,2006
+HM486370,Asian SEA2a,China,2005
+HM486371,Asian SEA2a,China,2005
+HM486372,Asian SEA2a,China,2006
+HM486373,Asian SEA2a,China,2008
+HM486374,Asian SEA2a,China,2008
+HM486375,Asian SEA2a,China,2008
+HM486376,Asian SEA1b,China,2008
+HM486377,Asian SEA1b,China,2008
+HM486378,Asian SEA1b,China,2007
+HM486379,Asian SEA2a,China,2007
+HM486380,Asian SEA2a,China,2006
+HM486381,Asian SEA2a,China,2007
+HM756692,Asian SEA1b,China,2008
+HQ118101,Asian SEA1b,China,1989
+HQ118102,Asian SEA1b,China,2006
+HQ118103,Asian SEA1b,China,2008
+HQ118104,Asian SEA1b,China,1989
+HQ118105,Asian SEA1b,China,2008
+HQ118106,Asian SEA1b,China,2008
+HQ118107,Asian SEA1b,China,2008
+HQ118108,Asian SEA1b,China,2008
+HQ118109,Asian SEA1b,China,2008
+HQ118110,Asian SEA1b,China,2008
+HQ118111,Asian SEA1b,China,2008
+HQ118112,Asian SEA1b,China,2008
+HQ118113,Asian SEA1b,China,2008
+HQ118114,Asian SEA2b,China,2008
+HQ118117,Asian SEA2b,China,2008
+HQ118118,Asian SEA2b,China,2008
+HQ317918,Asian SEA2a,China,1956
+HQ450385,Asian SEA1b,China,2008
+HQ695732,Asian SEA1b,China,2009
+JF796851,Asian SEA1b,China,2010
+JF810669,Asian SEA1b,China,2009
+JF810671,Asian SEA1b,China,2008
+JF819603,Asian SEA3,China,2014
+JF819604,Asian SEA3,China,2014
+JF819605,Asian SEA2a,China,2014
+JF819606,Asian SEA2a,China,2014
+JF819607,Asian SEA2a,China,2014
+JF819608,Asian SEA3,China,2014
+JF819609,Asian SEA3,China,2014
+JF819610,Asian SEA3,China,2014
+JF819611,Asian SEA1b,China,2009
+JF819612,Asian SEA2a,China,2014
+JF819613,Asian SEA2a,China,2014
+JF819614,Asian SEA2a,China,2014
+JF819615,Asian SEA2a,China,2014
+JF819616,Asian SEA3,China,2014
+JF819617,Asian SEA3,China,2014
+JF819618,Asian SEA3,China,2014
+JF819619,Asian SEA1b,China,2010
+JF819620,Asian SEA1b,China,2010
+JF819621,Asian SEA1b,China,2010
+JF819622,Asian SEA2a,China,2014
+JF819623,Asian SEA1b,China,2010
+JF819624,Asian SEA1b,China,2010
+JN609295,Asian SEA1b,China,2008
+JN786877,Asian SEA3,Thailand,2012
+JN786878,Asian SEA3,Thailand,2012
+JN974823,Asian SEA2a,China,2008
+JN974824,Asian SEA2a,China,2005
+JN974825,Asian SEA2b,China,2006
+JN974826,Asian SEA1b,China,2006
+JN974827,Asian SEA1b,China,2006
+JN974828,Asian SEA2a,China,2006
+JN974829,Asian SEA2a,China,2008
+JN974830,Asian SEA1b,China,2005
+JN974831,Asian SEA2a,China,2005
+JN974832,Asian SEA1b,China,2009
+JN974833,Asian SEA1b,China,2010
+JN974834,Asian SEA1b,China,2010
+JN974835,Asian SEA1b,China,2010
+JN974836,Asian SEA1b,China,2005
+JN974837,Asian SEA1b,China,2005
+JN974838,Asian SEA2a,China,2005
+JN974839,Asian SEA1b,China,2005
+JN974840,Asian SEA1b,China,2006
+JN974841,Asian SEA2a,China,2006
+JN974842,Asian SEA2a,China,2006
+JN974843,Asian SEA2a,China,2006
+JN974844,Asian SEA1b,China,2007
+JN974845,Asian SEA2a,China,2008
+JN974846,Asian SEA1b,China,2008
+JN974847,Asian SEA2a,China,2008
+JN974848,Asian SEA1b,China,2009
+JN974849,Asian SEA1b,China,2008
+JN974850,Asian SEA1b,China,2008
+JN974851,Asian SEA1b,China,2008
+JN974852,Asian SEA1b,China,2008
+JN974853,Asian SEA1b,China,2009
+JN974854,Asian SEA2a,China,2009
+JN974855,Asian SEA1b,China,2009
+JN974856,Asian SEA1b,China,2008
+JN974857,Asian SEA1b,China,2008
+JN974858,Asian SEA1b,China,2009
+JN974859,Asian SEA1b,China,2009
+JN974860,Asian SEA1b,China,2009
+JN974861,Asian SEA1b,China,2010
+JN974862,Asian SEA1b,China,2010
+JN974863,Asian SEA1b,China,2010
+JN974864,Asian SEA1b,China,2008
+JN974865,Asian SEA1b,China,2008
+JN974866,Asian SEA1b,China,2009
+JN974867,Asian SEA1b,China,2009
+JN974868,Asian SEA1b,China,2009
+JN974869,Asian SEA1b,China,2009
+JN974870,Asian SEA2a,China,2003
+JN974871,Asian SEA2a,China,2003
+JN974872,Asian SEA2a,China,2003
+JN974873,Asian SEA2a,China,2004
+JN974874,Asian SEA1b,China,2005
+JN974875,Asian SEA1b,China,2005
+JN974876,Asian SEA1b,China,2009
+JN974878,Asian SEA1b,China,2008
+JQ040591,Asian SEA1b,China,2011
+JQ040592,Asian SEA2a,China,2011
+JQ040593,Asian SEA1b,China,2010
+JQ040594,Asian SEA1b,China,2010
+JQ040595,Asian SEA1b,China,2010
+JQ040596,Asian SEA1b,China,2010
+JQ040597,Asian SEA1b,China,2010
+JQ040598,Asian SEA1b,China,2011
+JQ040599,Asian SEA1b,China,2010
+JQ040600,Asian SEA1b,China,2010
+JQ423952,Asian SEA1b,China,2011
+JQ647510,Asian SEA1b,China,2011
+JQ730682,Asian SEA3,China,2010
+JQ794536,Asian SEA1b,China,2011
+JQ794537,Asian SEA1b,China,2011
+JQ794538,Asian SEA1b,China,2011
+JQ794539,Asian SEA1b,China,2011
+JQ794540,Asian SEA1b,China,2011
+JQ794541,Asian SEA1b,China,2011
+JQ798943,Asian SEA1b,China,2011
+JQ798944,Asian SEA1b,China,2011
+JQ798945,Asian SEA1b,China,2011
+JQ798946,Asian SEA1b,China,2011
+JQ798947,Asian SEA1b,China,2011
+JQ798948,Asian SEA1b,China,2011
+JQ798949,Asian SEA1b,China,2011
+JQ798950,Asian SEA1b,China,2011
+JQ798951,Asian SEA1b,China,2011
+JQ798952,Asian SEA1b,China,2011
+JQ798953,Asian SEA1b,China,2011
+JQ798954,Asian SEA1b,China,2011
+JQ798955,Asian SEA1b,China,2011
+JQ798956,Asian SEA1b,China,2011
+JQ798957,Asian SEA1b,China,2011
+JQ798958,Asian SEA1b,China,2011
+JQ798959,Asian SEA1b,China,2011
+JQ798960,Asian SEA1b,China,2011
+JQ798961,Asian SEA1b,China,2011
+JQ946087,Asian SEA2b,China,2011
+JQ950446,Asian SEA2b,China,2012
+JQ950448,Asian SEA2b,China,2012
+JQ950452,Asian SEA2b,China,2012
+JQ970480,Asian SEA2a,China,2008
+JQ970481,Asian SEA1b,China,2006
+JQ970482,Asian SEA1b,China,2006
+JQ970483,Asian SEA1b,China,2008
+JQ970484,Asian SEA1b,China,2009
+JQ970485,Asian SEA1b,China,2009
+JQ970486,Asian SEA1b,China,2007
+JQ970487,Asian SEA1b,China,2009
+JX005929,Asian SEA1b,China,2008
+JX005930,Asian SEA1b,China,2010
+JX005931,Asian SEA1b,China,2008
+JX005932,Asian SEA1b,China,2008
+JX005933,Asian SEA1b,China,2008
+JX005934,Asian SEA1b,China,2008
+JX005935,Asian SEA1b,China,2009
+JX005936,Asian SEA1b,China,2010
+JX005937,Asian SEA1b,China,2008
+JX005938,Asian SEA1b,China,2008
+JX005939,Asian SEA1b,China,2008
+JX005940,Asian SEA1b,China,2009
+JX005941,Asian SEA1b,China,2009
+JX005942,Asian SEA1b,China,2009
+JX005943,Asian SEA1b,China,2010
+JX005944,Asian SEA1b,China,2009
+JX005945,Asian SEA1b,China,2010
+JX005946,Asian SEA1b,China,2010
+JX005947,Asian SEA1b,China,2010
+JX088694,Asian SEA2a,China,2012
+JX123685,Asian SEA1b,China,2010
+JX123686,Asian SEA1b,China,2010
+JX123687,Asian SEA1b,China,2010
+JX123688,Asian SEA1b,China,2009
+JX276405,Asian SEA3,China,2010
+JX276406,Asian SEA1b,China,2011
+JX276407,Asian SEA1b,China,2012
+JX276408,Asian SEA1b,China,2011
+JX276409,Asian SEA1b,China,2012
+JX276410,Asian SEA1b,China,2011
+JX276411,Asian SEA1b,China,2012
+JX276412,Asian SEA1b,China,2012
+JX276413,Asian SEA1b,China,2012
+JX276414,Asian SEA1b,China,2012
+JX276415,Asian SEA1b,China,2012
+JX276416,Asian SEA1b,China,2012
+JX276417,Asian SEA1b,China,2012
+JX276418,Asian SEA1b,China,2012
+JX276419,Asian SEA1b,China,2012
+JX276420,Asian SEA1b,China,2012
+JX276421,Asian SEA1b,China,2012
+JX276422,Asian SEA1b,China,2012
+JX276423,Asian SEA1b,China,2012
+JX276424,Asian SEA1b,China,2012
+JX276425,Asian SEA1b,China,2012
+KC169986,Asian SEA1b,China,2009
+KC193267,Asian SEA1b,China,2011
+KC252634,Asian SEA1b,China,2011
+KC465367,Asian SEA1b,China,2005
+KC465368,Asian SEA1b,China,2005
+KC465369,Asian SEA1b,China,2009
+KC465370,Asian SEA1b,China,2009
+KC465373,Asian SEA1b,China,2012
+KC465374,Asian SEA2a,China,2011
+KC465375,Asian SEA2a,China,2011
+KC465376,Asian SEA1b,China,2011
+KC465378,Asian SEA1b,China,2011
+KC465379,Asian SEA1b,China,2011
+KC465380,Asian SEA1b,China,2011
+KC660078,Asian SEA1b,China,2012
+KC762941,Asian SEA1b,China,2009
+KC977995,Asian SEA1b,China,2009
+KF501180,Asian SEA5,Taiwan,2013
+KF501181,Asian SEA5,Taiwan,2013
+KF501182,Asian SEA5,Taiwan,2013
+KF501185,Asian SEA5,Taiwan,2013
+KF620487,Asian SEA5,Taiwan,2012
+KF620488,Asian SEA5,Taiwan,2012
+KF620489,Asian SEA5,Taiwan,2013
+KF663511,Asian SEA1b,China,2011
+KF663512,Asian SEA1b,China,2011
+KF663513,Asian SEA1b,China,2011
+KF663514,Asian SEA1b,China,2011
+KF663515,Asian SEA1b,China,2011
+KF663516,Asian SEA1b,China,2011
+KF663517,Asian SEA1b,China,2011
+KF663518,Asian SEA1b,China,2011
+KF663519,Asian SEA1b,China,2011
+KF663520,Asian SEA1b,China,2011
+KF663521,Asian SEA1b,China,2012
+KF663522,Asian SEA1b,China,2012
+KF663523,Asian SEA1b,China,2009
+KF663524,Asian SEA1b,China,2010
+KF663525,Asian SEA1b,China,2009
+KF663526,Asian SEA1b,China,2011
+KF663527,Asian SEA1b,China,2012
+KF663528,Asian SEA1b,China,2012
+KF663529,Asian SEA1b,China,2012
+KF663530,Asian SEA1b,China,2012
+KF726852,Asian SEA2b,China,2009
+KF726853,Asian SEA1b,China,2010
+KJ004416,Asian SEA1b,China,2013
+KJ466147,Asian SEA2a,China,2014
+KJ564280,Asian SEA1b,China,2013
+KM034906,Asian SEA1b,China,2013
+KM058057,Asian SEA1b,China,2014
+KM058058,Asian SEA1b,China,2014
+KM093867,Asian SEA1b,China,2012
+KM366202,Asian SEA3,Cambodia,2008
+KM366203,Asian SEA3,Cambodia,2006
+KM366204,Asian SEA3,Cambodia,2004
+KM366205,Asian SEA3,Cambodia,2010
+KM366206,Asian SEA3,Cambodia,2004
+KM366207,Asian SEA3,Cambodia,2007
+KM366208,Asian SEA3,Cambodia,2004
+KM366209,Asian SEA3,Cambodia,2002
+KM366210,Asian SEA3,Cambodia,2000
+KM366211,Asian SEA3,Cambodia,2010
+KM366212,Asian SEA3,Cambodia,2008
+KM366213,Asian SEA3,Cambodia,1998
+KM366214,Asian SEA3,Cambodia,2003
+KM366215,Asian SEA3,Cambodia,2002
+KM366216,Asian SEA3,Cambodia,2010
+KM366217,Asian SEA3,Cambodia,2009
+KM366218,Asian SEA3,Cambodia,2003
+KM366219,Asian SEA3,Cambodia,2004
+KM366220,Asian SEA3,Cambodia,2011
+KM366221,Asian SEA3,Cambodia,2011
+KM366222,Asian SEA3,Cambodia,2011
+KM366223,Asian SEA3,Cambodia,2010
+KM366224,Asian SEA3,Cambodia,2000
+KM366225,Asian SEA3,Cambodia,2011
+KM366226,Asian SEA3,Cambodia,2001
+KM366227,Asian SEA3,Cambodia,2010
+KM366228,Asian SEA3,Cambodia,2008
+KM366229,Asian SEA3,Cambodia,2011
+KM366230,Asian SEA3,Cambodia,2011
+KM366231,Asian SEA3,Cambodia,2008
+KM366232,Asian SEA3,Cambodia,2003
+KM366233,Asian SEA3,Cambodia,2002
+KM366234,Asian SEA3,Cambodia,1999
+KM366235,Asian SEA3,Cambodia,2009
+KM366236,Asian SEA3,Cambodia,2008
+KM366237,Asian SEA3,Cambodia,2008
+KM366238,Asian SEA3,Cambodia,2009
+KM366239,Asian SEA3,Cambodia,1999
+KM366240,Asian SEA3,Cambodia,2001
+KM366241,Asian SEA3,Cambodia,1999
+KM366242,Asian SEA3,Cambodia,2001
+KM366243,Asian SEA3,Cambodia,2007
+KM366244,Asian SEA3,Cambodia,2000
+KM366245,Asian SEA3,Cambodia,2000
+KM366246,Asian SEA3,Cambodia,2006
+KM366247,Asian SEA3,Cambodia,2002
+KM366248,Asian SEA3,Cambodia,2006
+KM366249,Asian SEA3,Cambodia,2005
+KM366250,Asian SEA3,Cambodia,2003
+KM366251,Asian SEA3,Cambodia,1998
+KM366252,Asian SEA3,Cambodia,1998
+KM366253,Asian SEA3,Cambodia,2007
+KM366254,Asian SEA3,Cambodia,2009
+KM366255,Asian SEA3,Cambodia,2011
+KM366256,Asian SEA3,Cambodia,2002
+KM366257,Asian SEA3,Cambodia,2006
+KM366258,Asian SEA3,Cambodia,2006
+KM366259,Asian SEA3,Cambodia,2004
+KM366260,Asian SEA3,Cambodia,2002
+KM366261,Asian SEA3,Cambodia,2005
+KM366262,Asian SEA3,Cambodia,2009
+KM366263,Asian SEA3,Cambodia,2011
+KM366264,Asian SEA3,Cambodia,2001
+KM366265,Asian SEA3,Cambodia,2000
+KM366266,Asian SEA3,Cambodia,2010
+KM366267,Asian SEA3,Cambodia,2010
+KM366268,Asian SEA3,Cambodia,2005
+KM366269,Asian SEA3,Cambodia,1999
+KM366270,Asian SEA3,Cambodia,2003
+KM366271,Asian SEA3,Cambodia,2001
+KM366272,Asian SEA3,Cambodia,2003
+KM366273,Asian SEA3,Cambodia,2004
+KM366274,Asian SEA3,Cambodia,2008
+KM366275,Asian SEA3,Cambodia,2000
+KM366276,Asian SEA3,Cambodia,2006
+KM366277,Asian SEA3,Cambodia,2002
+KM366278,Asian SEA3,Cambodia,2001
+KM366279,Asian SEA3,Cambodia,2008
+KM366280,Asian SEA3,Cambodia,2008
+KM366281,Asian SEA3,Cambodia,2008
+KM366282,Asian SEA3,Cambodia,2000
+KM366283,Asian SEA3,Cambodia,2009
+KM366284,Asian SEA3,Cambodia,2011
+KM366285,Asian SEA3,Cambodia,1998
+KM366286,Asian SEA3,Cambodia,2011
+KM366287,Asian SEA3,Cambodia,1998
+KM366288,Asian SEA3,Cambodia,2009
+KM366289,Asian SEA3,Cambodia,2007
+KM366290,Asian SEA3,Cambodia,2001
+KM366291,Asian SEA3,Cambodia,2003
+KM366292,Asian SEA3,Cambodia,2006
+KM366293,Asian SEA3,Cambodia,2007
+KM366294,Asian SEA3,Cambodia,2006
+KM366295,Asian SEA3,Cambodia,1999
+KM366296,Asian SEA3,Cambodia,2007
+KM366297,Asian SEA3,Cambodia,2004
+KM366298,Asian SEA3,Cambodia,2002
+KM366299,Asian SEA3,Cambodia,2009
+KM366300,Asian SEA3,Cambodia,2002
+KM366301,Asian SEA3,Cambodia,2009
+KM366302,Asian SEA3,Cambodia,2004
+KM366303,Asian SEA3,Cambodia,2007
+KM366304,Asian SEA3,Cambodia,2001
+KM366305,Asian SEA3,Cambodia,2002
+KM366306,Asian SEA3,Cambodia,1998
+KM366307,Asian SEA3,Cambodia,1998
+KM366308,Asian SEA3,Cambodia,2003
+KM366309,Asian SEA3,Cambodia,1999
+KM366310,Asian SEA3,Cambodia,2008
+KM366311,Asian SEA3,Cambodia,2007
+KM366312,Asian SEA3,Cambodia,2005
+KM366313,Asian SEA3,Cambodia,2004
+KM366314,Asian SEA3,Cambodia,2009
+KM366315,Asian SEA3,Cambodia,2006
+KM366316,Asian SEA3,Cambodia,2005
+KM366317,Asian SEA3,Cambodia,2003
+KM366318,Asian SEA3,Cambodia,2010
+KM366319,Asian SEA3,Cambodia,2008
+KM366320,Asian SEA3,Cambodia,2007
+KM366321,Asian SEA3,Cambodia,2001
+KM366322,Asian SEA3,Cambodia,2011
+KM366323,Asian SEA3,Cambodia,2006
+KM366324,Asian SEA3,Cambodia,2003
+KM366325,Asian SEA3,Cambodia,2001
+KM366326,Asian SEA3,Cambodia,2000
+KM366327,Asian SEA3,Cambodia,1999
+KM366328,Asian SEA3,Cambodia,1999
+KM366329,Asian SEA3,Cambodia,1998
+KM366330,Asian SEA3,Cambodia,1998
+KM366331,Asian SEA3,Cambodia,2009
+KM366332,Asian SEA3,Cambodia,1998
+KM366333,Asian SEA3,Cambodia,2009
+KM366334,Asian SEA3,Cambodia,1999
+KM366335,Asian SEA3,Cambodia,2000
+KM366336,Asian SEA3,Cambodia,2010
+KM366337,Asian SEA3,Cambodia,2009
+KM366338,Asian SEA3,Cambodia,2010
+KM366339,Asian SEA3,Cambodia,2004
+KM366340,Asian SEA3,Cambodia,2004
+KM366341,Asian SEA3,Cambodia,2004
+KM366342,Asian SEA3,Cambodia,2004
+KM366343,Asian SEA3,Cambodia,2004
+KM366344,Asian SEA3,Cambodia,2004
+KM366345,Asian SEA3,Cambodia,2004
+KM366346,Asian SEA3,Cambodia,2005
+KM366347,Asian SEA3,Cambodia,2005
+KM366348,Asian SEA3,Cambodia,2006
+KM366349,Asian SEA3,Cambodia,2004
+KM366350,Asian SEA3,Cambodia,2004
+KM880028,Asian SEA1b,China,2012
+KP072009,Asian SEA1b,China,2012
+KP072010,Asian SEA1b,China,2012
+KP072011,Asian SEA1b,China,2012
+KP072012,Asian SEA1b,China,2012
+KP072013,Asian SEA1b,China,2012
+KP072014,Asian SEA1b,China,2012
+KP072015,Asian SEA1b,China,2012
+KP072016,Asian SEA1b,China,2012
+KP072017,Asian SEA1b,China,2012
+KP072018,Asian SEA1b,China,2012
+KP072019,Asian SEA1b,China,2012
+KP072020,Asian SEA1b,China,2013
+KP072021,Asian SEA1b,China,2013
+KP072022,Asian SEA1b,China,2013
+KP072023,Asian SEA1b,China,2013
+KP072024,Asian SEA1b,China,2013
+KP072025,Asian SEA1b,China,2013
+KP072026,Asian SEA1b,China,2013
+KP072027,Asian SEA1b,China,2013
+KP072028,Asian SEA1b,China,2013
+KP072029,Asian SEA1b,China,2013
+KP072030,Asian SEA1b,China,2013
+KP202418,Asian SEA1b,China,2013
+KP202419,Asian SEA1b,China,2013
+KP202420,Asian SEA1b,China,2013
+KP202421,Asian SEA1b,China,2014
+KP202422,Asian SEA1b,China,2014
+KP202423,Asian SEA1b,China,2014
+KP202424,Asian SEA1b,China,2014
+KP202425,Asian SEA1b,China,2014
+KP202426,Asian SEA1b,China,2014
+KP202427,Asian SEA1b,China,2014
+KP202428,Asian SEA1b,China,2014
+KP202429,Asian SEA1b,China,2014
+KP202430,Asian SEA1b,China,2014
+KP202431,Asian SEA1b,China,2014
+KP202432,Asian SEA1b,China,2014
+KP202433,Asian SEA1b,China,2014
+KP202434,Asian SEA1b,China,2014
+KP202435,Asian SEA1b,China,2014
+KP202436,Asian SEA1b,China,2014
+KP202437,Asian SEA1b,China,2014
+KP202438,Asian SEA1b,China,2014
+KP202439,Asian SEA1b,China,2014
+KP202440,Asian SEA1b,China,2014
+KP202441,Asian SEA1b,China,2014
+KP202442,Asian SEA1b,China,2014
+KP202443,Asian SEA1b,China,2014
+KP202444,Asian SEA1b,China,2014
+KP202445,Asian SEA1b,China,2014
+KP202446,Asian SEA1b,China,2014
+KP202447,Asian SEA1b,China,2014
+KP202448,Asian SEA1b,China,2013
+KP319184,Asian SEA2b,China,2009
+KP319185,Asian SEA2b,China,2009
+KP319187,Asian SEA2b,China,2009
+KP319188,Asian SEA2b,China,2009
+KP319189,Asian SEA2b,China,2009
+KP319190,Asian SEA2b,China,2009
+KP319191,Asian SEA2b,China,2009
+KP319192,Asian SEA2b,China,2009
+KP319193,Asian SEA2b,China,2011
+KP319195,Asian SEA2b,China,2011
+KP319196,Asian SEA2b,China,2012
+KP319198,Asian SEA2b,China,2012
+KP319200,Asian SEA2b,China,2012
+KP319202,Asian SEA2b,China,2013
+KP319203,Asian SEA2b,China,2013
+KP319204,Asian SEA2b,China,2013
+KP319206,Asian SEA2b,China,2013
+KP319207,Asian SEA2b,China,2013
+KP319208,Asian SEA2b,China,2013
+KP319209,Asian SEA2b,China,2013
+KP319210,Asian SEA2b,China,2013
+KP319211,Asian SEA2b,China,2013
+KP319212,Asian SEA2b,China,2013
+KP319213,Asian SEA2b,China,2013
+KP319214,Asian SEA1b,China,2012
+KP319215,Asian SEA1b,China,2012
+KP319216,Asian SEA1b,China,2013
+KP319217,Asian SEA1b,China,2013
+KP319218,Asian SEA1b,China,2013
+KP319219,Asian SEA1b,China,2013
+KP319220,Asian SEA1b,China,2013
+KP319221,Asian SEA1b,China,2010
+KP319222,Asian SEA1b,China,2010
+KP319223,Asian SEA1b,China,2010
+KP319224,Asian SEA1b,China,2010
+KP319225,Asian SEA1b,China,2011
+KP319226,Asian SEA1b,China,2011
+KP319227,Asian SEA1b,China,2011
+KP319228,Asian SEA1b,China,2012
+KP319229,Asian SEA1b,China,2012
+KP319230,Asian SEA1b,China,2013
+KP319231,Asian SEA1b,China,2013
+KP319232,Asian SEA1b,China,2013
+KP319233,Asian SEA1b,China,2013
+KP319234,Asian SEA1b,China,2013
+KP319235,Asian SEA1b,China,2013
+KP319236,Asian SEA1b,China,2012
+KP319237,Asian SEA1b,China,2013
+KP319238,Asian SEA1b,China,2013
+KP319239,Asian SEA1b,China,2013
+KP860137,Asian SEA5,Taiwan,2013
+KP860138,Asian SEA5,Taiwan,2013
+KP860139,Asian SEA5,Taiwan,2013
+KP860140,Asian SEA5,Taiwan,2013
+KP860141,Asian SEA5,Taiwan,2013
+KP860142,Asian SEA5,Taiwan,2013
+KP860143,Asian SEA5,Taiwan,2013
+KP860144,Asian SEA5,Taiwan,2013
+KP860145,Asian SEA5,Taiwan,2013
+KP860147,Asian SEA5,Taiwan,2013
+KP860148,Asian SEA5,Taiwan,2013
+KP860149,Asian SEA5,Taiwan,2013
+KP860150,Asian SEA5,Taiwan,2013
+KP860151,Asian SEA5,Taiwan,2013
+KP860153,Asian SEA5,Taiwan,2013
+KP860154,Asian SEA5,Taiwan,2013
+KP860156,Asian SEA5,Taiwan,2010
+KP860157,Asian SEA5,Taiwan,2012
+KP860159,Asian SEA5,Taiwan,2013
+KP860160,Asian SEA5,Taiwan,2013
+KP860161,Asian SEA5,Taiwan,2013
+KP860162,Asian SEA5,Taiwan,2013
+KP860163,Asian SEA5,Taiwan,2013
+KP860164,Asian SEA5,Taiwan,2013
+KP860165,Asian SEA5,Taiwan,2013
+KP860166,Asian SEA5,Taiwan,2013
+KP860168,Asian SEA5,Taiwan,2013
+KP860170,Asian SEA5,Taiwan,2013
+KP860171,Asian SEA5,Taiwan,2013
+KP860172,Asian SEA5,Taiwan,2013
+KP860173,Asian SEA5,Taiwan,2013
+KP860174,Asian SEA5,Taiwan,2013
+KP860175,Asian SEA5,Taiwan,2013
+KP860177,Asian SEA5,Taiwan,2013
+KP860178,Asian SEA5,Taiwan,2013
+KP860179,Asian SEA5,Taiwan,2013
+KP860180,Asian SEA5,Taiwan,2013
+KP860181,Asian SEA5,Taiwan,2013
+KP860182,Asian SEA5,Taiwan,2013
+KP860183,Asian SEA5,Taiwan,2013
+KP860184,Asian SEA5,Taiwan,2013
+KP881353,Asian SEA5,Taiwan,2013
+KP881355,Asian SEA5,Taiwan,2013
+KP892527,Asian SEA5,Taiwan,2014
+KP892528,Asian SEA5,Taiwan,2014
+KR230089,Asian SEA1b,China,2015
+KR230090,Asian SEA1b,China,2015
+KT221093,Asian SEA1a,China,2005
+KT221094,Asian SEA1a,China,2005
+KT221095,Asian SEA1a,China,2005
+KT221096,Asian SEA1b,China,2007
+KT221097,Asian SEA1a,China,2006
+KT221098,Asian SEA1b,China,2008
+KT221099,Asian SEA1b,China,2008
+KT221100,Asian SEA1a,China,2005
+KT221101,Asian SEA1b,China,2005
+KT221102,Asian SEA2a,China,2006
+KT221103,Asian SEA1b,China,2014
+KT221104,Asian SEA1b,China,2006
+KT221105,Asian SEA1b,China,2008
+KT221106,Asian SEA1b,China,2008
+KT221107,Asian SEA2a,China,2009
+KT221108,Asian SEA1b,China,2010
+KT221109,Asian SEA1b,China,2008
+KT221110,Asian SEA1b,China,2010
+KT221111,Asian SEA1b,China,2007
+KT894557,Asian SEA1b,China,2006
+KT894558,Asian SEA2a,China,2005
+KT894559,Asian SEA1b,China,2009
+KT894560,Asian SEA1b,China,2010
+KT894561,Asian SEA1b,China,2011
+KT894562,Asian SEA1b,China,2011
+KT894563,Asian SEA1b,China,2011
+KT894564,Asian SEA1b,China,2008
+KT894565,Asian SEA1b,China,2008
+KT894566,Asian SEA1b,China,2011
+KT894567,Asian SEA1b,China,2011
+KT894568,Asian SEA1b,China,2013
+KT894569,Asian SEA1b,China,2007
+KT894570,Asian SEA1b,China,2011
+KT894571,Asian SEA1b,China,2011
+KT894572,Asian SEA2a,China,2010
+KT894573,Asian SEA2a,China,2011
+KT894574,Asian SEA1b,China,2014
+KT894575,Asian SEA1b,China,2010
+KT894576,Asian SEA1b,China,2009
+KT894577,Asian SEA2a,China,2013
+KT894579,Asian SEA1b,China,2010
+KT894580,Asian SEA1b,China,2013
+KT894581,Asian SEA1b,China,2011
+KT894583,Asian SEA1b,China,2010
+KT894584,Asian SEA1b,China,2013
+KT894585,Asian SEA1b,China,2007
+KT932670,Asian SEA1b,China,2014
+KT932671,Asian SEA1b,China,2014
+KT932672,Asian SEA1b,China,2014
+KT932673,Asian SEA1b,China,2014
+KT932674,Asian SEA1b,China,2014
+KT932675,Asian SEA1b,China,2014
+KT932676,Asian SEA1b,China,2014
+KT932677,Asian SEA1b,China,2014
+KT932678,Asian SEA1b,China,2014
+KT932679,Asian SEA1b,China,2014
+KT932680,Asian SEA1b,China,2014
+KT932681,Asian SEA1b,China,2014
+KT932682,Asian SEA1b,China,2014
+KT932683,Asian SEA1b,China,2014
+KT932684,Asian SEA1b,China,2014
+KT932685,Asian SEA1b,China,2014
+KT932686,Asian SEA1b,China,2015
+KT932687,Asian SEA1b,China,2015
+KT932688,Asian SEA1b,China,2015
+KT932689,Asian SEA1b,China,2015
+KT932690,Asian SEA1b,China,2015
+KT932691,Asian SEA1b,China,2015
+KT932692,Asian SEA1b,China,2015
+KT932693,Asian SEA1b,China,2015
+KT932694,Asian SEA1b,China,2015
+KT932695,Asian SEA1b,China,2015
+KT932696,Asian SEA1b,China,2015
+KT932697,Asian SEA1b,China,2015
+KT932698,Asian SEA1b,China,2015
+KU198994,Asian SEA1b,China,2015
+KU198995,Asian SEA1b,China,2015
+KU314706,Asian SEA1b,China,2014
+KU314707,Asian SEA1b,China,2015
+KU314708,Asian SEA1b,China,2015
+KU314709,Asian SEA1b,China,2015
+KU314710,Asian SEA1b,China,2015
+KU314712,Asian SEA1b,China,2015
+KU314713,Asian SEA1b,China,2015
+KU314714,Asian SEA2a,China,2015
+KU314715,Asian SEA2a,China,2015
+KU928249,Asian SEA1b,China,2015
+KU928250,Asian SEA1b,China,2015
+KU946961,Asian SEA2a,China,2009
+KU963492,Asian SEA3,-,1983
+KX096992,Asian SEA1b,China,2015
+KX096993,Asian SEA1b,China,2015
+KX096994,Asian SEA1b,China,2015
+KX096995,Asian SEA1b,China,2015
+KX096996,Asian SEA1b,China,2015
+KX096997,Asian SEA1b,China,2015
+KX096998,Asian SEA1b,China,2015
+KX096999,Asian SEA1b,China,2015
+KX097000,Asian SEA1b,China,2015
+KX148247,Asian SEA3,Myanmar,1999
+KX148248,Asian SEA3,Myanmar,1999
+KX148249,Asian SEA3,Cambodia,1998
+KX148250,Asian SEA3,Cambodia,1999
+KX148251,Asian SEA3,Cambodia,1998
+KX148252,Asian SEA3,Cambodia,1999
+KX148253,Asian SEA3,Cambodia,1998
+KX148254,Asian SEA3,Vietnam,2001
+KX148255,Asian SEA3,Lao,1999
+KX148256,Asian SEA3,Lao,2002
+KX148257,Asian SEA3,Lao,2002
+KX148258,Asian SEA3,Lao,2002
+KX148259,Asian SEA4,Philippines,1994
+KX148260,Asian SEA4,Philippines,2004
+KX148261,Asian SEA4,Philippines,1994
+KX148262,Asian SEA4,Philippines,1994
+KX148263,Asian SEA4,Philippines,1994
+KX148264,Asian SEA2a,China,1994
+KX148265,Asian SEA1b,China,1998
+KX148266,Asian SEA1b,Indonesia,2003
+KX148267,Asian SEA1a,China,1992
+KX447686,Asian SEA1b,China,2014
+KX447687,Asian SEA1b,China,2014
+KX447688,Asian SEA1b,China,2014
+KX447689,Asian SEA1b,China,2014
+KY214264,Asian SEA1b,China,2015
+KY214265,Asian SEA1b,China,2015
+KY214266,Asian SEA1b,China,2015
+KY214267,Asian SEA1b,China,2015
+KY214268,Asian SEA1b,China,2016
+KY214269,Asian SEA1b,China,2016
+KY214270,Asian SEA1b,China,2016
+KY214271,Asian SEA1b,China,2016
+KY214272,Asian SEA1b,China,2016
+KY214273,Asian SEA1b,China,2016
+KY214274,Asian SEA1b,China,2016
+KY214275,Asian SEA1b,China,2016
+KY214276,Asian SEA1b,China,2016
+KY214278,Asian SEA1b,China,2016
+KY214279,Asian SEA1b,China,2016
+KY214280,Asian SEA1b,China,2016
+KY214281,Asian SEA1b,China,2016
+KY214283,Asian SEA1b,China,2016
+KY214284,Asian SEA1b,China,2016
+KY214285,Asian SEA1b,China,2016
+KY214286,Asian SEA1b,China,2016
+KY214287,Asian SEA1b,China,2016
+KY362746,Asian SEA1b,China,2016
+KY362747,Asian SEA1b,China,2016
+KY362748,Asian SEA1b,China,2016
+KY428870,Asian SEA1b,China,2016
+KY428871,Asian SEA1b,China,2016
+KY428872,Asian SEA1b,China,2016
+KY428873,Asian SEA1b,China,2016
+KY428874,Asian SEA1b,China,2016
+KY428875,Asian SEA1b,China,2016
+KY428876,Asian SEA1b,China,2016
+KY428877,Asian SEA1b,China,2016
+KY428878,Asian SEA1b,China,2016
+KY428879,Asian SEA1b,China,2016
+KY451767,Asian SEA2a,China,2015
+KY613017,Asian SEA1b,China,2015
+KY613018,Asian SEA1b,China,2015
+KY613019,Asian SEA1b,China,2015
+KY613020,Asian SEA1b,China,2015
+KY780299,Asian SEA1b,China,2017
+LC455965,Asian SEA1b,China,2011
+LC455966,Asian SEA1b,China,2011
+LC455967,Asian SEA1b,China,2012
+LC455968,Asian SEA1b,China,2012
+LC455969,Asian SEA1b,China,2012
+LC455970,Asian SEA1b,China,2012
+LC455971,Asian SEA1b,China,2012
+LC455972,Asian SEA1b,China,2012
+LC455973,Asian SEA1b,China,2013
+LC455974,Asian SEA1b,China,2014
+LC455975,Asian SEA1b,China,2015
+LC455976,Asian SEA1b,China,2015
+LC455977,Asian SEA1b,China,2016
+LC455978,Asian SEA1b,China,2016
+LC455979,Asian SEA1b,China,2016
+LC455980,Asian SEA1b,China,2016
+LC455981,Asian SEA1b,China,2016
+LC455982,Asian SEA1b,China,2016
+LC455983,Asian SEA1b,China,2016
+LC455984,Asian SEA1b,China,2017
+LC455985,Asian SEA1b,China,2017
+LC455986,Asian SEA1b,China,2017
+LC455987,Asian SEA1b,China,2017
+LC550018,Asian SEA4,Philippines,2019
+LC550019,Asian SEA4,Philippines,2019
+LC550020,Asian SEA4,Philippines,2019
+LC550021,Asian SEA4,Philippines,2019
+LC550022,Asian SEA4,Philippines,2019
+LC550023,Asian SEA4,Philippines,2019
+LC550024,Asian SEA4,Philippines,2019
+LC550025,Asian SEA4,Philippines,2019
+LC550026,Asian SEA4,Philippines,2019
+LC550027,Asian SEA4,Philippines,2019
+LC571945,Asian SEA4,Japan,2006
+LC571946,Asian SEA4,-,2020
+LC717422,Asian SEA3,Thailand,1963
+LC717423,Asian SEA3,Thailand,1985
+LC717424,Asian SEA3,Thailand,1985
+LC717425,Asian SEA3,Thailand,1985
+LC717426,Asian SEA3,Thailand,1976
+LC717427,Asian SEA3,Thailand,1977
+LC717428,Asian SEA3,Thailand,1977
+MF459637,Asian SEA1b,China,2015
+MF459638,Asian SEA1b,China,2015
+MF476106,Asian SEA1b,China,2015
+MF611868,Asian SEA1b,China,2015
+MF611869,Asian SEA1b,China,2011
+MF624630,Asian SEA2a,China,2017
+MF741703,Asian SEA1b,China,2015
+MF741704,Asian SEA1b,China,2015
+MG201875,Asian SEA1b,China,2012
+MG201876,Asian SEA1b,China,2010
+MG201877,Asian SEA1b,China,2010
+MG201878,Asian SEA1b,China,2010
+MG201879,Asian SEA2a,China,2010
+MG201880,Asian SEA2a,China,2010
+MG201881,Asian SEA1b,China,2010
+MG201882,Asian SEA1b,China,2011
+MG201883,Asian SEA1b,China,2012
+MG201884,Asian SEA2a,China,2012
+MG201919,Asian SEA2a,China,2011
+MG201920,Asian SEA3,China,2010
+MG201921,Asian SEA2a,China,2012
+MG201922,Asian SEA1b,China,2012
+MG201923,Asian SEA1b,China,2003
+MG383883,Asian SEA1b,China,2016
+MG383884,Asian SEA1b,China,2016
+MG383885,Asian SEA1b,China,2016
+MG383887,Asian SEA1b,China,2017
+MG383888,Asian SEA1b,China,2017
+MG458321,Asian SEA1b,China,2018
+MH746442,Asian SEA1b,China,2016
+MK124732,Asian SEA1b,China,2016
+MK124733,Asian SEA1b,China,2016
+MK124734,Asian SEA1b,China,2017
+MK124736,Asian SEA1b,China,2017
+MK124742,Asian SEA1b,China,2018
+MK124743,Asian SEA1b,China,2018
+MK124757,Asian SEA1b,China,2017
+MK510916,Asian SEA1b,China,2017
+MK510917,Asian SEA1b,China,2017
+MK510918,Asian SEA1b,China,2017
+MK510919,Asian SEA1b,China,2017
+MK510920,Asian SEA1b,China,2017
+MK510921,Asian SEA1b,China,2017
+MK510922,Asian SEA1b,China,2017
+MK510923,Asian SEA1b,China,2017
+MK510924,Asian SEA1b,China,2017
+MK514264,Asian SEA1b,China,2018
+MK514265,Asian SEA1b,China,2018
+MK514266,Asian SEA1b,China,2018
+MK514267,Asian SEA1b,China,2018
+MK514268,Asian SEA1b,China,2018
+MK514269,Asian SEA1b,China,2018
+MK514270,Asian SEA1b,China,2018
+MK514271,Asian SEA1b,China,2018
+MK514272,Asian SEA1b,China,2018
+MK514273,Asian SEA1b,China,2018
+MK567666,Asian SEA1b,China,2013
+MK577649,Asian SEA1b,China,2015
+MK689674,Asian SEA1b,China,2017
+MK689675,Asian SEA1b,China,2017
+MK689676,Asian SEA1b,China,2017
+MN075931,Asian SEA3,Thailand,1999
+MN175989,Asian SEA1b,China,2019
+MN186249,Asian SEA1b,China,2018
+MN186250,Asian SEA1b,China,2018
+MN510449,Asian SEA1b,China,2013
+MN510450,Asian SEA1b,China,2012
+MN510451,Asian SEA1b,China,2012
+MN510452,Asian SEA1b,China,2010
+MN510453,Asian SEA1b,China,2010
+MN510454,Asian SEA1b,China,2011
+MN510455,Asian SEA1b,China,2010
+MN510456,Asian SEA1b,China,2015
+MN510457,Asian SEA1b,China,2010
+MN510458,Asian SEA1b,China,2011
+MN510459,Asian SEA1b,China,2014
+MN510460,Asian SEA1b,China,2011
+MN510461,Asian SEA1b,China,2010
+MN726836,Asian SEA4,Philippines,2013
+MN726837,Asian SEA4,Philippines,2013
+MN726839,Asian SEA4,Philippines,2015
+MN726840,Asian SEA4,Philippines,2015
+MN726841,Asian SEA4,Philippines,2014
+MN726842,Asian SEA4,Philippines,2019
+MN726843,Asian SEA4,Philippines,2012
+MN726845,Asian SEA4,Philippines,2012
+MN726848,Asian SEA4,Philippines,2016
+MN726850,Asian SEA4,Philippines,2015
+MN726852,Asian SEA4,Philippines,2018
+MN726854,Asian SEA4,Philippines,2015
+MN726855,Asian SEA4,Philippines,2016
+MN726856,Asian SEA4,Philippines,2012
+MN726858,Asian SEA4,Philippines,2016
+MN726860,Asian SEA4,Philippines,2018
+MN726861,Asian SEA4,Philippines,2015
+MN726862,Asian SEA4,Philippines,2013
+MN726866,Asian SEA4,Philippines,2014
+MN726870,Asian SEA4,Philippines,2014
+MN726873,Asian SEA4,Philippines,2014
+MN726874,Asian SEA4,Philippines,2012
+MN726875,Asian SEA4,Philippines,2018
+MN726876,Asian SEA4,Philippines,2018
+MN726879,Asian SEA4,Philippines,2012
+MN726880,Asian SEA4,Philippines,2019
+MN726881,Asian SEA4,Philippines,2015
+MN857167,Asian SEA4,Philippines,2019
+MN857168,Asian SEA4,Philippines,2019
+MN857169,Asian SEA4,Philippines,2019
+MN857170,Asian SEA4,Philippines,2019
+MN857171,Asian SEA4,Philippines,2019
+MT068573,Asian SEA1b,China,2018
+MT068574,Asian SEA1b,China,2018
+MT068575,Asian SEA1b,China,2018
+MT068576,Asian SEA1b,China,2018
+MT068577,Asian SEA1b,China,2018
+MT068578,Asian SEA1b,China,2018
+MT068579,Asian SEA1b,China,2018
+MT068604,Asian SEA1b,China,2017
+MT068605,Asian SEA1b,China,2017
+MT068606,Asian SEA1b,China,2017
+MT068607,Asian SEA1b,China,2017
+MT068608,Asian SEA1b,China,2017
+MT068609,Asian SEA1b,China,2017
+MT068610,Asian SEA1b,China,2017
+MT068611,Asian SEA1b,China,2017
+MT068612,Asian SEA2b,China,2017
+MT068613,Asian SEA1b,China,2017
+MT068614,Asian SEA1b,China,2017
+MT068615,Asian SEA2b,China,2017
+MT068616,Asian SEA1b,China,2017
+MT068617,Asian SEA1b,China,2017
+MT068618,Asian SEA1b,China,2017
+MT068619,Asian SEA1b,China,2017
+MT068620,Asian SEA1b,China,2017
+MT068621,Asian SEA1b,China,2017
+MT068622,Asian SEA1b,China,2017
+MT068623,Asian SEA1b,China,2017
+MT068624,Asian SEA1b,China,2017
+MT068625,Asian SEA1b,China,2017
+MT068626,Asian SEA1b,China,2017
+MT068627,Asian SEA1b,China,2017
+MT241241,Asian SEA1b,China,2019
+MT241242,Asian SEA1b,China,2019
+MT241243,Asian SEA1b,China,2019
+MT241244,Asian SEA1b,China,2019
+MT241245,Asian SEA1b,China,2019
+MT241246,Asian SEA1b,China,2019
+MT241247,Asian SEA1b,China,2019
+MT241248,Asian SEA1b,China,2019
+MT332714,Asian SEA1b,China,2019
+MT818428,Asian SEA1b,China,2015
+MT818429,Asian SEA1b,China,2015
+MT818430,Asian SEA1b,China,2015
+MT818431,Asian SEA1b,China,2015
+MT818432,Asian SEA1b,China,2015
+MT818433,Asian SEA1b,China,2015
+MT818434,Asian SEA1b,China,2016
+MT818435,Asian SEA1b,China,2016
+MT818436,Asian SEA1b,China,2016
+MT818437,Asian SEA1b,China,2016
+MT818438,Asian SEA1b,China,2016
+MT818439,Asian SEA1b,China,2016
+MT818440,Asian SEA1b,China,2016
+MT818441,Asian SEA1b,China,2016
+MT818442,Asian SEA1b,China,2016
+MT818443,Asian SEA1b,China,2016
+MT818444,Asian SEA1b,China,2016
+MT818445,Asian SEA1b,China,2016
+MT818446,Asian SEA1b,China,2017
+MT818447,Asian SEA1b,China,2017
+MT818448,Asian SEA1b,China,2017
+MT818449,Asian SEA1b,China,2017
+MT818450,Asian SEA1b,China,2017
+MT818451,Asian SEA1b,China,2017
+MT818452,Asian SEA1b,China,2017
+MT818453,Asian SEA1b,China,2017
+MT818454,Asian SEA1b,China,2017
+MT818455,Asian SEA1b,China,2017
+MT818456,Asian SEA1b,China,2018
+MT818457,Asian SEA1b,China,2018
+MT818458,Asian SEA1b,China,2018
+MT818459,Asian SEA1b,China,2018
+MT818460,Asian SEA1b,China,2018
+MT818461,Asian SEA1b,China,2018
+MT818462,Asian SEA1b,China,2018
+MT818463,Asian SEA1b,China,2019
+MT818464,Asian SEA1b,China,2019
+MT818465,Asian SEA1b,China,2019
+MT818466,Asian SEA1b,China,2019
+MW055214,Asian SEA1b,Vietnam,2017
+MW055215,Asian SEA1b,Vietnam,2017
+MW055216,Asian SEA1b,Vietnam,2017
+MW055217,Asian SEA1b,Vietnam,2017
+MW055218,Asian SEA1b,Vietnam,2017
+MW055219,Asian SEA1b,Vietnam,2017
+MW055220,Asian SEA1b,Vietnam,2018
+MW055221,Asian SEA1b,Vietnam,2018
+MW055222,Asian SEA1b,Vietnam,2018
+MW055223,Asian SEA1b,Vietnam,2018
+MW055224,Asian SEA1b,Vietnam,2017
+MW055225,Asian SEA1b,Vietnam,2017
+MW055226,Asian SEA1b,Vietnam,2017
+MW055227,Asian SEA1b,Vietnam,2017
+MW055228,Asian SEA1b,Vietnam,2017
+MW055229,Asian SEA1b,Vietnam,2018
+MW055230,Asian SEA1b,Vietnam,2018
+MW055231,Asian SEA1b,Vietnam,2018
+MW055232,Asian SEA1b,Vietnam,2017
+MW055233,Asian SEA1b,Vietnam,2017
+MW055234,Asian SEA3,Vietnam,2017
+MW690139,Asian SEA3,Malaysia,2015
+MW690140,Asian SEA3,Malaysia,2015
+MW690141,Asian SEA3,Malaysia,2016
+MW690142,Asian SEA3,Malaysia,2017
+MW690143,Asian SEA1b,Malaysia,2017
+MW690144,Asian SEA1b,Malaysia,2017
+MW690145,Asian SEA1b,Malaysia,2017
+MW690146,Asian SEA1b,Malaysia,2017
+MW690147,Asian SEA1b,Malaysia,2017
+MW690148,Asian SEA1b,Malaysia,2017
+MW690149,Asian SEA1b,Malaysia,2018
+MW690150,Asian SEA1b,Malaysia,2018
+MW690151,Asian SEA1b,Malaysia,2018
+MW690152,Asian SEA3,Malaysia,2018
+MW690153,Asian SEA1b,Malaysia,2018
+MW690154,Asian SEA3,Malaysia,2018
+MW690155,Asian SEA3,Malaysia,2018
+OK585051,Asian SEA3,Thailand,2022
+U22653,Asian SEA3,-,1988
+AF374721,,India,2001
+LC619707,,Japan,2020
+LC628899,,Japan,2006
+MH258839,,India,2014
+MN784132,,China,2016
+MN784133,,China,2018
+MN784134,,China,2018
+MN784135,,China,2018
+MN784136,,China,2018
+MT918793,,China,2020
+MT918841,,China,2020
+MT918851,,China,2020
+MT918852,,China,2020
+MT918854,,China,2020
+MW039806,,Thailand,2017
+MW922319,,Vietnam,2014
+OP515147,,Cambodia,2016
+OP515148,,Cambodia,2016
+OP515149,,Cambodia,2016
+OP515150,,Cambodia,2016
+OP515151,,Cambodia,2016
+OP515152,,Cambodia,2016
+OP515153,,Cambodia,2016
+OP515154,,Cambodia,2016
+OP515155,,Cambodia,2016
+OP515156,,Cambodia,2016
+OP515157,,Cambodia,2016
+OP515158,,Cambodia,2016
+OP515159,,Cambodia,2016
+OP515160,,Cambodia,2016
+OP515161,,Cambodia,2016
+OP515162,,Cambodia,2016
+OP515163,,Cambodia,2016
+OP515164,,Cambodia,2016
+OP515165,,Cambodia,2016
+OP515166,,Cambodia,2016
+OP515167,,Cambodia,2016
+OP515168,,Cambodia,2016
+OP515169,,Cambodia,2016
+OP515170,,Cambodia,2016
+OP515171,,Cambodia,2016
+OP515172,,Cambodia,2016
+OP515173,,Cambodia,2016
+OP515174,,Cambodia,2016
+OP515175,,Cambodia,2016
+OP515176,,Cambodia,2016
+OP515177,,Cambodia,2016
+OP515178,,Cambodia,2017
+OP515179,,Cambodia,2017
+OP515180,,Cambodia,2017
+OP515181,,Cambodia,2017
+OP515182,,Cambodia,2017
+OP515183,,Cambodia,2017
+OP515184,,Cambodia,2017
+OP515185,,Cambodia,2017
+OP515186,,Cambodia,2017
+OP515187,,Cambodia,2017
+OP515188,,Cambodia,2017
+OP515189,,Cambodia,2017
+OP515190,,Cambodia,2017
+OP515191,,Cambodia,2017
+OP515192,,Cambodia,2017
+OP515193,,Cambodia,2017
+OP515194,,Cambodia,2017
+OP515195,,Cambodia,2017
+OP515196,,Cambodia,2017
+OP515197,,Cambodia,2017
+OP515198,,Cambodia,2017
+OP515199,,Cambodia,2017
+OP515200,,Cambodia,2017
+OP515201,,Cambodia,2017
+OP515202,,Cambodia,2017
+OP515203,,Cambodia,2017
+OP515204,,Cambodia,2017
+OP515205,,Cambodia,2017
+OP515206,,Cambodia,2017
+OP515207,,Cambodia,2017
+OP515208,,Cambodia,2017
+OP515209,,Cambodia,2017
+OP515210,,Cambodia,2012
+OP515211,,Cambodia,2012
+OP515212,,Cambodia,2012
+OP515213,,Cambodia,2012
+OP515214,,Cambodia,2012
+OP515215,,Cambodia,2012
+OP515216,,Cambodia,2012
+OP515217,,Cambodia,2012
+OP515218,,Cambodia,2012
+OP515219,,Cambodia,2012
+OP515220,,Cambodia,2012
+OP515221,,Cambodia,2012
+OP515222,,Cambodia,2012
+OP515223,,Cambodia,2012
+OP515224,,Cambodia,2012
+OP515225,,Cambodia,2012
+OP515226,,Cambodia,2012
+OP515227,,Cambodia,2012
+OP515228,,Cambodia,2012
+OP515229,,Cambodia,2012
+OP515230,,Cambodia,2012
+OP515231,,Cambodia,2012
+OP515232,,Cambodia,2012
+OP515233,,Cambodia,2012
+OP515234,,Cambodia,2012
+OP515235,,Cambodia,2012
+OP515236,,Cambodia,2012
+OP515237,,Cambodia,2012
+OP515238,,Cambodia,2012
+OP515239,,Cambodia,2012
+OP515240,,Cambodia,2012
+OP515241,,Cambodia,2012
+OP515242,,Cambodia,2012
+OP515243,,Cambodia,2012
+OP515244,,Cambodia,2012
+OP515245,,Cambodia,2013
+OP515246,,Cambodia,2013
+OP515247,,Cambodia,2013
+OP515248,,Cambodia,2013
+OP515249,,Cambodia,2013
+OP515250,,Cambodia,2013
+OP515251,,Cambodia,2013
+OP515252,,Cambodia,2013
+OP515253,,Cambodia,2013
+OP515254,,Cambodia,2013
+OP515255,,Cambodia,2013
+OP515256,,Cambodia,2013
+OP515257,,Cambodia,2013
+OP515258,,Cambodia,2013
+OP515259,,Cambodia,2013
+OP515260,,Cambodia,2013
+OP515261,,Cambodia,2013
+OP515262,,Cambodia,2013
+OP515263,,Cambodia,2013
+OP515264,,Cambodia,2013
+OP515265,,Cambodia,2013
+OP515266,,Cambodia,2013
+OP515267,,Cambodia,2013
+OP515268,,Cambodia,2013
+OP515269,,Cambodia,2013
+OP515270,,Cambodia,2013
+OP515271,,Cambodia,2013
+OP515272,,Cambodia,2013
+OP515273,,Cambodia,2013
+OP515274,,Cambodia,2013
+OP515275,,Cambodia,2013
+OP515276,,Cambodia,2013
+OP515277,,Cambodia,2013
+OP515278,,Cambodia,2013
+OP515279,,Cambodia,2013
+OP515280,,Cambodia,2014
+OP515281,,Cambodia,2014
+OP515282,,Cambodia,2014
+OP515283,,Cambodia,2014
+OP515284,,Cambodia,2014
+OP515285,,Cambodia,2014
+OP515286,,Cambodia,2014
+OP515287,,Cambodia,2014
+OP515288,,Cambodia,2014
+OP515289,,Cambodia,2014
+OP515290,,Cambodia,2014
+OP515291,,Cambodia,2014
+OP515292,,Cambodia,2014
+OP515293,,Cambodia,2014
+OP515294,,Cambodia,2014
+OP515295,,Cambodia,2014
+OP515296,,Cambodia,2014
+OP515297,,Cambodia,2014
+OP515298,,Cambodia,2014
+OP515299,,Cambodia,2014
+OP515300,,Cambodia,2014
+OP515301,,Cambodia,2014
+OP515302,,Cambodia,2014
+OP515303,,Cambodia,2014
+OP515304,,Cambodia,2014
+OP515305,,Cambodia,2014
+OP515306,,Cambodia,2014
+OP515307,,Cambodia,2014
+OP515308,,Cambodia,2014
+OP515309,,Cambodia,2014
+OP515310,,Cambodia,2014
+OP515311,,Cambodia,2014
+OP515312,,Cambodia,2015
+OP515313,,Cambodia,2015
+OP515314,,Cambodia,2015
+OP515315,,Cambodia,2015
+OP515316,,Cambodia,2015
+OP515317,,Cambodia,2015
+OP515318,,Cambodia,2015
+OP515319,,Cambodia,2015
+OP515320,,Cambodia,2015
+OP515321,,Cambodia,2015
+OP515322,,Cambodia,2015
+OP515323,,Cambodia,2015
+OP515324,,Cambodia,2015
+OP515325,,Cambodia,2015
+OP515326,,Cambodia,2015
+OP515327,,Cambodia,2015
+OP515328,,Cambodia,2015
+OP515329,,Cambodia,2015
+OP515330,,Cambodia,2015
+OP515331,,Cambodia,2015
+OP515332,,Cambodia,2015
+OP515333,,Cambodia,2015
+OP515334,,Cambodia,2015
+OP515335,,Cambodia,2015
+OP515336,,Cambodia,2015
+OP515337,,Cambodia,2015
+OP515338,,Cambodia,2015
+OP515339,,Cambodia,2015
+OP515340,,Cambodia,2015
+OP515341,,Cambodia,2015
+OP515342,,Cambodia,2015
+OP515343,,Cambodia,2015
+OP515344,,Cambodia,2015
+OP515345,,Cambodia,2015
+OQ473645,,Taiwan,2021
+OQ694400,,China,2020
+OQ694401,,China,2020
+OQ694402,,China,2020
+OQ694403,,China,2020
+OQ694404,,China,2020
+OQ694405,,China,2021
+OQ694406,,China,2021
+OQ694407,,China,2021
+OQ694408,,China,2021
+OQ694409,,China,2022
+OQ828526,,China,2015
+OQ828527,,China,2015
+OQ828528,,China,2018
+OQ828529,,China,2017
+OQ828530,,China,2014
+OQ828531,,China,2015
+OQ828532,,China,2015
+OQ828533,,China,2015
+OQ828534,,China,2015
+OQ828535,,China,2015
+OQ828536,,China,2015
+OQ828537,,China,2016
+OQ828538,,China,2016
+OQ828539,,China,2017
+OQ828540,,China,2018
+OQ828541,,China,2015
+OQ828542,,China,2018
+OQ828543,,China,2018
+OQ828544,,China,2018
+OQ828545,,China,2016
+OQ828546,,China,2017
+OQ828547,,China,2017
+OQ828548,,China,2017
+OQ828549,,China,2017
+OQ828550,,China,2017
+OQ828551,,China,2015
+OQ828552,,China,2015
+OQ828553,,China,2016
+OQ828554,,China,2016
+OQ828555,,China,2016
+OQ828556,,China,2016
+OQ828557,,China,2017
+OQ828558,,China,2017
+OQ828559,,China,2017
+OQ828560,,China,2017
+OQ828561,,China,2017
+OQ828562,,China,2017
+OQ828563,,China,2017
+OQ828564,,China,2017
+OQ828565,,China,2018
+OQ828566,,China,2018
+OQ828567,,China,2018
+OQ828568,,China,2015
+OQ828569,,China,2016
+OQ828570,,China,2016
+OQ828571,,China,2016
+OQ828572,,China,2017
+OQ828573,,China,2017
+OQ828574,,China,2017
+OQ828575,,China,2017
+OQ828576,,China,2018
+OQ828577,,China,2016
+OQ828578,,China,2018
+OQ828579,,China,2016
+OQ828580,,China,2018
+OQ828581,,China,2017
+OQ828582,,China,2017
+OQ828583,,China,2017
+OQ828584,,China,2018
+OQ828585,,China,2018
+OQ828586,,China,2018
+OQ828587,,China,2015
+OQ828588,,China,2015
+OQ828589,,China,2016
+OQ828590,,China,2016
+OQ828591,,China,2017
+OQ828592,,China,2017
+OQ828593,,China,2018
+OQ828594,,China,2014
+OQ828595,,China,2016
+OQ828596,,China,2016
+OQ828597,,China,2016
+OQ828598,,China,2016
+OQ828599,,China,2017
+OQ828600,,China,2018
+OQ828601,,China,2018
+OQ828602,,China,2018
+OR400520,,China,2023
+OR734363,,China,2018
+OR734364,,China,2018
+OR734365,,China,2018
+OR734366,,China,2018
+OR734367,,China,2018
+OR734368,,China,2018
+OR734369,,China,2018
+OR734370,,China,2018
+OR734371,,China,2018
+OR734372,,China,2019
+OR734373,,China,2019
+OR734374,,China,2019
+OR734375,,China,2019
+OR734376,,China,2019
+OR734377,,China,2019
+OR734378,,China,2019
+OR734379,,China,2019
+OR734380,,China,2019
+OR734381,,China,2020
+OR734382,,China,2020
+OR734383,,China,2020
+OR734384,,China,2020
+OR734385,,China,2020
+OR734386,,China,2020
+OR734387,,China,2020
+OR734388,,China,2020
+OR734389,,China,2020
+OR734390,,China,2020
+OR734391,,China,2020
+OR734392,,China,2021
+OR734393,,China,2021
+OR734394,,China,2021
+OR734395,,China,2023
+OR734396,,China,2023
+OR734397,,China,2023
+OR734398,,China,2023
+OV696602,,-,2022
+PP397166,,China,2020
+PP498792,,Thailand,2001
