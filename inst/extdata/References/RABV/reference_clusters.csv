@@ -289,6 +289,10 @@ KJ466147,Asian_A1.1
 EU643590,Asian_A1.1.1
 FJ712195,Asian_A1.1.1
 MG201921,Asian_A1.1.1
+GQ915420,Bat
+KX090590,Bat
+JX648424,Bat
+JX648425,Bat
 JQ685942,Bat_A1
 JQ685948,Bat_A1
 JQ685973,Bat_A1
@@ -518,6 +522,10 @@ MK981888,Cosmopolitan AF1a_A1
 KX148199,Cosmopolitan AF1a_A1.1
 LT909531,Cosmopolitan AF1a_A1.1
 MN726819,Cosmopolitan AF1a_A1.1
+OR271029,Cosmopolitan AF1a_A1.1.1
+OR270981,Cosmopolitan AF1a_A1.1.1
+OR271028,Cosmopolitan AF1a_A1.1.1
+OR271034,Cosmopolitan AF1a_A1.1.1
 GU798109,Cosmopolitan AF1a_A1.2
 GU798273,Cosmopolitan AF1a_A1.2
 GU798290,Cosmopolitan AF1a_A1.2
@@ -526,6 +534,16 @@ GU798274,Cosmopolitan AF1a_A1.2.1
 GU798285,Cosmopolitan AF1a_A1.2.1
 GU798286,Cosmopolitan AF1a_A1.2.1
 GU798288,Cosmopolitan AF1a_A1.2.1
+GU798274,Cosmopolitan AF1a_B1
+GU798281,Cosmopolitan AF1a_B1
+GU798285,Cosmopolitan AF1a_B1
+GU798288,Cosmopolitan AF1a_B1
+OR271058,Cosmopolitan AF1a_C1
+OR271053,Cosmopolitan AF1a_C1
+OR271057,Cosmopolitan AF1a_C1
+OR338656,Cosmopolitan AF1a_C1.1
+OR338645,Cosmopolitan AF1a_C1.1
+OR271039,Cosmopolitan AF1a_C1.1
 KR906763,Cosmopolitan AF1b_A1
 KR906765,Cosmopolitan AF1b_A1
 KX148205,Cosmopolitan AF1b_A1
@@ -559,6 +577,8 @@ KY210260,Cosmopolitan AF1b_B1.1.1
 KY210295,Cosmopolitan AF1b_B1.2
 MN726802,Cosmopolitan AF1b_B1.2
 MN726825,Cosmopolitan AF1b_B1.2
+OP375421,Cosmopolitan AF1b_B1.2.1
+OP375424,Cosmopolitan AF1b_B1.2.1
 KR906788,Cosmopolitan AF1b_B1.3
 KY210262,Cosmopolitan AF1b_B1.3
 KY210303,Cosmopolitan AF1b_B1.3
@@ -566,6 +586,10 @@ KR906750,Cosmopolitan AF1b_C1
 KR906754,Cosmopolitan AF1b_C1
 MN726804,Cosmopolitan AF1b_C1
 MN726827,Cosmopolitan AF1b_C1
+OP375418,Cosmopolitan AF1b_C1.1
+OQ787037,Cosmopolitan AF1b_C1.1
+OP375411,Cosmopolitan AF1b_C1.1
+OP375417,Cosmopolitan AF1b_C1.1
 OR338635,Cosmopolitan AF1b_D1
 OR338628,Cosmopolitan AF1b_D1
 OR270980,Cosmopolitan AF1b_D1
@@ -604,6 +628,9 @@ KR781578,Cosmopolitan AM3b_A1.2
 EF152234,Cosmopolitan AM3b_A1.2.1
 KR781601,Cosmopolitan AM3b_A1.2.1
 KR781606,Cosmopolitan AM3b_A1.2.1
+OL451925,Cosmopolitan AM3b_A1.2.2
+OL451930,Cosmopolitan AM3b_A1.2.2
+OL451932,Cosmopolitan AM3b_A1.2.2
 JQ513543,Cosmopolitan AM4_A1
 JQ513545,Cosmopolitan AM4_A1
 JQ513550,Cosmopolitan AM4_A1
@@ -623,6 +650,13 @@ KJ748635,Cosmopolitan CA1_B1.1
 KY243236,Cosmopolitan CA1_B1.1
 MN642578,Cosmopolitan CA1_B1.1
 MN642579,Cosmopolitan CA1_B1.1
+MT918819,Cosmopolitan CA1_B1.2
+PP760425,Cosmopolitan CA1_B1.2
+MT918820,Cosmopolitan CA1_B1.2
+MT918848,Cosmopolitan CA1_C1
+MZ822467,Cosmopolitan CA1_C1
+MT918836,Cosmopolitan CA1_C1
+OQ791973,Cosmopolitan CA1_C1.1
 JQ944706,Cosmopolitan CA2_A1
 MK760756,Cosmopolitan CA2_A1
 MK760766,Cosmopolitan CA2_A1
@@ -634,9 +668,19 @@ MF572309,Cosmopolitan CA3_A1.1
 MF572304,Cosmopolitan CA3_A1.1
 MF574188,Cosmopolitan CA3_A1.1
 MF574190,Cosmopolitan CA3_A1.1
+OP328397,Cosmopolitan CA3_A1.2
+OP328392,Cosmopolitan CA3_A1.2.1
+OP311837,Cosmopolitan CA3_A1.2.1
+OP328394,Cosmopolitan CA3_A1.2.1
+OP328368,Cosmopolitan CA3_B1
+OP328377,Cosmopolitan CA3_B1
+OP328378,Cosmopolitan CA3_B1
+OP328373,Cosmopolitan CA3_B1
 KX148118,Cosmopolitan CE_A1
 KX148122,Cosmopolitan CE_A1
 MF197742,Cosmopolitan CE_A1
+OQ693967,Cosmopolitan CE_A1.1
+OQ693961,Cosmopolitan CE_A1.1
 KX148144,Cosmopolitan EE_A1
 MK598343,Cosmopolitan EE_A1
 MK598344,Cosmopolitan EE_A1
@@ -699,6 +743,17 @@ OL515134,Cosmopolitan NEE_C1.1.1
 OL515140,Cosmopolitan NEE_C1.1.1
 OL515144,Cosmopolitan NEE_C1.1.1
 OL515136,Cosmopolitan NEE_C1.1.1
+MW177595,Cosmopolitan NEE_D1
+OQ656651,Cosmopolitan NEE_D1
+OQ656697,Cosmopolitan NEE_D1
+OQ656650,Cosmopolitan NEE_D1.1
+OQ656685,Cosmopolitan NEE_D1.1
+OQ656661,Cosmopolitan NEE_D1.1
+OQ656667,Cosmopolitan NEE_D1.1
+OQ656675,Cosmopolitan NEE_E1
+OQ656684,Cosmopolitan NEE_E1
+OQ656670,Cosmopolitan NEE_E1
+OQ656674,Cosmopolitan NEE_E1
 LN713561,Cosmopolitan Vac_A1
 LN713583,Cosmopolitan Vac_A1
 LN713628,Cosmopolitan Vac_A1
@@ -793,6 +848,8 @@ DQ837428,Cosmopolitan_H1.4
 DQ837460,Cosmopolitan_H1.4
 DQ837449,Cosmopolitan_H1.4
 DQ837409,Cosmopolitan_H1.4
+OL451915,Cosmopolitan_I1.1
+OL451916,Cosmopolitan_I1.1
 JX944595,Indian-Sub_A1
 KX148245,Indian-Sub_A1
 MN534894,Indian-Sub_A1
