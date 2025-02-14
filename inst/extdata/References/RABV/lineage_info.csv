@@ -1,332 +1,331 @@
-"lineage","country","year_first","year_last","n_seqs","parent"
-"Africa","-","-","-","0","RABV"
-"Africa_A1","Chad, South Africa, Nigeria, Benin, Botswana, Guinea, -","1986","2014","61","Africa"
-"Africa-2_A1","Burkina Faso, Niger, Gambia, Senegal, Guinea, Sierra Leone, Mali, -, Central African Republic, Nigeria, C√¥te d'Ivoire, Mauritania, Benin, Chad, Liberia","1986","2018","140","Africa_A1"
-"Africa-2_A1.1","Burkina Faso, Chad, Niger, Senegal","1987","2014","66","Africa-2_A1"
-"Africa-2_A1.1.1","Mauritania, Senegal","1991","2015","16","Africa-2_A1.1"
-"Africa-2_A1.2","Burkina Faso, C√¥te d'Ivoire, Mali, France, Liberia, Guinea, -, Ghana","1986","2018","26","Africa-2_A1"
-"Africa-2_A1.2.1","Mauritania, Mali, Guinea","1991","2018","16","Africa-2_A1.2"
-"Africa-2_A1.3","Nigeria, -, Cameroon, Ghana","1987","2012","11","Africa-2_A1"
-"Africa-2_B1","Senegal, Mauritania, -, Nigeria","1986","2007","22","Africa"
-"Africa-3_A1","South Africa, Zimbabwe","1994","2001","2","Africa"
-"Africa-3_A1.1","South Africa","1992","2007","20","Africa-3_A1"
-"Arctic","India","1987","1987","1","RABV"
-"Arctic A_A1","-, United States, Russia, Greenland, Canada, NA","1960","2017","54","Arctic"
-"Arctic A_A1.1","Canada","1990","1997","6","Arctic A_A1"
-"Arctic A_A1.1.1","Canada","1990","1996","9","Arctic A_A1.1"
-"Arctic A_A1.1.2","Greenland, Canada","1990","2002","11","Arctic A_A1.1"
-"Arctic A_A1.2","Greenland","2001","2007","12","Arctic A_A1"
-"Arctic A_A1.2.1","Greenland, NA","2006","2014","12","Arctic A_A1.2"
-"Arctic A_A1.3","Greenland","2006","2007","8","Arctic A_A1"
-"Arctic A_A1.3.1","Greenland","2005","2011","10","Arctic A_A1.3"
-"Arctic A_A1.4","-, United States, Russia, Canada","1960","2024","46","Arctic A_A1"
-"Arctic A_B1","United States, Canada, -, India","1988","2023","13","Arctic"
-"Arctic A_B1.1","Canada","1991","2009","10","Arctic A_B1"
-"Arctic A_B1.1.1","Canada","1995","1999","5","Arctic A_B1.1"
-"Arctic A_B1.2","Canada","1998","2006","8","Arctic A_B1"
-"Arctic A_B1.2.1","Canada","1999","2009","13","Arctic A_B1.2"
-"Arctic A_B1.3","-, United States, Canada","1990","2008","20","Arctic A_B1"
-"Arctic A_B1.4","Canada, -","1990","2006","16","Arctic A_B1"
-"Arctic A_B1.5","United States, Canada","1990","2006","12","Arctic A_B1"
-"Arctic A_C1","Canada","1996","2004","9","Arctic A_A1.1.1"
-"Arctic A_C1.1","Canada","1997","2000","7","Arctic A_C1"
-"Arctic A_C1.1.1","Canada","2000","2009","6","Arctic A_C1.1"
-"Arctic A_C1.2","Canada, Greenland, NA, United States","2005","2014","20","Arctic A_C1"
-"Arctic A_D1","Canada","1995","1996","5","Arctic A_B1.1.1"
-"Arctic A_D1.1","Canada","1998","2009","8","Arctic A_D1"
-"Arctic A_D1.1.1","Canada","2000","2012","14","Arctic A_D1.1"
-"Arctic A_D1.2","Canada","2001","2011","11","Arctic A_D1"
-"Arctic A_E1","Canada","2002","2005","7","Arctic A_C1.1.1"
-"Arctic A_E1.1","Canada, Greenland","2005","2017","26","Arctic A_E1"
-"Arctic A_E1.1.1","Canada","2009","2015","27","Arctic A_E1.1"
-"Arctic A_E1.1.2","Canada, NA","2012","2014","13","Arctic A_E1.1"
-"Arctic A_E1.2","Canada","2002","2004","11","Arctic A_E1"
-"Arctic A_F1","NA, Canada, United States","2013","2018","14","Arctic A_E1.1.1"
-"Arctic A_G1","Canada","2015","2018","14","Arctic A_D1.1.1"
-"Arctic AL1a_A1","Bangladesh, -, United States, Germany, India, Pakistan, Nepal, China, United Kingdom, NA, France","1984","2023","247","Arctic_A1"
-"Arctic AL1a_A1.1","India","2003","2023","20","Arctic AL1a_A1"
-"Arctic AL1a_A1.1.1","India","2006","2023","10","Arctic AL1a_A1.1"
-"Arctic AL1a_B1","India","2021","2022","13","Arctic AL1a_A1.1.1"
-"Arctic AL2_A1","-, Mongolia, Iran, South Korea, China, Russia, Japan","1960","2020","43","Arctic"
-"Arctic AL2_A1.1","-, China","1980","2018","22","Arctic AL2_A1"
-"Arctic AL2_A1.1.1","South Korea","1998","2002","7","Arctic AL2_A1.1"
-"Arctic AL2_B1","South Korea","2008","2012","21","Arctic AL2_A1.1.1"
-"Arctic AL2_B1.1","South Korea","2002","2008","10","Arctic AL2_B1"
-"Arctic_A1","Bangladesh, Nepal, Afghanistan, NA, Iran, Italy, India","1996","2023","49","Arctic"
-"Arctic_A1.1","-, Afghanistan, India, Bhutan","1996","2021","27","Arctic_A1"
-"Asian","-","-","-","0","RABV"
-"Asian SEA1b_A1","Indonesia, China, Malaysia","1969","2020","136","Asian"
-"Asian SEA1b_A1.1","China","2003","2023","79","Asian SEA1b_A1"
-"Asian SEA1b_A1.1.1","China","1992","2023","352","Asian SEA1b_A1.1"
-"Asian SEA1b_A1.1.2","China","2004","2018","22","Asian SEA1b_A1.1"
-"Asian SEA1b_B1","China","2006","2023","22","Asian SEA1b_A1.1.1"
-"Asian SEA1b_C1","China, Vietnam","2004","2023","262","Asian"
-"Asian SEA1b_C1.1","China","2007","2017","13","Asian SEA1b_C1"
-"Asian SEA1b_C1.2","China","2017","2017","3","Asian SEA1b_C1"
-"Asian SEA1b_C1.2.1","China","2017","2018","9","Asian SEA1b_C1.2"
-"Asian SEA2a_A1","China","1986","1994","2","Asian"
-"Asian SEA2a_A1.1","China","2016","2016","1","Asian SEA2a_A1"
-"Asian SEA2a_A1.1.1","China","2003","2017","28","Asian SEA2a_A1.1"
-"Asian SEA2a_B1","China","2003","2013","17","Asian SEA2a_A1.1.1"
-"Asian SEA2b_A1","China","2008","2013","13","Asian"
-"Asian SEA2b_A1.1","China","2008","2017","3","Asian SEA2b_A1"
-"Asian SEA2b_A1.1.1","China","2009","2017","18","Asian SEA2b_A1.1"
-"Asian SEA3_A1","Thailand, Lao, China, Myanmar, Cambodia, Vietnam, Malaysia, -","1963","2018","66","Asian"
-"Asian SEA3_A1.1","Thailand, Lao, Cambodia, Vietnam, -","1963","2017","145","Asian SEA3_A1"
-"Asian SEA3_A1.1.1","Cambodia, Thailand","1998","2017","143","Asian SEA3_A1.1"
-"Asian SEA3_A1.1.2","-","-","-","0","Asian SEA3_A1.1"
-"Asian SEA3_B1","Cambodia","1999","2009","17","Asian"
-"Asian SEA3_C1","-","-","-","0","Asian SEA3_A1.1.2"
-"Asian SEA3_C1.1","Cambodia","2012","2017","31","Asian SEA3_C1"
-"Asian SEA3_C1.1.1","Cambodia","2012","2015","9","Asian SEA3_C1.1"
-"Asian SEA3_D1","Cambodia","2012","2017","18","Asian SEA3_C1.1.1"
-"Asian SEA3_D1.1","Cambodia","2013","2017","16","Asian SEA3_D1"
-"Asian SEA4_A1","Philippines, Japan, -","1994","2020","19","Asian_A1"
-"Asian SEA4_A1.1","Philippines","2012","2016","8","Asian SEA4_A1"
-"Asian SEA4_A1.1.2","Japan, Philippines","2006","2019","11","Asian SEA4_A1.1"
-"Asian SEA4_A1.2","Philippines, Japan","1994","2020","25","Asian SEA4_A1"
-"Asian SEA5_A1","Taiwan","2013","2014","3","Asian"
-"Asian SEA5_A1.1","Taiwan","2012","2013","3","Asian SEA5_A1"
-"Asian SEA5_A1.1.1","Taiwan","2010","2014","13","Asian SEA5_A1.1"
-"Asian SEA5_A1.2","Taiwan","2013","2013","16","Asian SEA5_A1"
-"Asian SEA5_A1.3","Taiwan, Thailand, -","1985","2022","15","Asian SEA5_A1"
-"Asian_A1","Taiwan","2012","2013","5","Asian"
-"Asian_A1.1","-, China, Indonesia, Thailand","1956","2022","67","Asian_A1"
-"Asian_A1.1.1","China","1994","2015","13","Asian_A1.1"
-"Bat","Brazil, Peru","2000","2016","24","RABV"
-"Bat_A1","United States, Brazil, Chile, Colombia, Peru, Canada, -, Uruguay","1981","2012","41","Bat"
-"Bat_B1","United States, Argentina, Brazil, Chile","1997","2021","15","Bat"
-"Bat_B1.1","Brazil, Guyana, United States, Mexico, French Guiana, -","1986","2013","26","Bat_B1"
-"Bat_C1","Brazil, -, United States, Canada","2001","2017","34","Bat"
-"Bat_D1","United States, Brazil, Canada, Peru","1984","2017","37","Bat"
-"Bats DR_A1","Mexico, Ecuador, Peru, Brazil","2003","2012","15","Bat"
-"Bats DR_A1.1","Brazil, Peru","2002","2023","296","Bats DR_A1"
-"Bats DR_A1.1.1","Brazil, Peru, French Guiana","1997","2009","13","Bats DR_A1.1"
-"Bats DR_A1.1.10","-, Ecuador, Colombia, Peru, French Guiana","1989","2016","58","Bats DR_A1.1"
-"Bats DR_A1.1.11","Brazil, Argentina","1999","2016","29","Bats DR_A1.1"
-"Bats DR_A1.1.12","Brazil","2007","2021","17","Bats DR_A1.1"
-"Bats DR_A1.1.13","Brazil, Peru, Argentina","2000","2013","54","Bats DR_A1.1"
-"Bats DR_A1.1.14","Ecuador, Colombia, Peru","1999","2016","25","Bats DR_A1.1"
-"Bats DR_A1.1.2","Brazil, Uruguay, Argentina","1991","2023","33","Bats DR_A1.1"
-"Bats DR_A1.1.3","Argentina","2000","2009","34","Bats DR_A1.1"
-"Bats DR_A1.1.4","Brazil, Argentina","1999","2022","42","Bats DR_A1.1"
-"Bats DR_A1.1.5","Peru","1998","2015","5","Bats DR_A1.1"
-"Bats DR_A1.1.7","Brazil, Peru","2002","2023","35","Bats DR_A1.1"
-"Bats DR_A1.1.8","Brazil","2009","2022","43","Bats DR_A1.1"
-"Bats DR_A1.1.9","Peru","1998","2014","46","Bats DR_A1.1"
-"Bats DR_A1.2","Mexico, -, Guatemala","1988","2018","13","Bats DR_A1"
-"Bats DR_A1.2.1","Mexico, Guatemala","2004","2018","15","Bats DR_A1.2"
-"Bats DR_A1.3","Colombia, Peru, Brazil","1996","2009","5","Bats DR_A1"
-"Bats DR_A1.3.1","Peru","1998","2012","24","Bats DR_A1.3"
-"Bats DR_A1.4","Colombia, Costa Rica","1996","2018","25","Bats DR_A1"
-"Bats DR_A1.5","Mexico, Colombia, Costa Rica, Brazil, -","1997","2021","26","Bats DR_A1"
-"Bats DR_B1","Peru","1999","2013","27","Bat"
-"Bats DR_B1.1","Peru","1999","2012","46","Bats DR_B1"
-"Bats DR_C1","Brazil","2006","2023","15","Bats DR_A1.1.4"
-"Bats DR_D1","Brazil","2022","2022","5","Bats DR_A1.1.8"
-"Bats DR_E1","Colombia, Peru","1994","2023","224","Bat"
-"Bats DR_E1.1","Peru","2001","2012","19","Bats DR_E1"
-"Bats DR_E1.1.1","Peru","2001","2011","32","Bats DR_E1.1"
-"Bats DR_E1.2","Peru","2004","2015","8","Bats DR_E1"
-"Bats DR_E1.2.1","Peru","1998","2023","112","Bats DR_E1.2"
-"Bats DR_F1","Peru","2012","2013","7","Bats DR_E1.2.1"
-"Bats DR_F1.1","Peru","2004","2023","13","Bats DR_F1"
-"Bats DR_H1","Brazil","2004","2009","20","Bat"
-"Bats DR_I1","Brazil, Argentina","1994","2016","132","Bat"
-"Bats DR_K1","Brazil","2001","2014","23","Bats DR_A1.1.4"
-"Bats DR_M1","Peru, French Guiana, Brazil","2007","2023","24","Bat"
-"Bats EF-E1_A1","-, United States, Canada","1993","2021","15","Bat"
-"Bats EF-E2_A1","-, United States, Canada","1989","2020","20","Bat_D1"
-"Bats EF-E2_A1.2","-, United States, Canada","1994","2017","26","Bats EF-E2_A1"
-"Bats EF-W1_A1","United States","1985","2022","26","Bat_A1"
-"Bats EF-W1_A1.1","United States","1975","2023","35","Bats EF-W1_A1"
-"Bats EF-W1_A1.1.1","United States","2001","2021","8","Bats EF-W1_A1.1"
-"Bats EF-W1_A1.2","United States","1995","2022","28","Bats EF-W1_A1"
-"Bats EF-W1_B1","United States","1999","2001","10","Bats EF-W1_A1.1.1"
-"Bats EF-W2_A1","Canada, United States","1988","2017","18","Bat"
-"Bats EF-W2_A1.1","United States","2002","2004","4","Bats EF-W2_A1"
-"Bats LB2_A1","-, United States","1998","2017","17","Bat_C1"
-"Bats LC_A1","Brazil, -, United States, Chile, Canada","1991","2019","35","Bat_A1"
-"Bats LN_A1","-, Canada, United States, Colombia, Brazil","1990","2021","53","Bat"
-"Bats MYsp_A1","-, Canada, United States","1991","2016","71","Bat"
-"Bats MYsp_A1.1","United States","2002","2013","8","Bats MYsp_A1"
-"Bats MYsp_A1.1.1","United States","2001","2001","2","Bats MYsp_A1.1"
-"Bats MYsp_A1.2","-, Canada","1993","2013","10","Bats MYsp_A1"
-"Bats MYsp_A1.3","Canada, United States","2002","2017","5","Bats MYsp_A1"
-"Bats MYsp_A1.3.1","Canada","1991","2014","11","Bats MYsp_A1.3"
-"Bats MYsp_B1","-","-","-","0","Bats MYsp_A1.1.1"
-"Bats MYsp_B1.1","United States, Canada","1994","2015","16","Bats MYsp_B1"
-"Bats TB1_A1","Mexico","2007","2008","4","Bat"
-"Bats TB1_A1.1","-, United States, Mexico","1999","2021","49","Bats TB1_A1"
-"Bats_A1","Brazil, Uruguay, Chile, Colombia, Canada, Peru","2003","2021","23","Bat"
-"Cosmopolitan","-","-","-","0","RABV"
-"Cosmopolitan AF1a_A1","Tunisia, Morocco, Algeria, Italy, -","1986","2018","127","Cosmopolitan_A1"
-"Cosmopolitan AF1a_A1.1","Ethiopia, Algeria, Somalia, -, Kenya","1987","2022","143","Cosmopolitan AF1a_A1"
-"Cosmopolitan AF1a_A1.1.1","Kenya","2021","2022","6","Cosmopolitan AF1a_A1.1"
-"Cosmopolitan AF1a_A1.2","Spain, Morocco, -","1985","2008","73","Cosmopolitan AF1a_A1"
-"Cosmopolitan AF1a_A1.2.1","Spain, Tunisia, Algeria","1986","2008","22","Cosmopolitan AF1a_A1.2"
-"Cosmopolitan AF1a_B1","Algeria","2003","2008","15","Cosmopolitan AF1a_A1.2.1"
-"Cosmopolitan AF1a_C1","Kenya","2021","2022","8","Cosmopolitan AF1a_A1.1.1"
-"Cosmopolitan AF1a_C1.1","Kenya","2021","2022","14","Cosmopolitan AF1a_C1"
-"Cosmopolitan AF1b_A1","Tanzania, Rwanda, Burundi, Uganda, Kenya","1990","2022","20","Cosmopolitan_A1.2"
-"Cosmopolitan AF1b_A1.1","Tanzania, Uganda, -, Kenya","2009","2022","36","Cosmopolitan AF1b_A1"
-"Cosmopolitan AF1b_A1.1.1","Tanzania","2008","2018","12","Cosmopolitan AF1b_A1.1"
-"Cosmopolitan AF1b_A1.1.2","Tanzania, Kenya","2003","2022","7","Cosmopolitan AF1b_A1.1"
-"Cosmopolitan AF1b_A1.1.3","Kenya","2021","2022","7","Cosmopolitan AF1b_A1.1"
-"Cosmopolitan AF1b_A2","Central African Republic, Namibia, Democratic Republic of the Congo, Uganda, South Africa, -","1989","2018","158","Cosmopolitan_A1.2"
-"Cosmopolitan AF1b_B1","Tanzania","2004","2012","3","Cosmopolitan AF1b_A1.1.1"
-"Cosmopolitan AF1b_B1.1","Tanzania","2010","2018","10","Cosmopolitan AF1b_B1"
-"Cosmopolitan AF1b_B1.1.1","Tanzania","2010","2013","42","Cosmopolitan AF1b_B1.1"
-"Cosmopolitan AF1b_B1.2","Tanzania","2011","2017","34","Cosmopolitan AF1b_B1"
-"Cosmopolitan AF1b_B1.2.1","Tanzania","2016","2016","2","Cosmopolitan AF1b_B1.2"
-"Cosmopolitan AF1b_B1.3","Tanzania","2010","2013","21","Cosmopolitan AF1b_B1"
-"Cosmopolitan AF1b_C1","Tanzania","2007","2017","14","Cosmopolitan AF1b_A1.1.2"
-"Cosmopolitan AF1b_C1.1","Tanzania, Italy","2007","2020","6","Cosmopolitan AF1b_C1"
-"Cosmopolitan AF1b_D1","Kenya","2021","2022","17","Cosmopolitan AF1b_A1.1.3"
-"Cosmopolitan AM1_A1","Mexico, Puerto Rico, United States","1984","2009","18","Cosmopolitan_A1"
-"Cosmopolitan AM1_A1.1","United States","1998","2018","2","Cosmopolitan AM1_A1"
-"Cosmopolitan AM1_A1.1.1","Canada, United States","2000","2017","9","Cosmopolitan AM1_A1.1"
-"Cosmopolitan AM1_B1","-, Canada, United States","1992","2017","10","Cosmopolitan AM1_A1.1.1"
-"Cosmopolitan AM2a_A1","Peru, Brazil, Cuba, Mexico, Colombia, Honduras, United States, Costa Rica, -, Guatemala","1990","2018","138","Cosmopolitan_A1.3"
-"Cosmopolitan AM3a_A1","Brazil","1985","2005","3","Cosmopolitan_A1.3.2"
-"Cosmopolitan AM3a_A1.1","Brazil","2005","2007","9","Cosmopolitan AM3a_A1"
-"Cosmopolitan AM3a_A1.1.1","Brazil","2006","2007","5","Cosmopolitan AM3a_A1.1"
-"Cosmopolitan AM3a_B1","Brazil","2007","2012","12","Cosmopolitan AM3a_A1.1.1"
-"Cosmopolitan AM3b_A1","Brazil","2002","2010","21","Cosmopolitan_A1.3"
-"Cosmopolitan AM3b_A1.2","Brazil, Mexico, Argentina","1999","2010","62","Cosmopolitan AM3b_A1"
-"Cosmopolitan AM3b_A1.2.1","Brazil, United States, Japan, Georgia, Mexico, Kazakhstan","1956","2023","23","Cosmopolitan AM3b_A1.2"
-"Cosmopolitan AM3b_A1.2.2","Argentina","2003","2015","8","Cosmopolitan AM3b_A1.2"
-"Cosmopolitan AM4_A1","United States","1965","1997","16","Cosmopolitan_A1.3"
-"Cosmopolitan CA1_A1","Mongolia, Russia, Kazakhstan, China, Iran","1974","2023","79","Cosmopolitan_B1"
-"Cosmopolitan CA1_A1.1","Russia, Mongolia, China","2002","2021","49","Cosmopolitan CA1_A1"
-"Cosmopolitan CA1_A1.1.1","Mongolia, China","2005","2021","44","Cosmopolitan CA1_A1.1"
-"Cosmopolitan CA1_B1","China, Russia","2011","2021","19","Cosmopolitan CA1_A1.1.1"
-"Cosmopolitan CA1_B1.1","China, Russia","2013","2021","48","Cosmopolitan CA1_B1"
-"Cosmopolitan CA1_B1.2","China","2020","2024","4","Cosmopolitan CA1_B1"
-"Cosmopolitan CA1_C1","China","2020","2021","16","Cosmopolitan CA1_A1.1.1"
-"Cosmopolitan CA1_C1.1","Mongolia","2018","2018","1","Cosmopolitan CA1_C1"
-"Cosmopolitan CA2_A1","Grenada, Georgia, Iran, Turkey, Russia, Iraq, -","1993","2020","92","Cosmopolitan_A1"
-"Cosmopolitan CA3_A1","-, Romania, Russia","2004","2021","27","Cosmopolitan_B1"
-"Cosmopolitan CA3_A1.1","Russia","2012","2016","17","Cosmopolitan CA3_A1"
-"Cosmopolitan CA3_A1.2","Russia","2007","2007","1","Cosmopolitan CA3_A1"
-"Cosmopolitan CA3_A1.2.1","Russia","2009","2018","9","Cosmopolitan CA3_A1.2"
-"Cosmopolitan CA3_B1","Russia","2014","2015","7","Cosmopolitan CA3_A1.2.1"
-"Cosmopolitan CE_A1","Germany, Poland, -, Czechia","1984","2021","38","Cosmopolitan_A1.1.1"
-"Cosmopolitan CE_A1.1","Poland","2022","2022","31","Cosmopolitan CE_A1"
-"Cosmopolitan EE_A1","Hungary, Serbia, Poland, Slovenia, Bosnia and Herzegovina, France, -","1986","2010","19","Cosmopolitan_A1.1.1"
-"Cosmopolitan ME1a_A1","Iran, -","1996","2018","22","Cosmopolitan_A1.1.2"
-"Cosmopolitan ME1a_A1.1","Iran","2005","2014","8","Cosmopolitan ME1a_A1"
-"Cosmopolitan ME1a_A1.1.1","Iran","1996","2014","12","Cosmopolitan ME1a_A1.1"
-"Cosmopolitan ME1a_A1.2","Iran","2009","2015","15","Cosmopolitan ME1a_A1"
-"Cosmopolitan ME2_A1","Turkey, -","1993","2001","11","Cosmopolitan_A1.1"
-"Cosmopolitan ME2_A1.1","Turkey, Iran","1989","2014","11","Cosmopolitan ME2_A1"
-"Cosmopolitan ME2_A1.1.1","Turkey","1999","2015","11","Cosmopolitan ME2_A1.1"
-"Cosmopolitan ME2_B1","Turkey","2006","2020","17","Cosmopolitan ME2_A1.1.1"
-"Cosmopolitan ME2_C1","Russia, Georgia, Turkey, Israel, Montenegro, -, Kazakhstan","1978","2023","129","Cosmopolitan ME2_A1.1.1"
-"Cosmopolitan NEE_A1","Russia, Poland, Estonia, Romania, Moldova","1991","2017","19","Cosmopolitan_A1.1.1"
-"Cosmopolitan NEE_A1.1","Poland, Hungary","2010","2017","6","Cosmopolitan NEE_A1"
-"Cosmopolitan NEE_A1.1.1","Hungary","2013","2013","2","Cosmopolitan NEE_A1.1"
-"Cosmopolitan NEE_A1.2","Russia, Estonia, Finland, Poland, -","1986","2018","12","Cosmopolitan NEE_A1"
-"Cosmopolitan NEE_A1.2.1","Kenya, Serbia, Bosnia and Herzegovina, Montenegro, -","1977","2018","33","Cosmopolitan NEE_A1.2"
-"Cosmopolitan NEE_B1","Hungary","2013","2014","28","Cosmopolitan NEE_A1.1.1"
-"Cosmopolitan NEE_C1","Hungary, Moldova, Romania, Poland","2012","2021","44","Cosmopolitan NEE_A1.1.1"
-"Cosmopolitan NEE_C1.1","Romania","2012","2016","3","Cosmopolitan NEE_C1"
-"Cosmopolitan NEE_C1.1.1","Romania, Moldova, Slovakia, Poland, Hungary","2012","2022","37","Cosmopolitan NEE_C1.1"
-"Cosmopolitan NEE_D1","Romania, Moldova","2014","2021","3","Cosmopolitan NEE_C1.1.1"
-"Cosmopolitan NEE_D1.1","Moldova, Romania","2016","2022","9","Cosmopolitan NEE_D1"
-"Cosmopolitan NEE_E1","Moldova, Romania","2021","2022","16","Cosmopolitan NEE_C1.1.1"
-"Cosmopolitan Vac_A1","-","-","-","0","Vac"
-"Cosmopolitan Vac_A1.1","-","-","-","0","Cosmopolitan Vac_A1"
-"Cosmopolitan Vac_A1.1.1","-","-","-","0","Cosmopolitan Vac_A1.1"
-"Cosmopolitan Vac_A1.2","-","-","-","0","Cosmopolitan Vac_A1"
-"Cosmopolitan WE_A1","-, France, Belgium, Slovenia, Bosnia and Herzegovina, Germany, Serbia","1986","1999","18","Cosmopolitan_A1.1.1"
-"Cosmopolitan_A1","Mexico, China, Russia, Grenada, Peru, Brazil, -, Japan, Nigeria, Gabon","1931","2020","59","Cosmopolitan"
-"Cosmopolitan_A1.1","Madagascar, Montenegro, Serbia","1978","2004","3","Cosmopolitan_A1"
-"Cosmopolitan_A1.1.1","Serbia, -, Italy, Bosnia and Herzegovina, Germany","1972","2009","18","Cosmopolitan_A1.1"
-"Cosmopolitan_A1.1.2","Iran, Turkey, -, Israel","1976","2013","18","Cosmopolitan_A1.1"
-"Cosmopolitan_A1.2","Tanzania, Zimbabwe, Central African Republic, -, Madagascar","1986","2017","10","Cosmopolitan_A1"
-"Cosmopolitan_A1.2.1","Zambia, Tanzania, Zimbabwe, South Africa","1981","2017","16","Cosmopolitan_A1.2"
-"Cosmopolitan_A1.2.2","China, France, India, Japan, Tanzania, Kenya, -","1976","2022","77","Cosmopolitan_A1.2"
-"Cosmopolitan_A1.3","Mexico, Israel, Egypt, -, United States, Peru","1950","2017","26","Cosmopolitan_A1"
-"Cosmopolitan_A1.3.1","-, China, United States, France, Ethiopia, India, Japan, Egypt, Mexico","1939","2019","54","Cosmopolitan_A1.3"
-"Cosmopolitan_A1.3.2","-, Brazil, United States, Argentina, Paraguay","1986","2018","149","Cosmopolitan_A1.3"
-"Cosmopolitan_B1","Russia, China, Hungary, -, Romania","1991","2017","19","Cosmopolitan_A1.1.1"
-"Cosmopolitan_B1.1","Tajikistan, Azerbaijan, Georgia, Mongolia, Russia, Kazakhstan, Iran, China, -, Poland, Ukraine, Moldova","2001","2023","165","Cosmopolitan_B1"
-"Cosmopolitan_B1.1.1","-, Equatorial Guinea, Gabon, Cameroon, Russia","1986","2012","21","Cosmopolitan_B1.1"
-"Cosmopolitan_C1","Zimbabwe, South Africa, Mozambique","1986","2012","5","Cosmopolitan_A1.2.1"
-"Cosmopolitan_C1.1","South Africa, Zimbabwe, -","1990","2017","37","Cosmopolitan_C1"
-"Cosmopolitan_D1","Israel, Jordan, Saudi Arabia, Oman, United Arab Emirates, -, Qatar","1987","2018","26","Cosmopolitan_A1.1.2"
-"Cosmopolitan_E1","Iran, -","1984","2014","15","Cosmopolitan_A1.1.2"
-"Cosmopolitan_F1","Israel, Turkey","1993","2020","30","Cosmopolitan_A1.1.2"
-"Cosmopolitan_F1.1","Israel, Jordan, Lebanon","1996","2004","16","Cosmopolitan_F1"
-"Cosmopolitan_F1.1.1","Israel","1996","1998","8","Cosmopolitan_F1.1"
-"Cosmopolitan_G1","Tanzania, Kenya","2010","2022","29","Cosmopolitan_A1.2.2"
-"Cosmopolitan_H1","Israel","1996","2004","13","Cosmopolitan_F1.1.1"
-"Cosmopolitan_H1.4","Israel, Tanzania","1995","2012","11","Cosmopolitan_H1"
-"Cosmopolitan_I1.1","Brazil, Paraguay","1989","1991","2","Cosmopolitan_I1"
-"Indian-Sub","-","-","-","0","RABV"
-"Indian-Sub_A1","Nepal, China","2003","2018","9","Indian-Sub"
-"Indian-Sub_A1.1","India, -","1997","2021","16","Indian-Sub_A1"
-"Indian-Sub_B1","Sri Lanka, United Kingdom, -","2001","2012","51","Indian-Sub"
-"Indian-Sub_B1.1","Sri Lanka","2003","2012","18","Indian-Sub_B1"
-"RAC-SK","-","-","-","0","RABV"
-"RAC-SK_A1","United States, -, Canada","1968","2017","32","RAC-SK"
-"RAC-SK_A1.1","United States","2004","2011","6","RAC-SK_A1"
-"RAC-SK_A1.1.1","United States","2004","2011","5","RAC-SK_A1.1"
-"RAC-SK_A1.2","United States, Canada","2004","2015","10","RAC-SK_A1"
-"RAC-SK_A1.3","United States","2009","2012","13","RAC-SK_A1"
-"RAC-SK_A1.3.1","United States","2009","2009","23","RAC-SK_A1.3"
-"RAC-SK_A2","Canada","2000","2003","10","RAC-SK"
-"RAC-SK_B1","United States","1990","2017","31","RAC-SK_A1.1.1"
-"RAC-SK_B1.1","Mexico, United States","1991","2009","26","RAC-SK_B1"
-"RAC-SK_B1.1.1","United States","1984","2022","161","RAC-SK_B1.1"
-"RAC-SK_B1.1.2","United States","2003","2021","23","RAC-SK_B1.1"
-"RAC-SK_B1.2","United States","2003","2014","9","RAC-SK_B1"
-"RAC-SK_B1.2.1","United States","1994","2015","15","RAC-SK_B1.2"
-"RAC-SK_C1","United States","2004","2011","8","RAC-SK_B1.1.1"
-"RAC-SK_C1.1","United States","1990","2011","20","RAC-SK_C1"
-"RAC-SK_C1.1.1","Canada, United States","1990","2018","75","RAC-SK_C1.1"
-"RAC-SK_C1.1.2","United States","2004","2004","6","RAC-SK_C1.1"
-"RAC-SK_C1.1.3","United States","1991","2009","10","RAC-SK_C1.1"
-"RAC-SK_D1","United States","1995","2010","4","RAC-SK_C1.1.1"
-"RAC-SK_D1.1","United States, Canada","1995","2010","13","RAC-SK_D1"
-"RAC-SK_D1.1.1","United States","2006","2007","2","RAC-SK_D1.1"
-"RAC-SK_D1.1.2","United States","2005","2006","3","RAC-SK_D1.1"
-"RAC-SK_D1.1.3","United States","2005","2011","29","RAC-SK_D1.1"
-"RAC-SK_D1.2","United States","2003","2008","10","RAC-SK_D1"
-"RAC-SK_E1","United States","2010","2011","4","RAC-SK_C1.1.2"
-"RAC-SK_E1.1","United States","2003","2011","9","RAC-SK_E1"
-"RAC-SK_E1.1.1","United States","2003","2017","20","RAC-SK_E1.1"
-"RAC-SK_E1.2","United States","2003","2018","15","RAC-SK_E1"
-"RAC-SK_F1","United States","2013","2018","7","RAC-SK_B1.1.2"
-"RAC-SK_F1.1","United States","2013","2021","15","RAC-SK_F1"
-"RAC-SK_F1.1.1","United States","2013","2014","8","RAC-SK_F1.1"
-"RAC-SK_G1","Canada, United States","2006","2010","24","RAC-SK_D1.1.1"
-"RAC-SK_G1.1","United States","2007","2011","13","RAC-SK_G1"
-"RAC-SK_G1.2","Canada","2007","2009","11","RAC-SK_G1"
-"RAC-SK_G1.3","Canada, United States","2007","2009","36","RAC-SK_G1"
-"RAC-SK_H1","United States","2006","2017","17","RAC-SK_D1.1.1"
-"RAC-SK_I1","United States","2004","2018","8","RAC-SK_C1.1.1"
-"RAC-SK_I1.1","United States","2003","2019","11","RAC-SK_I1"
-"RAC-SK_J1","Canada, United States","2014","2017","15","RAC-SK_F1.1.1"
-"RAC-SK_J1.1","Canada","2015","2015","10","RAC-SK_J1"
-"RAC-SK_K1","United States, Canada","2000","2014","16","RAC-SK_B1.1.2"
-"RAC-SK_L1","United States","2003","2020","30","RAC-SK_C1.1.1"
-"RAC-SK_M1","United States","2007","2019","23","RAC-SK_B1.1.2"
-"RAC-SK_M1.1","United States","2018","2023","9","RAC-SK_M1"
-"RAC-SK_M1.1.1","United States","2017","2021","17","RAC-SK_M1.1"
-"RAC-SK_N1","United States","2006","2009","11","RAC-SK_D1.1.2"
-"RAC-SK_O1","United States","2003","2017","21","RAC-SK_D1.1.2"
-"RAC-SK_P1","United States","2010","2018","10","RAC-SK_C1.1.1"
-"RAC-SK_Q1","Canada","2016","2017","13","RAC-SK_C1.1.1"
-"RAC-SK_R1","Canada","2016","2017","10","RAC-SK_C1.1.1"
-"RAC-SK_S1","United States","2009","2009","18","RAC-SK_A1.3.1"
-"RAC-SK_T1","-, United States","1982","2022","42","RAC-SK_B1.1.1"
-"RAC-SK_Z1","Canada","1999","2002","30","RAC-SK"
-"RAC-SK_Z1.1","Canada, United States","1998","2005","14","RAC-SK_Z1"
-"Vac","-","-","-","0","RABV"
-"Vac_A1","Haiti","2018","2018","1","Vac"
-"Vac_A1.1","-","-","-","0","Vac_A1"
-"Vac_A1.2","Haiti","2018","2018","1","Vac_A1"
-"Vac_B1","-","-","-","0","Vac"
-"Vac_B1.1","-","-","-","0","Vac_B1"
+lineage,country,year_first,year_last,n_seqs,parent
+Africa,-,-,-,0,RABV
+Africa_A1,"Chad, South Africa, Nigeria, Benin, Botswana, Guinea, -",1986,2014,61,Africa
+Africa-2_A1,"Burkina Faso, Niger, Gambia, Senegal, Guinea, Sierra Leone, Mali, -, Central African Republic, Nigeria, C√¥te d'Ivoire, Mauritania, Benin, Chad, Liberia",1986,2018,140,Africa_A1
+Africa-2_A1.1,"Burkina Faso, Chad, Niger, Senegal",1987,2014,66,Africa-2_A1
+Africa-2_A1.1.1,"Mauritania, Senegal",1991,2015,16,Africa-2_A1.1
+Africa-2_A1.2,"Burkina Faso, C√¥te d'Ivoire, Mali, France, Liberia, Guinea, -, Ghana",1986,2018,26,Africa-2_A1
+Africa-2_A1.2.1,"Mauritania, Mali, Guinea",1991,2018,16,Africa-2_A1.2
+Africa-2_A1.3,"Nigeria, -, Cameroon, Ghana",1987,2012,11,Africa-2_A1
+Africa-2_B1,"Senegal, Mauritania, -, Nigeria",1986,2007,22,Africa
+Africa-3_A1,"South Africa, Zimbabwe",1994,2001,2,Africa
+Africa-3_A1.1,South Africa,1992,2007,20,Africa-3_A1
+Arctic,India,1987,1987,1,RABV
+Arctic A_A1,"-, United States, Russia, Greenland, Canada, NA",1960,2017,54,Arctic
+Arctic A_A1.1,Canada,1990,1997,6,Arctic A_A1
+Arctic A_A1.1.1,Canada,1990,1996,9,Arctic A_A1.1
+Arctic A_A1.1.2,"Greenland, Canada",1990,2002,11,Arctic A_A1.1
+Arctic A_A1.2,Greenland,2001,2007,12,Arctic A_A1
+Arctic A_A1.2.1,"Greenland, NA",2006,2014,12,Arctic A_A1.2
+Arctic A_A1.3,Greenland,2006,2007,8,Arctic A_A1
+Arctic A_A1.3.1,Greenland,2005,2011,10,Arctic A_A1.3
+Arctic A_A1.4,"-, United States, Russia, Canada",1960,2024,46,Arctic A_A1
+Arctic A_B1,"United States, Canada, -, India",1988,2023,13,Arctic
+Arctic A_B1.1,Canada,1991,2009,10,Arctic A_B1
+Arctic A_B1.1.1,Canada,1995,1999,5,Arctic A_B1.1
+Arctic A_B1.2,Canada,1998,2006,8,Arctic A_B1
+Arctic A_B1.2.1,Canada,1999,2009,13,Arctic A_B1.2
+Arctic A_B1.3,"-, United States, Canada",1990,2008,20,Arctic A_B1
+Arctic A_B1.4,"Canada, -",1990,2006,16,Arctic A_B1
+Arctic A_B1.5,"United States, Canada",1990,2006,12,Arctic A_B1
+Arctic A_C1,Canada,1996,2004,9,Arctic A_A1.1.1
+Arctic A_C1.1,Canada,1997,2000,7,Arctic A_C1
+Arctic A_C1.1.1,Canada,2000,2009,6,Arctic A_C1.1
+Arctic A_C1.2,"Canada, Greenland, NA, United States",2005,2014,20,Arctic A_C1
+Arctic A_D1,Canada,1995,1996,5,Arctic A_B1.1.1
+Arctic A_D1.1,Canada,1998,2009,8,Arctic A_D1
+Arctic A_D1.1.1,Canada,2000,2012,14,Arctic A_D1.1
+Arctic A_D1.2,Canada,2001,2011,11,Arctic A_D1
+Arctic A_E1,Canada,2002,2005,7,Arctic A_C1.1.1
+Arctic A_E1.1,"Canada, Greenland",2005,2017,26,Arctic A_E1
+Arctic A_E1.1.1,Canada,2009,2015,27,Arctic A_E1.1
+Arctic A_E1.1.2,"Canada, NA",2012,2014,13,Arctic A_E1.1
+Arctic A_E1.2,Canada,2002,2004,11,Arctic A_E1
+Arctic A_F1,"NA, Canada, United States",2013,2018,14,Arctic A_E1.1.1
+Arctic A_G1,Canada,2015,2018,14,Arctic A_D1.1.1
+Arctic AL1a_A1,"Bangladesh, -, United States, Germany, India, Pakistan, Nepal, China, United Kingdom, NA, France",1984,2023,247,Arctic_A1
+Arctic AL1a_A1.1,India,2003,2023,20,Arctic AL1a_A1
+Arctic AL1a_A1.1.1,India,2006,2023,10,Arctic AL1a_A1.1
+Arctic AL1a_B1,India,2021,2022,13,Arctic AL1a_A1.1.1
+Arctic AL2_A1,"-, Mongolia, Iran, South Korea, China, Russia, Japan",1960,2020,43,Arctic
+Arctic AL2_A1.1,"-, China",1980,2018,22,Arctic AL2_A1
+Arctic AL2_A1.1.1,South Korea,1998,2002,7,Arctic AL2_A1.1
+Arctic AL2_B1,South Korea,2008,2012,21,Arctic AL2_A1.1.1
+Arctic AL2_B1.1,South Korea,2002,2008,10,Arctic AL2_B1
+Arctic_A1,"Bangladesh, Nepal, Afghanistan, NA, Iran, Italy, India",1996,2023,49,Arctic
+Arctic_A1.1,"-, Afghanistan, India, Bhutan",1996,2021,27,Arctic_A1
+Asian,-,-,-,0,RABV
+Asian SEA1b_A1,"Indonesia, China, Malaysia",1969,2020,136,Asian
+Asian SEA1b_A1.1,China,2003,2023,79,Asian SEA1b_A1
+Asian SEA1b_A1.1.1,China,1992,2023,352,Asian SEA1b_A1.1
+Asian SEA1b_A1.1.2,China,2004,2018,22,Asian SEA1b_A1.1
+Asian SEA1b_B1,China,2006,2023,22,Asian SEA1b_A1.1.1
+Asian SEA1b_C1,"China, Vietnam",2004,2023,262,Asian
+Asian SEA1b_C1.1,China,2007,2017,13,Asian SEA1b_C1
+Asian SEA1b_C1.2,China,2017,2017,3,Asian SEA1b_C1
+Asian SEA1b_C1.2.1,China,2017,2018,9,Asian SEA1b_C1.2
+Asian SEA2a_A1,China,1986,1994,2,Asian
+Asian SEA2a_A1.1,China,2016,2016,1,Asian SEA2a_A1
+Asian SEA2a_A1.1.1,China,2003,2017,28,Asian SEA2a_A1.1
+Asian SEA2a_B1,China,2003,2013,17,Asian SEA2a_A1.1.1
+Asian SEA2b_A1,China,2008,2013,13,Asian
+Asian SEA2b_A1.1,China,2008,2017,3,Asian SEA2b_A1
+Asian SEA2b_A1.1.1,China,2009,2017,18,Asian SEA2b_A1.1
+Asian SEA3_A1,"Thailand, Lao, China, Myanmar, Cambodia, Vietnam, Malaysia, -",1963,2018,66,Asian
+Asian SEA3_A1.1,"Thailand, Lao, Cambodia, Vietnam, -",1963,2017,145,Asian SEA3_A1
+Asian SEA3_A1.1.1,"Cambodia, Thailand",1998,2017,143,Asian SEA3_A1.1
+Asian SEA3_A1.1.2,-,-,-,0,Asian SEA3_A1.1
+Asian SEA3_B1,Cambodia,1999,2009,17,Asian
+Asian SEA3_C1,-,-,-,0,Asian SEA3_A1.1.2
+Asian SEA3_C1.1,Cambodia,2012,2017,31,Asian SEA3_C1
+Asian SEA3_C1.1.1,Cambodia,2012,2015,9,Asian SEA3_C1.1
+Asian SEA3_D1,Cambodia,2012,2017,18,Asian SEA3_C1.1.1
+Asian SEA3_D1.1,Cambodia,2013,2017,16,Asian SEA3_D1
+Asian SEA4_A1,"Philippines, Japan, -",1994,2020,19,Asian_A1
+Asian SEA4_A1.1,Philippines,2012,2016,8,Asian SEA4_A1
+Asian SEA4_A1.1.2,"Japan, Philippines",2006,2019,11,Asian SEA4_A1.1
+Asian SEA4_A1.2,"Philippines, Japan",1994,2020,25,Asian SEA4_A1
+Asian SEA5_A1,Taiwan,2013,2014,3,Asian
+Asian SEA5_A1.1,Taiwan,2012,2013,3,Asian SEA5_A1
+Asian SEA5_A1.1.1,Taiwan,2010,2014,13,Asian SEA5_A1.1
+Asian SEA5_A1.2,Taiwan,2013,2013,16,Asian SEA5_A1
+Asian SEA5_A1.3,"Taiwan, Thailand, -",1985,2022,15,Asian SEA5_A1
+Asian_A1,Taiwan,2012,2013,5,Asian
+Asian_A1.1,"-, China, Indonesia, Thailand",1956,2022,67,Asian_A1
+Asian_A1.1.1,China,1994,2015,13,Asian_A1.1
+Bat,"Brazil, Peru",2000,2016,24,RABV
+Bat_A1,"United States, Brazil, Chile, Colombia, Peru, Canada, -, Uruguay",1981,2012,41,Bat
+Bat_B1,"United States, Argentina, Brazil, Chile",1997,2021,15,Bat
+Bat_B1.1,"Brazil, Guyana, United States, Mexico, French Guiana, -",1986,2013,26,Bat_B1
+Bat_C1,"Brazil, -, United States, Canada",2001,2017,34,Bat
+Bat_D1,"United States, Brazil, Canada, Peru",1984,2017,37,Bat
+Bats DR_A1,"Mexico, Ecuador, Peru, Brazil",2003,2012,15,Bat
+Bats DR_A1.1,"Brazil, Peru",2002,2023,296,Bats DR_A1
+Bats DR_A1.1.1,"Brazil, Peru, French Guiana",1997,2009,13,Bats DR_A1.1
+Bats DR_A1.1.10,"-, Ecuador, Colombia, Peru, French Guiana",1989,2016,58,Bats DR_A1.1
+Bats DR_A1.1.11,"Brazil, Argentina",1999,2016,29,Bats DR_A1.1
+Bats DR_A1.1.12,Brazil,2007,2021,17,Bats DR_A1.1
+Bats DR_A1.1.13,"Brazil, Peru, Argentina",2000,2013,54,Bats DR_A1.1
+Bats DR_A1.1.14,"Ecuador, Colombia, Peru",1999,2016,25,Bats DR_A1.1
+Bats DR_A1.1.2,"Brazil, Uruguay, Argentina",1991,2023,33,Bats DR_A1.1
+Bats DR_A1.1.3,Argentina,2000,2009,34,Bats DR_A1.1
+Bats DR_A1.1.4,"Brazil, Argentina",1999,2022,42,Bats DR_A1.1
+Bats DR_A1.1.5,Peru,1998,2015,5,Bats DR_A1.1
+Bats DR_A1.1.7,"Brazil, Peru",2002,2023,35,Bats DR_A1.1
+Bats DR_A1.1.8,Brazil,2009,2022,43,Bats DR_A1.1
+Bats DR_A1.1.9,Peru,1998,2014,46,Bats DR_A1.1
+Bats DR_A1.2,"Mexico, -, Guatemala",1988,2018,13,Bats DR_A1
+Bats DR_A1.2.1,"Mexico, Guatemala",2004,2018,15,Bats DR_A1.2
+Bats DR_A1.3,"Colombia, Peru, Brazil",1996,2009,5,Bats DR_A1
+Bats DR_A1.3.1,Peru,1998,2012,24,Bats DR_A1.3
+Bats DR_A1.4,"Colombia, Costa Rica",1996,2018,25,Bats DR_A1
+Bats DR_A1.5,"Mexico, Colombia, Costa Rica, Brazil, -",1997,2021,26,Bats DR_A1
+Bats DR_B1,Peru,1999,2013,27,Bat
+Bats DR_B1.1,Peru,1999,2012,46,Bats DR_B1
+Bats DR_C1,Brazil,2006,2023,15,Bats DR_A1.1.4
+Bats DR_D1,Brazil,2022,2022,5,Bats DR_A1.1.8
+Bats DR_E1,"Colombia, Peru",1994,2023,224,Bat
+Bats DR_E1.1,Peru,2001,2012,19,Bats DR_E1
+Bats DR_E1.1.1,Peru,2001,2011,32,Bats DR_E1.1
+Bats DR_E1.2,Peru,2004,2015,8,Bats DR_E1
+Bats DR_E1.2.1,Peru,1998,2023,112,Bats DR_E1.2
+Bats DR_F1,Peru,2012,2013,7,Bats DR_E1.2.1
+Bats DR_F1.1,Peru,2004,2023,13,Bats DR_F1
+Bats DR_H1,Brazil,2004,2009,20,Bat
+Bats DR_I1,"Brazil, Argentina",1994,2016,132,Bat
+Bats DR_K1,Brazil,2001,2014,23,Bats DR_A1.1.4
+Bats DR_M1,"Peru, French Guiana, Brazil",2007,2023,24,Bat
+Bats EF-E1_A1,"-, United States, Canada",1993,2021,15,Bat
+Bats EF-E2_A1,"-, United States, Canada",1989,2020,20,Bat_D1
+Bats EF-E2_A1.2,"-, United States, Canada",1994,2017,26,Bats EF-E2_A1
+Bats EF-W1_A1,United States,1985,2022,26,Bat_A1
+Bats EF-W1_A1.1,United States,1975,2023,35,Bats EF-W1_A1
+Bats EF-W1_A1.1.1,United States,2001,2021,8,Bats EF-W1_A1.1
+Bats EF-W1_A1.2,United States,1995,2022,28,Bats EF-W1_A1
+Bats EF-W1_B1,United States,1999,2001,10,Bats EF-W1_A1.1.1
+Bats EF-W2_A1,"Canada, United States",1988,2017,18,Bat
+Bats EF-W2_A1.1,United States,2002,2004,4,Bats EF-W2_A1
+Bats LB2_A1,"-, United States",1998,2017,17,Bat_C1
+Bats LC_A1,"Brazil, -, United States, Chile, Canada",1991,2019,35,Bat_A1
+Bats LN_A1,"-, Canada, United States, Colombia, Brazil",1990,2021,53,Bat
+Bats MYsp_A1,"-, Canada, United States",1991,2016,71,Bat
+Bats MYsp_A1.1,United States,2002,2013,8,Bats MYsp_A1
+Bats MYsp_A1.1.1,United States,2001,2001,2,Bats MYsp_A1.1
+Bats MYsp_A1.2,"-, Canada",1993,2013,10,Bats MYsp_A1
+Bats MYsp_A1.3,"Canada, United States",2002,2017,5,Bats MYsp_A1
+Bats MYsp_A1.3.1,Canada,1991,2014,11,Bats MYsp_A1.3
+Bats MYsp_B1,-,-,-,0,Bats MYsp_A1.1.1
+Bats MYsp_B1.1,"United States, Canada",1994,2015,16,Bats MYsp_B1
+Bats TB1_A1,Mexico,2007,2008,4,Bat
+Bats TB1_A1.1,"-, United States, Mexico",1999,2021,49,Bats TB1_A1
+Bats_A1,"Brazil, Uruguay, Chile, Colombia, Canada, Peru",2003,2021,23,Bat
+Cosmopolitan,-,-,-,0,RABV
+Cosmopolitan AF1a_A1,"Tunisia, Morocco, Algeria, Italy, -",1986,2018,127,Cosmopolitan_A1
+Cosmopolitan AF1a_A1.1,"Ethiopia, Algeria, Somalia, -, Kenya",1987,2022,143,Cosmopolitan AF1a_A1
+Cosmopolitan AF1a_A1.1.1,Kenya,2021,2022,6,Cosmopolitan AF1a_A1.1
+Cosmopolitan AF1a_A1.2,"Spain, Morocco, -",1985,2008,73,Cosmopolitan AF1a_A1
+Cosmopolitan AF1a_A1.2.1,"Spain, Tunisia, Algeria",1986,2008,22,Cosmopolitan AF1a_A1.2
+Cosmopolitan AF1a_B1,Algeria,2003,2008,15,Cosmopolitan AF1a_A1.2.1
+Cosmopolitan AF1a_C1,Kenya,2021,2022,8,Cosmopolitan AF1a_A1.1.1
+Cosmopolitan AF1a_C1.1,Kenya,2021,2022,14,Cosmopolitan AF1a_C1
+Cosmopolitan AF1b_A1,"Tanzania, Rwanda, Burundi, Uganda, Kenya",1990,2022,20,Cosmopolitan_A1.2
+Cosmopolitan AF1b_A1.1,"Tanzania, Uganda, -, Kenya",2009,2022,36,Cosmopolitan AF1b_A1
+Cosmopolitan AF1b_A1.1.1,Tanzania,2008,2018,12,Cosmopolitan AF1b_A1.1
+Cosmopolitan AF1b_A1.1.2,"Tanzania, Kenya",2003,2022,7,Cosmopolitan AF1b_A1.1
+Cosmopolitan AF1b_A1.1.3,Kenya,2021,2022,7,Cosmopolitan AF1b_A1.1
+Cosmopolitan AF1b_A2,"Central African Republic, Namibia, Democratic Republic of the Congo, Uganda, South Africa, -",1989,2018,158,Cosmopolitan_A1.2
+Cosmopolitan AF1b_B1,Tanzania,2004,2012,3,Cosmopolitan AF1b_A1.1.1
+Cosmopolitan AF1b_B1.1,Tanzania,2010,2018,10,Cosmopolitan AF1b_B1
+Cosmopolitan AF1b_B1.1.1,Tanzania,2010,2013,42,Cosmopolitan AF1b_B1.1
+Cosmopolitan AF1b_B1.2,Tanzania,2011,2017,34,Cosmopolitan AF1b_B1
+Cosmopolitan AF1b_B1.2.1,Tanzania,2016,2016,2,Cosmopolitan AF1b_B1.2
+Cosmopolitan AF1b_B1.3,Tanzania,2010,2013,21,Cosmopolitan AF1b_B1
+Cosmopolitan AF1b_C1,Tanzania,2007,2017,14,Cosmopolitan AF1b_A1.1.2
+Cosmopolitan AF1b_C1.1,"Tanzania, Italy",2007,2020,6,Cosmopolitan AF1b_C1
+Cosmopolitan AF1b_D1,Kenya,2021,2022,17,Cosmopolitan AF1b_A1.1.3
+Cosmopolitan AM1_A1,"Mexico, Puerto Rico, United States",1984,2009,18,Cosmopolitan_A1
+Cosmopolitan AM1_A1.1,United States,1998,2018,2,Cosmopolitan AM1_A1
+Cosmopolitan AM1_A1.1.1,"Canada, United States",2000,2017,9,Cosmopolitan AM1_A1.1
+Cosmopolitan AM1_B1,"-, Canada, United States",1992,2017,10,Cosmopolitan AM1_A1.1.1
+Cosmopolitan AM2a_A1,"Peru, Brazil, Cuba, Mexico, Colombia, Honduras, United States, Costa Rica, -, Guatemala",1990,2018,138,Cosmopolitan_A1.3
+Cosmopolitan AM3a_A1,Brazil,1985,2005,3,Cosmopolitan_A1.3.2
+Cosmopolitan AM3a_A1.1,Brazil,2005,2007,9,Cosmopolitan AM3a_A1
+Cosmopolitan AM3a_A1.1.1,Brazil,2006,2007,5,Cosmopolitan AM3a_A1.1
+Cosmopolitan AM3a_B1,Brazil,2007,2012,12,Cosmopolitan AM3a_A1.1.1
+Cosmopolitan AM3b_A1,Brazil,2002,2010,21,Cosmopolitan_A1.3
+Cosmopolitan AM3b_A1.2,"Brazil, Mexico, Argentina",1999,2010,62,Cosmopolitan AM3b_A1
+Cosmopolitan AM3b_A1.2.1,"Brazil, United States, Japan, Georgia, Mexico, Kazakhstan",1956,2023,23,Cosmopolitan AM3b_A1.2
+Cosmopolitan AM4_A1,United States,1965,1997,16,Cosmopolitan_A1.3
+Cosmopolitan CA1_A1,"Mongolia, Russia, Kazakhstan, China, Iran",1974,2023,79,Cosmopolitan_B1
+Cosmopolitan CA1_A1.1,"Russia, Mongolia, China",2002,2021,49,Cosmopolitan CA1_A1
+Cosmopolitan CA1_A1.1.1,"Mongolia, China",2005,2021,44,Cosmopolitan CA1_A1.1
+Cosmopolitan CA1_B1,"China, Russia",2011,2021,19,Cosmopolitan CA1_A1.1.1
+Cosmopolitan CA1_B1.1,"China, Russia",2013,2021,48,Cosmopolitan CA1_B1
+Cosmopolitan CA1_B1.2,China,2020,2024,4,Cosmopolitan CA1_B1
+Cosmopolitan CA1_C1,China,2020,2021,16,Cosmopolitan CA1_A1.1.1
+Cosmopolitan CA1_C1.1,Mongolia,2018,2018,1,Cosmopolitan CA1_C1
+Cosmopolitan CA2_A1,"Grenada, Georgia, Iran, Turkey, Russia, Iraq, -",1993,2020,92,Cosmopolitan_A1
+Cosmopolitan CA3_A1,"-, Romania, Russia",2004,2021,27,Cosmopolitan_B1
+Cosmopolitan CA3_A1.1,Russia,2012,2016,17,Cosmopolitan CA3_A1
+Cosmopolitan CA3_A1.2,Russia,2007,2007,1,Cosmopolitan CA3_A1
+Cosmopolitan CA3_A1.2.1,Russia,2009,2018,9,Cosmopolitan CA3_A1.2
+Cosmopolitan CA3_B1,Russia,2014,2015,7,Cosmopolitan CA3_A1.2.1
+Cosmopolitan CE_A1,"Germany, Poland, -, Czechia",1984,2021,38,Cosmopolitan_A1.1.1
+Cosmopolitan CE_A1.1,Poland,2022,2022,31,Cosmopolitan CE_A1
+Cosmopolitan EE_A1,"Hungary, Serbia, Poland, Slovenia, Bosnia and Herzegovina, France, -",1986,2010,19,Cosmopolitan_A1.1.1
+Cosmopolitan ME1a_A1,"Iran, -",1996,2018,22,Cosmopolitan_A1.1.2
+Cosmopolitan ME1a_A1.1,Iran,2005,2014,8,Cosmopolitan ME1a_A1
+Cosmopolitan ME1a_A1.1.1,Iran,1996,2014,12,Cosmopolitan ME1a_A1.1
+Cosmopolitan ME1a_A1.2,Iran,2009,2015,15,Cosmopolitan ME1a_A1
+Cosmopolitan ME2_A1,"Turkey, -",1993,2001,11,Cosmopolitan_A1.1
+Cosmopolitan ME2_A1.1,"Turkey, Iran",1989,2014,11,Cosmopolitan ME2_A1
+Cosmopolitan ME2_A1.1.1,Turkey,1999,2015,11,Cosmopolitan ME2_A1.1
+Cosmopolitan ME2_B1,Turkey,2006,2020,17,Cosmopolitan ME2_A1.1.1
+Cosmopolitan ME2_C1,"Russia, Georgia, Turkey, Israel, Montenegro, -, Kazakhstan",1978,2023,129,Cosmopolitan ME2_A1.1.1
+Cosmopolitan NEE_A1,"Russia, Poland, Estonia, Romania, Moldova",1991,2017,19,Cosmopolitan_A1.1.1
+Cosmopolitan NEE_A1.1,"Poland, Hungary",2010,2017,6,Cosmopolitan NEE_A1
+Cosmopolitan NEE_A1.1.1,Hungary,2013,2013,2,Cosmopolitan NEE_A1.1
+Cosmopolitan NEE_A1.2,"Russia, Estonia, Finland, Poland, -",1986,2018,12,Cosmopolitan NEE_A1
+Cosmopolitan NEE_A1.2.1,"Kenya, Serbia, Bosnia and Herzegovina, Montenegro, -",1977,2018,33,Cosmopolitan NEE_A1.2
+Cosmopolitan NEE_B1,Hungary,2013,2014,28,Cosmopolitan NEE_A1.1.1
+Cosmopolitan NEE_C1,"Hungary, Moldova, Romania, Poland",2012,2021,44,Cosmopolitan NEE_A1.1.1
+Cosmopolitan NEE_C1.1,Romania,2012,2016,3,Cosmopolitan NEE_C1
+Cosmopolitan NEE_C1.1.1,"Romania, Moldova, Slovakia, Poland, Hungary",2012,2022,37,Cosmopolitan NEE_C1.1
+Cosmopolitan NEE_D1,"Romania, Moldova",2014,2021,3,Cosmopolitan NEE_C1.1.1
+Cosmopolitan NEE_D1.1,"Moldova, Romania",2016,2022,9,Cosmopolitan NEE_D1
+Cosmopolitan NEE_E1,"Moldova, Romania",2021,2022,16,Cosmopolitan NEE_C1.1.1
+Cosmopolitan Vac_A1,-,-,-,0,Vac
+Cosmopolitan Vac_A1.1,-,-,-,0,Cosmopolitan Vac_A1
+Cosmopolitan Vac_A1.1.1,-,-,-,0,Cosmopolitan Vac_A1.1
+Cosmopolitan Vac_A1.2,-,-,-,0,Cosmopolitan Vac_A1
+Cosmopolitan WE_A1,"-, France, Belgium, Slovenia, Bosnia and Herzegovina, Germany, Serbia",1986,1999,18,Cosmopolitan_A1.1.1
+Cosmopolitan_A1,"Mexico, China, Russia, Grenada, Peru, Brazil, -, Japan, Nigeria, Gabon",1931,2020,59,Cosmopolitan
+Cosmopolitan_A1.1,"Madagascar, Montenegro, Serbia",1978,2004,3,Cosmopolitan_A1
+Cosmopolitan_A1.1.1,"Serbia, -, Italy, Bosnia and Herzegovina, Germany",1972,2009,18,Cosmopolitan_A1.1
+Cosmopolitan_A1.1.2,"Iran, Turkey, -, Israel",1976,2013,18,Cosmopolitan_A1.1
+Cosmopolitan_A1.2,"Tanzania, Zimbabwe, Central African Republic, -, Madagascar",1986,2017,10,Cosmopolitan_A1
+Cosmopolitan_A1.2.1,"Zambia, Tanzania, Zimbabwe, South Africa",1981,2017,16,Cosmopolitan_A1.2
+Cosmopolitan_A1.2.2,"China, France, India, Japan, Tanzania, Kenya, -",1976,2022,77,Cosmopolitan_A1.2
+Cosmopolitan_A1.3,"Mexico, Israel, Egypt, -, United States, Peru",1950,2017,26,Cosmopolitan_A1
+Cosmopolitan_A1.3.1,"-, China, United States, France, Ethiopia, India, Japan, Egypt, Mexico",1939,2019,54,Cosmopolitan_A1.3
+Cosmopolitan_A1.3.2,"-, Brazil, United States, Argentina, Paraguay",1986,2018,149,Cosmopolitan_A1.3
+Cosmopolitan_B1,"Russia, China, Hungary, -, Romania",1991,2017,19,Cosmopolitan_A1.1.1
+Cosmopolitan_B1.1,"Tajikistan, Azerbaijan, Georgia, Mongolia, Russia, Kazakhstan, Iran, China, -, Poland, Ukraine, Moldova",2001,2023,165,Cosmopolitan_B1
+Cosmopolitan_B1.1.1,"-, Equatorial Guinea, Gabon, Cameroon, Russia",1986,2012,21,Cosmopolitan_B1.1
+Cosmopolitan_C1,"Zimbabwe, South Africa, Mozambique",1986,2012,5,Cosmopolitan_A1.2.1
+Cosmopolitan_C1.1,"South Africa, Zimbabwe, -",1990,2017,37,Cosmopolitan_C1
+Cosmopolitan_D1,"Israel, Jordan, Saudi Arabia, Oman, United Arab Emirates, -, Qatar",1987,2018,26,Cosmopolitan_A1.1.2
+Cosmopolitan_E1,"Iran, -",1984,2014,15,Cosmopolitan_A1.1.2
+Cosmopolitan_F1,"Israel, Turkey",1993,2020,30,Cosmopolitan_A1.1.2
+Cosmopolitan_F1.1,"Israel, Jordan, Lebanon",1996,2004,16,Cosmopolitan_F1
+Cosmopolitan_F1.1.1,Israel,1996,1998,8,Cosmopolitan_F1.1
+Cosmopolitan_G1,"Tanzania, Kenya",2010,2022,29,Cosmopolitan_A1.2.2
+Cosmopolitan_H1,Israel,1996,2004,13,Cosmopolitan_F1.1.1
+Cosmopolitan_H1.4,"Israel, Tanzania",1995,2012,11,Cosmopolitan_H1
+Cosmopolitan_I1.1,"Brazil, Paraguay",1989,1991,2,Cosmopolitan_I1
+Indian-Sub,-,-,-,0,RABV
+Indian-Sub_A1,"Nepal, China",2003,2018,9,Indian-Sub
+Indian-Sub_A1.1,"India, -",1997,2021,16,Indian-Sub_A1
+Indian-Sub_B1,"Sri Lanka, United Kingdom, -",2001,2012,51,Indian-Sub
+Indian-Sub_B1.1,Sri Lanka,2003,2012,18,Indian-Sub_B1
+RAC-SK,-,-,-,0,RABV
+RAC-SK_A1,"United States, -, Canada",1968,2017,32,RAC-SK
+RAC-SK_A1.1,United States,2004,2011,6,RAC-SK_A1
+RAC-SK_A1.1.1,United States,2004,2011,5,RAC-SK_A1.1
+RAC-SK_A1.2,"United States, Canada",2004,2015,10,RAC-SK_A1
+RAC-SK_A1.3,United States,2009,2012,13,RAC-SK_A1
+RAC-SK_A1.3.1,United States,2009,2009,23,RAC-SK_A1.3
+RAC-SK_A2,Canada,2000,2003,10,RAC-SK
+RAC-SK_B1,United States,1990,2017,31,RAC-SK_A1.1.1
+RAC-SK_B1.1,"Mexico, United States",1991,2009,26,RAC-SK_B1
+RAC-SK_B1.1.1,United States,1984,2022,161,RAC-SK_B1.1
+RAC-SK_B1.1.2,United States,2003,2021,23,RAC-SK_B1.1
+RAC-SK_B1.2,United States,2003,2014,9,RAC-SK_B1
+RAC-SK_B1.2.1,United States,1994,2015,15,RAC-SK_B1.2
+RAC-SK_C1,United States,2004,2011,8,RAC-SK_B1.1.1
+RAC-SK_C1.1,United States,1990,2011,20,RAC-SK_C1
+RAC-SK_C1.1.1,"Canada, United States",1990,2018,75,RAC-SK_C1.1
+RAC-SK_C1.1.2,United States,2004,2004,6,RAC-SK_C1.1
+RAC-SK_C1.1.3,United States,1991,2009,10,RAC-SK_C1.1
+RAC-SK_D1,United States,1995,2010,4,RAC-SK_C1.1.1
+RAC-SK_D1.1,"United States, Canada",1995,2010,13,RAC-SK_D1
+RAC-SK_D1.1.1,United States,2006,2007,2,RAC-SK_D1.1
+RAC-SK_D1.1.2,United States,2005,2006,3,RAC-SK_D1.1
+RAC-SK_D1.1.3,United States,2005,2011,29,RAC-SK_D1.1
+RAC-SK_D1.2,United States,2003,2008,10,RAC-SK_D1
+RAC-SK_E1,United States,2010,2011,4,RAC-SK_C1.1.2
+RAC-SK_E1.1,United States,2003,2011,9,RAC-SK_E1
+RAC-SK_E1.1.1,United States,2003,2017,20,RAC-SK_E1.1
+RAC-SK_E1.2,United States,2003,2018,15,RAC-SK_E1
+RAC-SK_F1,United States,2013,2018,7,RAC-SK_B1.1.2
+RAC-SK_F1.1,United States,2013,2021,15,RAC-SK_F1
+RAC-SK_F1.1.1,United States,2013,2014,8,RAC-SK_F1.1
+RAC-SK_G1,"Canada, United States",2006,2010,24,RAC-SK_D1.1.1
+RAC-SK_G1.1,United States,2007,2011,13,RAC-SK_G1
+RAC-SK_G1.2,Canada,2007,2009,11,RAC-SK_G1
+RAC-SK_G1.3,"Canada, United States",2007,2009,36,RAC-SK_G1
+RAC-SK_H1,United States,2006,2017,17,RAC-SK_D1.1.1
+RAC-SK_I1,United States,2004,2018,8,RAC-SK_C1.1.1
+RAC-SK_I1.1,United States,2003,2019,11,RAC-SK_I1
+RAC-SK_J1,"Canada, United States",2014,2017,15,RAC-SK_F1.1.1
+RAC-SK_J1.1,Canada,2015,2015,10,RAC-SK_J1
+RAC-SK_K1,"United States, Canada",2000,2014,16,RAC-SK_B1.1.2
+RAC-SK_L1,United States,2003,2020,30,RAC-SK_C1.1.1
+RAC-SK_M1,United States,2007,2019,23,RAC-SK_B1.1.2
+RAC-SK_M1.1,United States,2018,2023,9,RAC-SK_M1
+RAC-SK_M1.1.1,United States,2017,2021,17,RAC-SK_M1.1
+RAC-SK_N1,United States,2006,2009,11,RAC-SK_D1.1.2
+RAC-SK_O1,United States,2003,2017,21,RAC-SK_D1.1.2
+RAC-SK_P1,United States,2010,2018,10,RAC-SK_C1.1.1
+RAC-SK_Q1,Canada,2016,2017,13,RAC-SK_C1.1.1
+RAC-SK_R1,Canada,2016,2017,10,RAC-SK_C1.1.1
+RAC-SK_S1,United States,2009,2009,18,RAC-SK_A1.3.1
+RAC-SK_T1,"-, United States",1982,2022,42,RAC-SK_B1.1.1
+RAC-SK_Z1,Canada,1999,2002,30,RAC-SK
+RAC-SK_Z1.1,"Canada, United States",1998,2005,14,RAC-SK_Z1
+Vac,-,-,-,0,RABV
+Vac_A1,Haiti,2018,2018,1,Vac
+Vac_A1.1,-,-,-,0,Vac_A1
+Vac_A1.2,Haiti,2018,2018,1,Vac_A1
+Vac_B1,-,-,-,0,Vac
+Vac_B1.1,-,-,-,0,Vac_B1
