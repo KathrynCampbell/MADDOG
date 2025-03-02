@@ -1,0 +1,1081 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+<meta charset="utf-8" />
+<meta name="generator" content="pandoc" />
+<meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
+
+
+
+
+<title>Lineage Dynamics</title>
+
+<script src="report_files/header-attrs-2.22/header-attrs.js"></script>
+<script src="report_files/jquery-3.6.0/jquery-3.6.0.min.js"></script>
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<link href="report_files/bootstrap-3.3.5/css/united.min.css" rel="stylesheet" />
+<script src="report_files/bootstrap-3.3.5/js/bootstrap.min.js"></script>
+<script src="report_files/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
+<script src="report_files/bootstrap-3.3.5/shim/respond.min.js"></script>
+<style>h1 {font-size: 34px;}
+       h1.title {font-size: 38px;}
+       h2 {font-size: 30px;}
+       h3 {font-size: 24px;}
+       h4 {font-size: 18px;}
+       h5 {font-size: 16px;}
+       h6 {font-size: 12px;}
+       code {color: inherit; background-color: rgba(0, 0, 0, 0.04);}
+       pre:not([class]) { background-color: white }</style>
+<script src="report_files/jqueryui-1.13.2/jquery-ui.min.js"></script>
+<link href="report_files/tocify-1.9.1/jquery.tocify.css" rel="stylesheet" />
+<script src="report_files/tocify-1.9.1/jquery.tocify.js"></script>
+<script src="report_files/navigation-1.1/tabsets.js"></script>
+<link href="report_files/pagedtable-1.1/css/pagedtable.css" rel="stylesheet" />
+<script src="report_files/pagedtable-1.1/js/pagedtable.js"></script>
+<script src="report_files/htmlwidgets-1.6.2/htmlwidgets.js"></script>
+<script src="report_files/plotly-binding-4.10.2/plotly.js"></script>
+<script src="report_files/typedarray-0.1/typedarray.min.js"></script>
+<link href="report_files/crosstalk-1.2.0/css/crosstalk.min.css" rel="stylesheet" />
+<script src="report_files/crosstalk-1.2.0/js/crosstalk.min.js"></script>
+<link href="report_files/plotly-htmlwidgets-css-2.11.1/plotly-htmlwidgets.css" rel="stylesheet" />
+<script src="report_files/plotly-main-2.11.1/plotly-latest.min.js"></script>
+
+<style type="text/css">
+  code{white-space: pre-wrap;}
+  span.smallcaps{font-variant: small-caps;}
+  span.underline{text-decoration: underline;}
+  div.column{display: inline-block; vertical-align: top; width: 50%;}
+  div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+  ul.task-list{list-style: none;}
+    </style>
+
+
+
+
+
+
+
+
+
+
+<style type = "text/css">
+.main-container {
+  max-width: 940px;
+  margin-left: auto;
+  margin-right: auto;
+}
+img {
+  max-width:100%;
+}
+.tabbed-pane {
+  padding-top: 12px;
+}
+.html-widget {
+  margin-bottom: 20px;
+}
+button.code-folding-btn:focus {
+  outline: none;
+}
+summary {
+  display: list-item;
+}
+details > summary > p:only-child {
+  display: inline;
+}
+pre code {
+  padding: 0;
+}
+</style>
+
+
+
+<!-- tabsets -->
+
+<style type="text/css">
+.tabset-dropdown > .nav-tabs {
+  display: inline-table;
+  max-height: 500px;
+  min-height: 44px;
+  overflow-y: auto;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+
+.tabset-dropdown > .nav-tabs > li.active:before, .tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "\e259";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
+  content: "\e258";
+  font-family: 'Glyphicons Halflings';
+  border: none;
+}
+
+.tabset-dropdown > .nav-tabs > li.active {
+  display: block;
+}
+
+.tabset-dropdown > .nav-tabs > li > a,
+.tabset-dropdown > .nav-tabs > li > a:focus,
+.tabset-dropdown > .nav-tabs > li > a:hover {
+  border: none;
+  display: inline-block;
+  border-radius: 4px;
+  background-color: transparent;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li {
+  display: block;
+  float: none;
+}
+
+.tabset-dropdown > .nav-tabs > li {
+  display: none;
+}
+</style>
+
+<!-- code folding -->
+
+
+
+<style type="text/css">
+
+#TOC {
+  margin: 25px 0px 20px 0px;
+}
+@media (max-width: 768px) {
+#TOC {
+  position: relative;
+  width: 100%;
+}
+}
+
+@media print {
+.toc-content {
+  /* see https://github.com/w3c/csswg-drafts/issues/4434 */
+  float: right;
+}
+}
+
+.toc-content {
+  padding-left: 30px;
+  padding-right: 40px;
+}
+
+div.main-container {
+  max-width: 1200px;
+}
+
+div.tocify {
+  width: 20%;
+  max-width: 260px;
+  max-height: 85%;
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+  div.tocify {
+    width: 25%;
+  }
+}
+
+@media (max-width: 767px) {
+  div.tocify {
+    width: 100%;
+    max-width: none;
+  }
+}
+
+.tocify ul, .tocify li {
+  line-height: 20px;
+}
+
+.tocify-subheader .tocify-item {
+  font-size: 0.90em;
+}
+
+.tocify .list-group-item {
+  border-radius: 0px;
+}
+
+
+</style>
+
+
+
+</head>
+
+<body>
+
+
+<div class="container-fluid main-container">
+
+
+<!-- setup 3col/9col grid for toc_float and main content  -->
+<div class="row">
+<div class="col-xs-12 col-sm-4 col-md-3">
+<div id="TOC" class="tocify">
+</div>
+</div>
+
+<div class="toc-content col-xs-12 col-sm-8 col-md-9">
+
+
+
+
+<div id="header">
+
+
+
+<h1 class="title toc-ignore">Lineage Dynamics</h1>
+
+</div>
+
+
+<style type="text/css">
+h1, h2{
+  text-align: center;
+  font-family: Helvetica;
+  font-weight: bold;
+}
+
+body{
+  margin-top: 75px;
+  font-family: Helvetica;
+  font-weight: lighter;
+  font-size: 14pt;
+}
+
+</style>
+<p><span class="math inline">\(~\)</span></p>
+<div id="study-overview" class="section level2">
+<h2>Study Overview</h2>
+<p><span class="math inline">\(~\)</span> <span
+class="math inline">\(~\)</span></p>
+<p>This study contains 82 sequences from between 1991 and 2022.This
+sequence data came from 3 different countries.</p>
+<table>
+<thead>
+<tr class="header">
+<th align="left">Country</th>
+<th align="right">Number of Sequences</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td align="left">Argentina</td>
+<td align="right">48</td>
+</tr>
+<tr class="even">
+<td align="left">Paraguay</td>
+<td align="right">2</td>
+</tr>
+<tr class="odd">
+<td align="left">Peru</td>
+<td align="right">32</td>
+</tr>
+</tbody>
+</table>
+<p><strong><strong>Table 1.</strong> Numbers of sequences by area.
+</strong></p>
+<p><span class="math inline">\(~\)</span> <span
+class="math inline">\(~\)</span></p>
+<div style="page-break-after: always;"></div>
+</div>
+<div id="lineages-overview" class="section level2">
+<h2>Lineages Overview</h2>
+<p><span class="math inline">\(~\)</span> <span
+class="math inline">\(~\)</span></p>
+<p>Several well-defined RABV clades circulate globally, within two major
+phylogenetic groups; bat-related and dog-related. The dog-related group
+is split into 6 different clades according to Troupin et al. (2016).
+These clades are: Africa 2, Africa 3, Cosmopolitan, Arctic, Asian and
+Indian. The majority of Nigerian sequences fall within the Africa 2
+clade.</p>
+<p><img src="troupin.png" alt="Clades" /> <strong><strong>Figure
+1.</strong> Global rabies clades. </strong> Phylogeny of all global
+rabies clades as defined by Troupin et al. (2016). <em>taken from <a
+href="https://doi.org/10.1371/journal.ppat.1006041"
+class="uri">https://doi.org/10.1371/journal.ppat.1006041</a></em></p>
+<p><span class="math inline">\(~\)</span></p>
+<p>The MAD DOG (Method for Assignment, Definition and Designation Of
+Global lineages) tool is an updated lineage designation and assignment
+tool for rabies virus based on the dynamic nomenclature used for
+SARS-CoV-2 by Rambaut et al. (2020). This tool defines sequences beyond
+the clade and subclade level, allowing increased definition. Application
+of this tool can be used to generate detailed information to inform
+control efforts and monitor progress towards the elimination of rabies
+virus.</p>
+<p><span class="math inline">\(~\)</span></p>
+<p>Details of the tool can be found at <a
+href="https://doi.org/10.5281/zenodo.5503916"
+class="uri">https://doi.org/10.5281/zenodo.5503916</a></p>
+<p><span class="math inline">\(~\)</span></p>
+<p>For more information see: <a
+href="https://doi.org/10.1101/2021.10.13.464180"
+class="uri">https://doi.org/10.1101/2021.10.13.464180</a></p>
+<p><span class="math inline">\(~\)</span> <span
+class="math inline">\(~\)</span> A total of 8 lineages have been
+detected in this study. 8 lineages are included here that have not been
+seen in this study, but are direct parents of lineages in this study, so
+are included for relevant evolutionary investigations.There are 13
+existing lineages relevant to this study.</p>
+<table>
+<colgroup>
+<col width="13%" />
+<col width="59%" />
+<col width="6%" />
+<col width="5%" />
+<col width="3%" />
+<col width="11%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th align="left">lineage</th>
+<th align="left">country</th>
+<th align="left">year_first</th>
+<th align="left">year_last</th>
+<th align="right">n_seqs</th>
+<th align="left">parent</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td align="left">Cosmopolitan AM3a_A1</td>
+<td align="left">Brazil</td>
+<td align="left">1985</td>
+<td align="left">2005</td>
+<td align="right">1</td>
+<td align="left">Cosmopolitan_A1.3.2</td>
+</tr>
+<tr class="even">
+<td align="left">Cosmopolitan AM3b_A1.2</td>
+<td align="left">Brazil, Mexico, Argentina</td>
+<td align="left">1999</td>
+<td align="left">2010</td>
+<td align="right">30</td>
+<td align="left">Cosmopolitan AM3b_A1</td>
+</tr>
+<tr class="odd">
+<td align="left">Cosmopolitan_A1</td>
+<td align="left">Mexico, China, Russia, Grenada, Peru, Brazil, -, Japan,
+Nigeria, Gabon</td>
+<td align="left">1931</td>
+<td align="left">2020</td>
+<td align="right">0</td>
+<td align="left">Cosmopolitan</td>
+</tr>
+<tr class="even">
+<td align="left">Cosmopolitan_A1.3.1</td>
+<td align="left">-, China, United States, France, Ethiopia, India,
+Japan, Egypt, Mexico</td>
+<td align="left">1939</td>
+<td align="left">2019</td>
+<td align="right">1</td>
+<td align="left">Cosmopolitan_A1.3</td>
+</tr>
+<tr class="odd">
+<td align="left">Cosmopolitan_A1.3.2</td>
+<td align="left">-, Brazil, United States, Argentina, Paraguay</td>
+<td align="left">1986</td>
+<td align="left">2018</td>
+<td align="right">24</td>
+<td align="left">Cosmopolitan_A1.3</td>
+</tr>
+<tr class="even">
+<td align="left">Cosmopolitan_B1.1.1</td>
+<td align="left">-, Equatorial Guinea, Gabon, Cameroon, Russia</td>
+<td align="left">1986</td>
+<td align="left">2012</td>
+<td align="right">1</td>
+<td align="left">Cosmopolitan_B1.1</td>
+</tr>
+<tr class="odd">
+<td align="left">Cosmopolitan</td>
+<td align="left">-</td>
+<td align="left">-</td>
+<td align="left">-</td>
+<td align="right">0</td>
+<td align="left">RABV</td>
+</tr>
+<tr class="even">
+<td align="left">Cosmopolitan AM3b_A1</td>
+<td align="left">Brazil</td>
+<td align="left">2002</td>
+<td align="left">2010</td>
+<td align="right">0</td>
+<td align="left">Cosmopolitan_A1.3</td>
+</tr>
+<tr class="odd">
+<td align="left">Cosmopolitan_A1.3</td>
+<td align="left">Mexico, Israel, Egypt, -, United States, Peru</td>
+<td align="left">1950</td>
+<td align="left">2017</td>
+<td align="right">0</td>
+<td align="left">Cosmopolitan_A1</td>
+</tr>
+<tr class="even">
+<td align="left">Cosmopolitan_B1.1</td>
+<td align="left">Tajikistan, Azerbaijan, Georgia, Mongolia, Russia,
+Kazakhstan, Iran, China, -, Poland, Ukraine, Moldova</td>
+<td align="left">2001</td>
+<td align="left">2023</td>
+<td align="right">0</td>
+<td align="left">Cosmopolitan_B1</td>
+</tr>
+<tr class="odd">
+<td align="left">Cosmopolitan_B1</td>
+<td align="left">Russia, China, Hungary, -, Romania</td>
+<td align="left">1991</td>
+<td align="left">2017</td>
+<td align="right">0</td>
+<td align="left">Cosmopolitan_A1.1.1</td>
+</tr>
+<tr class="even">
+<td align="left">Cosmopolitan_A1.1.1</td>
+<td align="left">Serbia, -, Italy, Bosnia and Herzegovina, Germany</td>
+<td align="left">1972</td>
+<td align="left">2009</td>
+<td align="right">0</td>
+<td align="left">Cosmopolitan_A1.1</td>
+</tr>
+<tr class="odd">
+<td align="left">Cosmopolitan_A1.1</td>
+<td align="left">Madagascar, Montenegro, Serbia</td>
+<td align="left">1978</td>
+<td align="left">2004</td>
+<td align="right">0</td>
+<td align="left">Cosmopolitan_A1</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Table 2.</strong> Details of lineages relevant to this study.
+First and last years refer to the first and most recent years the
+lineage has been detected prior to this study.</p>
+<p>There are 3 new lineages identified in this dataset.</p>
+<table style="width:100%;">
+<colgroup>
+<col width="23%" />
+<col width="13%" />
+<col width="14%" />
+<col width="13%" />
+<col width="9%" />
+<col width="26%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th align="left">lineage</th>
+<th align="left">country</th>
+<th align="right">year_first</th>
+<th align="right">year_last</th>
+<th align="right">n_seqs</th>
+<th align="left">parent</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td align="left">Cosmopolitan_J1</td>
+<td align="left">Argentina</td>
+<td align="right">2004</td>
+<td align="right">2017</td>
+<td align="right">12</td>
+<td align="left">Cosmopolitan_A1.3.2</td>
+</tr>
+<tr class="even">
+<td align="left">Cosmopolitan_I1.2</td>
+<td align="left">Peru</td>
+<td align="right">2021</td>
+<td align="right">2021</td>
+<td align="right">10</td>
+<td align="left">Cosmopolitan_I1</td>
+</tr>
+<tr class="odd">
+<td align="left">Cosmopolitan_I1</td>
+<td align="left">Peru</td>
+<td align="right">2010</td>
+<td align="right">2019</td>
+<td align="right">3</td>
+<td align="left">Cosmopolitan_A1.3.1</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Table 3.</strong> Details of new lineages identified in this
+study. First and last years refer to the first and most recent years the
+lineage has been detected.</p>
+<div class="plotly html-widget html-fill-item-overflow-hidden html-fill-item" id="htmlwidget-2c1e49cbc8a588e81b20" style="width:672px;height:480px;"></div>
+<script type="application/json" data-for="htmlwidget-2c1e49cbc8a588e81b20">{"x":{"visdat":{"e910481a1d81":["function () ","plotlyVisDat"]},"cur_data":"e910481a1d81","attrs":{"e910481a1d81":{"labels":["Cosmopolitan_J1","Cosmopolitan_I1.2","Cosmopolitan_I1","Cosmopolitan AM3a_A1","Cosmopolitan AM3b_A1.2","Cosmopolitan_A1","Cosmopolitan_A1.3.1","Cosmopolitan_A1.3.2","Cosmopolitan_B1.1.1","Cosmopolitan","Cosmopolitan AM3b_A1","Cosmopolitan_A1.3","Cosmopolitan_B1.1","Cosmopolitan_B1","Cosmopolitan_A1.1.1","Cosmopolitan_A1.1"],"parents":["Cosmopolitan_A1.3.2","Cosmopolitan_I1","Cosmopolitan_A1.3.1","Cosmopolitan_A1.3.2","Cosmopolitan AM3b_A1","Cosmopolitan","Cosmopolitan_A1.3","Cosmopolitan_A1.3","Cosmopolitan_B1.1","RABV","Cosmopolitan_A1.3","Cosmopolitan_A1","Cosmopolitan_B1","Cosmopolitan_A1.1.1","Cosmopolitan_A1.1","Cosmopolitan_A1"],"values":[12,10,3,1,30,0,1,24,1,0,0,0,0,0,0,0],"marker":{"colors":["#DE2D26","#E23A30","#E6473A","#EFEDF5","#D95F0E","#F27058","#F67D62","#FA8B6C","#FC9778","#FCA185","#FFF7BC","#FCB69E","#FDC0AB","#FDCBB8","#FDD5C5","#FEE0D2"]},"alpha_stroke":1,"sizes":[10,100],"spans":[1,20],"type":"sunburst"}},"layout":{"margin":{"b":40,"l":60,"t":25,"r":10},"hovermode":"closest","showlegend":false},"source":"A","config":{"modeBarButtonsToAdd":["hoverclosest","hovercompare"],"showSendToCloud":false},"data":[{"labels":["Cosmopolitan_J1","Cosmopolitan_I1.2","Cosmopolitan_I1","Cosmopolitan AM3a_A1","Cosmopolitan AM3b_A1.2","Cosmopolitan_A1","Cosmopolitan_A1.3.1","Cosmopolitan_A1.3.2","Cosmopolitan_B1.1.1","Cosmopolitan","Cosmopolitan AM3b_A1","Cosmopolitan_A1.3","Cosmopolitan_B1.1","Cosmopolitan_B1","Cosmopolitan_A1.1.1","Cosmopolitan_A1.1"],"parents":["Cosmopolitan_A1.3.2","Cosmopolitan_I1","Cosmopolitan_A1.3.1","Cosmopolitan_A1.3.2","Cosmopolitan AM3b_A1","Cosmopolitan","Cosmopolitan_A1.3","Cosmopolitan_A1.3","Cosmopolitan_B1.1","RABV","Cosmopolitan_A1.3","Cosmopolitan_A1","Cosmopolitan_B1","Cosmopolitan_A1.1.1","Cosmopolitan_A1.1","Cosmopolitan_A1"],"values":[12,10,3,1,30,0,1,24,1,0,0,0,0,0,0,0],"marker":{"color":"rgba(31,119,180,1)","colors":["#DE2D26","#E23A30","#E6473A","#EFEDF5","#D95F0E","#F27058","#F67D62","#FA8B6C","#FC9778","#FCA185","#FFF7BC","#FCB69E","#FDC0AB","#FDCBB8","#FDD5C5","#FEE0D2"],"line":{"color":"rgba(255,255,255,1)"}},"type":"sunburst","frame":null}],"highlight":{"on":"plotly_click","persistent":false,"dynamic":false,"selectize":false,"opacityDim":0.20000000000000001,"selected":{"opacity":1},"debounce":0},"shinyEvents":["plotly_hover","plotly_click","plotly_selected","plotly_relayout","plotly_brushed","plotly_brushing","plotly_clickannotation","plotly_doubleclick","plotly_deselect","plotly_afterplot","plotly_sunburstclick"],"base_url":"https://plot.ly"},"evals":[],"jsHooks":[]}</script>
+<p><strong>Figure 2.</strong> Sunburst plot showing hierarchal
+relationships of lineages. Bar length corresponds to number of
+sequences. Plot is interactive. Hover over bars to see details, and
+click to zoom in on sections. </p>
+</div>
+<div id="lineage-changes-over-time" class="section level2">
+<h2>Lineage Changes Over Time</h2>
+<p>The sequences span 31 years from 1991 to 2022. The year with the
+greatest number of sequences is 2021 with 18 sequences.The most
+prevalent lineage is Cosmopolitan AM3b_A1.2 with 30 sequences.</p>
+<p><img src="report_files/figure-html/years_graph-1.png" /><!-- -->
+<span class="math inline">\(~\)</span></p>
+<p><strong>Figure 4.</strong> <em>Above:</em> Number of sequences per
+year, with bars split by lineage. <em>Below:</em> Pie chart indicating
+proportions of lineages.</p>
+</div>
+<div id="areas-to-investigate" class="section level2">
+<h2>Areas to Investigate</h2>
+<p>There are 1 potentially emerging or undersampled lineages within the
+lineages relevant to this study. This means that these lineages have
+between 5 and 9 sequences; not enough to be a full lineage, but are
+significantly diverse from their relatives. With more sequencing and
+more time, these are likely to become new lineages. Be aware these
+include ALL emerging or undersampled lineages within the relevant
+lineages in your dataset; not just your data. This is to show there may
+be gaps in the data.</p>
+<table>
+<thead>
+<tr class="header">
+<th align="left">lineage</th>
+<th align="right">tips</th>
+<th align="right">distance</th>
+<th align="left">country</th>
+<th align="right">year_first</th>
+<th align="right">year_last</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td align="left">Cosmopolitan_I1.2_E1</td>
+<td align="right">5</td>
+<td align="right">0.1225448</td>
+<td align="left">Peru</td>
+<td align="right">2021</td>
+<td align="right">2021</td>
+</tr>
+</tbody>
+</table>
+<p><span class="math inline">\(~\)</span> <strong>Table 5.</strong>
+Details of potentially emerging or undersampled lineages relevant to
+this study. First and last years refer to the first and most recent
+years the lineage has been detected.</p>
+<p>There are 34 singletons of interest detected. These reflect highly
+divergent sequences that could indicate sequencing errors, or the start
+of new lineages, especially in undersampled areas. Be aware these
+include ALL singletons of interest within the relevant lineages in your
+dataset; not just your data. This is to show there may be general gaps
+in the data.</p>
+<table>
+<colgroup>
+<col width="26%" />
+<col width="13%" />
+<col width="31%" />
+<col width="27%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th align="left">lineage</th>
+<th align="right">n_singletons</th>
+<th align="left">singleton_countries</th>
+<th align="left">singleton_years</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td align="left">Cosmopolitan AF1a_A1.1.1</td>
+<td align="right">1</td>
+<td align="left">Kenya</td>
+<td align="left">2022</td>
+</tr>
+<tr class="even">
+<td align="left">Cosmopolitan AF1a_A1.2</td>
+<td align="right">1</td>
+<td align="left">-</td>
+<td align="left">1986</td>
+</tr>
+<tr class="odd">
+<td align="left">Cosmopolitan AF1a_A1.2.1</td>
+<td align="right">1</td>
+<td align="left">Algeria</td>
+<td align="left">2002</td>
+</tr>
+<tr class="even">
+<td align="left">Cosmopolitan AM1_A1</td>
+<td align="right">2</td>
+<td align="left">c(“Mexico”, “Puerto Rico”)</td>
+<td align="left">c(“2007”, “2006”)</td>
+</tr>
+<tr class="odd">
+<td align="left">Cosmopolitan AM1_A1.1</td>
+<td align="right">2</td>
+<td align="left">United States</td>
+<td align="left">c(“1998”, “2018”)</td>
+</tr>
+<tr class="even">
+<td align="left">Cosmopolitan AM1_A1.1.1</td>
+<td align="right">3</td>
+<td align="left">c(“Canada”, “United States”)</td>
+<td align="left">c(“2004”, “2000”, “2017”)</td>
+</tr>
+<tr class="odd">
+<td align="left">Cosmopolitan AM1_B1</td>
+<td align="right">1</td>
+<td align="left">Canada</td>
+<td align="left">2000</td>
+</tr>
+<tr class="even">
+<td align="left">Cosmopolitan AM3b_A1</td>
+<td align="right">1</td>
+<td align="left">Brazil</td>
+<td align="left">2005</td>
+</tr>
+<tr class="odd">
+<td align="left">Cosmopolitan AM3b_A1.2</td>
+<td align="right">1</td>
+<td align="left">Brazil</td>
+<td align="left">2005</td>
+</tr>
+<tr class="even">
+<td align="left">Cosmopolitan AM3b_A1.2.1</td>
+<td align="right">1</td>
+<td align="left">Brazil</td>
+<td align="left">2006</td>
+</tr>
+<tr class="odd">
+<td align="left">Cosmopolitan AM4_A1</td>
+<td align="right">1</td>
+<td align="left">United States</td>
+<td align="left">1965</td>
+</tr>
+<tr class="even">
+<td align="left">Cosmopolitan CA1_A1</td>
+<td align="right">1</td>
+<td align="left">Russia</td>
+<td align="left">2004</td>
+</tr>
+<tr class="odd">
+<td align="left">Cosmopolitan CA2_A1</td>
+<td align="right">1</td>
+<td align="left">Iran</td>
+<td align="left">2015</td>
+</tr>
+<tr class="even">
+<td align="left">Cosmopolitan CE_A1</td>
+<td align="right">2</td>
+<td align="left">-</td>
+<td align="left">c(“1984”, “1996”)</td>
+</tr>
+<tr class="odd">
+<td align="left">Cosmopolitan ME1a_A1</td>
+<td align="right">1</td>
+<td align="left">Iran</td>
+<td align="left">2014</td>
+</tr>
+<tr class="even">
+<td align="left">Cosmopolitan ME2_B1</td>
+<td align="right">1</td>
+<td align="left">Turkey</td>
+<td align="left">2020</td>
+</tr>
+<tr class="odd">
+<td align="left">Cosmopolitan NEE_C1</td>
+<td align="right">1</td>
+<td align="left">Romania</td>
+<td align="left">2013</td>
+</tr>
+<tr class="even">
+<td align="left">Cosmopolitan WE_A1</td>
+<td align="right">1</td>
+<td align="left">-</td>
+<td align="left">1998</td>
+</tr>
+<tr class="odd">
+<td align="left">Cosmopolitan_A1.1.2</td>
+<td align="right">1</td>
+<td align="left">Iran</td>
+<td align="left">2000</td>
+</tr>
+<tr class="even">
+<td align="left">Cosmopolitan_A1.2.2</td>
+<td align="right">3</td>
+<td align="left">c(“China”, “Japan”)</td>
+<td align="left">c(“2005”, “2001”, “2006”)</td>
+</tr>
+<tr class="odd">
+<td align="left">Cosmopolitan_A1.3.1</td>
+<td align="right">3</td>
+<td align="left">c(“United States”, “India”)</td>
+<td align="left">c(“1954”, “2005”, “1949”)</td>
+</tr>
+<tr class="even">
+<td align="left">Cosmopolitan_B1.1</td>
+<td align="right">2</td>
+<td align="left">c(“China”, “Tajikistan”)</td>
+<td align="left">c(“2017”, “2012”)</td>
+</tr>
+<tr class="odd">
+<td align="left">Cosmopolitan_C1</td>
+<td align="right">1</td>
+<td align="left">South Africa</td>
+<td align="left">2012</td>
+</tr>
+<tr class="even">
+<td align="left">Cosmopolitan_G1</td>
+<td align="right">1</td>
+<td align="left">Tanzania</td>
+<td align="left">2011</td>
+</tr>
+</tbody>
+</table>
+<p><span class="math inline">\(~\)</span> <strong>Table 6.</strong>
+Summary of singletons of interest relevant to this study.</p>
+<table>
+<colgroup>
+<col width="12%" />
+<col width="24%" />
+<col width="35%" />
+<col width="7%" />
+<col width="20%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th align="left">ID</th>
+<th align="left">closest relative</th>
+<th align="left">lineage</th>
+<th align="right">year</th>
+<th align="left">country</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td align="left">GU798109</td>
+<td align="left">GU798108</td>
+<td align="left">Cosmopolitan AF1a_A1.2.1</td>
+<td align="right">2002</td>
+<td align="left">Algeria</td>
+</tr>
+<tr class="even">
+<td align="left">U22631</td>
+<td align="left">U22630</td>
+<td align="left">Cosmopolitan AF1a_A1.2</td>
+<td align="right">1986</td>
+<td align="left">-</td>
+</tr>
+<tr class="odd">
+<td align="left">KT336436</td>
+<td align="left">KT336437</td>
+<td align="left">Cosmopolitan_C1</td>
+<td align="right">2012</td>
+<td align="left">South Africa</td>
+</tr>
+<tr class="even">
+<td align="left">KR906769</td>
+<td align="left">KR906768</td>
+<td align="left">Cosmopolitan_G1</td>
+<td align="right">2011</td>
+<td align="left">Tanzania</td>
+</tr>
+<tr class="odd">
+<td align="left">FJ228539</td>
+<td align="left">FJ228543</td>
+<td align="left">Cosmopolitan_A1.3.1</td>
+<td align="right">1954</td>
+<td align="left">United States</td>
+</tr>
+<tr class="even">
+<td align="left">KU963489</td>
+<td align="left">KU963490</td>
+<td align="left">Cosmopolitan_A1.2.2</td>
+<td align="right">2005</td>
+<td align="left">China</td>
+</tr>
+<tr class="odd">
+<td align="left">KU963506</td>
+<td align="left">KX708499</td>
+<td align="left">Cosmopolitan_A1.2.2</td>
+<td align="right">2001</td>
+<td align="left">Japan</td>
+</tr>
+<tr class="even">
+<td align="left">DQ666322</td>
+<td align="left">DQ149104</td>
+<td align="left">Cosmopolitan_A1.2.2</td>
+<td align="right">2006</td>
+<td align="left">China</td>
+</tr>
+<tr class="odd">
+<td align="left">DQ286762</td>
+<td align="left">FJ561729</td>
+<td align="left">Cosmopolitan_A1.3.1</td>
+<td align="right">2005</td>
+<td align="left">India</td>
+</tr>
+<tr class="even">
+<td align="left">LC717420</td>
+<td align="left">LC717419</td>
+<td align="left">Cosmopolitan_A1.3.1</td>
+<td align="right">1949</td>
+<td align="left">United States</td>
+</tr>
+<tr class="odd">
+<td align="left">LC717421</td>
+<td align="left">KR781605</td>
+<td align="left">Cosmopolitan AM4_A1</td>
+<td align="right">1965</td>
+<td align="left">United States</td>
+</tr>
+<tr class="even">
+<td align="left">FJ228494</td>
+<td align="left">FJ228495</td>
+<td align="left">Cosmopolitan AM1_A1</td>
+<td align="right">2007</td>
+<td align="left">Mexico</td>
+</tr>
+<tr class="odd">
+<td align="left">AB206411</td>
+<td align="left">AB839169</td>
+<td align="left">Cosmopolitan AM3b_A1.2</td>
+<td align="right">2005</td>
+<td align="left">Brazil</td>
+</tr>
+<tr class="even">
+<td align="left">EF152234</td>
+<td align="left">DQ875051</td>
+<td align="left">Cosmopolitan AM3b_A1.2.1</td>
+<td align="right">2006</td>
+<td align="left">Brazil</td>
+</tr>
+<tr class="odd">
+<td align="left">DQ149104</td>
+<td align="left">DQ666322</td>
+<td align="left">Cosmopolitan AM3b_A1</td>
+<td align="right">2005</td>
+<td align="left">Brazil</td>
+</tr>
+<tr class="even">
+<td align="left">FJ228500</td>
+<td align="left">FJ228501</td>
+<td align="left">Cosmopolitan AM3b_A1.2.2</td>
+<td align="right">2005</td>
+<td align="left">Peru</td>
+</tr>
+<tr class="odd">
+<td align="left">AF461045</td>
+<td align="left">AF344306</td>
+<td align="left">Cosmopolitan AM1_A1.1</td>
+<td align="right">1998</td>
+<td align="left">United States</td>
+</tr>
+<tr class="even">
+<td align="left">MW055128</td>
+<td align="left">JQ037819</td>
+<td align="left">Cosmopolitan AM1_A1.1</td>
+<td align="right">2018</td>
+<td align="left">United States</td>
+</tr>
+<tr class="odd">
+<td align="left">JQ513560</td>
+<td align="left">JX855994</td>
+<td align="left">Cosmopolitan AM1_B1</td>
+<td align="right">2000</td>
+<td align="left">Canada</td>
+</tr>
+<tr class="even">
+<td align="left">JQ513554</td>
+<td align="left">AF461045</td>
+<td align="left">Cosmopolitan AM1_A1.1.1</td>
+<td align="right">2004</td>
+<td align="left">Canada</td>
+</tr>
+<tr class="odd">
+<td align="left">JQ513559</td>
+<td align="left">JQ513560</td>
+<td align="left">Cosmopolitan AM1_A1.1.1</td>
+<td align="right">2000</td>
+<td align="left">Canada</td>
+</tr>
+<tr class="even">
+<td align="left">MW055127</td>
+<td align="left">MW055128</td>
+<td align="left">Cosmopolitan AM1_A1.1.1</td>
+<td align="right">2017</td>
+<td align="left">United States</td>
+</tr>
+<tr class="odd">
+<td align="left">KU963502</td>
+<td align="left">KU963506</td>
+<td align="left">Cosmopolitan AM1_A1</td>
+<td align="right">2006</td>
+<td align="left">Puerto Rico</td>
+</tr>
+<tr class="even">
+<td align="left">MN642580</td>
+<td align="left">AY352497</td>
+<td align="left">Cosmopolitan_B1.1</td>
+<td align="right">2017</td>
+<td align="left">China</td>
+</tr>
+<tr class="odd">
+<td align="left">AY352461</td>
+<td align="left">AY352456</td>
+<td align="left">Cosmopolitan CA1_A1</td>
+<td align="right">2004</td>
+<td align="left">Russia</td>
+</tr>
+<tr class="even">
+<td align="left">KY765901</td>
+<td align="left">KX708501</td>
+<td align="left">Cosmopolitan_B1.1</td>
+<td align="right">2012</td>
+<td align="left">Tajikistan</td>
+</tr>
+<tr class="odd">
+<td align="left">U42605</td>
+<td align="left">JF973781</td>
+<td align="left">Cosmopolitan CE_A1</td>
+<td align="right">1984</td>
+<td align="left">-</td>
+</tr>
+<tr class="even">
+<td align="left">AF033905</td>
+<td align="left">OM542205</td>
+<td align="left">Cosmopolitan CE_A1</td>
+<td align="right">1996</td>
+<td align="left">-</td>
+</tr>
+<tr class="odd">
+<td align="left">AF045664</td>
+<td align="left">AY854593</td>
+<td align="left">Cosmopolitan WE_A1</td>
+<td align="right">1998</td>
+<td align="left">-</td>
+</tr>
+<tr class="even">
+<td align="left">OL449090</td>
+<td align="left">OL449091</td>
+<td align="left">Cosmopolitan NEE_C1</td>
+<td align="right">2013</td>
+<td align="left">Romania</td>
+</tr>
+<tr class="odd">
+<td align="left">AY854580</td>
+<td align="left">U42704</td>
+<td align="left">Cosmopolitan_A1.1.2</td>
+<td align="right">2000</td>
+<td align="left">Iran</td>
+</tr>
+<tr class="even">
+<td align="left">MK760763</td>
+<td align="left">MK760764</td>
+<td align="left">Cosmopolitan ME1a_A1</td>
+<td align="right">2014</td>
+<td align="left">Iran</td>
+</tr>
+<tr class="odd">
+<td align="left">MZ391102</td>
+<td align="left">OM971003</td>
+<td align="left">Cosmopolitan ME2_B1</td>
+<td align="right">2020</td>
+<td align="left">Turkey</td>
+</tr>
+<tr class="even">
+<td align="left">MK760766</td>
+<td align="left">MT079888</td>
+<td align="left">Cosmopolitan CA2_A1</td>
+<td align="right">2015</td>
+<td align="left">Iran</td>
+</tr>
+<tr class="odd">
+<td align="left">OR270981</td>
+<td align="left">OR271019</td>
+<td align="left">Cosmopolitan AF1a_A1.1.1</td>
+<td align="right">2022</td>
+<td align="left">Kenya</td>
+</tr>
+</tbody>
+</table>
+<p><span class="math inline">\(~\)</span> <strong>Table 7.</strong>
+Details of individual singletons of interest relevant to this study.</p>
+</div>
+
+
+
+</div>
+</div>
+
+</div>
+
+<script>
+
+// add bootstrap table styles to pandoc tables
+function bootstrapStylePandocTables() {
+  $('tr.odd').parent('tbody').parent('table').addClass('table table-condensed');
+}
+$(document).ready(function () {
+  bootstrapStylePandocTables();
+});
+
+
+</script>
+
+<!-- tabsets -->
+
+<script>
+$(document).ready(function () {
+  window.buildTabsets("TOC");
+});
+
+$(document).ready(function () {
+  $('.tabset-dropdown > .nav-tabs > li').click(function () {
+    $(this).parent().toggleClass('nav-tabs-open');
+  });
+});
+</script>
+
+<!-- code folding -->
+
+<script>
+$(document).ready(function ()  {
+
+    // temporarily add toc-ignore selector to headers for the consistency with Pandoc
+    $('.unlisted.unnumbered').addClass('toc-ignore')
+
+    // move toc-ignore selectors from section div to header
+    $('div.section.toc-ignore')
+        .removeClass('toc-ignore')
+        .children('h1,h2,h3,h4,h5').addClass('toc-ignore');
+
+    // establish options
+    var options = {
+      selectors: "h1,h2",
+      theme: "bootstrap3",
+      context: '.toc-content',
+      hashGenerator: function (text) {
+        return text.replace(/[.\\/?&!#<>]/g, '').replace(/\s/g, '_');
+      },
+      ignoreSelector: ".toc-ignore",
+      scrollTo: 0
+    };
+    options.showAndHide = true;
+    options.smoothScroll = true;
+
+    // tocify
+    var toc = $("#TOC").tocify(options).data("toc-tocify");
+});
+</script>
+
+<!-- dynamically load mathjax for compatibility with self-contained -->
+<script>
+  (function () {
+    var script = document.createElement("script");
+    script.type = "text/javascript";
+    script.src  = "https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML";
+    document.getElementsByTagName("head")[0].appendChild(script);
+  })();
+</script>
+
+</body>
+</html>
