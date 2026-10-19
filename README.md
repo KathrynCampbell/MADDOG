@@ -1,5 +1,7 @@
 # MAD DOG: Method for Assignment, Definition and Designation Of Global Lineages
 
+# **This version of MADDOG is now depreciated. Please go to https://github.com/RAGE-toolkit/MADDOG-V2 for the updated version, and for ongoing support.**
+
 [![DOI](https://zenodo.org/badge/388405372.svg)](https://zenodo.org/badge/latestdoi/388405372)
 
 1. Overview
